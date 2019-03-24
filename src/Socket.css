@@ -1,0 +1,15 @@
+
+.socket {
+    padding: 5px;
+    text-align: center;
+}
+
+.socketPerks {
+    list-style: none;
+
+    display: flex;
+    flex-direction: column;
+
+    margin: 5px;
+    padding: 5px;
+}

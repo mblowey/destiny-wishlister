@@ -1,0 +1,5 @@
+
+.sockets {
+    display: flex;
+    flex-direction: row;
+}

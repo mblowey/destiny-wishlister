@@ -1,0 +1,19 @@
+.perk {
+    margin: 5px;
+    padding: 5px;
+    background-color: lightgrey;
+    text-align: left;
+}
+
+.perkName {
+}
+
+.perkName > * {
+    display: inline;
+    vertical-align: middle;
+}
+
+.perkIcon {
+    width: 10%;
+    height: auto;
+}
