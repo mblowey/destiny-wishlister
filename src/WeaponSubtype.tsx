@@ -3,8 +3,6 @@ import './WeaponSubtype.css';
 
 import { ISocketProps, Socket } from './Socket';
 
-// import { cartesianProduct } from './utils/CartesianProduct';
-
 export interface IWeaponSubtypeProps {
     name: string;
     sockets: ISocketProps[];
