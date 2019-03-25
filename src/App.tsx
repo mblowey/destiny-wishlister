@@ -22,8 +22,14 @@ class App extends React.Component<object, IAppState> {
         );
 
         return (
-            <div>
-                {types}
+            <div className="App">
+                <header className="App-header">
+                    <p>Destiny Wishlister</p>
+                    <button>Get Wishlist</button>
+                </header>
+                <div className='App-body'>
+                    {types}
+                </div>
             </div>
         );
     }

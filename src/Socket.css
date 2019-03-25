@@ -9,6 +9,7 @@
     color: white;
     padding: 2px 0px;
     margin: 0 0 2px 0;
+    user-select: none;
 
     border-bottom-style: solid;
     border-bottom-color: white;

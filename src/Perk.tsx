@@ -26,7 +26,7 @@ export class Perk extends React.Component<IPerkProps, IPerkState> {
     public change() {
         this.setState(prevState => {
             return { isSelected: !prevState.isSelected };
-        })
+        });
     }
 
 	public render() {

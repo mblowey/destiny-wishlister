@@ -2,6 +2,7 @@
 .weapon {
     width: fit-content;
     padding: 5px;
+    text-align: left;
 
     background-color: #3a506b;
 
@@ -11,6 +12,7 @@
 
 .weapon-name {
     padding: 0 0 5px 5px;
+    user-select: none;
 
     color: white;
     font-size: 20px;
@@ -19,7 +21,6 @@
 .weapon-subtypes {
     display: flex;
     flex-direction: column;
-
     list-style: none;
     padding: 0px;
     margin: 0px;

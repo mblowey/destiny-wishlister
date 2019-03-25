@@ -4,6 +4,7 @@ export const RocketLauncherType = {
     name: 'Rocket Launcher',
     subtypes: [
         PrecisionSubtype,
+        PrecisionSubtype,
         PrecisionSubtype
     ]
 };

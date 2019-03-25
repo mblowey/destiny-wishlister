@@ -2,7 +2,7 @@
 
 .subtype {
     padding: 5px;
-    margin: 5px;
+    margin: 5px 5px 5px 20px;
 
     background-color: #0b132b;
 
@@ -16,7 +16,7 @@
 
     color: white;
     font-size: 18px;
-
+    user-select: none;
 }
 
 .subtype-sockets {
