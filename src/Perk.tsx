@@ -1,20 +1,17 @@
 import * as React from 'react';
 import './Perk.css';
 
-export interface IPerkInfo {
+
+export interface IPerkProps {
     hash: number;
     iconUrl: string;
     name: string;
 }
 
-export interface IPerkProps extends IPerkInfo{
-    selected: (_: number) => void;
-    unselected: (_: number) => void;
+interface IPerkState {
+    isSelected: boolean;
 }
 
-interface IPerkState {
-	isSelected: boolean;
-}
 
 export class Perk extends React.Component<IPerkProps, IPerkState> {
 	constructor (props: IPerkProps) {
@@ -23,33 +20,25 @@ export class Perk extends React.Component<IPerkProps, IPerkState> {
 			isSelected: false
 		}
 
-		this.handleChange = this.handleChange.bind(this);
+        this.change = this.change.bind(this);
 	}
 
-	public isSelected(): boolean {
-		return this.state.isSelected;
-	}
-
-	public handleChange() {
-		if (!this.state.isSelected) {
-			this.props.selected(this.props.hash);
-		}
-		else {
-			this.props.unselected(this.props.hash);
-		}
-
-		this.setState({isSelected: !this.state.isSelected});
-	}
+    public change() {
+        this.setState(prevState => {
+            return { isSelected: !prevState.isSelected };
+        })
+    }
 
 	public render() {
+        const labelClass = this.state.isSelected ? 'perk-label checked' : 'perk-label';
+
 	    return (
 	        <li className='perk'>
-	            <label className='perkName'>
-	            	<input type='checkbox'
-	                   checked={this.state.isSelected}
-	                   onChange={this.handleChange}
-	            	/>
-            		<img className='perkIcon' src={this.props.iconUrl}/>{this.props.name}
+	            <label className={labelClass}>
+	            	<input type='checkbox' checked={this.state.isSelected}
+                           onChange={this.change}/>
+            		<img className='perk-icon' src={this.props.iconUrl}/>
+                    <p>{this.props.name}</p>
         		</label>
 	        </li>
 	    )

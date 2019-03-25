@@ -1,15 +1,25 @@
 
 .socket {
-    padding: 5px;
-    text-align: center;
+
+
+    margin: 5px 10px;
 }
 
-.socketPerks {
-    list-style: none;
+.socket-name {
+    color: white;
+    padding: 2px 0px;
+    margin: 0 0 2px 0;
 
+    border-bottom-style: solid;
+    border-bottom-color: white;
+    border-bottom-width: .5px;
+}
+
+.socket-perks {
     display: flex;
     flex-direction: column;
 
-    margin: 5px;
-    padding: 5px;
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
 }

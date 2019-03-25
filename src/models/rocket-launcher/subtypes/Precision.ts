@@ -109,11 +109,6 @@ export const PrecisionSubtype = {
                     name: 'Cluster Bomb'
                 },
                 {
-                    hash: 706527188,
-                    iconUrl: 'https://www.bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png',
-                    name: 'Quickdraw'
-                },
-                {
                     hash: 2010801679,
                     iconUrl: 'https://www.bungie.net/common/destiny2_content/icons/df460693665b7b4dd42f1706e5fbb9e1.png',
                     name: 'Ambitious Assassin'

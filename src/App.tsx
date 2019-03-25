@@ -1,26 +1,29 @@
 import * as React from 'react';
 import './App.css';
 
-import { PrecisionSubtype } from './models/rocket-launcher/subtypes/Precision';
-import { IWeaponSubtypeInfo, WeaponSubtype } from './WeaponSubtype';
+import { RocketLauncherType } from './models/rocket-launcher/RocketLauncher';
+import { IWeaponTypeProps, WeaponType } from './WeaponType';
 
 export interface IAppState {
-    subtype: IWeaponSubtypeInfo;
+    types: IWeaponTypeProps[];
 }
 
 class App extends React.Component<object, IAppState> {
     constructor(props: any) {
         super(props);
         this.state = {
-            subtype: PrecisionSubtype
+            types: [RocketLauncherType]
         };
     }
 
     public render() {
-        const subtype = this.state.subtype
+        const types = this.state.types.map((t, i) => 
+            <WeaponType key={i} name={t.name} subtypes={t.subtypes}/>
+        );
+
         return (
             <div>
-                <WeaponSubtype name={subtype.name} sockets={subtype.sockets}/>
+                {types}
             </div>
         );
     }

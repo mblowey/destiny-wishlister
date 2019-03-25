@@ -1,19 +1,35 @@
 .perk {
-    margin: 5px;
+    margin: 1px;
+}
+
+.perk-label {
+    display: block;
     padding: 5px;
-    background-color: lightgrey;
-    text-align: left;
+
+
+    user-select: none;
 }
 
-.perkName {
+.perk-label.checked {
+    background-color: #3a506b;
 }
 
-.perkName > * {
+.perk-label:hover {
+    cursor: pointer;
+}
+
+.perk-label > * {
+    color: white;
     display: inline;
     vertical-align: middle;
 }
 
-.perkIcon {
+.perk-label > input {
+    display: none;
+}
+
+
+.perk-icon {
     width: 10%;
     height: auto;
 }

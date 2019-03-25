@@ -1,34 +1,19 @@
 import * as React from 'react';
 import './Socket.css';
 
-import { IPerkInfo, Perk } from './Perk';
+import { IPerkProps, Perk } from './Perk';
 
-export interface ISocketInfo {
+
+export interface ISocketProps {
     name: string;
     socketIndex: number;
-    perks: IPerkInfo[];
-}
-
-export interface ISocketProps extends ISocketInfo {
-    addHash: (socketIndex: number, hash: number) => void;
-    removeHash: (socketIndex: number, hash: number) => void;
+    perks: IPerkProps[];
 }
 
 export class Socket extends React.Component<ISocketProps, object> {
     constructor(props: ISocketProps) {
         super(props);
         this.state = { desiredHashes: new Set<number>() }
-
-        this.addHash = this.addHash.bind(this);
-        this.removeHash = this.removeHash.bind(this);
-    }
-
-    public addHash(hash: number) {
-        this.props.addHash(this.props.socketIndex, hash);
-    }
-
-    public removeHash(hash: number) {
-        this.props.removeHash(this.props.socketIndex, hash);
     }
 
     public render() {
@@ -37,18 +22,16 @@ export class Socket extends React.Component<ISocketProps, object> {
                   hash={p.hash}
                   iconUrl={p.iconUrl}
                   name={p.name}
-                  selected={this.addHash}
-                  unselected={this.removeHash}
                   />
         );
 
         return (
-            <div className='socket'>
-                <div className='socketName'>{this.props.name}</div>
-                <ul className='socketPerks'>
+            <li className='socket'>
+                <div className='socket-name'>{this.props.name}</div>
+                <ul className='socket-perks'>
                     {perks}
                 </ul>
-            </div>
+            </li>
         )
     }
 }
