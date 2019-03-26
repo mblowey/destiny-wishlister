@@ -21,6 +21,7 @@ export class Socket extends React.Component<ISocketProps, object> {
             <Perk key={p.hash}
                   hash={p.hash}
                   iconUrl={p.iconUrl}
+                  isSelected={p.isSelected}
                   name={p.name}
                   />
         );

@@ -11,132 +11,158 @@ export const WeaponTypes = [
                             {
                                 "hash": 839105230,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png",
+                                "isSelected": false,
                                 "name": "Arrowhead Brake"
                             },
                             {
                                 "hash": 3661387068,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/376aa9bd8c392567f501012fc3b3d4d0.png",
+                                "isSelected": false,
                                 "name": "Chambered Compensator"
                             },
                             {
                                 "hash": 4090651448,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/18cc75bf9a17bb80b5109f1b8909521f.png",
+                                "isSelected": false,
                                 "name": "Corkscrew Rifling"
+                            },
+                            {
+                                "hash": 809345546,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9e8f8f5490ed191d783f2b93c624c466.png",
+                                "isSelected": false,
+                                "name": "Devil Scope D2"
+                            },
+                            {
+                                "hash": 1452368634,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/39e67986552e5675249862f76a6ff542.png",
+                                "isSelected": false,
+                                "name": "Dusk Dot D1"
+                            },
+                            {
+                                "hash": 809345547,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9e8f8f5490ed191d783f2b93c624c466.png",
+                                "isSelected": false,
+                                "name": "Dusk Scope D2"
+                            },
+                            {
+                                "hash": 1288081798,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1c1be01de23c5233cab50ff8dbe6c2c4.png",
+                                "isSelected": false,
+                                "name": "Dusk Sight D1"
                             },
                             {
                                 "hash": 1467527085,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/151465ba86df34438248aad2248cce32.png",
+                                "isSelected": false,
                                 "name": "Extended Barrel"
                             },
                             {
                                 "hash": 1840239774,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png",
+                                "isSelected": false,
                                 "name": "Fluted Barrel"
                             },
                             {
                                 "hash": 202670084,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9307c5604f995d90ad5ed65281b64772.png",
+                                "isSelected": false,
                                 "name": "Full Bore"
                             },
                             {
                                 "hash": 3250034553,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9acb073d4e85160f66f0d617d210cf61.png",
+                                "isSelected": false,
                                 "name": "Hammer-Forged Rifling"
+                            },
+                            {
+                                "hash": 1452368633,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/39e67986552e5675249862f76a6ff542.png",
+                                "isSelected": false,
+                                "name": "King Dot K2"
+                            },
+                            {
+                                "hash": 1288081797,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1c1be01de23c5233cab50ff8dbe6c2c4.png",
+                                "isSelected": false,
+                                "name": "King Sight K1"
                             },
                             {
                                 "hash": 1392496348,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7cadd68b66ffd3bbedc09aa9c7ba6e03.png",
+                                "isSelected": false,
                                 "name": "Polygonal Rifling"
                             },
                             {
-                                "hash": 1482024992,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png",
-                                "name": "Smallbore"
-                            },
-                            {
-                                "hash": 360593483,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1d7f482e8dbfb962ccebd3a8796fa664.png",
-                                "name": "SRO-37 Ocular"
-                            },
-                            {
-                                "hash": 360593482,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b1b1220f301d8e4ce3f87ecbf6812b20.png",
-                                "name": "SRO-41 Ocular"
-                            },
-                            {
-                                "hash": 360593481,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ea101dea3e2446ee8f999fc4c2a43944.png",
-                                "name": "SRO-52 Ocular"
+                                "hash": 965619223,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cc4da92c0f3314ffa852b544896fe74b.png",
+                                "isSelected": false,
+                                "name": "SLO-10 Post"
                             },
                             {
                                 "hash": 965619221,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/560373df32b96679b03768a3e0aa3e05.png",
+                                "isSelected": false,
                                 "name": "SLO-12 Post"
                             },
                             {
                                 "hash": 965619220,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c422c90b4d5811210a9eca7fdd98dc1a.png",
+                                "isSelected": false,
                                 "name": "SLO-21 Post"
-                            },
-                            {
-                                "hash": 965619223,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cc4da92c0f3314ffa852b544896fe74b.png",
-                                "name": "SLO-10 Post"
-                            },
-                            {
-                                "hash": 3151536501,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8e85d31d83046a1a06fa28b44f8c54d5.png",
-                                "name": "SPO-57 Front"
-                            },
-                            {
-                                "hash": 3151536500,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7d97516e3a1d2b84f60e006b1fbb5749.png",
-                                "name": "SPO-28 Front"
                             },
                             {
                                 "hash": 3151536503,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e014290b97c6bfb58ae519c5e0ca343b.png",
+                                "isSelected": false,
                                 "name": "SPO-26 Front"
                             },
                             {
-                                "hash": 809345546,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9e8f8f5490ed191d783f2b93c624c466.png",
-                                "name": "Devil Scope D2"
+                                "hash": 3151536500,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7d97516e3a1d2b84f60e006b1fbb5749.png",
+                                "isSelected": false,
+                                "name": "SPO-28 Front"
                             },
                             {
-                                "hash": 809345547,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9e8f8f5490ed191d783f2b93c624c466.png",
-                                "name": "Dusk Scope D2"
+                                "hash": 3151536501,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8e85d31d83046a1a06fa28b44f8c54d5.png",
+                                "isSelected": false,
+                                "name": "SPO-57 Front"
                             },
                             {
-                                "hash": 1288081796,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1c1be01de23c5233cab50ff8dbe6c2c4.png",
-                                "name": "Wolf Sight W1"
+                                "hash": 360593483,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1d7f482e8dbfb962ccebd3a8796fa664.png",
+                                "isSelected": false,
+                                "name": "SRO-37 Ocular"
                             },
                             {
-                                "hash": 1288081797,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1c1be01de23c5233cab50ff8dbe6c2c4.png",
-                                "name": "King Sight K1"
+                                "hash": 360593482,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b1b1220f301d8e4ce3f87ecbf6812b20.png",
+                                "isSelected": false,
+                                "name": "SRO-41 Ocular"
                             },
                             {
-                                "hash": 1288081798,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1c1be01de23c5233cab50ff8dbe6c2c4.png",
-                                "name": "Dusk Sight D1"
+                                "hash": 360593481,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ea101dea3e2446ee8f999fc4c2a43944.png",
+                                "isSelected": false,
+                                "name": "SRO-52 Ocular"
+                            },
+                            {
+                                "hash": 1482024992,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png",
+                                "isSelected": false,
+                                "name": "Smallbore"
                             },
                             {
                                 "hash": 1452368632,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/39e67986552e5675249862f76a6ff542.png",
+                                "isSelected": false,
                                 "name": "Wolf Dot W2"
                             },
                             {
-                                "hash": 1452368633,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/39e67986552e5675249862f76a6ff542.png",
-                                "name": "King Dot K2"
-                            },
-                            {
-                                "hash": 1452368634,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/39e67986552e5675249862f76a6ff542.png",
-                                "name": "Dusk Dot D1"
+                                "hash": 1288081796,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1c1be01de23c5233cab50ff8dbe6c2c4.png",
+                                "isSelected": false,
+                                "name": "Wolf Sight W1"
                             }
                         ],
                         "socketIndex": 0
@@ -147,62 +173,74 @@ export const WeaponTypes = [
                             {
                                 "hash": 3142289711,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png",
+                                "isSelected": false,
                                 "name": "Accurized Rounds"
-                            },
-                            {
-                                "hash": 4134353779,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d316be9e70844427e69034b0f06bec75.png",
-                                "name": "Drop Mag"
-                            },
-                            {
-                                "hash": 1087426260,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9d8a7be4c2fef471a6fde38d02ab8dae.png",
-                                "name": "Appended Mag"
-                            },
-                            {
-                                "hash": 106909392,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9711e6d3de7a9cf2f844752992390a63.png",
-                                "name": "Tactical Mag"
-                            },
-                            {
-                                "hash": 2420895100,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
-                                "name": "Extended Mag"
-                            },
-                            {
-                                "hash": 3177308360,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/adaf4315dab749519c41a233e9954598.png",
-                                "name": "Steady Rounds"
                             },
                             {
                                 "hash": 1431678320,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/932e7b84c233c6cc49a58058f8c5144d.png",
+                                "isSelected": false,
                                 "name": "Alloy Magazine"
                             },
                             {
-                                "hash": 3230963543,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ec1bca64fc9709678ea5c297c0e64c19.png",
-                                "name": "Flared Magwell"
+                                "hash": 1087426260,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9d8a7be4c2fef471a6fde38d02ab8dae.png",
+                                "isSelected": false,
+                                "name": "Appended Mag"
                             },
                             {
                                 "hash": 1968497646,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/73b724a6839bb3e1db37742f7ed5249b.png",
+                                "isSelected": false,
                                 "name": "Armor-Piercing Rounds"
+                            },
+                            {
+                                "hash": 4134353779,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d316be9e70844427e69034b0f06bec75.png",
+                                "isSelected": false,
+                                "name": "Drop Mag"
+                            },
+                            {
+                                "hash": 2420895100,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
+                                "isSelected": false,
+                                "name": "Extended Mag"
+                            },
+                            {
+                                "hash": 3230963543,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ec1bca64fc9709678ea5c297c0e64c19.png",
+                                "isSelected": false,
+                                "name": "Flared Magwell"
                             },
                             {
                                 "hash": 1561002382,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f06239ee156ee70f99b48e8e1970dbca.png",
+                                "isSelected": false,
                                 "name": "High-Caliber Rounds"
-                            },
-                            {
-                                "hash": 1885400500,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png",
-                                "name": "Ricochet Rounds"
                             },
                             {
                                 "hash": 679225683,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1d87312c174b44d5ef1ed24ad42efe9c.png",
+                                "isSelected": false,
                                 "name": "Light Mag"
+                            },
+                            {
+                                "hash": 1885400500,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png",
+                                "isSelected": false,
+                                "name": "Ricochet Rounds"
+                            },
+                            {
+                                "hash": 3177308360,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/adaf4315dab749519c41a233e9954598.png",
+                                "isSelected": false,
+                                "name": "Steady Rounds"
+                            },
+                            {
+                                "hash": 106909392,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9711e6d3de7a9cf2f844752992390a63.png",
+                                "isSelected": false,
+                                "name": "Tactical Mag"
                             }
                         ],
                         "socketIndex": 1
@@ -211,109 +249,130 @@ export const WeaponTypes = [
                         "name": "traits",
                         "perks": [
                             {
-                                "hash": 1890422124,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8e910e56aa6e36b2c406804e1d78d04f.png",
-                                "name": "Tap the Trigger"
-                            },
-                            {
-                                "hash": 1820235745,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03d774525048e5eb5b6899b37d418920.png",
-                                "name": "Subsistence"
-                            },
-                            {
-                                "hash": 2387244414,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49958f356ea1df930888d15fe6539fe1.png",
-                                "name": "Zen Moment"
-                            },
-                            {
-                                "hash": 2869569095,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fd815414532978ad2e5decbfc416b9e4.png",
-                                "name": "Field Prep"
-                            },
-                            {
                                 "hash": 3300816228,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d355b1117307c9f187729249361cecc3.png",
+                                "isSelected": false,
                                 "name": "Auto-Loading Holster"
-                            },
-                            {
-                                "hash": 3425386926,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
-                                "name": "Rampage"
-                            },
-                            {
-                                "hash": 1015611457,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
-                                "name": "Kill Clip"
-                            },
-                            {
-                                "hash": 2458213969,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/a610c14dcf450e8c5b0c0903d5b05965.png",
-                                "name": "Multikill Clip"
                             },
                             {
                                 "hash": 3523296417,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/53ead908917c9156457c7c9dd453d649.png",
+                                "isSelected": false,
                                 "name": "Demolitionist"
-                            },
-                            {
-                                "hash": 4082225868,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ef89b89410de618e9cfa353ff35125d8.png",
-                                "name": "Swashbuckler"
-                            },
-                            {
-                                "hash": 706527188,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png",
-                                "name": "Quickdraw"
-                            },
-                            {
-                                "hash": 957782887,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
-                                "name": "Snapshot Sights"
-                            },
-                            {
-                                "hash": 1645158859,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a88b6ed7519cb27fd608c5743ca20b1.png",
-                                "name": "Under Pressure"
                             },
                             {
                                 "hash": 1359896290,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/16d063d66a8d90643a409dfa4283c4e2.png",
+                                "isSelected": false,
                                 "name": "Dynamic Sway Reduction"
                             },
                             {
-                                "hash": 1168162263,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
-                                "name": "Outlaw"
-                            },
-                            {
-                                "hash": 2846385770,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png",
-                                "name": "Rangefinder"
-                            },
-                            {
-                                "hash": 2213355989,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bee920445b5d0ccb01814d2e6fcea27b.png",
-                                "name": "High-Impact Reserves"
-                            },
-                            {
-                                "hash": 972757866,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8f55a0d8cd93d9830480239350c022b1.png",
-                                "name": "Pulse Monitor"
-                            },
-                            {
-                                "hash": 588594999,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
-                                "name": "Moving Target"
+                                "hash": 2869569095,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fd815414532978ad2e5decbfc416b9e4.png",
+                                "isSelected": false,
+                                "name": "Field Prep"
                             },
                             {
                                 "hash": 1631667848,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/83e206ebea83f76d9969efea7134ddcc.png",
+                                "isSelected": false,
                                 "name": "Grave Robber"
+                            },
+                            {
+                                "hash": 2213355989,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bee920445b5d0ccb01814d2e6fcea27b.png",
+                                "isSelected": false,
+                                "name": "High-Impact Reserves"
+                            },
+                            {
+                                "hash": 1015611457,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
+                                "isSelected": false,
+                                "name": "Kill Clip"
+                            },
+                            {
+                                "hash": 588594999,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
+                                "isSelected": false,
+                                "name": "Moving Target"
+                            },
+                            {
+                                "hash": 2458213969,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/a610c14dcf450e8c5b0c0903d5b05965.png",
+                                "isSelected": false,
+                                "name": "Multikill Clip"
+                            },
+                            {
+                                "hash": 1168162263,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
+                                "isSelected": false,
+                                "name": "Outlaw"
+                            },
+                            {
+                                "hash": 972757866,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8f55a0d8cd93d9830480239350c022b1.png",
+                                "isSelected": false,
+                                "name": "Pulse Monitor"
+                            },
+                            {
+                                "hash": 706527188,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png",
+                                "isSelected": false,
+                                "name": "Quickdraw"
+                            },
+                            {
+                                "hash": 3425386926,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
+                                "isSelected": false,
+                                "name": "Rampage"
+                            },
+                            {
+                                "hash": 2846385770,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png",
+                                "isSelected": false,
+                                "name": "Rangefinder"
                             },
                             {
                                 "hash": 2039302152,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ccac4f90945c16a520b823d2a6cd48a3.png",
+                                "isSelected": false,
                                 "name": "Slideways"
+                            },
+                            {
+                                "hash": 957782887,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
+                                "isSelected": false,
+                                "name": "Snapshot Sights"
+                            },
+                            {
+                                "hash": 1820235745,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03d774525048e5eb5b6899b37d418920.png",
+                                "isSelected": false,
+                                "name": "Subsistence"
+                            },
+                            {
+                                "hash": 4082225868,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ef89b89410de618e9cfa353ff35125d8.png",
+                                "isSelected": false,
+                                "name": "Swashbuckler"
+                            },
+                            {
+                                "hash": 1890422124,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8e910e56aa6e36b2c406804e1d78d04f.png",
+                                "isSelected": false,
+                                "name": "Tap the Trigger"
+                            },
+                            {
+                                "hash": 1645158859,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a88b6ed7519cb27fd608c5743ca20b1.png",
+                                "isSelected": false,
+                                "name": "Under Pressure"
+                            },
+                            {
+                                "hash": 2387244414,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49958f356ea1df930888d15fe6539fe1.png",
+                                "isSelected": false,
+                                "name": "Zen Moment"
                             }
                         ],
                         "socketIndex": 2
@@ -487,82 +546,98 @@ export const WeaponTypes = [
                             {
                                 "hash": 839105230,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png",
+                                "isSelected": false,
                                 "name": "Arrowhead Brake"
                             },
                             {
                                 "hash": 3661387068,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/376aa9bd8c392567f501012fc3b3d4d0.png",
+                                "isSelected": false,
                                 "name": "Chambered Compensator"
                             },
                             {
                                 "hash": 4090651448,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/18cc75bf9a17bb80b5109f1b8909521f.png",
+                                "isSelected": false,
                                 "name": "Corkscrew Rifling"
                             },
                             {
                                 "hash": 1467527085,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/151465ba86df34438248aad2248cce32.png",
+                                "isSelected": false,
                                 "name": "Extended Barrel"
                             },
                             {
                                 "hash": 1840239774,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png",
+                                "isSelected": false,
                                 "name": "Fluted Barrel"
                             },
                             {
                                 "hash": 202670084,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9307c5604f995d90ad5ed65281b64772.png",
+                                "isSelected": false,
                                 "name": "Full Bore"
-                            },
-                            {
-                                "hash": 3250034553,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9acb073d4e85160f66f0d617d210cf61.png",
-                                "name": "Hammer-Forged Rifling"
-                            },
-                            {
-                                "hash": 1392496348,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7cadd68b66ffd3bbedc09aa9c7ba6e03.png",
-                                "name": "Polygonal Rifling"
-                            },
-                            {
-                                "hash": 1482024992,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png",
-                                "name": "Smallbore"
-                            },
-                            {
-                                "hash": 1313805251,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/818ff9531daa0807c3264b7ea3cdc23a.png",
-                                "name": "LD Watchdog"
-                            },
-                            {
-                                "hash": 1313805250,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/818ff9531daa0807c3264b7ea3cdc23a.png",
-                                "name": "LB Assault"
-                            },
-                            {
-                                "hash": 1313805249,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/aec0c1d5d51350bd43ba4ebbf9af1c68.png",
-                                "name": "LC Ranged"
                             },
                             {
                                 "hash": 87986589,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/5f1bc34100784790cb6db337a23509b3.png",
+                                "isSelected": false,
                                 "name": "GA Post"
                             },
                             {
                                 "hash": 87986588,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/25cd9fea8cb23e6ecfc4badc2490fbe3.png",
+                                "isSelected": false,
                                 "name": "GB Iron"
                             },
                             {
-                                "hash": 2054312701,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/addb9e2f4a8fd2f7396c07486cb0c6c5.png",
-                                "name": "SD Thermal"
+                                "hash": 3250034553,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9acb073d4e85160f66f0d617d210cf61.png",
+                                "isSelected": false,
+                                "name": "Hammer-Forged Rifling"
+                            },
+                            {
+                                "hash": 1313805250,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/818ff9531daa0807c3264b7ea3cdc23a.png",
+                                "isSelected": false,
+                                "name": "LB Assault"
+                            },
+                            {
+                                "hash": 1313805249,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/aec0c1d5d51350bd43ba4ebbf9af1c68.png",
+                                "isSelected": false,
+                                "name": "LC Ranged"
+                            },
+                            {
+                                "hash": 1313805251,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/818ff9531daa0807c3264b7ea3cdc23a.png",
+                                "isSelected": false,
+                                "name": "LD Watchdog"
+                            },
+                            {
+                                "hash": 1392496348,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7cadd68b66ffd3bbedc09aa9c7ba6e03.png",
+                                "isSelected": false,
+                                "name": "Polygonal Rifling"
                             },
                             {
                                 "hash": 2054312700,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/6ed5ea6e2434149e7ec9f3d0fc7b0e63.png",
+                                "isSelected": false,
                                 "name": "SC Holo"
+                            },
+                            {
+                                "hash": 2054312701,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/addb9e2f4a8fd2f7396c07486cb0c6c5.png",
+                                "isSelected": false,
+                                "name": "SD Thermal"
+                            },
+                            {
+                                "hash": 1482024992,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png",
+                                "isSelected": false,
+                                "name": "Smallbore"
                             }
                         ],
                         "socketIndex": 0
@@ -571,64 +646,76 @@ export const WeaponTypes = [
                         "name": "Magazine",
                         "perks": [
                             {
-                                "hash": 2420895100,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
-                                "name": "Extended Mag"
+                                "hash": 3142289711,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png",
+                                "isSelected": false,
+                                "name": "Accurized Rounds"
                             },
                             {
                                 "hash": 1431678320,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/932e7b84c233c6cc49a58058f8c5144d.png",
+                                "isSelected": false,
                                 "name": "Alloy Magazine"
-                            },
-                            {
-                                "hash": 1968497646,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/73b724a6839bb3e1db37742f7ed5249b.png",
-                                "name": "Armor-Piercing Rounds"
-                            },
-                            {
-                                "hash": 1561002382,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f06239ee156ee70f99b48e8e1970dbca.png",
-                                "name": "High-Caliber Rounds"
-                            },
-                            {
-                                "hash": 1885400500,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png",
-                                "name": "Ricochet Rounds"
-                            },
-                            {
-                                "hash": 679225683,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1d87312c174b44d5ef1ed24ad42efe9c.png",
-                                "name": "Light Mag"
-                            },
-                            {
-                                "hash": 3142289711,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png",
-                                "name": "Accurized Rounds"
-                            },
-                            {
-                                "hash": 4134353779,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d316be9e70844427e69034b0f06bec75.png",
-                                "name": "Drop Mag"
                             },
                             {
                                 "hash": 1087426260,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9d8a7be4c2fef471a6fde38d02ab8dae.png",
+                                "isSelected": false,
                                 "name": "Appended Mag"
                             },
                             {
-                                "hash": 106909392,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9711e6d3de7a9cf2f844752992390a63.png",
-                                "name": "Tactical Mag"
+                                "hash": 1968497646,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/73b724a6839bb3e1db37742f7ed5249b.png",
+                                "isSelected": false,
+                                "name": "Armor-Piercing Rounds"
                             },
                             {
-                                "hash": 3177308360,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/adaf4315dab749519c41a233e9954598.png",
-                                "name": "Steady Rounds"
+                                "hash": 4134353779,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d316be9e70844427e69034b0f06bec75.png",
+                                "isSelected": false,
+                                "name": "Drop Mag"
+                            },
+                            {
+                                "hash": 2420895100,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
+                                "isSelected": false,
+                                "name": "Extended Mag"
                             },
                             {
                                 "hash": 3230963543,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ec1bca64fc9709678ea5c297c0e64c19.png",
+                                "isSelected": false,
                                 "name": "Flared Magwell"
+                            },
+                            {
+                                "hash": 1561002382,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f06239ee156ee70f99b48e8e1970dbca.png",
+                                "isSelected": false,
+                                "name": "High-Caliber Rounds"
+                            },
+                            {
+                                "hash": 679225683,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1d87312c174b44d5ef1ed24ad42efe9c.png",
+                                "isSelected": false,
+                                "name": "Light Mag"
+                            },
+                            {
+                                "hash": 1885400500,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png",
+                                "isSelected": false,
+                                "name": "Ricochet Rounds"
+                            },
+                            {
+                                "hash": 3177308360,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/adaf4315dab749519c41a233e9954598.png",
+                                "isSelected": false,
+                                "name": "Steady Rounds"
+                            },
+                            {
+                                "hash": 106909392,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9711e6d3de7a9cf2f844752992390a63.png",
+                                "isSelected": false,
+                                "name": "Tactical Mag"
                             }
                         ],
                         "socketIndex": 1
@@ -637,94 +724,112 @@ export const WeaponTypes = [
                         "name": "traits",
                         "perks": [
                             {
-                                "hash": 1359896290,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/16d063d66a8d90643a409dfa4283c4e2.png",
-                                "name": "Dynamic Sway Reduction"
-                            },
-                            {
-                                "hash": 1890422124,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8e910e56aa6e36b2c406804e1d78d04f.png",
-                                "name": "Tap the Trigger"
-                            },
-                            {
-                                "hash": 3400784728,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/44cc0f78fd98d462dc4914dbe203dc49.png",
-                                "name": "Triple Tap"
-                            },
-                            {
-                                "hash": 2387244414,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49958f356ea1df930888d15fe6539fe1.png",
-                                "name": "Zen Moment"
-                            },
-                            {
-                                "hash": 1015611457,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
-                                "name": "Kill Clip"
-                            },
-                            {
-                                "hash": 2213355989,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bee920445b5d0ccb01814d2e6fcea27b.png",
-                                "name": "High-Impact Reserves"
-                            },
-                            {
                                 "hash": 2010801679,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/df460693665b7b4dd42f1706e5fbb9e1.png",
+                                "isSelected": false,
                                 "name": "Ambitious Assassin"
-                            },
-                            {
-                                "hash": 2848615171,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8fe8293ba02002f69bfa052a0c44223f.png",
-                                "name": "Dragonfly"
-                            },
-                            {
-                                "hash": 706527188,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png",
-                                "name": "Quickdraw"
-                            },
-                            {
-                                "hash": 957782887,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
-                                "name": "Snapshot Sights"
-                            },
-                            {
-                                "hash": 1645158859,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a88b6ed7519cb27fd608c5743ca20b1.png",
-                                "name": "Under Pressure"
                             },
                             {
                                 "hash": 3300816228,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d355b1117307c9f187729249361cecc3.png",
+                                "isSelected": false,
                                 "name": "Auto-Loading Holster"
+                            },
+                            {
+                                "hash": 2848615171,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8fe8293ba02002f69bfa052a0c44223f.png",
+                                "isSelected": false,
+                                "name": "Dragonfly"
+                            },
+                            {
+                                "hash": 1359896290,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/16d063d66a8d90643a409dfa4283c4e2.png",
+                                "isSelected": false,
+                                "name": "Dynamic Sway Reduction"
+                            },
+                            {
+                                "hash": 1631667848,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/83e206ebea83f76d9969efea7134ddcc.png",
+                                "isSelected": false,
+                                "name": "Grave Robber"
+                            },
+                            {
+                                "hash": 2213355989,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bee920445b5d0ccb01814d2e6fcea27b.png",
+                                "isSelected": false,
+                                "name": "High-Impact Reserves"
+                            },
+                            {
+                                "hash": 1015611457,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
+                                "isSelected": false,
+                                "name": "Kill Clip"
+                            },
+                            {
+                                "hash": 588594999,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
+                                "isSelected": false,
+                                "name": "Moving Target"
                             },
                             {
                                 "hash": 1168162263,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
+                                "isSelected": false,
                                 "name": "Outlaw"
+                            },
+                            {
+                                "hash": 972757866,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8f55a0d8cd93d9830480239350c022b1.png",
+                                "isSelected": false,
+                                "name": "Pulse Monitor"
+                            },
+                            {
+                                "hash": 706527188,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png",
+                                "isSelected": false,
+                                "name": "Quickdraw"
                             },
                             {
                                 "hash": 3425386926,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
+                                "isSelected": false,
                                 "name": "Rampage"
                             },
                             {
                                 "hash": 2846385770,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png",
+                                "isSelected": false,
                                 "name": "Rangefinder"
                             },
                             {
-                                "hash": 972757866,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8f55a0d8cd93d9830480239350c022b1.png",
-                                "name": "Pulse Monitor"
+                                "hash": 957782887,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
+                                "isSelected": false,
+                                "name": "Snapshot Sights"
                             },
                             {
-                                "hash": 588594999,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
-                                "name": "Moving Target"
+                                "hash": 1890422124,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8e910e56aa6e36b2c406804e1d78d04f.png",
+                                "isSelected": false,
+                                "name": "Tap the Trigger"
                             },
                             {
-                                "hash": 1631667848,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/83e206ebea83f76d9969efea7134ddcc.png",
-                                "name": "Grave Robber"
+                                "hash": 3400784728,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/44cc0f78fd98d462dc4914dbe203dc49.png",
+                                "isSelected": false,
+                                "name": "Triple Tap"
+                            },
+                            {
+                                "hash": 1645158859,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a88b6ed7519cb27fd608c5743ca20b1.png",
+                                "isSelected": false,
+                                "name": "Under Pressure"
+                            },
+                            {
+                                "hash": 2387244414,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49958f356ea1df930888d15fe6539fe1.png",
+                                "isSelected": false,
+                                "name": "Zen Moment"
                             }
                         ],
                         "socketIndex": 2
@@ -840,79 +945,94 @@ export const WeaponTypes = [
                         "name": "Sight",
                         "perks": [
                             {
-                                "hash": 1096957638,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/89ae6176468ad3efd04bf2cdee255f0c.png",
-                                "name": "Rasmussen ISA"
-                            },
-                            {
-                                "hash": 3433396026,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/83904ac7f4475214abde90141e3af360.png",
-                                "name": "Meyrin RDS"
-                            },
-                            {
-                                "hash": 3433396027,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/de12bacce62d0b591a3c95a206fbbe43.png",
-                                "name": "Meyrin RDL"
-                            },
-                            {
-                                "hash": 2414725840,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f5c248963331d5bf804daa4bbdd691bd.png",
-                                "name": "Satou Focus Lens"
-                            },
-                            {
-                                "hash": 2414725841,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7b5e34f3c9026a439b297b5d5eecf78a.png",
-                                "name": "Satou Precision Lens"
-                            },
-                            {
-                                "hash": 1392496348,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7cadd68b66ffd3bbedc09aa9c7ba6e03.png",
-                                "name": "Polygonal Rifling"
-                            },
-                            {
                                 "hash": 839105230,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png",
+                                "isSelected": false,
                                 "name": "Arrowhead Brake"
                             },
                             {
                                 "hash": 3661387068,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/376aa9bd8c392567f501012fc3b3d4d0.png",
+                                "isSelected": false,
                                 "name": "Chambered Compensator"
                             },
                             {
                                 "hash": 4090651448,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/18cc75bf9a17bb80b5109f1b8909521f.png",
+                                "isSelected": false,
                                 "name": "Corkscrew Rifling"
                             },
                             {
                                 "hash": 1467527085,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/151465ba86df34438248aad2248cce32.png",
+                                "isSelected": false,
                                 "name": "Extended Barrel"
                             },
                             {
                                 "hash": 1840239774,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png",
+                                "isSelected": false,
                                 "name": "Fluted Barrel"
                             },
                             {
                                 "hash": 202670084,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9307c5604f995d90ad5ed65281b64772.png",
+                                "isSelected": false,
                                 "name": "Full Bore"
                             },
                             {
                                 "hash": 3250034553,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9acb073d4e85160f66f0d617d210cf61.png",
+                                "isSelected": false,
                                 "name": "Hammer-Forged Rifling"
                             },
                             {
-                                "hash": 1482024992,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png",
-                                "name": "Smallbore"
+                                "hash": 3433396027,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/de12bacce62d0b591a3c95a206fbbe43.png",
+                                "isSelected": false,
+                                "name": "Meyrin RDL"
+                            },
+                            {
+                                "hash": 3433396026,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/83904ac7f4475214abde90141e3af360.png",
+                                "isSelected": false,
+                                "name": "Meyrin RDS"
+                            },
+                            {
+                                "hash": 1392496348,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7cadd68b66ffd3bbedc09aa9c7ba6e03.png",
+                                "isSelected": false,
+                                "name": "Polygonal Rifling"
+                            },
+                            {
+                                "hash": 1096957638,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/89ae6176468ad3efd04bf2cdee255f0c.png",
+                                "isSelected": false,
+                                "name": "Rasmussen ISA"
                             },
                             {
                                 "hash": 2405638014,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ee62caf152c3747675fe43c544d72e45.png",
+                                "isSelected": false,
                                 "name": "Red Dot Micro"
+                            },
+                            {
+                                "hash": 2414725840,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f5c248963331d5bf804daa4bbdd691bd.png",
+                                "isSelected": false,
+                                "name": "Satou Focus Lens"
+                            },
+                            {
+                                "hash": 2414725841,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7b5e34f3c9026a439b297b5d5eecf78a.png",
+                                "isSelected": false,
+                                "name": "Satou Precision Lens"
+                            },
+                            {
+                                "hash": 1482024992,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png",
+                                "isSelected": false,
+                                "name": "Smallbore"
                             }
                         ],
                         "socketIndex": 0
@@ -921,44 +1041,52 @@ export const WeaponTypes = [
                         "name": "Magazine",
                         "perks": [
                             {
-                                "hash": 2420895100,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
-                                "name": "Extended Mag"
-                            },
-                            {
                                 "hash": 1431678320,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/932e7b84c233c6cc49a58058f8c5144d.png",
+                                "isSelected": false,
                                 "name": "Alloy Magazine"
                             },
                             {
                                 "hash": 1087426260,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9d8a7be4c2fef471a6fde38d02ab8dae.png",
+                                "isSelected": false,
                                 "name": "Appended Mag"
                             },
                             {
                                 "hash": 1968497646,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/73b724a6839bb3e1db37742f7ed5249b.png",
+                                "isSelected": false,
                                 "name": "Armor-Piercing Rounds"
                             },
                             {
-                                "hash": 1561002382,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f06239ee156ee70f99b48e8e1970dbca.png",
-                                "name": "High-Caliber Rounds"
-                            },
-                            {
-                                "hash": 1885400500,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png",
-                                "name": "Ricochet Rounds"
+                                "hash": 2420895100,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
+                                "isSelected": false,
+                                "name": "Extended Mag"
                             },
                             {
                                 "hash": 3230963543,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ec1bca64fc9709678ea5c297c0e64c19.png",
+                                "isSelected": false,
                                 "name": "Flared Magwell"
+                            },
+                            {
+                                "hash": 1561002382,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f06239ee156ee70f99b48e8e1970dbca.png",
+                                "isSelected": false,
+                                "name": "High-Caliber Rounds"
                             },
                             {
                                 "hash": 679225683,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1d87312c174b44d5ef1ed24ad42efe9c.png",
+                                "isSelected": false,
                                 "name": "Light Mag"
+                            },
+                            {
+                                "hash": 1885400500,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png",
+                                "isSelected": false,
+                                "name": "Ricochet Rounds"
                             }
                         ],
                         "socketIndex": 1
@@ -967,94 +1095,112 @@ export const WeaponTypes = [
                         "name": "traits",
                         "perks": [
                             {
-                                "hash": 2387244414,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49958f356ea1df930888d15fe6539fe1.png",
-                                "name": "Zen Moment"
-                            },
-                            {
-                                "hash": 2848615171,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8fe8293ba02002f69bfa052a0c44223f.png",
-                                "name": "Dragonfly"
-                            },
-                            {
                                 "hash": 2010801679,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/df460693665b7b4dd42f1706e5fbb9e1.png",
+                                "isSelected": false,
                                 "name": "Ambitious Assassin"
-                            },
-                            {
-                                "hash": 3275789089,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7b527f4401012c2acf400759338c31f8.png",
-                                "name": "Shield Disorient"
-                            },
-                            {
-                                "hash": 1645158859,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a88b6ed7519cb27fd608c5743ca20b1.png",
-                                "name": "Under Pressure"
-                            },
-                            {
-                                "hash": 706527188,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png",
-                                "name": "Quickdraw"
-                            },
-                            {
-                                "hash": 1015611457,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
-                                "name": "Kill Clip"
-                            },
-                            {
-                                "hash": 3425386926,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
-                                "name": "Rampage"
-                            },
-                            {
-                                "hash": 2213355989,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bee920445b5d0ccb01814d2e6fcea27b.png",
-                                "name": "High-Impact Reserves"
-                            },
-                            {
-                                "hash": 1890422124,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8e910e56aa6e36b2c406804e1d78d04f.png",
-                                "name": "Tap the Trigger"
                             },
                             {
                                 "hash": 1683379515,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/5b83b3c3fc474c9716e54b4dfe4a862b.png",
+                                "isSelected": false,
                                 "name": "Disruption Break"
+                            },
+                            {
+                                "hash": 2848615171,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8fe8293ba02002f69bfa052a0c44223f.png",
+                                "isSelected": false,
+                                "name": "Dragonfly"
+                            },
+                            {
+                                "hash": 1359896290,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/16d063d66a8d90643a409dfa4283c4e2.png",
+                                "isSelected": false,
+                                "name": "Dynamic Sway Reduction"
+                            },
+                            {
+                                "hash": 1631667848,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/83e206ebea83f76d9969efea7134ddcc.png",
+                                "isSelected": false,
+                                "name": "Grave Robber"
+                            },
+                            {
+                                "hash": 2213355989,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bee920445b5d0ccb01814d2e6fcea27b.png",
+                                "isSelected": false,
+                                "name": "High-Impact Reserves"
+                            },
+                            {
+                                "hash": 1015611457,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
+                                "isSelected": false,
+                                "name": "Kill Clip"
                             },
                             {
                                 "hash": 3513791699,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/72d0300b728c2b8c81cc37f1abc53ddc.png",
+                                "isSelected": false,
                                 "name": "Mulligan"
                             },
                             {
                                 "hash": 95528736,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/66de24e28cf352bb7669305e21bccf62.png",
+                                "isSelected": false,
                                 "name": "Onslaught"
-                            },
-                            {
-                                "hash": 1359896290,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/16d063d66a8d90643a409dfa4283c4e2.png",
-                                "name": "Dynamic Sway Reduction"
-                            },
-                            {
-                                "hash": 3400784728,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/44cc0f78fd98d462dc4914dbe203dc49.png",
-                                "name": "Triple Tap"
                             },
                             {
                                 "hash": 1168162263,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
+                                "isSelected": false,
                                 "name": "Outlaw"
                             },
                             {
                                 "hash": 972757866,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8f55a0d8cd93d9830480239350c022b1.png",
+                                "isSelected": false,
                                 "name": "Pulse Monitor"
                             },
                             {
-                                "hash": 1631667848,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/83e206ebea83f76d9969efea7134ddcc.png",
-                                "name": "Grave Robber"
+                                "hash": 706527188,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png",
+                                "isSelected": false,
+                                "name": "Quickdraw"
+                            },
+                            {
+                                "hash": 3425386926,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
+                                "isSelected": false,
+                                "name": "Rampage"
+                            },
+                            {
+                                "hash": 3275789089,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7b527f4401012c2acf400759338c31f8.png",
+                                "isSelected": false,
+                                "name": "Shield Disorient"
+                            },
+                            {
+                                "hash": 1890422124,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8e910e56aa6e36b2c406804e1d78d04f.png",
+                                "isSelected": false,
+                                "name": "Tap the Trigger"
+                            },
+                            {
+                                "hash": 3400784728,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/44cc0f78fd98d462dc4914dbe203dc49.png",
+                                "isSelected": false,
+                                "name": "Triple Tap"
+                            },
+                            {
+                                "hash": 1645158859,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a88b6ed7519cb27fd608c5743ca20b1.png",
+                                "isSelected": false,
+                                "name": "Under Pressure"
+                            },
+                            {
+                                "hash": 2387244414,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49958f356ea1df930888d15fe6539fe1.png",
+                                "isSelected": false,
+                                "name": "Zen Moment"
                             }
                         ],
                         "socketIndex": 2
@@ -1277,89 +1423,106 @@ export const WeaponTypes = [
                         "name": "Scope",
                         "perks": [
                             {
-                                "hash": 809345546,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9e8f8f5490ed191d783f2b93c624c466.png",
-                                "name": "Devil Scope D2"
-                            },
-                            {
-                                "hash": 809345547,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9e8f8f5490ed191d783f2b93c624c466.png",
-                                "name": "Dusk Scope D2"
-                            },
-                            {
-                                "hash": 1288081796,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1c1be01de23c5233cab50ff8dbe6c2c4.png",
-                                "name": "Wolf Sight W1"
-                            },
-                            {
-                                "hash": 1288081797,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1c1be01de23c5233cab50ff8dbe6c2c4.png",
-                                "name": "King Sight K1"
-                            },
-                            {
-                                "hash": 1288081798,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1c1be01de23c5233cab50ff8dbe6c2c4.png",
-                                "name": "Dusk Sight D1"
-                            },
-                            {
-                                "hash": 1452368632,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/39e67986552e5675249862f76a6ff542.png",
-                                "name": "Wolf Dot W2"
-                            },
-                            {
-                                "hash": 1452368633,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/39e67986552e5675249862f76a6ff542.png",
-                                "name": "King Dot K2"
-                            },
-                            {
-                                "hash": 1452368634,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/39e67986552e5675249862f76a6ff542.png",
-                                "name": "Dusk Dot D1"
-                            },
-                            {
                                 "hash": 839105230,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png",
+                                "isSelected": false,
                                 "name": "Arrowhead Brake"
                             },
                             {
                                 "hash": 3661387068,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/376aa9bd8c392567f501012fc3b3d4d0.png",
+                                "isSelected": false,
                                 "name": "Chambered Compensator"
                             },
                             {
                                 "hash": 4090651448,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/18cc75bf9a17bb80b5109f1b8909521f.png",
+                                "isSelected": false,
                                 "name": "Corkscrew Rifling"
+                            },
+                            {
+                                "hash": 809345546,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9e8f8f5490ed191d783f2b93c624c466.png",
+                                "isSelected": false,
+                                "name": "Devil Scope D2"
+                            },
+                            {
+                                "hash": 1452368634,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/39e67986552e5675249862f76a6ff542.png",
+                                "isSelected": false,
+                                "name": "Dusk Dot D1"
+                            },
+                            {
+                                "hash": 809345547,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9e8f8f5490ed191d783f2b93c624c466.png",
+                                "isSelected": false,
+                                "name": "Dusk Scope D2"
+                            },
+                            {
+                                "hash": 1288081798,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1c1be01de23c5233cab50ff8dbe6c2c4.png",
+                                "isSelected": false,
+                                "name": "Dusk Sight D1"
                             },
                             {
                                 "hash": 1467527085,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/151465ba86df34438248aad2248cce32.png",
+                                "isSelected": false,
                                 "name": "Extended Barrel"
                             },
                             {
                                 "hash": 1840239774,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png",
+                                "isSelected": false,
                                 "name": "Fluted Barrel"
                             },
                             {
                                 "hash": 202670084,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9307c5604f995d90ad5ed65281b64772.png",
+                                "isSelected": false,
                                 "name": "Full Bore"
                             },
                             {
                                 "hash": 3250034553,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9acb073d4e85160f66f0d617d210cf61.png",
+                                "isSelected": false,
                                 "name": "Hammer-Forged Rifling"
+                            },
+                            {
+                                "hash": 1452368633,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/39e67986552e5675249862f76a6ff542.png",
+                                "isSelected": false,
+                                "name": "King Dot K2"
+                            },
+                            {
+                                "hash": 1288081797,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1c1be01de23c5233cab50ff8dbe6c2c4.png",
+                                "isSelected": false,
+                                "name": "King Sight K1"
                             },
                             {
                                 "hash": 1392496348,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7cadd68b66ffd3bbedc09aa9c7ba6e03.png",
+                                "isSelected": false,
                                 "name": "Polygonal Rifling"
                             },
                             {
                                 "hash": 1482024992,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png",
+                                "isSelected": false,
                                 "name": "Smallbore"
+                            },
+                            {
+                                "hash": 1452368632,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/39e67986552e5675249862f76a6ff542.png",
+                                "isSelected": false,
+                                "name": "Wolf Dot W2"
+                            },
+                            {
+                                "hash": 1288081796,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1c1be01de23c5233cab50ff8dbe6c2c4.png",
+                                "isSelected": false,
+                                "name": "Wolf Sight W1"
                             }
                         ],
                         "socketIndex": 0
@@ -1368,44 +1531,52 @@ export const WeaponTypes = [
                         "name": "Magazine",
                         "perks": [
                             {
-                                "hash": 2420895100,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
-                                "name": "Extended Mag"
-                            },
-                            {
                                 "hash": 1431678320,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/932e7b84c233c6cc49a58058f8c5144d.png",
+                                "isSelected": false,
                                 "name": "Alloy Magazine"
                             },
                             {
                                 "hash": 1087426260,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9d8a7be4c2fef471a6fde38d02ab8dae.png",
+                                "isSelected": false,
                                 "name": "Appended Mag"
                             },
                             {
                                 "hash": 1968497646,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/73b724a6839bb3e1db37742f7ed5249b.png",
+                                "isSelected": false,
                                 "name": "Armor-Piercing Rounds"
                             },
                             {
-                                "hash": 1561002382,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f06239ee156ee70f99b48e8e1970dbca.png",
-                                "name": "High-Caliber Rounds"
-                            },
-                            {
-                                "hash": 1885400500,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png",
-                                "name": "Ricochet Rounds"
+                                "hash": 2420895100,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
+                                "isSelected": false,
+                                "name": "Extended Mag"
                             },
                             {
                                 "hash": 3230963543,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ec1bca64fc9709678ea5c297c0e64c19.png",
+                                "isSelected": false,
                                 "name": "Flared Magwell"
+                            },
+                            {
+                                "hash": 1561002382,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f06239ee156ee70f99b48e8e1970dbca.png",
+                                "isSelected": false,
+                                "name": "High-Caliber Rounds"
                             },
                             {
                                 "hash": 679225683,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1d87312c174b44d5ef1ed24ad42efe9c.png",
+                                "isSelected": false,
                                 "name": "Light Mag"
+                            },
+                            {
+                                "hash": 1885400500,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png",
+                                "isSelected": false,
+                                "name": "Ricochet Rounds"
                             }
                         ],
                         "socketIndex": 1
@@ -1414,84 +1585,100 @@ export const WeaponTypes = [
                         "name": "traits",
                         "perks": [
                             {
-                                "hash": 706527188,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png",
-                                "name": "Quickdraw"
-                            },
-                            {
-                                "hash": 1890422124,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8e910e56aa6e36b2c406804e1d78d04f.png",
-                                "name": "Tap the Trigger"
-                            },
-                            {
-                                "hash": 957782887,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
-                                "name": "Snapshot Sights"
-                            },
-                            {
-                                "hash": 1631667848,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/83e206ebea83f76d9969efea7134ddcc.png",
-                                "name": "Grave Robber"
-                            },
-                            {
-                                "hash": 2387244414,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49958f356ea1df930888d15fe6539fe1.png",
-                                "name": "Zen Moment"
+                                "hash": 3300816228,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d355b1117307c9f187729249361cecc3.png",
+                                "isSelected": false,
+                                "name": "Auto-Loading Holster"
                             },
                             {
                                 "hash": 1359896290,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/16d063d66a8d90643a409dfa4283c4e2.png",
+                                "isSelected": false,
                                 "name": "Dynamic Sway Reduction"
                             },
                             {
-                                "hash": 3425386926,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
-                                "name": "Rampage"
-                            },
-                            {
-                                "hash": 2039302152,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ccac4f90945c16a520b823d2a6cd48a3.png",
-                                "name": "Slideways"
+                                "hash": 1631667848,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/83e206ebea83f76d9969efea7134ddcc.png",
+                                "isSelected": false,
+                                "name": "Grave Robber"
                             },
                             {
                                 "hash": 2213355989,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bee920445b5d0ccb01814d2e6fcea27b.png",
+                                "isSelected": false,
                                 "name": "High-Impact Reserves"
-                            },
-                            {
-                                "hash": 1645158859,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a88b6ed7519cb27fd608c5743ca20b1.png",
-                                "name": "Under Pressure"
-                            },
-                            {
-                                "hash": 972757866,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8f55a0d8cd93d9830480239350c022b1.png",
-                                "name": "Pulse Monitor"
-                            },
-                            {
-                                "hash": 588594999,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
-                                "name": "Moving Target"
-                            },
-                            {
-                                "hash": 3300816228,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d355b1117307c9f187729249361cecc3.png",
-                                "name": "Auto-Loading Holster"
-                            },
-                            {
-                                "hash": 1168162263,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
-                                "name": "Outlaw"
-                            },
-                            {
-                                "hash": 2846385770,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png",
-                                "name": "Rangefinder"
                             },
                             {
                                 "hash": 1015611457,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
+                                "isSelected": false,
                                 "name": "Kill Clip"
+                            },
+                            {
+                                "hash": 588594999,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
+                                "isSelected": false,
+                                "name": "Moving Target"
+                            },
+                            {
+                                "hash": 1168162263,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
+                                "isSelected": false,
+                                "name": "Outlaw"
+                            },
+                            {
+                                "hash": 972757866,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8f55a0d8cd93d9830480239350c022b1.png",
+                                "isSelected": false,
+                                "name": "Pulse Monitor"
+                            },
+                            {
+                                "hash": 706527188,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png",
+                                "isSelected": false,
+                                "name": "Quickdraw"
+                            },
+                            {
+                                "hash": 3425386926,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
+                                "isSelected": false,
+                                "name": "Rampage"
+                            },
+                            {
+                                "hash": 2846385770,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png",
+                                "isSelected": false,
+                                "name": "Rangefinder"
+                            },
+                            {
+                                "hash": 2039302152,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ccac4f90945c16a520b823d2a6cd48a3.png",
+                                "isSelected": false,
+                                "name": "Slideways"
+                            },
+                            {
+                                "hash": 957782887,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
+                                "isSelected": false,
+                                "name": "Snapshot Sights"
+                            },
+                            {
+                                "hash": 1890422124,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8e910e56aa6e36b2c406804e1d78d04f.png",
+                                "isSelected": false,
+                                "name": "Tap the Trigger"
+                            },
+                            {
+                                "hash": 1645158859,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a88b6ed7519cb27fd608c5743ca20b1.png",
+                                "isSelected": false,
+                                "name": "Under Pressure"
+                            },
+                            {
+                                "hash": 2387244414,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49958f356ea1df930888d15fe6539fe1.png",
+                                "isSelected": false,
+                                "name": "Zen Moment"
                             }
                         ],
                         "socketIndex": 2
@@ -1621,37 +1808,44 @@ export const WeaponTypes = [
                             {
                                 "hash": 3768438372,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f58a93d2728c6eaf17e971c006e8aa7c.png",
+                                "isSelected": false,
                                 "name": "Agile Bowstring"
-                            },
-                            {
-                                "hash": 1196733167,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b0c611bc4c3b6dbb2d0061c64926c7e3.png",
-                                "name": "Tactile String"
                             },
                             {
                                 "hash": 2801223209,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/a8aee4de9f46b3209f45a6fe65c57ada.png",
+                                "isSelected": false,
                                 "name": "Elastic String"
                             },
                             {
                                 "hash": 4067834857,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/dd95005a2c15c39ce613d31394cb92c9.png",
+                                "isSelected": false,
                                 "name": "Flexible String"
                             },
                             {
                                 "hash": 3371775011,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c2964e6666279c40161136e2254d3b50.png",
+                                "isSelected": false,
                                 "name": "High Tension String"
                             },
                             {
                                 "hash": 1784898267,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/a4ef0735253539a0244f7073f1622d98.png",
+                                "isSelected": false,
                                 "name": "Natural String"
                             },
                             {
                                 "hash": 852209214,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/38a485fb53635848c4fe4ee55effbbed.png",
+                                "isSelected": false,
                                 "name": "Polymer String"
+                            },
+                            {
+                                "hash": 1196733167,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b0c611bc4c3b6dbb2d0061c64926c7e3.png",
+                                "isSelected": false,
+                                "name": "Tactile String"
                             }
                         ],
                         "socketIndex": 0
@@ -1662,31 +1856,37 @@ export const WeaponTypes = [
                             {
                                 "hash": 2154191829,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0dca9631d83ecaeb27bb39c7d2bf7679.png",
+                                "isSelected": false,
                                 "name": "Carbon Arrow Shaft"
                             },
                             {
                                 "hash": 16392701,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f2da76a272768d0233eaebe2cc79e098.png",
+                                "isSelected": false,
                                 "name": "Compact Arrow Shaft"
                             },
                             {
                                 "hash": 3429800428,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/eba4d202086df5d676fe0435eeb27ec1.png",
+                                "isSelected": false,
                                 "name": "Fiberglass Arrow Shaft"
                             },
                             {
                                 "hash": 3311977193,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/880badbf9bb835030979ef0548a5b0f7.png",
+                                "isSelected": false,
                                 "name": "Helical Fletching"
                             },
                             {
                                 "hash": 1500996326,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/71235f97dbce4db59b18683f4dd65bcc.png",
+                                "isSelected": false,
                                 "name": "Natural Fletching"
                             },
                             {
                                 "hash": 3827198035,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/78fb6b578baa9492a489b6ee98696c6b.png",
+                                "isSelected": false,
                                 "name": "Straight Fletching"
                             }
                         ],
@@ -1696,64 +1896,76 @@ export const WeaponTypes = [
                         "name": "traits",
                         "perks": [
                             {
-                                "hash": 2846385770,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png",
-                                "name": "Rangefinder"
+                                "hash": 3722653512,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/34e3043d3f29eb8d38c8e0f5d5138f57.png",
+                                "isSelected": false,
+                                "name": "Air Assault"
                             },
                             {
                                 "hash": 201365942,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/97e9bacb1e28a1ee38b979192f090406.png",
+                                "isSelected": false,
                                 "name": "Archer's Tempo"
-                            },
-                            {
-                                "hash": 588594999,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
-                                "name": "Moving Target"
-                            },
-                            {
-                                "hash": 3722653512,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/34e3043d3f29eb8d38c8e0f5d5138f57.png",
-                                "name": "Air Assault"
-                            },
-                            {
-                                "hash": 908147344,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/dbeb811b08b9839d8010cbdb01a79add.png",
-                                "name": "Sneak Bow"
-                            },
-                            {
-                                "hash": 957782887,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
-                                "name": "Snapshot Sights"
                             },
                             {
                                 "hash": 3365897133,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/71ae791d23ec5d3ddc62606645d00530.png",
+                                "isSelected": false,
                                 "name": "Explosive Head"
-                            },
-                            {
-                                "hash": 3425386926,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
-                                "name": "Rampage"
-                            },
-                            {
-                                "hash": 4071163871,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png",
-                                "name": "Threat Detector"
                             },
                             {
                                 "hash": 1866048759,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9f3c3ae1bddbed21af1cc6487338028e.png",
+                                "isSelected": false,
                                 "name": "Hip-Fire Grip"
+                            },
+                            {
+                                "hash": 588594999,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
+                                "isSelected": false,
+                                "name": "Moving Target"
                             },
                             {
                                 "hash": 706527188,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png",
+                                "isSelected": false,
                                 "name": "Quickdraw"
+                            },
+                            {
+                                "hash": 3425386926,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
+                                "isSelected": false,
+                                "name": "Rampage"
+                            },
+                            {
+                                "hash": 2846385770,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png",
+                                "isSelected": false,
+                                "name": "Rangefinder"
                             },
                             {
                                 "hash": 247725512,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/56f26a865c24a6a10cb4177794eb7788.png",
+                                "isSelected": false,
                                 "name": "Rapid Hit"
+                            },
+                            {
+                                "hash": 957782887,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
+                                "isSelected": false,
+                                "name": "Snapshot Sights"
+                            },
+                            {
+                                "hash": 908147344,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/dbeb811b08b9839d8010cbdb01a79add.png",
+                                "isSelected": false,
+                                "name": "Sneak Bow"
+                            },
+                            {
+                                "hash": 4071163871,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png",
+                                "isSelected": false,
+                                "name": "Threat Detector"
                             }
                         ],
                         "socketIndex": 2
@@ -1915,39 +2127,46 @@ export const WeaponTypes = [
                         "name": "Bowstring",
                         "perks": [
                             {
-                                "hash": 3371775011,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c2964e6666279c40161136e2254d3b50.png",
-                                "name": "High Tension String"
-                            },
-                            {
                                 "hash": 3768438372,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f58a93d2728c6eaf17e971c006e8aa7c.png",
+                                "isSelected": false,
                                 "name": "Agile Bowstring"
-                            },
-                            {
-                                "hash": 1196733167,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b0c611bc4c3b6dbb2d0061c64926c7e3.png",
-                                "name": "Tactile String"
                             },
                             {
                                 "hash": 2801223209,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/a8aee4de9f46b3209f45a6fe65c57ada.png",
+                                "isSelected": false,
                                 "name": "Elastic String"
                             },
                             {
                                 "hash": 4067834857,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/dd95005a2c15c39ce613d31394cb92c9.png",
+                                "isSelected": false,
                                 "name": "Flexible String"
+                            },
+                            {
+                                "hash": 3371775011,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c2964e6666279c40161136e2254d3b50.png",
+                                "isSelected": false,
+                                "name": "High Tension String"
                             },
                             {
                                 "hash": 1784898267,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/a4ef0735253539a0244f7073f1622d98.png",
+                                "isSelected": false,
                                 "name": "Natural String"
                             },
                             {
                                 "hash": 852209214,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/38a485fb53635848c4fe4ee55effbbed.png",
+                                "isSelected": false,
                                 "name": "Polymer String"
+                            },
+                            {
+                                "hash": 1196733167,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b0c611bc4c3b6dbb2d0061c64926c7e3.png",
+                                "isSelected": false,
+                                "name": "Tactile String"
                             }
                         ],
                         "socketIndex": 0
@@ -1956,33 +2175,39 @@ export const WeaponTypes = [
                         "name": "Arrow",
                         "perks": [
                             {
-                                "hash": 3429800428,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/eba4d202086df5d676fe0435eeb27ec1.png",
-                                "name": "Fiberglass Arrow Shaft"
-                            },
-                            {
                                 "hash": 2154191829,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0dca9631d83ecaeb27bb39c7d2bf7679.png",
+                                "isSelected": false,
                                 "name": "Carbon Arrow Shaft"
                             },
                             {
                                 "hash": 16392701,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f2da76a272768d0233eaebe2cc79e098.png",
+                                "isSelected": false,
                                 "name": "Compact Arrow Shaft"
+                            },
+                            {
+                                "hash": 3429800428,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/eba4d202086df5d676fe0435eeb27ec1.png",
+                                "isSelected": false,
+                                "name": "Fiberglass Arrow Shaft"
                             },
                             {
                                 "hash": 3311977193,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/880badbf9bb835030979ef0548a5b0f7.png",
+                                "isSelected": false,
                                 "name": "Helical Fletching"
                             },
                             {
                                 "hash": 1500996326,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/71235f97dbce4db59b18683f4dd65bcc.png",
+                                "isSelected": false,
                                 "name": "Natural Fletching"
                             },
                             {
                                 "hash": 3827198035,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/78fb6b578baa9492a489b6ee98696c6b.png",
+                                "isSelected": false,
                                 "name": "Straight Fletching"
                             }
                         ],
@@ -1992,49 +2217,58 @@ export const WeaponTypes = [
                         "name": "traits",
                         "perks": [
                             {
+                                "hash": 201365942,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/97e9bacb1e28a1ee38b979192f090406.png",
+                                "isSelected": false,
+                                "name": "Archer's Tempo"
+                            },
+                            {
+                                "hash": 2848615171,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8fe8293ba02002f69bfa052a0c44223f.png",
+                                "isSelected": false,
+                                "name": "Dragonfly"
+                            },
+                            {
                                 "hash": 3365897133,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/71ae791d23ec5d3ddc62606645d00530.png",
+                                "isSelected": false,
                                 "name": "Explosive Head"
                             },
                             {
                                 "hash": 1866048759,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9f3c3ae1bddbed21af1cc6487338028e.png",
+                                "isSelected": false,
                                 "name": "Hip-Fire Grip"
-                            },
-                            {
-                                "hash": 3425386926,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
-                                "name": "Rampage"
-                            },
-                            {
-                                "hash": 2848615171,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8fe8293ba02002f69bfa052a0c44223f.png",
-                                "name": "Dragonfly"
                             },
                             {
                                 "hash": 588594999,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
+                                "isSelected": false,
                                 "name": "Moving Target"
-                            },
-                            {
-                                "hash": 957782887,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
-                                "name": "Snapshot Sights"
                             },
                             {
                                 "hash": 706527188,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png",
+                                "isSelected": false,
                                 "name": "Quickdraw"
+                            },
+                            {
+                                "hash": 3425386926,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
+                                "isSelected": false,
+                                "name": "Rampage"
+                            },
+                            {
+                                "hash": 957782887,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
+                                "isSelected": false,
+                                "name": "Snapshot Sights"
                             },
                             {
                                 "hash": 908147344,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/dbeb811b08b9839d8010cbdb01a79add.png",
+                                "isSelected": false,
                                 "name": "Sneak Bow"
-                            },
-                            {
-                                "hash": 201365942,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/97e9bacb1e28a1ee38b979192f090406.png",
-                                "name": "Archer's Tempo"
                             }
                         ],
                         "socketIndex": 2
@@ -2131,46 +2365,55 @@ export const WeaponTypes = [
                             {
                                 "hash": 839105230,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png",
+                                "isSelected": false,
                                 "name": "Arrowhead Brake"
                             },
                             {
                                 "hash": 3661387068,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/376aa9bd8c392567f501012fc3b3d4d0.png",
+                                "isSelected": false,
                                 "name": "Chambered Compensator"
                             },
                             {
                                 "hash": 4090651448,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/18cc75bf9a17bb80b5109f1b8909521f.png",
+                                "isSelected": false,
                                 "name": "Corkscrew Rifling"
                             },
                             {
                                 "hash": 1467527085,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/151465ba86df34438248aad2248cce32.png",
+                                "isSelected": false,
                                 "name": "Extended Barrel"
                             },
                             {
                                 "hash": 1840239774,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png",
+                                "isSelected": false,
                                 "name": "Fluted Barrel"
                             },
                             {
                                 "hash": 202670084,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9307c5604f995d90ad5ed65281b64772.png",
+                                "isSelected": false,
                                 "name": "Full Bore"
                             },
                             {
                                 "hash": 3250034553,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9acb073d4e85160f66f0d617d210cf61.png",
+                                "isSelected": false,
                                 "name": "Hammer-Forged Rifling"
                             },
                             {
                                 "hash": 1392496348,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7cadd68b66ffd3bbedc09aa9c7ba6e03.png",
+                                "isSelected": false,
                                 "name": "Polygonal Rifling"
                             },
                             {
                                 "hash": 1482024992,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png",
+                                "isSelected": false,
                                 "name": "Smallbore"
                             }
                         ],
@@ -2182,31 +2425,37 @@ export const WeaponTypes = [
                             {
                                 "hash": 689005463,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/231f0b02ac3bb5a19aa4b4c82fbf90a4.png",
+                                "isSelected": false,
                                 "name": "Accelerated Coils"
                             },
                             {
                                 "hash": 2680121939,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fba0bbb5a21b74ebe59f394f2319098c.png",
+                                "isSelected": false,
                                 "name": "Enhanced Battery"
                             },
                             {
                                 "hash": 1483536627,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/51460192e92adf82869709d44073774c.png",
+                                "isSelected": false,
                                 "name": "Ionized Battery"
                             },
                             {
                                 "hash": 1687452232,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/381b7a519ca06b70b5ff8f793dfad038.png",
+                                "isSelected": false,
                                 "name": "Liquid Coils"
                             },
                             {
                                 "hash": 3868766766,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c38ffa488ea6747f8acbfbdb93f3e5a2.png",
+                                "isSelected": false,
                                 "name": "Particle Repeater"
                             },
                             {
                                 "hash": 2969185026,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/253e7147a06242e8305ddf1c5571a9fc.png",
+                                "isSelected": false,
                                 "name": "Projection Fuse"
                             }
                         ],
@@ -2216,44 +2465,52 @@ export const WeaponTypes = [
                         "name": "traits",
                         "perks": [
                             {
-                                "hash": 1645158859,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a88b6ed7519cb27fd608c5743ca20b1.png",
-                                "name": "Under Pressure"
+                                "hash": 1600092898,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/89c3bf4e4ba2fd744abf6371b783c56f.png",
+                                "isSelected": false,
+                                "name": "Backup Plan"
+                            },
+                            {
+                                "hash": 2213355989,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bee920445b5d0ccb01814d2e6fcea27b.png",
+                                "isSelected": false,
+                                "name": "High-Impact Reserves"
+                            },
+                            {
+                                "hash": 1015611457,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
+                                "isSelected": false,
+                                "name": "Kill Clip"
+                            },
+                            {
+                                "hash": 3425386926,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
+                                "isSelected": false,
+                                "name": "Rampage"
+                            },
+                            {
+                                "hash": 2846385770,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png",
+                                "isSelected": false,
+                                "name": "Rangefinder"
                             },
                             {
                                 "hash": 957782887,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
+                                "isSelected": false,
                                 "name": "Snapshot Sights"
                             },
                             {
                                 "hash": 4071163871,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png",
+                                "isSelected": false,
                                 "name": "Threat Detector"
                             },
                             {
-                                "hash": 1015611457,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
-                                "name": "Kill Clip"
-                            },
-                            {
-                                "hash": 1600092898,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/89c3bf4e4ba2fd744abf6371b783c56f.png",
-                                "name": "Backup Plan"
-                            },
-                            {
-                                "hash": 3425386926,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
-                                "name": "Rampage"
-                            },
-                            {
-                                "hash": 2213355989,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bee920445b5d0ccb01814d2e6fcea27b.png",
-                                "name": "High-Impact Reserves"
-                            },
-                            {
-                                "hash": 2846385770,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png",
-                                "name": "Rangefinder"
+                                "hash": 1645158859,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a88b6ed7519cb27fd608c5743ca20b1.png",
+                                "isSelected": false,
+                                "name": "Under Pressure"
                             }
                         ],
                         "socketIndex": 2
@@ -2316,64 +2573,76 @@ export const WeaponTypes = [
                         "name": "Scope",
                         "perks": [
                             {
-                                "hash": 2405638015,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ee62caf152c3747675fe43c544d72e45.png",
-                                "name": "Red Dot 2 MOA"
+                                "hash": 1409978309,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/43ffd338e67c18c493d164ae7fce1a67.png",
+                                "isSelected": false,
+                                "name": "Candle PS"
                             },
                             {
                                 "hash": 13792279,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/43ffd338e67c18c493d164ae7fce1a67.png",
+                                "isSelected": false,
                                 "name": "Cleanshot IS"
+                            },
+                            {
+                                "hash": 1628165637,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/72ce21836b1b8215c73d50b8758d4478.png",
+                                "isSelected": false,
+                                "name": "Flash HS5"
                             },
                             {
                                 "hash": 13792278,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4df80be29a7eb6ba01bf7ea41f46f7da.png",
+                                "isSelected": false,
                                 "name": "Hitmark IS"
+                            },
+                            {
+                                "hash": 194952922,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c9ea3527b2603c17a535d4a03181e5a4.png",
+                                "isSelected": false,
+                                "name": "Impulse MS3"
+                            },
+                            {
+                                "hash": 1409978311,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e723f253d3344d0f160f6f07a41b2306.png",
+                                "isSelected": false,
+                                "name": "Jolt PS"
+                            },
+                            {
+                                "hash": 2405638015,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ee62caf152c3747675fe43c544d72e45.png",
+                                "isSelected": false,
+                                "name": "Red Dot 2 MOA"
                             },
                             {
                                 "hash": 2405638014,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ee62caf152c3747675fe43c544d72e45.png",
+                                "isSelected": false,
                                 "name": "Red Dot Micro"
                             },
                             {
                                 "hash": 194952923,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/010083bb9d36a731d718dd6b452a47c5.png",
+                                "isSelected": false,
                                 "name": "Signal MS5"
-                            },
-                            {
-                                "hash": 194952922,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c9ea3527b2603c17a535d4a03181e5a4.png",
-                                "name": "Impulse MS3"
-                            },
-                            {
-                                "hash": 194952921,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f6145ea5eb665526dcee99322af82155.png",
-                                "name": "Transmission MS7"
-                            },
-                            {
-                                "hash": 1409978309,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/43ffd338e67c18c493d164ae7fce1a67.png",
-                                "name": "Candle PS"
                             },
                             {
                                 "hash": 1409978308,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9e393dee39c4b8e1cb22f3e17941c5d7.png",
+                                "isSelected": false,
                                 "name": "Spark PS"
-                            },
-                            {
-                                "hash": 1409978311,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e723f253d3344d0f160f6f07a41b2306.png",
-                                "name": "Jolt PS"
-                            },
-                            {
-                                "hash": 1628165637,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/72ce21836b1b8215c73d50b8758d4478.png",
-                                "name": "Flash HS5"
                             },
                             {
                                 "hash": 1628165636,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e201e87afdccbd4d739834b2d2b520e1.png",
+                                "isSelected": false,
                                 "name": "Torch HS3"
+                            },
+                            {
+                                "hash": 194952921,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f6145ea5eb665526dcee99322af82155.png",
+                                "isSelected": false,
+                                "name": "Transmission MS7"
                             }
                         ],
                         "socketIndex": 0
@@ -2382,33 +2651,39 @@ export const WeaponTypes = [
                         "name": "Battery",
                         "perks": [
                             {
-                                "hash": 1483536627,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/51460192e92adf82869709d44073774c.png",
-                                "name": "Ionized Battery"
-                            },
-                            {
                                 "hash": 689005463,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/231f0b02ac3bb5a19aa4b4c82fbf90a4.png",
+                                "isSelected": false,
                                 "name": "Accelerated Coils"
                             },
                             {
                                 "hash": 2680121939,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fba0bbb5a21b74ebe59f394f2319098c.png",
+                                "isSelected": false,
                                 "name": "Enhanced Battery"
+                            },
+                            {
+                                "hash": 1483536627,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/51460192e92adf82869709d44073774c.png",
+                                "isSelected": false,
+                                "name": "Ionized Battery"
                             },
                             {
                                 "hash": 1687452232,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/381b7a519ca06b70b5ff8f793dfad038.png",
+                                "isSelected": false,
                                 "name": "Liquid Coils"
                             },
                             {
                                 "hash": 3868766766,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c38ffa488ea6747f8acbfbdb93f3e5a2.png",
+                                "isSelected": false,
                                 "name": "Particle Repeater"
                             },
                             {
                                 "hash": 2969185026,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/253e7147a06242e8305ddf1c5571a9fc.png",
+                                "isSelected": false,
                                 "name": "Projection Fuse"
                             }
                         ],
@@ -2420,82 +2695,98 @@ export const WeaponTypes = [
                             {
                                 "hash": 3300816228,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d355b1117307c9f187729249361cecc3.png",
+                                "isSelected": false,
                                 "name": "Auto-Loading Holster"
-                            },
-                            {
-                                "hash": 1427256713,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/68b82437cba6eeb5a215c2c8240861a5.png",
-                                "name": "Reservoir Burst"
-                            },
-                            {
-                                "hash": 1645158859,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a88b6ed7519cb27fd608c5743ca20b1.png",
-                                "name": "Under Pressure"
-                            },
-                            {
-                                "hash": 280464955,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc9da416fe98c79b59074403084765b7.png",
-                                "name": "Firmly Planted"
-                            },
-                            {
-                                "hash": 588594999,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
-                                "name": "Moving Target"
-                            },
-                            {
-                                "hash": 4071163871,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png",
-                                "name": "Threat Detector"
                             },
                             {
                                 "hash": 1600092898,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/89c3bf4e4ba2fd744abf6371b783c56f.png",
+                                "isSelected": false,
                                 "name": "Backup Plan"
-                            },
-                            {
-                                "hash": 2213355989,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bee920445b5d0ccb01814d2e6fcea27b.png",
-                                "name": "High-Impact Reserves"
-                            },
-                            {
-                                "hash": 2846385770,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png",
-                                "name": "Rangefinder"
-                            },
-                            {
-                                "hash": 1890422124,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8e910e56aa6e36b2c406804e1d78d04f.png",
-                                "name": "Tap the Trigger"
                             },
                             {
                                 "hash": 3523296417,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/53ead908917c9156457c7c9dd453d649.png",
+                                "isSelected": false,
                                 "name": "Demolitionist"
                             },
                             {
-                                "hash": 957782887,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
-                                "name": "Snapshot Sights"
+                                "hash": 280464955,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc9da416fe98c79b59074403084765b7.png",
+                                "isSelected": false,
+                                "name": "Firmly Planted"
+                            },
+                            {
+                                "hash": 2213355989,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bee920445b5d0ccb01814d2e6fcea27b.png",
+                                "isSelected": false,
+                                "name": "High-Impact Reserves"
                             },
                             {
                                 "hash": 1866048759,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9f3c3ae1bddbed21af1cc6487338028e.png",
+                                "isSelected": false,
                                 "name": "Hip-Fire Grip"
                             },
                             {
                                 "hash": 1015611457,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
+                                "isSelected": false,
                                 "name": "Kill Clip"
                             },
                             {
-                                "hash": 3425386926,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
-                                "name": "Rampage"
+                                "hash": 588594999,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
+                                "isSelected": false,
+                                "name": "Moving Target"
                             },
                             {
                                 "hash": 706527188,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png",
+                                "isSelected": false,
                                 "name": "Quickdraw"
+                            },
+                            {
+                                "hash": 3425386926,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
+                                "isSelected": false,
+                                "name": "Rampage"
+                            },
+                            {
+                                "hash": 2846385770,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png",
+                                "isSelected": false,
+                                "name": "Rangefinder"
+                            },
+                            {
+                                "hash": 1427256713,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/68b82437cba6eeb5a215c2c8240861a5.png",
+                                "isSelected": false,
+                                "name": "Reservoir Burst"
+                            },
+                            {
+                                "hash": 957782887,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
+                                "isSelected": false,
+                                "name": "Snapshot Sights"
+                            },
+                            {
+                                "hash": 1890422124,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8e910e56aa6e36b2c406804e1d78d04f.png",
+                                "isSelected": false,
+                                "name": "Tap the Trigger"
+                            },
+                            {
+                                "hash": 4071163871,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png",
+                                "isSelected": false,
+                                "name": "Threat Detector"
+                            },
+                            {
+                                "hash": 1645158859,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a88b6ed7519cb27fd608c5743ca20b1.png",
+                                "isSelected": false,
+                                "name": "Under Pressure"
                             }
                         ],
                         "socketIndex": 2
@@ -2637,37 +2928,44 @@ export const WeaponTypes = [
                             {
                                 "hash": 13792279,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/43ffd338e67c18c493d164ae7fce1a67.png",
+                                "isSelected": false,
                                 "name": "Cleanshot IS"
                             },
                             {
                                 "hash": 13792278,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4df80be29a7eb6ba01bf7ea41f46f7da.png",
+                                "isSelected": false,
                                 "name": "Hitmark IS"
+                            },
+                            {
+                                "hash": 3433396027,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/de12bacce62d0b591a3c95a206fbbe43.png",
+                                "isSelected": false,
+                                "name": "Meyrin RDL"
+                            },
+                            {
+                                "hash": 3433396026,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/83904ac7f4475214abde90141e3af360.png",
+                                "isSelected": false,
+                                "name": "Meyrin RDS"
+                            },
+                            {
+                                "hash": 1096957638,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/89ae6176468ad3efd04bf2cdee255f0c.png",
+                                "isSelected": false,
+                                "name": "Rasmussen ISA"
                             },
                             {
                                 "hash": 2405638015,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ee62caf152c3747675fe43c544d72e45.png",
+                                "isSelected": false,
                                 "name": "Red Dot 2 MOA"
                             },
                             {
                                 "hash": 2405638014,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ee62caf152c3747675fe43c544d72e45.png",
+                                "isSelected": false,
                                 "name": "Red Dot Micro"
-                            },
-                            {
-                                "hash": 1096957638,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/89ae6176468ad3efd04bf2cdee255f0c.png",
-                                "name": "Rasmussen ISA"
-                            },
-                            {
-                                "hash": 3433396026,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/83904ac7f4475214abde90141e3af360.png",
-                                "name": "Meyrin RDS"
-                            },
-                            {
-                                "hash": 3433396027,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/de12bacce62d0b591a3c95a206fbbe43.png",
-                                "name": "Meyrin RDL"
                             }
                         ],
                         "socketIndex": 0
@@ -2678,31 +2976,37 @@ export const WeaponTypes = [
                             {
                                 "hash": 689005463,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/231f0b02ac3bb5a19aa4b4c82fbf90a4.png",
+                                "isSelected": false,
                                 "name": "Accelerated Coils"
                             },
                             {
                                 "hash": 2680121939,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fba0bbb5a21b74ebe59f394f2319098c.png",
+                                "isSelected": false,
                                 "name": "Enhanced Battery"
                             },
                             {
                                 "hash": 1483536627,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/51460192e92adf82869709d44073774c.png",
+                                "isSelected": false,
                                 "name": "Ionized Battery"
                             },
                             {
                                 "hash": 1687452232,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/381b7a519ca06b70b5ff8f793dfad038.png",
+                                "isSelected": false,
                                 "name": "Liquid Coils"
                             },
                             {
                                 "hash": 3868766766,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c38ffa488ea6747f8acbfbdb93f3e5a2.png",
+                                "isSelected": false,
                                 "name": "Particle Repeater"
                             },
                             {
                                 "hash": 2969185026,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/253e7147a06242e8305ddf1c5571a9fc.png",
+                                "isSelected": false,
                                 "name": "Projection Fuse"
                             }
                         ],
@@ -2712,99 +3016,118 @@ export const WeaponTypes = [
                         "name": "traits",
                         "perks": [
                             {
-                                "hash": 1645158859,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a88b6ed7519cb27fd608c5743ca20b1.png",
-                                "name": "Under Pressure"
-                            },
-                            {
-                                "hash": 280464955,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc9da416fe98c79b59074403084765b7.png",
-                                "name": "Firmly Planted"
+                                "hash": 3722653512,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/34e3043d3f29eb8d38c8e0f5d5138f57.png",
+                                "isSelected": false,
+                                "name": "Air Assault"
                             },
                             {
                                 "hash": 3300816228,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d355b1117307c9f187729249361cecc3.png",
+                                "isSelected": false,
                                 "name": "Auto-Loading Holster"
-                            },
-                            {
-                                "hash": 957782887,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
-                                "name": "Snapshot Sights"
-                            },
-                            {
-                                "hash": 588594999,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
-                                "name": "Moving Target"
-                            },
-                            {
-                                "hash": 1866048759,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9f3c3ae1bddbed21af1cc6487338028e.png",
-                                "name": "Hip-Fire Grip"
-                            },
-                            {
-                                "hash": 4071163871,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png",
-                                "name": "Threat Detector"
                             },
                             {
                                 "hash": 1600092898,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/89c3bf4e4ba2fd744abf6371b783c56f.png",
+                                "isSelected": false,
                                 "name": "Backup Plan"
-                            },
-                            {
-                                "hash": 1015611457,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
-                                "name": "Kill Clip"
-                            },
-                            {
-                                "hash": 3425386926,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
-                                "name": "Rampage"
-                            },
-                            {
-                                "hash": 2213355989,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bee920445b5d0ccb01814d2e6fcea27b.png",
-                                "name": "High-Impact Reserves"
-                            },
-                            {
-                                "hash": 2846385770,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png",
-                                "name": "Rangefinder"
-                            },
-                            {
-                                "hash": 706527188,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png",
-                                "name": "Quickdraw"
-                            },
-                            {
-                                "hash": 1890422124,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8e910e56aa6e36b2c406804e1d78d04f.png",
-                                "name": "Tap the Trigger"
-                            },
-                            {
-                                "hash": 3275789089,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7b527f4401012c2acf400759338c31f8.png",
-                                "name": "Shield Disorient"
-                            },
-                            {
-                                "hash": 3722653512,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/34e3043d3f29eb8d38c8e0f5d5138f57.png",
-                                "name": "Air Assault"
-                            },
-                            {
-                                "hash": 47981717,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0fd9dbe1c09b8cc7d0be888c68ff4526.png",
-                                "name": "Opening Shot"
                             },
                             {
                                 "hash": 1683379515,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/5b83b3c3fc474c9716e54b4dfe4a862b.png",
+                                "isSelected": false,
                                 "name": "Disruption Break"
+                            },
+                            {
+                                "hash": 280464955,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc9da416fe98c79b59074403084765b7.png",
+                                "isSelected": false,
+                                "name": "Firmly Planted"
                             },
                             {
                                 "hash": 1631667848,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/83e206ebea83f76d9969efea7134ddcc.png",
+                                "isSelected": false,
                                 "name": "Grave Robber"
+                            },
+                            {
+                                "hash": 2213355989,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bee920445b5d0ccb01814d2e6fcea27b.png",
+                                "isSelected": false,
+                                "name": "High-Impact Reserves"
+                            },
+                            {
+                                "hash": 1866048759,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9f3c3ae1bddbed21af1cc6487338028e.png",
+                                "isSelected": false,
+                                "name": "Hip-Fire Grip"
+                            },
+                            {
+                                "hash": 1015611457,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
+                                "isSelected": false,
+                                "name": "Kill Clip"
+                            },
+                            {
+                                "hash": 588594999,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
+                                "isSelected": false,
+                                "name": "Moving Target"
+                            },
+                            {
+                                "hash": 47981717,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0fd9dbe1c09b8cc7d0be888c68ff4526.png",
+                                "isSelected": false,
+                                "name": "Opening Shot"
+                            },
+                            {
+                                "hash": 706527188,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png",
+                                "isSelected": false,
+                                "name": "Quickdraw"
+                            },
+                            {
+                                "hash": 3425386926,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
+                                "isSelected": false,
+                                "name": "Rampage"
+                            },
+                            {
+                                "hash": 2846385770,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png",
+                                "isSelected": false,
+                                "name": "Rangefinder"
+                            },
+                            {
+                                "hash": 3275789089,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7b527f4401012c2acf400759338c31f8.png",
+                                "isSelected": false,
+                                "name": "Shield Disorient"
+                            },
+                            {
+                                "hash": 957782887,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
+                                "isSelected": false,
+                                "name": "Snapshot Sights"
+                            },
+                            {
+                                "hash": 1890422124,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8e910e56aa6e36b2c406804e1d78d04f.png",
+                                "isSelected": false,
+                                "name": "Tap the Trigger"
+                            },
+                            {
+                                "hash": 4071163871,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png",
+                                "isSelected": false,
+                                "name": "Threat Detector"
+                            },
+                            {
+                                "hash": 1645158859,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a88b6ed7519cb27fd608c5743ca20b1.png",
+                                "isSelected": false,
+                                "name": "Under Pressure"
                             }
                         ],
                         "socketIndex": 2
@@ -2913,44 +3236,52 @@ export const WeaponTypes = [
                         "name": "Sight",
                         "perks": [
                             {
-                                "hash": 194952923,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/010083bb9d36a731d718dd6b452a47c5.png",
-                                "name": "Signal MS5"
-                            },
-                            {
-                                "hash": 194952922,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c9ea3527b2603c17a535d4a03181e5a4.png",
-                                "name": "Impulse MS3"
-                            },
-                            {
-                                "hash": 194952921,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f6145ea5eb665526dcee99322af82155.png",
-                                "name": "Transmission MS7"
-                            },
-                            {
                                 "hash": 1409978309,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/43ffd338e67c18c493d164ae7fce1a67.png",
+                                "isSelected": false,
                                 "name": "Candle PS"
-                            },
-                            {
-                                "hash": 1409978308,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9e393dee39c4b8e1cb22f3e17941c5d7.png",
-                                "name": "Spark PS"
-                            },
-                            {
-                                "hash": 1409978311,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e723f253d3344d0f160f6f07a41b2306.png",
-                                "name": "Jolt PS"
                             },
                             {
                                 "hash": 1628165637,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/72ce21836b1b8215c73d50b8758d4478.png",
+                                "isSelected": false,
                                 "name": "Flash HS5"
+                            },
+                            {
+                                "hash": 194952922,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c9ea3527b2603c17a535d4a03181e5a4.png",
+                                "isSelected": false,
+                                "name": "Impulse MS3"
+                            },
+                            {
+                                "hash": 1409978311,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e723f253d3344d0f160f6f07a41b2306.png",
+                                "isSelected": false,
+                                "name": "Jolt PS"
+                            },
+                            {
+                                "hash": 194952923,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/010083bb9d36a731d718dd6b452a47c5.png",
+                                "isSelected": false,
+                                "name": "Signal MS5"
+                            },
+                            {
+                                "hash": 1409978308,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9e393dee39c4b8e1cb22f3e17941c5d7.png",
+                                "isSelected": false,
+                                "name": "Spark PS"
                             },
                             {
                                 "hash": 1628165636,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e201e87afdccbd4d739834b2d2b520e1.png",
+                                "isSelected": false,
                                 "name": "Torch HS3"
+                            },
+                            {
+                                "hash": 194952921,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f6145ea5eb665526dcee99322af82155.png",
+                                "isSelected": false,
+                                "name": "Transmission MS7"
                             }
                         ],
                         "socketIndex": 0
@@ -2961,31 +3292,37 @@ export const WeaponTypes = [
                             {
                                 "hash": 689005463,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/231f0b02ac3bb5a19aa4b4c82fbf90a4.png",
+                                "isSelected": false,
                                 "name": "Accelerated Coils"
                             },
                             {
                                 "hash": 2680121939,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fba0bbb5a21b74ebe59f394f2319098c.png",
+                                "isSelected": false,
                                 "name": "Enhanced Battery"
                             },
                             {
                                 "hash": 1483536627,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/51460192e92adf82869709d44073774c.png",
+                                "isSelected": false,
                                 "name": "Ionized Battery"
                             },
                             {
                                 "hash": 1687452232,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/381b7a519ca06b70b5ff8f793dfad038.png",
+                                "isSelected": false,
                                 "name": "Liquid Coils"
                             },
                             {
                                 "hash": 3868766766,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c38ffa488ea6747f8acbfbdb93f3e5a2.png",
+                                "isSelected": false,
                                 "name": "Particle Repeater"
                             },
                             {
                                 "hash": 2969185026,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/253e7147a06242e8305ddf1c5571a9fc.png",
+                                "isSelected": false,
                                 "name": "Projection Fuse"
                             }
                         ],
@@ -2995,74 +3332,88 @@ export const WeaponTypes = [
                         "name": "traits",
                         "perks": [
                             {
-                                "hash": 1645158859,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a88b6ed7519cb27fd608c5743ca20b1.png",
-                                "name": "Under Pressure"
-                            },
-                            {
-                                "hash": 280464955,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc9da416fe98c79b59074403084765b7.png",
-                                "name": "Firmly Planted"
-                            },
-                            {
                                 "hash": 3300816228,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d355b1117307c9f187729249361cecc3.png",
+                                "isSelected": false,
                                 "name": "Auto-Loading Holster"
-                            },
-                            {
-                                "hash": 957782887,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
-                                "name": "Snapshot Sights"
-                            },
-                            {
-                                "hash": 588594999,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
-                                "name": "Moving Target"
-                            },
-                            {
-                                "hash": 1866048759,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9f3c3ae1bddbed21af1cc6487338028e.png",
-                                "name": "Hip-Fire Grip"
-                            },
-                            {
-                                "hash": 4071163871,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png",
-                                "name": "Threat Detector"
                             },
                             {
                                 "hash": 1600092898,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/89c3bf4e4ba2fd744abf6371b783c56f.png",
+                                "isSelected": false,
                                 "name": "Backup Plan"
                             },
                             {
-                                "hash": 1015611457,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
-                                "name": "Kill Clip"
-                            },
-                            {
-                                "hash": 3425386926,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
-                                "name": "Rampage"
+                                "hash": 280464955,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc9da416fe98c79b59074403084765b7.png",
+                                "isSelected": false,
+                                "name": "Firmly Planted"
                             },
                             {
                                 "hash": 2213355989,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bee920445b5d0ccb01814d2e6fcea27b.png",
+                                "isSelected": false,
                                 "name": "High-Impact Reserves"
                             },
                             {
-                                "hash": 2846385770,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png",
-                                "name": "Rangefinder"
+                                "hash": 1866048759,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9f3c3ae1bddbed21af1cc6487338028e.png",
+                                "isSelected": false,
+                                "name": "Hip-Fire Grip"
+                            },
+                            {
+                                "hash": 1015611457,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
+                                "isSelected": false,
+                                "name": "Kill Clip"
+                            },
+                            {
+                                "hash": 588594999,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
+                                "isSelected": false,
+                                "name": "Moving Target"
                             },
                             {
                                 "hash": 706527188,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png",
+                                "isSelected": false,
                                 "name": "Quickdraw"
+                            },
+                            {
+                                "hash": 3425386926,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
+                                "isSelected": false,
+                                "name": "Rampage"
+                            },
+                            {
+                                "hash": 2846385770,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png",
+                                "isSelected": false,
+                                "name": "Rangefinder"
+                            },
+                            {
+                                "hash": 957782887,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
+                                "isSelected": false,
+                                "name": "Snapshot Sights"
                             },
                             {
                                 "hash": 1890422124,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8e910e56aa6e36b2c406804e1d78d04f.png",
+                                "isSelected": false,
                                 "name": "Tap the Trigger"
+                            },
+                            {
+                                "hash": 4071163871,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png",
+                                "isSelected": false,
+                                "name": "Threat Detector"
+                            },
+                            {
+                                "hash": 1645158859,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a88b6ed7519cb27fd608c5743ca20b1.png",
+                                "isSelected": false,
+                                "name": "Under Pressure"
                             }
                         ],
                         "socketIndex": 2
@@ -3135,39 +3486,46 @@ export const WeaponTypes = [
                         "name": "Launcher Barrel",
                         "perks": [
                             {
-                                "hash": 1478423395,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/402765b86ff7b1d97078ac43d5ca39ad.png",
-                                "name": "Volatile Launch"
-                            },
-                            {
                                 "hash": 1844523823,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c9439f5d740d017dc9551a60a902c797.png",
+                                "isSelected": false,
                                 "name": "Confined Launch"
                             },
                             {
                                 "hash": 3809316345,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b1e34eabc2ad012b6258436e80705b49.png",
+                                "isSelected": false,
                                 "name": "Countermass"
                             },
                             {
                                 "hash": 981914802,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/823b8ae4f48bca3bb5586167c1666781.png",
+                                "isSelected": false,
                                 "name": "Hard Launch"
                             },
                             {
                                 "hash": 1441682018,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/eab8eeedc70188ad3798b6ca84fbb7cb.png",
+                                "isSelected": false,
                                 "name": "Linear Compensator"
                             },
                             {
                                 "hash": 3525010810,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/11664d61e115d9a59bd969b87081f1a6.png",
+                                "isSelected": false,
                                 "name": "Quick Launch"
                             },
                             {
                                 "hash": 3798852852,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/52a4646804b96ed190f1e1ae97b64e17.png",
+                                "isSelected": false,
                                 "name": "Smart Drift Control"
+                            },
+                            {
+                                "hash": 1478423395,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/402765b86ff7b1d97078ac43d5ca39ad.png",
+                                "isSelected": false,
+                                "name": "Volatile Launch"
                             }
                         ],
                         "socketIndex": 0
@@ -3176,49 +3534,58 @@ export const WeaponTypes = [
                         "name": "Magazine",
                         "perks": [
                             {
-                                "hash": 2870095399,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/3d54724d818519a24544238881123a7b.png",
-                                "name": "Thermoplastic Grenades"
-                            },
-                            {
-                                "hash": 409831596,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/88869f977fa3d145c1ece3e38c070bd2.png",
-                                "name": "Proximity Grenades"
-                            },
-                            {
-                                "hash": 3301904089,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c733f59957e33024af80e648729321ad.png",
-                                "name": "Spike Grenades"
-                            },
-                            {
                                 "hash": 2985827016,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/edbc74db634e0848209b885550c6c7a0.png",
+                                "isSelected": false,
                                 "name": "Alloy Casing"
                             },
                             {
                                 "hash": 1771897777,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e3aa5ad6714f4dc3725b99b67b98b1a0.png",
+                                "isSelected": false,
                                 "name": "Augmented Drum"
                             },
                             {
                                 "hash": 1380253176,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/82cd3e77e62dd4f9f9b1ad1a961758fd.png",
+                                "isSelected": false,
                                 "name": "High-Explosive Ordnance"
                             },
                             {
                                 "hash": 2822142346,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d541a7c35981cb9caceaf3736097adb9.png",
+                                "isSelected": false,
                                 "name": "High-Velocity Rounds"
                             },
                             {
                                 "hash": 332133599,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0e409b3efdb001c3e9e5548c0b225708.png",
+                                "isSelected": false,
                                 "name": "Mini Frags"
+                            },
+                            {
+                                "hash": 409831596,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/88869f977fa3d145c1ece3e38c070bd2.png",
+                                "isSelected": false,
+                                "name": "Proximity Grenades"
+                            },
+                            {
+                                "hash": 3301904089,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c733f59957e33024af80e648729321ad.png",
+                                "isSelected": false,
+                                "name": "Spike Grenades"
                             },
                             {
                                 "hash": 3373736292,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e792675af3774d031a5d30d3824d6e27.png",
+                                "isSelected": false,
                                 "name": "Sticky Grenades"
+                            },
+                            {
+                                "hash": 2870095399,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/3d54724d818519a24544238881123a7b.png",
+                                "isSelected": false,
+                                "name": "Thermoplastic Grenades"
                             }
                         ],
                         "socketIndex": 1
@@ -3227,64 +3594,76 @@ export const WeaponTypes = [
                         "name": "traits",
                         "perks": [
                             {
-                                "hash": 2846385770,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png",
-                                "name": "Rangefinder"
-                            },
-                            {
-                                "hash": 2869569095,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fd815414532978ad2e5decbfc416b9e4.png",
-                                "name": "Field Prep"
+                                "hash": 2010801679,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/df460693665b7b4dd42f1706e5fbb9e1.png",
+                                "isSelected": false,
+                                "name": "Ambitious Assassin"
                             },
                             {
                                 "hash": 3300816228,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d355b1117307c9f187729249361cecc3.png",
+                                "isSelected": false,
                                 "name": "Auto-Loading Holster"
+                            },
+                            {
+                                "hash": 3523296417,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/53ead908917c9156457c7c9dd453d649.png",
+                                "isSelected": false,
+                                "name": "Demolitionist"
+                            },
+                            {
+                                "hash": 2869569095,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fd815414532978ad2e5decbfc416b9e4.png",
+                                "isSelected": false,
+                                "name": "Field Prep"
+                            },
+                            {
+                                "hash": 2888557110,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/6d5acc4b07eefadc05db67c922b15fd5.png",
+                                "isSelected": false,
+                                "name": "Full Court"
+                            },
+                            {
+                                "hash": 3096702027,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e52e3441db003abe3aa2b8a2f7fda730.png",
+                                "isSelected": false,
+                                "name": "Genesis"
+                            },
+                            {
+                                "hash": 972757866,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8f55a0d8cd93d9830480239350c022b1.png",
+                                "isSelected": false,
+                                "name": "Pulse Monitor"
+                            },
+                            {
+                                "hash": 706527188,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png",
+                                "isSelected": false,
+                                "name": "Quickdraw"
+                            },
+                            {
+                                "hash": 3425386926,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
+                                "isSelected": false,
+                                "name": "Rampage"
+                            },
+                            {
+                                "hash": 2846385770,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png",
+                                "isSelected": false,
+                                "name": "Rangefinder"
                             },
                             {
                                 "hash": 957782887,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
+                                "isSelected": false,
                                 "name": "Snapshot Sights"
                             },
                             {
                                 "hash": 4071163871,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png",
+                                "isSelected": false,
                                 "name": "Threat Detector"
-                            },
-                            {
-                                "hash": 3096702027,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e52e3441db003abe3aa2b8a2f7fda730.png",
-                                "name": "Genesis"
-                            },
-                            {
-                                "hash": 2010801679,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/df460693665b7b4dd42f1706e5fbb9e1.png",
-                                "name": "Ambitious Assassin"
-                            },
-                            {
-                                "hash": 3425386926,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
-                                "name": "Rampage"
-                            },
-                            {
-                                "hash": 706527188,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png",
-                                "name": "Quickdraw"
-                            },
-                            {
-                                "hash": 3523296417,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/53ead908917c9156457c7c9dd453d649.png",
-                                "name": "Demolitionist"
-                            },
-                            {
-                                "hash": 2888557110,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/6d5acc4b07eefadc05db67c922b15fd5.png",
-                                "name": "Full Court"
-                            },
-                            {
-                                "hash": 972757866,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8f55a0d8cd93d9830480239350c022b1.png",
-                                "name": "Pulse Monitor"
                             }
                         ],
                         "socketIndex": 2
@@ -3496,39 +3875,46 @@ export const WeaponTypes = [
                         "name": "Launcher Barrel",
                         "perks": [
                             {
-                                "hash": 3809316345,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b1e34eabc2ad012b6258436e80705b49.png",
-                                "name": "Countermass"
-                            },
-                            {
-                                "hash": 1478423395,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/402765b86ff7b1d97078ac43d5ca39ad.png",
-                                "name": "Volatile Launch"
-                            },
-                            {
                                 "hash": 1844523823,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c9439f5d740d017dc9551a60a902c797.png",
+                                "isSelected": false,
                                 "name": "Confined Launch"
+                            },
+                            {
+                                "hash": 3809316345,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b1e34eabc2ad012b6258436e80705b49.png",
+                                "isSelected": false,
+                                "name": "Countermass"
                             },
                             {
                                 "hash": 981914802,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/823b8ae4f48bca3bb5586167c1666781.png",
+                                "isSelected": false,
                                 "name": "Hard Launch"
                             },
                             {
                                 "hash": 1441682018,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/eab8eeedc70188ad3798b6ca84fbb7cb.png",
+                                "isSelected": false,
                                 "name": "Linear Compensator"
                             },
                             {
                                 "hash": 3525010810,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/11664d61e115d9a59bd969b87081f1a6.png",
+                                "isSelected": false,
                                 "name": "Quick Launch"
                             },
                             {
                                 "hash": 3798852852,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/52a4646804b96ed190f1e1ae97b64e17.png",
+                                "isSelected": false,
                                 "name": "Smart Drift Control"
+                            },
+                            {
+                                "hash": 1478423395,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/402765b86ff7b1d97078ac43d5ca39ad.png",
+                                "isSelected": false,
+                                "name": "Volatile Launch"
                             }
                         ],
                         "socketIndex": 0
@@ -3537,64 +3923,76 @@ export const WeaponTypes = [
                         "name": "Magazine",
                         "perks": [
                             {
-                                "hash": 3999527219,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c5b56ee902b4a09ddbf3f21d21ddf8ee.png",
-                                "name": "Remote Detonation"
-                            },
-                            {
-                                "hash": 2870095399,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/3d54724d818519a24544238881123a7b.png",
-                                "name": "Thermoplastic Grenades"
-                            },
-                            {
-                                "hash": 409831596,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/88869f977fa3d145c1ece3e38c070bd2.png",
-                                "name": "Proximity Grenades"
-                            },
-                            {
-                                "hash": 3301904089,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c733f59957e33024af80e648729321ad.png",
-                                "name": "Spike Grenades"
-                            },
-                            {
                                 "hash": 2985827016,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/edbc74db634e0848209b885550c6c7a0.png",
+                                "isSelected": false,
                                 "name": "Alloy Casing"
                             },
                             {
                                 "hash": 1771897777,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e3aa5ad6714f4dc3725b99b67b98b1a0.png",
+                                "isSelected": false,
                                 "name": "Augmented Drum"
-                            },
-                            {
-                                "hash": 1380253176,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/82cd3e77e62dd4f9f9b1ad1a961758fd.png",
-                                "name": "High-Explosive Ordnance"
-                            },
-                            {
-                                "hash": 2822142346,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d541a7c35981cb9caceaf3736097adb9.png",
-                                "name": "High-Velocity Rounds"
-                            },
-                            {
-                                "hash": 332133599,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0e409b3efdb001c3e9e5548c0b225708.png",
-                                "name": "Mini Frags"
-                            },
-                            {
-                                "hash": 3373736292,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e792675af3774d031a5d30d3824d6e27.png",
-                                "name": "Sticky Grenades"
                             },
                             {
                                 "hash": 1996142143,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fadc2600c37a417f532a3735caff04ac.png",
+                                "isSelected": false,
                                 "name": "Black Powder"
                             },
                             {
                                 "hash": 1716000303,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ae0beb8cb2fe22d8a6176dc333c4a140.png",
+                                "isSelected": false,
                                 "name": "Concussion Grenades"
+                            },
+                            {
+                                "hash": 1380253176,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/82cd3e77e62dd4f9f9b1ad1a961758fd.png",
+                                "isSelected": false,
+                                "name": "High-Explosive Ordnance"
+                            },
+                            {
+                                "hash": 2822142346,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d541a7c35981cb9caceaf3736097adb9.png",
+                                "isSelected": false,
+                                "name": "High-Velocity Rounds"
+                            },
+                            {
+                                "hash": 332133599,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0e409b3efdb001c3e9e5548c0b225708.png",
+                                "isSelected": false,
+                                "name": "Mini Frags"
+                            },
+                            {
+                                "hash": 409831596,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/88869f977fa3d145c1ece3e38c070bd2.png",
+                                "isSelected": false,
+                                "name": "Proximity Grenades"
+                            },
+                            {
+                                "hash": 3999527219,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c5b56ee902b4a09ddbf3f21d21ddf8ee.png",
+                                "isSelected": false,
+                                "name": "Remote Detonation"
+                            },
+                            {
+                                "hash": 3301904089,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c733f59957e33024af80e648729321ad.png",
+                                "isSelected": false,
+                                "name": "Spike Grenades"
+                            },
+                            {
+                                "hash": 3373736292,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e792675af3774d031a5d30d3824d6e27.png",
+                                "isSelected": false,
+                                "name": "Sticky Grenades"
+                            },
+                            {
+                                "hash": 2870095399,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/3d54724d818519a24544238881123a7b.png",
+                                "isSelected": false,
+                                "name": "Thermoplastic Grenades"
                             }
                         ],
                         "socketIndex": 1
@@ -3603,54 +4001,64 @@ export const WeaponTypes = [
                         "name": "traits",
                         "perks": [
                             {
+                                "hash": 2010801679,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/df460693665b7b4dd42f1706e5fbb9e1.png",
+                                "isSelected": false,
+                                "name": "Ambitious Assassin"
+                            },
+                            {
+                                "hash": 3300816228,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d355b1117307c9f187729249361cecc3.png",
+                                "isSelected": false,
+                                "name": "Auto-Loading Holster"
+                            },
+                            {
+                                "hash": 2869569095,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fd815414532978ad2e5decbfc416b9e4.png",
+                                "isSelected": false,
+                                "name": "Field Prep"
+                            },
+                            {
+                                "hash": 3096702027,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e52e3441db003abe3aa2b8a2f7fda730.png",
+                                "isSelected": false,
+                                "name": "Genesis"
+                            },
+                            {
+                                "hash": 972757866,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8f55a0d8cd93d9830480239350c022b1.png",
+                                "isSelected": false,
+                                "name": "Pulse Monitor"
+                            },
+                            {
                                 "hash": 706527188,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png",
+                                "isSelected": false,
                                 "name": "Quickdraw"
                             },
                             {
                                 "hash": 3425386926,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
+                                "isSelected": false,
                                 "name": "Rampage"
                             },
                             {
                                 "hash": 2846385770,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png",
+                                "isSelected": false,
                                 "name": "Rangefinder"
-                            },
-                            {
-                                "hash": 2869569095,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fd815414532978ad2e5decbfc416b9e4.png",
-                                "name": "Field Prep"
-                            },
-                            {
-                                "hash": 3300816228,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d355b1117307c9f187729249361cecc3.png",
-                                "name": "Auto-Loading Holster"
                             },
                             {
                                 "hash": 957782887,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
+                                "isSelected": false,
                                 "name": "Snapshot Sights"
                             },
                             {
                                 "hash": 4071163871,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png",
+                                "isSelected": false,
                                 "name": "Threat Detector"
-                            },
-                            {
-                                "hash": 3096702027,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e52e3441db003abe3aa2b8a2f7fda730.png",
-                                "name": "Genesis"
-                            },
-                            {
-                                "hash": 2010801679,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/df460693665b7b4dd42f1706e5fbb9e1.png",
-                                "name": "Ambitious Assassin"
-                            },
-                            {
-                                "hash": 972757866,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8f55a0d8cd93d9830480239350c022b1.png",
-                                "name": "Pulse Monitor"
                             }
                         ],
                         "socketIndex": 2
@@ -3841,39 +4249,46 @@ export const WeaponTypes = [
                         "name": "Launcher Barrel",
                         "perks": [
                             {
-                                "hash": 1478423395,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/402765b86ff7b1d97078ac43d5ca39ad.png",
-                                "name": "Volatile Launch"
-                            },
-                            {
                                 "hash": 1844523823,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c9439f5d740d017dc9551a60a902c797.png",
+                                "isSelected": false,
                                 "name": "Confined Launch"
                             },
                             {
                                 "hash": 3809316345,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b1e34eabc2ad012b6258436e80705b49.png",
+                                "isSelected": false,
                                 "name": "Countermass"
                             },
                             {
                                 "hash": 981914802,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/823b8ae4f48bca3bb5586167c1666781.png",
+                                "isSelected": false,
                                 "name": "Hard Launch"
                             },
                             {
                                 "hash": 1441682018,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/eab8eeedc70188ad3798b6ca84fbb7cb.png",
+                                "isSelected": false,
                                 "name": "Linear Compensator"
                             },
                             {
                                 "hash": 3525010810,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/11664d61e115d9a59bd969b87081f1a6.png",
+                                "isSelected": false,
                                 "name": "Quick Launch"
                             },
                             {
                                 "hash": 3798852852,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/52a4646804b96ed190f1e1ae97b64e17.png",
+                                "isSelected": false,
                                 "name": "Smart Drift Control"
+                            },
+                            {
+                                "hash": 1478423395,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/402765b86ff7b1d97078ac43d5ca39ad.png",
+                                "isSelected": false,
+                                "name": "Volatile Launch"
                             }
                         ],
                         "socketIndex": 0
@@ -3884,32 +4299,38 @@ export const WeaponTypes = [
                             {
                                 "hash": 3032599245,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c0dde588e1a32760621859e496d2e657.png",
+                                "isSelected": false,
                                 "name": "Blinding Grenades"
                             },
                             {
-                                "hash": 409831596,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/88869f977fa3d145c1ece3e38c070bd2.png",
-                                "name": "Proximity Grenades"
-                            },
-                            {
-                                "hash": 3301904089,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c733f59957e33024af80e648729321ad.png",
-                                "name": "Spike Grenades"
+                                "hash": 1716000303,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ae0beb8cb2fe22d8a6176dc333c4a140.png",
+                                "isSelected": false,
+                                "name": "Concussion Grenades"
                             },
                             {
                                 "hash": 2822142346,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d541a7c35981cb9caceaf3736097adb9.png",
+                                "isSelected": false,
                                 "name": "High-Velocity Rounds"
                             },
                             {
                                 "hash": 3492396210,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/2a0232f77cee68e2945d11808f5a1d96.png",
+                                "isSelected": false,
                                 "name": "Implosion Rounds"
                             },
                             {
-                                "hash": 1716000303,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ae0beb8cb2fe22d8a6176dc333c4a140.png",
-                                "name": "Concussion Grenades"
+                                "hash": 409831596,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/88869f977fa3d145c1ece3e38c070bd2.png",
+                                "isSelected": false,
+                                "name": "Proximity Grenades"
+                            },
+                            {
+                                "hash": 3301904089,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c733f59957e33024af80e648729321ad.png",
+                                "isSelected": false,
+                                "name": "Spike Grenades"
                             }
                         ],
                         "socketIndex": 1
@@ -3918,69 +4339,82 @@ export const WeaponTypes = [
                         "name": "traits",
                         "perks": [
                             {
-                                "hash": 1631667848,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/83e206ebea83f76d9969efea7134ddcc.png",
-                                "name": "Grave Robber"
-                            },
-                            {
-                                "hash": 706527188,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png",
-                                "name": "Quickdraw"
-                            },
-                            {
-                                "hash": 4071163871,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png",
-                                "name": "Threat Detector"
-                            },
-                            {
-                                "hash": 2869569095,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fd815414532978ad2e5decbfc416b9e4.png",
-                                "name": "Field Prep"
-                            },
-                            {
-                                "hash": 972757866,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8f55a0d8cd93d9830480239350c022b1.png",
-                                "name": "Pulse Monitor"
-                            },
-                            {
-                                "hash": 2846385770,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png",
-                                "name": "Rangefinder"
+                                "hash": 2010801679,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/df460693665b7b4dd42f1706e5fbb9e1.png",
+                                "isSelected": false,
+                                "name": "Ambitious Assassin"
                             },
                             {
                                 "hash": 3300816228,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d355b1117307c9f187729249361cecc3.png",
+                                "isSelected": false,
                                 "name": "Auto-Loading Holster"
-                            },
-                            {
-                                "hash": 957782887,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
-                                "name": "Snapshot Sights"
-                            },
-                            {
-                                "hash": 588594999,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
-                                "name": "Moving Target"
                             },
                             {
                                 "hash": 3523296417,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/53ead908917c9156457c7c9dd453d649.png",
+                                "isSelected": false,
                                 "name": "Demolitionist"
+                            },
+                            {
+                                "hash": 2869569095,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fd815414532978ad2e5decbfc416b9e4.png",
+                                "isSelected": false,
+                                "name": "Field Prep"
                             },
                             {
                                 "hash": 3096702027,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e52e3441db003abe3aa2b8a2f7fda730.png",
+                                "isSelected": false,
                                 "name": "Genesis"
                             },
                             {
-                                "hash": 2010801679,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/df460693665b7b4dd42f1706e5fbb9e1.png",
-                                "name": "Ambitious Assassin"
+                                "hash": 1631667848,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/83e206ebea83f76d9969efea7134ddcc.png",
+                                "isSelected": false,
+                                "name": "Grave Robber"
                             },
                             {
                                 "hash": 3713839994,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22a38b81cb2ec0fe9811b5440a52b223.png",
+                                "isSelected": false,
                                 "name": "Micro-Missile"
+                            },
+                            {
+                                "hash": 588594999,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
+                                "isSelected": false,
+                                "name": "Moving Target"
+                            },
+                            {
+                                "hash": 972757866,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8f55a0d8cd93d9830480239350c022b1.png",
+                                "isSelected": false,
+                                "name": "Pulse Monitor"
+                            },
+                            {
+                                "hash": 706527188,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png",
+                                "isSelected": false,
+                                "name": "Quickdraw"
+                            },
+                            {
+                                "hash": 2846385770,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png",
+                                "isSelected": false,
+                                "name": "Rangefinder"
+                            },
+                            {
+                                "hash": 957782887,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
+                                "isSelected": false,
+                                "name": "Snapshot Sights"
+                            },
+                            {
+                                "hash": 4071163871,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png",
+                                "isSelected": false,
+                                "name": "Threat Detector"
                             }
                         ],
                         "socketIndex": 2
@@ -4121,79 +4555,94 @@ export const WeaponTypes = [
                         "name": "Sight",
                         "perks": [
                             {
-                                "hash": 1926090094,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/87eb658505fb3503265eb67cd7855c4c.png",
-                                "name": "Fastdraw HCS"
-                            },
-                            {
-                                "hash": 1926090095,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/87eb658505fb3503265eb67cd7855c4c.png",
-                                "name": "SteadyHand HCS"
-                            },
-                            {
-                                "hash": 1926090092,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/87eb658505fb3503265eb67cd7855c4c.png",
-                                "name": "TrueSight HCS"
-                            },
-                            {
-                                "hash": 1926090093,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/87eb658505fb3503265eb67cd7855c4c.png",
-                                "name": "HitMark HCS"
-                            },
-                            {
-                                "hash": 1926090090,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/87eb658505fb3503265eb67cd7855c4c.png",
-                                "name": "Crossfire HCS"
-                            },
-                            {
-                                "hash": 1926090091,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/87eb658505fb3503265eb67cd7855c4c.png",
-                                "name": "Sureshot HCS"
-                            },
-                            {
                                 "hash": 839105230,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png",
+                                "isSelected": false,
                                 "name": "Arrowhead Brake"
                             },
                             {
                                 "hash": 3661387068,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/376aa9bd8c392567f501012fc3b3d4d0.png",
+                                "isSelected": false,
                                 "name": "Chambered Compensator"
                             },
                             {
                                 "hash": 4090651448,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/18cc75bf9a17bb80b5109f1b8909521f.png",
+                                "isSelected": false,
                                 "name": "Corkscrew Rifling"
+                            },
+                            {
+                                "hash": 1926090090,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/87eb658505fb3503265eb67cd7855c4c.png",
+                                "isSelected": false,
+                                "name": "Crossfire HCS"
                             },
                             {
                                 "hash": 1467527085,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/151465ba86df34438248aad2248cce32.png",
+                                "isSelected": false,
                                 "name": "Extended Barrel"
+                            },
+                            {
+                                "hash": 1926090094,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/87eb658505fb3503265eb67cd7855c4c.png",
+                                "isSelected": false,
+                                "name": "Fastdraw HCS"
                             },
                             {
                                 "hash": 1840239774,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png",
+                                "isSelected": false,
                                 "name": "Fluted Barrel"
                             },
                             {
                                 "hash": 202670084,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9307c5604f995d90ad5ed65281b64772.png",
+                                "isSelected": false,
                                 "name": "Full Bore"
                             },
                             {
                                 "hash": 3250034553,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9acb073d4e85160f66f0d617d210cf61.png",
+                                "isSelected": false,
                                 "name": "Hammer-Forged Rifling"
+                            },
+                            {
+                                "hash": 1926090093,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/87eb658505fb3503265eb67cd7855c4c.png",
+                                "isSelected": false,
+                                "name": "HitMark HCS"
                             },
                             {
                                 "hash": 1392496348,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7cadd68b66ffd3bbedc09aa9c7ba6e03.png",
+                                "isSelected": false,
                                 "name": "Polygonal Rifling"
                             },
                             {
                                 "hash": 1482024992,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png",
+                                "isSelected": false,
                                 "name": "Smallbore"
+                            },
+                            {
+                                "hash": 1926090095,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/87eb658505fb3503265eb67cd7855c4c.png",
+                                "isSelected": false,
+                                "name": "SteadyHand HCS"
+                            },
+                            {
+                                "hash": 1926090091,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/87eb658505fb3503265eb67cd7855c4c.png",
+                                "isSelected": false,
+                                "name": "Sureshot HCS"
+                            },
+                            {
+                                "hash": 1926090092,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/87eb658505fb3503265eb67cd7855c4c.png",
+                                "isSelected": false,
+                                "name": "TrueSight HCS"
                             }
                         ],
                         "socketIndex": 0
@@ -4204,42 +4653,50 @@ export const WeaponTypes = [
                             {
                                 "hash": 3142289711,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png",
+                                "isSelected": false,
                                 "name": "Accurized Rounds"
-                            },
-                            {
-                                "hash": 4134353779,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d316be9e70844427e69034b0f06bec75.png",
-                                "name": "Drop Mag"
-                            },
-                            {
-                                "hash": 1087426260,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9d8a7be4c2fef471a6fde38d02ab8dae.png",
-                                "name": "Appended Mag"
-                            },
-                            {
-                                "hash": 106909392,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9711e6d3de7a9cf2f844752992390a63.png",
-                                "name": "Tactical Mag"
-                            },
-                            {
-                                "hash": 2420895100,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
-                                "name": "Extended Mag"
-                            },
-                            {
-                                "hash": 3177308360,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/adaf4315dab749519c41a233e9954598.png",
-                                "name": "Steady Rounds"
                             },
                             {
                                 "hash": 1431678320,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/932e7b84c233c6cc49a58058f8c5144d.png",
+                                "isSelected": false,
                                 "name": "Alloy Magazine"
+                            },
+                            {
+                                "hash": 1087426260,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9d8a7be4c2fef471a6fde38d02ab8dae.png",
+                                "isSelected": false,
+                                "name": "Appended Mag"
+                            },
+                            {
+                                "hash": 4134353779,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d316be9e70844427e69034b0f06bec75.png",
+                                "isSelected": false,
+                                "name": "Drop Mag"
+                            },
+                            {
+                                "hash": 2420895100,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
+                                "isSelected": false,
+                                "name": "Extended Mag"
                             },
                             {
                                 "hash": 3230963543,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ec1bca64fc9709678ea5c297c0e64c19.png",
+                                "isSelected": false,
                                 "name": "Flared Magwell"
+                            },
+                            {
+                                "hash": 3177308360,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/adaf4315dab749519c41a233e9954598.png",
+                                "isSelected": false,
+                                "name": "Steady Rounds"
+                            },
+                            {
+                                "hash": 106909392,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9711e6d3de7a9cf2f844752992390a63.png",
+                                "isSelected": false,
+                                "name": "Tactical Mag"
                             }
                         ],
                         "socketIndex": 1
@@ -4248,114 +4705,136 @@ export const WeaponTypes = [
                         "name": "traits",
                         "perks": [
                             {
-                                "hash": 588594999,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
-                                "name": "Moving Target"
-                            },
-                            {
-                                "hash": 1168162263,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
-                                "name": "Outlaw"
+                                "hash": 2010801679,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/df460693665b7b4dd42f1706e5fbb9e1.png",
+                                "isSelected": false,
+                                "name": "Ambitious Assassin"
                             },
                             {
                                 "hash": 3300816228,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d355b1117307c9f187729249361cecc3.png",
+                                "isSelected": false,
                                 "name": "Auto-Loading Holster"
                             },
                             {
-                                "hash": 2846385770,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png",
-                                "name": "Rangefinder"
+                                "hash": 1683379515,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/5b83b3c3fc474c9716e54b4dfe4a862b.png",
+                                "isSelected": false,
+                                "name": "Disruption Break"
                             },
                             {
-                                "hash": 4071163871,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png",
-                                "name": "Threat Detector"
-                            },
-                            {
-                                "hash": 3400784728,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/44cc0f78fd98d462dc4914dbe203dc49.png",
-                                "name": "Triple Tap"
-                            },
-                            {
-                                "hash": 957782887,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
-                                "name": "Snapshot Sights"
-                            },
-                            {
-                                "hash": 1954620775,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4f7e5ea70d72e3b01614a8e8a1b96735.png",
-                                "name": "Timed Payload"
-                            },
-                            {
-                                "hash": 1015611457,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
-                                "name": "Kill Clip"
+                                "hash": 3038247973,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d41dd918d42681c5b0ad00880274b22c.png",
+                                "isSelected": false,
+                                "name": "Explosive Payload"
                             },
                             {
                                 "hash": 2869569095,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fd815414532978ad2e5decbfc416b9e4.png",
+                                "isSelected": false,
                                 "name": "Field Prep"
                             },
                             {
                                 "hash": 1866048759,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9f3c3ae1bddbed21af1cc6487338028e.png",
+                                "isSelected": false,
                                 "name": "Hip-Fire Grip"
                             },
                             {
-                                "hash": 2387244414,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49958f356ea1df930888d15fe6539fe1.png",
-                                "name": "Zen Moment"
+                                "hash": 1015611457,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
+                                "isSelected": false,
+                                "name": "Kill Clip"
+                            },
+                            {
+                                "hash": 588594999,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
+                                "isSelected": false,
+                                "name": "Moving Target"
                             },
                             {
                                 "hash": 47981717,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0fd9dbe1c09b8cc7d0be888c68ff4526.png",
+                                "isSelected": false,
                                 "name": "Opening Shot"
                             },
                             {
-                                "hash": 3038247973,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d41dd918d42681c5b0ad00880274b22c.png",
-                                "name": "Explosive Payload"
-                            },
-                            {
-                                "hash": 2010801679,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/df460693665b7b4dd42f1706e5fbb9e1.png",
-                                "name": "Ambitious Assassin"
-                            },
-                            {
-                                "hash": 3425386926,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
-                                "name": "Rampage"
+                                "hash": 1168162263,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
+                                "isSelected": false,
+                                "name": "Outlaw"
                             },
                             {
                                 "hash": 706527188,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png",
+                                "isSelected": false,
                                 "name": "Quickdraw"
                             },
                             {
-                                "hash": 3161816588,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fa7ba2abcd8effd143e287668d7c865b.png",
-                                "name": "Slideshot"
+                                "hash": 3425386926,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
+                                "isSelected": false,
+                                "name": "Rampage"
                             },
                             {
-                                "hash": 3708227201,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0dbd2b11fd1343c11b4559c7a72ae8da.png",
-                                "name": "Surrounded"
-                            },
-                            {
-                                "hash": 3275789089,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7b527f4401012c2acf400759338c31f8.png",
-                                "name": "Shield Disorient"
+                                "hash": 2846385770,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png",
+                                "isSelected": false,
+                                "name": "Rangefinder"
                             },
                             {
                                 "hash": 247725512,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/56f26a865c24a6a10cb4177794eb7788.png",
+                                "isSelected": false,
                                 "name": "Rapid Hit"
                             },
                             {
-                                "hash": 1683379515,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/5b83b3c3fc474c9716e54b4dfe4a862b.png",
-                                "name": "Disruption Break"
+                                "hash": 3275789089,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7b527f4401012c2acf400759338c31f8.png",
+                                "isSelected": false,
+                                "name": "Shield Disorient"
+                            },
+                            {
+                                "hash": 3161816588,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fa7ba2abcd8effd143e287668d7c865b.png",
+                                "isSelected": false,
+                                "name": "Slideshot"
+                            },
+                            {
+                                "hash": 957782887,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
+                                "isSelected": false,
+                                "name": "Snapshot Sights"
+                            },
+                            {
+                                "hash": 3708227201,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0dbd2b11fd1343c11b4559c7a72ae8da.png",
+                                "isSelected": false,
+                                "name": "Surrounded"
+                            },
+                            {
+                                "hash": 4071163871,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png",
+                                "isSelected": false,
+                                "name": "Threat Detector"
+                            },
+                            {
+                                "hash": 1954620775,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4f7e5ea70d72e3b01614a8e8a1b96735.png",
+                                "isSelected": false,
+                                "name": "Timed Payload"
+                            },
+                            {
+                                "hash": 3400784728,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/44cc0f78fd98d462dc4914dbe203dc49.png",
+                                "isSelected": false,
+                                "name": "Triple Tap"
+                            },
+                            {
+                                "hash": 2387244414,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49958f356ea1df930888d15fe6539fe1.png",
+                                "isSelected": false,
+                                "name": "Zen Moment"
                             }
                         ],
                         "socketIndex": 2
@@ -4574,34 +5053,40 @@ export const WeaponTypes = [
                         "name": "Sight",
                         "perks": [
                             {
+                                "hash": 1926090090,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/87eb658505fb3503265eb67cd7855c4c.png",
+                                "isSelected": false,
+                                "name": "Crossfire HCS"
+                            },
+                            {
                                 "hash": 1926090094,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/87eb658505fb3503265eb67cd7855c4c.png",
+                                "isSelected": false,
                                 "name": "Fastdraw HCS"
-                            },
-                            {
-                                "hash": 1926090095,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/87eb658505fb3503265eb67cd7855c4c.png",
-                                "name": "SteadyHand HCS"
-                            },
-                            {
-                                "hash": 1926090092,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/87eb658505fb3503265eb67cd7855c4c.png",
-                                "name": "TrueSight HCS"
                             },
                             {
                                 "hash": 1926090093,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/87eb658505fb3503265eb67cd7855c4c.png",
+                                "isSelected": false,
                                 "name": "HitMark HCS"
                             },
                             {
-                                "hash": 1926090090,
+                                "hash": 1926090095,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/87eb658505fb3503265eb67cd7855c4c.png",
-                                "name": "Crossfire HCS"
+                                "isSelected": false,
+                                "name": "SteadyHand HCS"
                             },
                             {
                                 "hash": 1926090091,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/87eb658505fb3503265eb67cd7855c4c.png",
+                                "isSelected": false,
                                 "name": "Sureshot HCS"
+                            },
+                            {
+                                "hash": 1926090092,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/87eb658505fb3503265eb67cd7855c4c.png",
+                                "isSelected": false,
+                                "name": "TrueSight HCS"
                             }
                         ],
                         "socketIndex": 0
@@ -4610,94 +5095,112 @@ export const WeaponTypes = [
                         "name": "Magazine",
                         "perks": [
                             {
-                                "hash": 2420895100,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
-                                "name": "Extended Mag"
+                                "hash": 3142289711,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png",
+                                "isSelected": false,
+                                "name": "Accurized Rounds"
                             },
                             {
                                 "hash": 1431678320,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/932e7b84c233c6cc49a58058f8c5144d.png",
+                                "isSelected": false,
                                 "name": "Alloy Magazine"
                             },
                             {
                                 "hash": 1087426260,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9d8a7be4c2fef471a6fde38d02ab8dae.png",
+                                "isSelected": false,
                                 "name": "Appended Mag"
                             },
                             {
                                 "hash": 1968497646,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/73b724a6839bb3e1db37742f7ed5249b.png",
+                                "isSelected": false,
                                 "name": "Armor-Piercing Rounds"
-                            },
-                            {
-                                "hash": 1561002382,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f06239ee156ee70f99b48e8e1970dbca.png",
-                                "name": "High-Caliber Rounds"
-                            },
-                            {
-                                "hash": 1885400500,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png",
-                                "name": "Ricochet Rounds"
-                            },
-                            {
-                                "hash": 3230963543,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ec1bca64fc9709678ea5c297c0e64c19.png",
-                                "name": "Flared Magwell"
-                            },
-                            {
-                                "hash": 679225683,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1d87312c174b44d5ef1ed24ad42efe9c.png",
-                                "name": "Light Mag"
-                            },
-                            {
-                                "hash": 1168162263,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
-                                "name": "Outlaw"
-                            },
-                            {
-                                "hash": 47981717,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0fd9dbe1c09b8cc7d0be888c68ff4526.png",
-                                "name": "Opening Shot"
-                            },
-                            {
-                                "hash": 2846385770,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png",
-                                "name": "Rangefinder"
-                            },
-                            {
-                                "hash": 2387244414,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49958f356ea1df930888d15fe6539fe1.png",
-                                "name": "Zen Moment"
-                            },
-                            {
-                                "hash": 3400784728,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/44cc0f78fd98d462dc4914dbe203dc49.png",
-                                "name": "Triple Tap"
-                            },
-                            {
-                                "hash": 247725512,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/56f26a865c24a6a10cb4177794eb7788.png",
-                                "name": "Rapid Hit"
-                            },
-                            {
-                                "hash": 3142289711,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png",
-                                "name": "Accurized Rounds"
                             },
                             {
                                 "hash": 4134353779,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d316be9e70844427e69034b0f06bec75.png",
+                                "isSelected": false,
                                 "name": "Drop Mag"
                             },
                             {
-                                "hash": 106909392,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9711e6d3de7a9cf2f844752992390a63.png",
-                                "name": "Tactical Mag"
+                                "hash": 2420895100,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
+                                "isSelected": false,
+                                "name": "Extended Mag"
+                            },
+                            {
+                                "hash": 3230963543,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ec1bca64fc9709678ea5c297c0e64c19.png",
+                                "isSelected": false,
+                                "name": "Flared Magwell"
+                            },
+                            {
+                                "hash": 1561002382,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f06239ee156ee70f99b48e8e1970dbca.png",
+                                "isSelected": false,
+                                "name": "High-Caliber Rounds"
+                            },
+                            {
+                                "hash": 679225683,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1d87312c174b44d5ef1ed24ad42efe9c.png",
+                                "isSelected": false,
+                                "name": "Light Mag"
+                            },
+                            {
+                                "hash": 47981717,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0fd9dbe1c09b8cc7d0be888c68ff4526.png",
+                                "isSelected": false,
+                                "name": "Opening Shot"
+                            },
+                            {
+                                "hash": 1168162263,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
+                                "isSelected": false,
+                                "name": "Outlaw"
+                            },
+                            {
+                                "hash": 2846385770,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png",
+                                "isSelected": false,
+                                "name": "Rangefinder"
+                            },
+                            {
+                                "hash": 247725512,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/56f26a865c24a6a10cb4177794eb7788.png",
+                                "isSelected": false,
+                                "name": "Rapid Hit"
+                            },
+                            {
+                                "hash": 1885400500,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png",
+                                "isSelected": false,
+                                "name": "Ricochet Rounds"
                             },
                             {
                                 "hash": 3177308360,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/adaf4315dab749519c41a233e9954598.png",
+                                "isSelected": false,
                                 "name": "Steady Rounds"
+                            },
+                            {
+                                "hash": 106909392,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9711e6d3de7a9cf2f844752992390a63.png",
+                                "isSelected": false,
+                                "name": "Tactical Mag"
+                            },
+                            {
+                                "hash": 3400784728,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/44cc0f78fd98d462dc4914dbe203dc49.png",
+                                "isSelected": false,
+                                "name": "Triple Tap"
+                            },
+                            {
+                                "hash": 2387244414,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49958f356ea1df930888d15fe6539fe1.png",
+                                "isSelected": false,
+                                "name": "Zen Moment"
                             }
                         ],
                         "socketIndex": 1
@@ -4706,144 +5209,172 @@ export const WeaponTypes = [
                         "name": "traits",
                         "perks": [
                             {
-                                "hash": 588594999,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
-                                "name": "Moving Target"
-                            },
-                            {
-                                "hash": 706527188,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png",
-                                "name": "Quickdraw"
-                            },
-                            {
-                                "hash": 3300816228,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d355b1117307c9f187729249361cecc3.png",
-                                "name": "Auto-Loading Holster"
-                            },
-                            {
-                                "hash": 3161816588,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fa7ba2abcd8effd143e287668d7c865b.png",
-                                "name": "Slideshot"
-                            },
-                            {
-                                "hash": 4071163871,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png",
-                                "name": "Threat Detector"
-                            },
-                            {
-                                "hash": 3400784728,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/44cc0f78fd98d462dc4914dbe203dc49.png",
-                                "name": "Triple Tap"
-                            },
-                            {
-                                "hash": 2848615171,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8fe8293ba02002f69bfa052a0c44223f.png",
-                                "name": "Dragonfly"
-                            },
-                            {
-                                "hash": 1168162263,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
-                                "name": "Outlaw"
-                            },
-                            {
-                                "hash": 47981717,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0fd9dbe1c09b8cc7d0be888c68ff4526.png",
-                                "name": "Opening Shot"
-                            },
-                            {
-                                "hash": 957782887,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
-                                "name": "Snapshot Sights"
-                            },
-                            {
-                                "hash": 3425386926,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
-                                "name": "Rampage"
-                            },
-                            {
-                                "hash": 2387244414,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49958f356ea1df930888d15fe6539fe1.png",
-                                "name": "Zen Moment"
-                            },
-                            {
-                                "hash": 2420895100,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
-                                "name": "Extended Mag"
+                                "hash": 3722653512,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/34e3043d3f29eb8d38c8e0f5d5138f57.png",
+                                "isSelected": false,
+                                "name": "Air Assault"
                             },
                             {
                                 "hash": 1431678320,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/932e7b84c233c6cc49a58058f8c5144d.png",
+                                "isSelected": false,
                                 "name": "Alloy Magazine"
                             },
                             {
                                 "hash": 1087426260,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9d8a7be4c2fef471a6fde38d02ab8dae.png",
+                                "isSelected": false,
                                 "name": "Appended Mag"
                             },
                             {
                                 "hash": 1968497646,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/73b724a6839bb3e1db37742f7ed5249b.png",
+                                "isSelected": false,
                                 "name": "Armor-Piercing Rounds"
                             },
                             {
-                                "hash": 1561002382,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f06239ee156ee70f99b48e8e1970dbca.png",
-                                "name": "High-Caliber Rounds"
+                                "hash": 3300816228,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d355b1117307c9f187729249361cecc3.png",
+                                "isSelected": false,
+                                "name": "Auto-Loading Holster"
                             },
                             {
-                                "hash": 1885400500,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png",
-                                "name": "Ricochet Rounds"
-                            },
-                            {
-                                "hash": 3230963543,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ec1bca64fc9709678ea5c297c0e64c19.png",
-                                "name": "Flared Magwell"
-                            },
-                            {
-                                "hash": 679225683,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1d87312c174b44d5ef1ed24ad42efe9c.png",
-                                "name": "Light Mag"
-                            },
-                            {
-                                "hash": 1015611457,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
-                                "name": "Kill Clip"
-                            },
-                            {
-                                "hash": 2869569095,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fd815414532978ad2e5decbfc416b9e4.png",
-                                "name": "Field Prep"
-                            },
-                            {
-                                "hash": 1866048759,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9f3c3ae1bddbed21af1cc6487338028e.png",
-                                "name": "Hip-Fire Grip"
-                            },
-                            {
-                                "hash": 3722653512,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/34e3043d3f29eb8d38c8e0f5d5138f57.png",
-                                "name": "Air Assault"
-                            },
-                            {
-                                "hash": 2846385770,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png",
-                                "name": "Rangefinder"
-                            },
-                            {
-                                "hash": 3513791699,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/72d0300b728c2b8c81cc37f1abc53ddc.png",
-                                "name": "Mulligan"
-                            },
-                            {
-                                "hash": 1954620775,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4f7e5ea70d72e3b01614a8e8a1b96735.png",
-                                "name": "Timed Payload"
+                                "hash": 2848615171,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8fe8293ba02002f69bfa052a0c44223f.png",
+                                "isSelected": false,
+                                "name": "Dragonfly"
                             },
                             {
                                 "hash": 3038247973,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d41dd918d42681c5b0ad00880274b22c.png",
+                                "isSelected": false,
                                 "name": "Explosive Payload"
+                            },
+                            {
+                                "hash": 2420895100,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
+                                "isSelected": false,
+                                "name": "Extended Mag"
+                            },
+                            {
+                                "hash": 2869569095,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fd815414532978ad2e5decbfc416b9e4.png",
+                                "isSelected": false,
+                                "name": "Field Prep"
+                            },
+                            {
+                                "hash": 3230963543,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ec1bca64fc9709678ea5c297c0e64c19.png",
+                                "isSelected": false,
+                                "name": "Flared Magwell"
+                            },
+                            {
+                                "hash": 1561002382,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f06239ee156ee70f99b48e8e1970dbca.png",
+                                "isSelected": false,
+                                "name": "High-Caliber Rounds"
+                            },
+                            {
+                                "hash": 1866048759,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9f3c3ae1bddbed21af1cc6487338028e.png",
+                                "isSelected": false,
+                                "name": "Hip-Fire Grip"
+                            },
+                            {
+                                "hash": 1015611457,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
+                                "isSelected": false,
+                                "name": "Kill Clip"
+                            },
+                            {
+                                "hash": 679225683,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1d87312c174b44d5ef1ed24ad42efe9c.png",
+                                "isSelected": false,
+                                "name": "Light Mag"
+                            },
+                            {
+                                "hash": 588594999,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
+                                "isSelected": false,
+                                "name": "Moving Target"
+                            },
+                            {
+                                "hash": 3513791699,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/72d0300b728c2b8c81cc37f1abc53ddc.png",
+                                "isSelected": false,
+                                "name": "Mulligan"
+                            },
+                            {
+                                "hash": 47981717,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0fd9dbe1c09b8cc7d0be888c68ff4526.png",
+                                "isSelected": false,
+                                "name": "Opening Shot"
+                            },
+                            {
+                                "hash": 1168162263,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
+                                "isSelected": false,
+                                "name": "Outlaw"
+                            },
+                            {
+                                "hash": 706527188,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png",
+                                "isSelected": false,
+                                "name": "Quickdraw"
+                            },
+                            {
+                                "hash": 3425386926,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
+                                "isSelected": false,
+                                "name": "Rampage"
+                            },
+                            {
+                                "hash": 2846385770,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png",
+                                "isSelected": false,
+                                "name": "Rangefinder"
+                            },
+                            {
+                                "hash": 1885400500,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png",
+                                "isSelected": false,
+                                "name": "Ricochet Rounds"
+                            },
+                            {
+                                "hash": 3161816588,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fa7ba2abcd8effd143e287668d7c865b.png",
+                                "isSelected": false,
+                                "name": "Slideshot"
+                            },
+                            {
+                                "hash": 957782887,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
+                                "isSelected": false,
+                                "name": "Snapshot Sights"
+                            },
+                            {
+                                "hash": 4071163871,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png",
+                                "isSelected": false,
+                                "name": "Threat Detector"
+                            },
+                            {
+                                "hash": 1954620775,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4f7e5ea70d72e3b01614a8e8a1b96735.png",
+                                "isSelected": false,
+                                "name": "Timed Payload"
+                            },
+                            {
+                                "hash": 3400784728,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/44cc0f78fd98d462dc4914dbe203dc49.png",
+                                "isSelected": false,
+                                "name": "Triple Tap"
+                            },
+                            {
+                                "hash": 2387244414,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49958f356ea1df930888d15fe6539fe1.png",
+                                "isSelected": false,
+                                "name": "Zen Moment"
                             }
                         ],
                         "socketIndex": 2
@@ -5115,34 +5646,40 @@ export const WeaponTypes = [
                         "name": "Sight",
                         "perks": [
                             {
+                                "hash": 1926090090,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/87eb658505fb3503265eb67cd7855c4c.png",
+                                "isSelected": false,
+                                "name": "Crossfire HCS"
+                            },
+                            {
                                 "hash": 1926090094,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/87eb658505fb3503265eb67cd7855c4c.png",
+                                "isSelected": false,
                                 "name": "Fastdraw HCS"
-                            },
-                            {
-                                "hash": 1926090095,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/87eb658505fb3503265eb67cd7855c4c.png",
-                                "name": "SteadyHand HCS"
-                            },
-                            {
-                                "hash": 1926090092,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/87eb658505fb3503265eb67cd7855c4c.png",
-                                "name": "TrueSight HCS"
                             },
                             {
                                 "hash": 1926090093,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/87eb658505fb3503265eb67cd7855c4c.png",
+                                "isSelected": false,
                                 "name": "HitMark HCS"
                             },
                             {
-                                "hash": 1926090090,
+                                "hash": 1926090095,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/87eb658505fb3503265eb67cd7855c4c.png",
-                                "name": "Crossfire HCS"
+                                "isSelected": false,
+                                "name": "SteadyHand HCS"
                             },
                             {
                                 "hash": 1926090091,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/87eb658505fb3503265eb67cd7855c4c.png",
+                                "isSelected": false,
                                 "name": "Sureshot HCS"
+                            },
+                            {
+                                "hash": 1926090092,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/87eb658505fb3503265eb67cd7855c4c.png",
+                                "isSelected": false,
+                                "name": "TrueSight HCS"
                             }
                         ],
                         "socketIndex": 0
@@ -5153,42 +5690,50 @@ export const WeaponTypes = [
                             {
                                 "hash": 3142289711,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png",
+                                "isSelected": false,
                                 "name": "Accurized Rounds"
-                            },
-                            {
-                                "hash": 4134353779,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d316be9e70844427e69034b0f06bec75.png",
-                                "name": "Drop Mag"
-                            },
-                            {
-                                "hash": 1087426260,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9d8a7be4c2fef471a6fde38d02ab8dae.png",
-                                "name": "Appended Mag"
-                            },
-                            {
-                                "hash": 106909392,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9711e6d3de7a9cf2f844752992390a63.png",
-                                "name": "Tactical Mag"
-                            },
-                            {
-                                "hash": 2420895100,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
-                                "name": "Extended Mag"
-                            },
-                            {
-                                "hash": 3177308360,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/adaf4315dab749519c41a233e9954598.png",
-                                "name": "Steady Rounds"
                             },
                             {
                                 "hash": 1431678320,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/932e7b84c233c6cc49a58058f8c5144d.png",
+                                "isSelected": false,
                                 "name": "Alloy Magazine"
+                            },
+                            {
+                                "hash": 1087426260,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9d8a7be4c2fef471a6fde38d02ab8dae.png",
+                                "isSelected": false,
+                                "name": "Appended Mag"
+                            },
+                            {
+                                "hash": 4134353779,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d316be9e70844427e69034b0f06bec75.png",
+                                "isSelected": false,
+                                "name": "Drop Mag"
+                            },
+                            {
+                                "hash": 2420895100,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
+                                "isSelected": false,
+                                "name": "Extended Mag"
                             },
                             {
                                 "hash": 3230963543,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ec1bca64fc9709678ea5c297c0e64c19.png",
+                                "isSelected": false,
                                 "name": "Flared Magwell"
+                            },
+                            {
+                                "hash": 3177308360,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/adaf4315dab749519c41a233e9954598.png",
+                                "isSelected": false,
+                                "name": "Steady Rounds"
+                            },
+                            {
+                                "hash": 106909392,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9711e6d3de7a9cf2f844752992390a63.png",
+                                "isSelected": false,
+                                "name": "Tactical Mag"
                             }
                         ],
                         "socketIndex": 1
@@ -5197,59 +5742,70 @@ export const WeaponTypes = [
                         "name": "traits",
                         "perks": [
                             {
-                                "hash": 1015611457,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
-                                "name": "Kill Clip"
-                            },
-                            {
-                                "hash": 3425386926,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
-                                "name": "Rampage"
+                                "hash": 2779035018,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/5838b4ef410895011edfed3eaf11641f.png",
+                                "isSelected": false,
+                                "name": "Feeding Frenzy"
                             },
                             {
                                 "hash": 1866048759,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9f3c3ae1bddbed21af1cc6487338028e.png",
+                                "isSelected": false,
                                 "name": "Hip-Fire Grip"
                             },
                             {
-                                "hash": 2387244414,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49958f356ea1df930888d15fe6539fe1.png",
-                                "name": "Zen Moment"
-                            },
-                            {
-                                "hash": 47981717,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0fd9dbe1c09b8cc7d0be888c68ff4526.png",
-                                "name": "Opening Shot"
+                                "hash": 1015611457,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
+                                "isSelected": false,
+                                "name": "Kill Clip"
                             },
                             {
                                 "hash": 588594999,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
+                                "isSelected": false,
                                 "name": "Moving Target"
+                            },
+                            {
+                                "hash": 47981717,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0fd9dbe1c09b8cc7d0be888c68ff4526.png",
+                                "isSelected": false,
+                                "name": "Opening Shot"
                             },
                             {
                                 "hash": 1168162263,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
+                                "isSelected": false,
                                 "name": "Outlaw"
+                            },
+                            {
+                                "hash": 3425386926,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
+                                "isSelected": false,
+                                "name": "Rampage"
                             },
                             {
                                 "hash": 2846385770,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png",
+                                "isSelected": false,
                                 "name": "Rangefinder"
-                            },
-                            {
-                                "hash": 4071163871,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png",
-                                "name": "Threat Detector"
-                            },
-                            {
-                                "hash": 2779035018,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/5838b4ef410895011edfed3eaf11641f.png",
-                                "name": "Feeding Frenzy"
                             },
                             {
                                 "hash": 957782887,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
+                                "isSelected": false,
                                 "name": "Snapshot Sights"
+                            },
+                            {
+                                "hash": 4071163871,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png",
+                                "isSelected": false,
+                                "name": "Threat Detector"
+                            },
+                            {
+                                "hash": 2387244414,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49958f356ea1df930888d15fe6539fe1.png",
+                                "isSelected": false,
+                                "name": "Zen Moment"
                             }
                         ],
                         "socketIndex": 2
@@ -5314,79 +5870,94 @@ export const WeaponTypes = [
                         "name": "Sight",
                         "perks": [
                             {
-                                "hash": 1926090094,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/87eb658505fb3503265eb67cd7855c4c.png",
-                                "name": "Fastdraw HCS"
-                            },
-                            {
-                                "hash": 1926090095,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/87eb658505fb3503265eb67cd7855c4c.png",
-                                "name": "SteadyHand HCS"
-                            },
-                            {
-                                "hash": 1926090092,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/87eb658505fb3503265eb67cd7855c4c.png",
-                                "name": "TrueSight HCS"
-                            },
-                            {
-                                "hash": 1926090093,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/87eb658505fb3503265eb67cd7855c4c.png",
-                                "name": "HitMark HCS"
-                            },
-                            {
-                                "hash": 1926090090,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/87eb658505fb3503265eb67cd7855c4c.png",
-                                "name": "Crossfire HCS"
-                            },
-                            {
-                                "hash": 1926090091,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/87eb658505fb3503265eb67cd7855c4c.png",
-                                "name": "Sureshot HCS"
-                            },
-                            {
                                 "hash": 839105230,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png",
+                                "isSelected": false,
                                 "name": "Arrowhead Brake"
                             },
                             {
                                 "hash": 3661387068,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/376aa9bd8c392567f501012fc3b3d4d0.png",
+                                "isSelected": false,
                                 "name": "Chambered Compensator"
                             },
                             {
                                 "hash": 4090651448,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/18cc75bf9a17bb80b5109f1b8909521f.png",
+                                "isSelected": false,
                                 "name": "Corkscrew Rifling"
+                            },
+                            {
+                                "hash": 1926090090,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/87eb658505fb3503265eb67cd7855c4c.png",
+                                "isSelected": false,
+                                "name": "Crossfire HCS"
                             },
                             {
                                 "hash": 1467527085,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/151465ba86df34438248aad2248cce32.png",
+                                "isSelected": false,
                                 "name": "Extended Barrel"
+                            },
+                            {
+                                "hash": 1926090094,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/87eb658505fb3503265eb67cd7855c4c.png",
+                                "isSelected": false,
+                                "name": "Fastdraw HCS"
                             },
                             {
                                 "hash": 1840239774,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png",
+                                "isSelected": false,
                                 "name": "Fluted Barrel"
                             },
                             {
                                 "hash": 202670084,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9307c5604f995d90ad5ed65281b64772.png",
+                                "isSelected": false,
                                 "name": "Full Bore"
                             },
                             {
                                 "hash": 3250034553,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9acb073d4e85160f66f0d617d210cf61.png",
+                                "isSelected": false,
                                 "name": "Hammer-Forged Rifling"
+                            },
+                            {
+                                "hash": 1926090093,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/87eb658505fb3503265eb67cd7855c4c.png",
+                                "isSelected": false,
+                                "name": "HitMark HCS"
                             },
                             {
                                 "hash": 1392496348,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7cadd68b66ffd3bbedc09aa9c7ba6e03.png",
+                                "isSelected": false,
                                 "name": "Polygonal Rifling"
                             },
                             {
                                 "hash": 1482024992,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png",
+                                "isSelected": false,
                                 "name": "Smallbore"
+                            },
+                            {
+                                "hash": 1926090095,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/87eb658505fb3503265eb67cd7855c4c.png",
+                                "isSelected": false,
+                                "name": "SteadyHand HCS"
+                            },
+                            {
+                                "hash": 1926090091,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/87eb658505fb3503265eb67cd7855c4c.png",
+                                "isSelected": false,
+                                "name": "Sureshot HCS"
+                            },
+                            {
+                                "hash": 1926090092,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/87eb658505fb3503265eb67cd7855c4c.png",
+                                "isSelected": false,
+                                "name": "TrueSight HCS"
                             }
                         ],
                         "socketIndex": 0
@@ -5395,44 +5966,52 @@ export const WeaponTypes = [
                         "name": "Magazine",
                         "perks": [
                             {
-                                "hash": 2420895100,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
-                                "name": "Extended Mag"
-                            },
-                            {
                                 "hash": 1431678320,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/932e7b84c233c6cc49a58058f8c5144d.png",
+                                "isSelected": false,
                                 "name": "Alloy Magazine"
                             },
                             {
                                 "hash": 1087426260,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9d8a7be4c2fef471a6fde38d02ab8dae.png",
+                                "isSelected": false,
                                 "name": "Appended Mag"
                             },
                             {
                                 "hash": 1968497646,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/73b724a6839bb3e1db37742f7ed5249b.png",
+                                "isSelected": false,
                                 "name": "Armor-Piercing Rounds"
                             },
                             {
-                                "hash": 1561002382,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f06239ee156ee70f99b48e8e1970dbca.png",
-                                "name": "High-Caliber Rounds"
-                            },
-                            {
-                                "hash": 1885400500,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png",
-                                "name": "Ricochet Rounds"
+                                "hash": 2420895100,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
+                                "isSelected": false,
+                                "name": "Extended Mag"
                             },
                             {
                                 "hash": 3230963543,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ec1bca64fc9709678ea5c297c0e64c19.png",
+                                "isSelected": false,
                                 "name": "Flared Magwell"
+                            },
+                            {
+                                "hash": 1561002382,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f06239ee156ee70f99b48e8e1970dbca.png",
+                                "isSelected": false,
+                                "name": "High-Caliber Rounds"
                             },
                             {
                                 "hash": 679225683,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1d87312c174b44d5ef1ed24ad42efe9c.png",
+                                "isSelected": false,
                                 "name": "Light Mag"
+                            },
+                            {
+                                "hash": 1885400500,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png",
+                                "isSelected": false,
+                                "name": "Ricochet Rounds"
                             }
                         ],
                         "socketIndex": 1
@@ -5441,109 +6020,130 @@ export const WeaponTypes = [
                         "name": "traits",
                         "perks": [
                             {
-                                "hash": 47981717,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0fd9dbe1c09b8cc7d0be888c68ff4526.png",
-                                "name": "Opening Shot"
-                            },
-                            {
-                                "hash": 1631667848,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/83e206ebea83f76d9969efea7134ddcc.png",
-                                "name": "Grave Robber"
-                            },
-                            {
-                                "hash": 3400784728,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/44cc0f78fd98d462dc4914dbe203dc49.png",
-                                "name": "Triple Tap"
-                            },
-                            {
-                                "hash": 1866048759,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9f3c3ae1bddbed21af1cc6487338028e.png",
-                                "name": "Hip-Fire Grip"
-                            },
-                            {
-                                "hash": 2387244414,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49958f356ea1df930888d15fe6539fe1.png",
-                                "name": "Zen Moment"
+                                "hash": 3300816228,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d355b1117307c9f187729249361cecc3.png",
+                                "isSelected": false,
+                                "name": "Auto-Loading Holster"
                             },
                             {
                                 "hash": 2848615171,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8fe8293ba02002f69bfa052a0c44223f.png",
+                                "isSelected": false,
                                 "name": "Dragonfly"
-                            },
-                            {
-                                "hash": 1168162263,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
-                                "name": "Outlaw"
-                            },
-                            {
-                                "hash": 3300816228,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d355b1117307c9f187729249361cecc3.png",
-                                "name": "Auto-Loading Holster"
-                            },
-                            {
-                                "hash": 957782887,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
-                                "name": "Snapshot Sights"
-                            },
-                            {
-                                "hash": 3161816588,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fa7ba2abcd8effd143e287668d7c865b.png",
-                                "name": "Slideshot"
-                            },
-                            {
-                                "hash": 1354429876,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8134a0712e5b3120d4153e00d4e3b4b9.png",
-                                "name": "Fourth Time's the Charm"
-                            },
-                            {
-                                "hash": 1820235745,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03d774525048e5eb5b6899b37d418920.png",
-                                "name": "Subsistence"
-                            },
-                            {
-                                "hash": 247725512,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/56f26a865c24a6a10cb4177794eb7788.png",
-                                "name": "Rapid Hit"
-                            },
-                            {
-                                "hash": 4071163871,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png",
-                                "name": "Threat Detector"
                             },
                             {
                                 "hash": 2869569095,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fd815414532978ad2e5decbfc416b9e4.png",
+                                "isSelected": false,
                                 "name": "Field Prep"
                             },
                             {
-                                "hash": 3425386926,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
-                                "name": "Rampage"
+                                "hash": 1354429876,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8134a0712e5b3120d4153e00d4e3b4b9.png",
+                                "isSelected": false,
+                                "name": "Fourth Time's the Charm"
                             },
                             {
-                                "hash": 4082225868,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ef89b89410de618e9cfa353ff35125d8.png",
-                                "name": "Swashbuckler"
+                                "hash": 1631667848,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/83e206ebea83f76d9969efea7134ddcc.png",
+                                "isSelected": false,
+                                "name": "Grave Robber"
+                            },
+                            {
+                                "hash": 1866048759,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9f3c3ae1bddbed21af1cc6487338028e.png",
+                                "isSelected": false,
+                                "name": "Hip-Fire Grip"
                             },
                             {
                                 "hash": 1015611457,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
+                                "isSelected": false,
                                 "name": "Kill Clip"
-                            },
-                            {
-                                "hash": 2458213969,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/a610c14dcf450e8c5b0c0903d5b05965.png",
-                                "name": "Multikill Clip"
-                            },
-                            {
-                                "hash": 2846385770,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png",
-                                "name": "Rangefinder"
                             },
                             {
                                 "hash": 588594999,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
+                                "isSelected": false,
                                 "name": "Moving Target"
+                            },
+                            {
+                                "hash": 2458213969,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/a610c14dcf450e8c5b0c0903d5b05965.png",
+                                "isSelected": false,
+                                "name": "Multikill Clip"
+                            },
+                            {
+                                "hash": 47981717,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0fd9dbe1c09b8cc7d0be888c68ff4526.png",
+                                "isSelected": false,
+                                "name": "Opening Shot"
+                            },
+                            {
+                                "hash": 1168162263,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
+                                "isSelected": false,
+                                "name": "Outlaw"
+                            },
+                            {
+                                "hash": 3425386926,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
+                                "isSelected": false,
+                                "name": "Rampage"
+                            },
+                            {
+                                "hash": 2846385770,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png",
+                                "isSelected": false,
+                                "name": "Rangefinder"
+                            },
+                            {
+                                "hash": 247725512,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/56f26a865c24a6a10cb4177794eb7788.png",
+                                "isSelected": false,
+                                "name": "Rapid Hit"
+                            },
+                            {
+                                "hash": 3161816588,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fa7ba2abcd8effd143e287668d7c865b.png",
+                                "isSelected": false,
+                                "name": "Slideshot"
+                            },
+                            {
+                                "hash": 957782887,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
+                                "isSelected": false,
+                                "name": "Snapshot Sights"
+                            },
+                            {
+                                "hash": 1820235745,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03d774525048e5eb5b6899b37d418920.png",
+                                "isSelected": false,
+                                "name": "Subsistence"
+                            },
+                            {
+                                "hash": 4082225868,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ef89b89410de618e9cfa353ff35125d8.png",
+                                "isSelected": false,
+                                "name": "Swashbuckler"
+                            },
+                            {
+                                "hash": 4071163871,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png",
+                                "isSelected": false,
+                                "name": "Threat Detector"
+                            },
+                            {
+                                "hash": 3400784728,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/44cc0f78fd98d462dc4914dbe203dc49.png",
+                                "isSelected": false,
+                                "name": "Triple Tap"
+                            },
+                            {
+                                "hash": 2387244414,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49958f356ea1df930888d15fe6539fe1.png",
+                                "isSelected": false,
+                                "name": "Zen Moment"
                             }
                         ],
                         "socketIndex": 2
@@ -5663,79 +6263,94 @@ export const WeaponTypes = [
                         "name": "Barrel",
                         "perks": [
                             {
-                                "hash": 1392496348,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7cadd68b66ffd3bbedc09aa9c7ba6e03.png",
-                                "name": "Polygonal Rifling"
-                            },
-                            {
-                                "hash": 1467527085,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/151465ba86df34438248aad2248cce32.png",
-                                "name": "Extended Barrel"
-                            },
-                            {
-                                "hash": 1926090094,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/87eb658505fb3503265eb67cd7855c4c.png",
-                                "name": "Fastdraw HCS"
-                            },
-                            {
-                                "hash": 1926090095,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/87eb658505fb3503265eb67cd7855c4c.png",
-                                "name": "SteadyHand HCS"
-                            },
-                            {
-                                "hash": 1926090092,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/87eb658505fb3503265eb67cd7855c4c.png",
-                                "name": "TrueSight HCS"
-                            },
-                            {
-                                "hash": 1926090093,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/87eb658505fb3503265eb67cd7855c4c.png",
-                                "name": "HitMark HCS"
-                            },
-                            {
-                                "hash": 1926090090,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/87eb658505fb3503265eb67cd7855c4c.png",
-                                "name": "Crossfire HCS"
-                            },
-                            {
-                                "hash": 1926090091,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/87eb658505fb3503265eb67cd7855c4c.png",
-                                "name": "Sureshot HCS"
-                            },
-                            {
                                 "hash": 839105230,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png",
+                                "isSelected": false,
                                 "name": "Arrowhead Brake"
                             },
                             {
                                 "hash": 3661387068,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/376aa9bd8c392567f501012fc3b3d4d0.png",
+                                "isSelected": false,
                                 "name": "Chambered Compensator"
                             },
                             {
                                 "hash": 4090651448,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/18cc75bf9a17bb80b5109f1b8909521f.png",
+                                "isSelected": false,
                                 "name": "Corkscrew Rifling"
+                            },
+                            {
+                                "hash": 1926090090,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/87eb658505fb3503265eb67cd7855c4c.png",
+                                "isSelected": false,
+                                "name": "Crossfire HCS"
+                            },
+                            {
+                                "hash": 1467527085,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/151465ba86df34438248aad2248cce32.png",
+                                "isSelected": false,
+                                "name": "Extended Barrel"
+                            },
+                            {
+                                "hash": 1926090094,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/87eb658505fb3503265eb67cd7855c4c.png",
+                                "isSelected": false,
+                                "name": "Fastdraw HCS"
                             },
                             {
                                 "hash": 1840239774,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png",
+                                "isSelected": false,
                                 "name": "Fluted Barrel"
                             },
                             {
                                 "hash": 202670084,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9307c5604f995d90ad5ed65281b64772.png",
+                                "isSelected": false,
                                 "name": "Full Bore"
                             },
                             {
                                 "hash": 3250034553,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9acb073d4e85160f66f0d617d210cf61.png",
+                                "isSelected": false,
                                 "name": "Hammer-Forged Rifling"
+                            },
+                            {
+                                "hash": 1926090093,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/87eb658505fb3503265eb67cd7855c4c.png",
+                                "isSelected": false,
+                                "name": "HitMark HCS"
+                            },
+                            {
+                                "hash": 1392496348,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7cadd68b66ffd3bbedc09aa9c7ba6e03.png",
+                                "isSelected": false,
+                                "name": "Polygonal Rifling"
                             },
                             {
                                 "hash": 1482024992,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png",
+                                "isSelected": false,
                                 "name": "Smallbore"
+                            },
+                            {
+                                "hash": 1926090095,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/87eb658505fb3503265eb67cd7855c4c.png",
+                                "isSelected": false,
+                                "name": "SteadyHand HCS"
+                            },
+                            {
+                                "hash": 1926090091,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/87eb658505fb3503265eb67cd7855c4c.png",
+                                "isSelected": false,
+                                "name": "Sureshot HCS"
+                            },
+                            {
+                                "hash": 1926090092,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/87eb658505fb3503265eb67cd7855c4c.png",
+                                "isSelected": false,
+                                "name": "TrueSight HCS"
                             }
                         ],
                         "socketIndex": 0
@@ -5744,64 +6359,76 @@ export const WeaponTypes = [
                         "name": "Magazine",
                         "perks": [
                             {
-                                "hash": 4134353779,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d316be9e70844427e69034b0f06bec75.png",
-                                "name": "Drop Mag"
-                            },
-                            {
                                 "hash": 3142289711,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png",
+                                "isSelected": false,
                                 "name": "Accurized Rounds"
-                            },
-                            {
-                                "hash": 2420895100,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
-                                "name": "Extended Mag"
                             },
                             {
                                 "hash": 1431678320,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/932e7b84c233c6cc49a58058f8c5144d.png",
+                                "isSelected": false,
                                 "name": "Alloy Magazine"
                             },
                             {
                                 "hash": 1087426260,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9d8a7be4c2fef471a6fde38d02ab8dae.png",
+                                "isSelected": false,
                                 "name": "Appended Mag"
                             },
                             {
                                 "hash": 1968497646,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/73b724a6839bb3e1db37742f7ed5249b.png",
+                                "isSelected": false,
                                 "name": "Armor-Piercing Rounds"
                             },
                             {
-                                "hash": 1561002382,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f06239ee156ee70f99b48e8e1970dbca.png",
-                                "name": "High-Caliber Rounds"
+                                "hash": 4134353779,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d316be9e70844427e69034b0f06bec75.png",
+                                "isSelected": false,
+                                "name": "Drop Mag"
                             },
                             {
-                                "hash": 1885400500,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png",
-                                "name": "Ricochet Rounds"
+                                "hash": 2420895100,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
+                                "isSelected": false,
+                                "name": "Extended Mag"
                             },
                             {
                                 "hash": 3230963543,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ec1bca64fc9709678ea5c297c0e64c19.png",
+                                "isSelected": false,
                                 "name": "Flared Magwell"
+                            },
+                            {
+                                "hash": 1561002382,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f06239ee156ee70f99b48e8e1970dbca.png",
+                                "isSelected": false,
+                                "name": "High-Caliber Rounds"
                             },
                             {
                                 "hash": 679225683,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1d87312c174b44d5ef1ed24ad42efe9c.png",
+                                "isSelected": false,
                                 "name": "Light Mag"
                             },
                             {
-                                "hash": 106909392,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9711e6d3de7a9cf2f844752992390a63.png",
-                                "name": "Tactical Mag"
+                                "hash": 1885400500,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png",
+                                "isSelected": false,
+                                "name": "Ricochet Rounds"
                             },
                             {
                                 "hash": 3177308360,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/adaf4315dab749519c41a233e9954598.png",
+                                "isSelected": false,
                                 "name": "Steady Rounds"
+                            },
+                            {
+                                "hash": 106909392,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9711e6d3de7a9cf2f844752992390a63.png",
+                                "isSelected": false,
+                                "name": "Tactical Mag"
                             }
                         ],
                         "socketIndex": 1
@@ -5810,74 +6437,88 @@ export const WeaponTypes = [
                         "name": "traits",
                         "perks": [
                             {
-                                "hash": 2387244414,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49958f356ea1df930888d15fe6539fe1.png",
-                                "name": "Zen Moment"
-                            },
-                            {
-                                "hash": 2720533289,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/84ba8155221bbd2e36ffaa9ad977f5ab.png",
-                                "name": "Magnificent Howl"
-                            },
-                            {
-                                "hash": 588594999,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
-                                "name": "Moving Target"
-                            },
-                            {
-                                "hash": 1168162263,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
-                                "name": "Outlaw"
-                            },
-                            {
-                                "hash": 247725512,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/56f26a865c24a6a10cb4177794eb7788.png",
-                                "name": "Rapid Hit"
-                            },
-                            {
-                                "hash": 2846385770,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png",
-                                "name": "Rangefinder"
-                            },
-                            {
-                                "hash": 3400784728,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/44cc0f78fd98d462dc4914dbe203dc49.png",
-                                "name": "Triple Tap"
-                            },
-                            {
-                                "hash": 1015611457,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
-                                "name": "Kill Clip"
-                            },
-                            {
-                                "hash": 47981717,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0fd9dbe1c09b8cc7d0be888c68ff4526.png",
-                                "name": "Opening Shot"
-                            },
-                            {
-                                "hash": 3425386926,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
-                                "name": "Rampage"
-                            },
-                            {
-                                "hash": 957782887,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
-                                "name": "Snapshot Sights"
-                            },
-                            {
                                 "hash": 2848615171,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8fe8293ba02002f69bfa052a0c44223f.png",
+                                "isSelected": false,
                                 "name": "Dragonfly"
                             },
                             {
                                 "hash": 3038247973,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d41dd918d42681c5b0ad00880274b22c.png",
+                                "isSelected": false,
                                 "name": "Explosive Payload"
                             },
                             {
                                 "hash": 1866048759,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9f3c3ae1bddbed21af1cc6487338028e.png",
+                                "isSelected": false,
                                 "name": "Hip-Fire Grip"
+                            },
+                            {
+                                "hash": 1015611457,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
+                                "isSelected": false,
+                                "name": "Kill Clip"
+                            },
+                            {
+                                "hash": 2720533289,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/84ba8155221bbd2e36ffaa9ad977f5ab.png",
+                                "isSelected": false,
+                                "name": "Magnificent Howl"
+                            },
+                            {
+                                "hash": 588594999,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
+                                "isSelected": false,
+                                "name": "Moving Target"
+                            },
+                            {
+                                "hash": 47981717,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0fd9dbe1c09b8cc7d0be888c68ff4526.png",
+                                "isSelected": false,
+                                "name": "Opening Shot"
+                            },
+                            {
+                                "hash": 1168162263,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
+                                "isSelected": false,
+                                "name": "Outlaw"
+                            },
+                            {
+                                "hash": 3425386926,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
+                                "isSelected": false,
+                                "name": "Rampage"
+                            },
+                            {
+                                "hash": 2846385770,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png",
+                                "isSelected": false,
+                                "name": "Rangefinder"
+                            },
+                            {
+                                "hash": 247725512,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/56f26a865c24a6a10cb4177794eb7788.png",
+                                "isSelected": false,
+                                "name": "Rapid Hit"
+                            },
+                            {
+                                "hash": 957782887,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
+                                "isSelected": false,
+                                "name": "Snapshot Sights"
+                            },
+                            {
+                                "hash": 3400784728,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/44cc0f78fd98d462dc4914dbe203dc49.png",
+                                "isSelected": false,
+                                "name": "Triple Tap"
+                            },
+                            {
+                                "hash": 2387244414,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49958f356ea1df930888d15fe6539fe1.png",
+                                "isSelected": false,
+                                "name": "Zen Moment"
                             }
                         ],
                         "socketIndex": 2
@@ -6056,46 +6697,55 @@ export const WeaponTypes = [
                             {
                                 "hash": 839105230,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png",
+                                "isSelected": false,
                                 "name": "Arrowhead Brake"
                             },
                             {
                                 "hash": 3661387068,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/376aa9bd8c392567f501012fc3b3d4d0.png",
+                                "isSelected": false,
                                 "name": "Chambered Compensator"
                             },
                             {
                                 "hash": 4090651448,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/18cc75bf9a17bb80b5109f1b8909521f.png",
+                                "isSelected": false,
                                 "name": "Corkscrew Rifling"
                             },
                             {
                                 "hash": 1467527085,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/151465ba86df34438248aad2248cce32.png",
+                                "isSelected": false,
                                 "name": "Extended Barrel"
                             },
                             {
                                 "hash": 1840239774,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png",
+                                "isSelected": false,
                                 "name": "Fluted Barrel"
                             },
                             {
                                 "hash": 202670084,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9307c5604f995d90ad5ed65281b64772.png",
+                                "isSelected": false,
                                 "name": "Full Bore"
                             },
                             {
                                 "hash": 3250034553,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9acb073d4e85160f66f0d617d210cf61.png",
+                                "isSelected": false,
                                 "name": "Hammer-Forged Rifling"
                             },
                             {
                                 "hash": 1392496348,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7cadd68b66ffd3bbedc09aa9c7ba6e03.png",
+                                "isSelected": false,
                                 "name": "Polygonal Rifling"
                             },
                             {
                                 "hash": 1482024992,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png",
+                                "isSelected": false,
                                 "name": "Smallbore"
                             }
                         ],
@@ -6107,31 +6757,37 @@ export const WeaponTypes = [
                             {
                                 "hash": 689005463,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/231f0b02ac3bb5a19aa4b4c82fbf90a4.png",
+                                "isSelected": false,
                                 "name": "Accelerated Coils"
                             },
                             {
                                 "hash": 2680121939,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fba0bbb5a21b74ebe59f394f2319098c.png",
+                                "isSelected": false,
                                 "name": "Enhanced Battery"
                             },
                             {
                                 "hash": 1483536627,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/51460192e92adf82869709d44073774c.png",
+                                "isSelected": false,
                                 "name": "Ionized Battery"
                             },
                             {
                                 "hash": 1687452232,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/381b7a519ca06b70b5ff8f793dfad038.png",
+                                "isSelected": false,
                                 "name": "Liquid Coils"
                             },
                             {
                                 "hash": 3868766766,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c38ffa488ea6747f8acbfbdb93f3e5a2.png",
+                                "isSelected": false,
                                 "name": "Particle Repeater"
                             },
                             {
                                 "hash": 2969185026,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/253e7147a06242e8305ddf1c5571a9fc.png",
+                                "isSelected": false,
                                 "name": "Projection Fuse"
                             }
                         ],
@@ -6141,74 +6797,88 @@ export const WeaponTypes = [
                         "name": "traits",
                         "perks": [
                             {
-                                "hash": 47981717,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0fd9dbe1c09b8cc7d0be888c68ff4526.png",
-                                "name": "Opening Shot"
-                            },
-                            {
-                                "hash": 2213355989,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bee920445b5d0ccb01814d2e6fcea27b.png",
-                                "name": "High-Impact Reserves"
-                            },
-                            {
                                 "hash": 3300816228,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d355b1117307c9f187729249361cecc3.png",
+                                "isSelected": false,
                                 "name": "Auto-Loading Holster"
-                            },
-                            {
-                                "hash": 957782887,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
-                                "name": "Snapshot Sights"
-                            },
-                            {
-                                "hash": 588594999,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
-                                "name": "Moving Target"
-                            },
-                            {
-                                "hash": 1866048759,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9f3c3ae1bddbed21af1cc6487338028e.png",
-                                "name": "Hip-Fire Grip"
-                            },
-                            {
-                                "hash": 4071163871,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png",
-                                "name": "Threat Detector"
                             },
                             {
                                 "hash": 1600092898,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/89c3bf4e4ba2fd744abf6371b783c56f.png",
+                                "isSelected": false,
                                 "name": "Backup Plan"
-                            },
-                            {
-                                "hash": 1015611457,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
-                                "name": "Kill Clip"
-                            },
-                            {
-                                "hash": 3425386926,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
-                                "name": "Rampage"
-                            },
-                            {
-                                "hash": 2848615171,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8fe8293ba02002f69bfa052a0c44223f.png",
-                                "name": "Dragonfly"
-                            },
-                            {
-                                "hash": 2846385770,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png",
-                                "name": "Rangefinder"
-                            },
-                            {
-                                "hash": 3096702027,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e52e3441db003abe3aa2b8a2f7fda730.png",
-                                "name": "Genesis"
                             },
                             {
                                 "hash": 2551157718,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/711aa76b6ac8087d3744260fa03c154c.png",
+                                "isSelected": false,
                                 "name": "Box Breathing"
+                            },
+                            {
+                                "hash": 2848615171,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8fe8293ba02002f69bfa052a0c44223f.png",
+                                "isSelected": false,
+                                "name": "Dragonfly"
+                            },
+                            {
+                                "hash": 3096702027,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e52e3441db003abe3aa2b8a2f7fda730.png",
+                                "isSelected": false,
+                                "name": "Genesis"
+                            },
+                            {
+                                "hash": 2213355989,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bee920445b5d0ccb01814d2e6fcea27b.png",
+                                "isSelected": false,
+                                "name": "High-Impact Reserves"
+                            },
+                            {
+                                "hash": 1866048759,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9f3c3ae1bddbed21af1cc6487338028e.png",
+                                "isSelected": false,
+                                "name": "Hip-Fire Grip"
+                            },
+                            {
+                                "hash": 1015611457,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
+                                "isSelected": false,
+                                "name": "Kill Clip"
+                            },
+                            {
+                                "hash": 588594999,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
+                                "isSelected": false,
+                                "name": "Moving Target"
+                            },
+                            {
+                                "hash": 47981717,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0fd9dbe1c09b8cc7d0be888c68ff4526.png",
+                                "isSelected": false,
+                                "name": "Opening Shot"
+                            },
+                            {
+                                "hash": 3425386926,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
+                                "isSelected": false,
+                                "name": "Rampage"
+                            },
+                            {
+                                "hash": 2846385770,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png",
+                                "isSelected": false,
+                                "name": "Rangefinder"
+                            },
+                            {
+                                "hash": 957782887,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
+                                "isSelected": false,
+                                "name": "Snapshot Sights"
+                            },
+                            {
+                                "hash": 4071163871,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png",
+                                "isSelected": false,
+                                "name": "Threat Detector"
                             }
                         ],
                         "socketIndex": 2
@@ -6282,88 +6952,105 @@ export const WeaponTypes = [
                         "name": "Sight",
                         "perks": [
                             {
-                                "hash": 360593483,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1d7f482e8dbfb962ccebd3a8796fa664.png",
-                                "name": "SRO-37 Ocular"
-                            },
-                            {
-                                "hash": 360593482,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b1b1220f301d8e4ce3f87ecbf6812b20.png",
-                                "name": "SRO-41 Ocular"
-                            },
-                            {
-                                "hash": 965619221,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/560373df32b96679b03768a3e0aa3e05.png",
-                                "name": "SLO-12 Post"
-                            },
-                            {
-                                "hash": 965619220,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c422c90b4d5811210a9eca7fdd98dc1a.png",
-                                "name": "SLO-21 Post"
-                            },
-                            {
-                                "hash": 965619223,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cc4da92c0f3314ffa852b544896fe74b.png",
-                                "name": "SLO-10 Post"
-                            },
-                            {
-                                "hash": 3151536501,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8e85d31d83046a1a06fa28b44f8c54d5.png",
-                                "name": "SPO-57 Front"
-                            },
-                            {
-                                "hash": 3151536500,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7d97516e3a1d2b84f60e006b1fbb5749.png",
-                                "name": "SPO-28 Front"
-                            },
-                            {
-                                "hash": 3151536503,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e014290b97c6bfb58ae519c5e0ca343b.png",
-                                "name": "SPO-26 Front"
-                            },
-                            {
                                 "hash": 839105230,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png",
+                                "isSelected": false,
                                 "name": "Arrowhead Brake"
                             },
                             {
                                 "hash": 3661387068,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/376aa9bd8c392567f501012fc3b3d4d0.png",
+                                "isSelected": false,
                                 "name": "Chambered Compensator"
                             },
                             {
                                 "hash": 4090651448,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/18cc75bf9a17bb80b5109f1b8909521f.png",
+                                "isSelected": false,
                                 "name": "Corkscrew Rifling"
                             },
                             {
                                 "hash": 1467527085,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/151465ba86df34438248aad2248cce32.png",
+                                "isSelected": false,
                                 "name": "Extended Barrel"
                             },
                             {
                                 "hash": 1840239774,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png",
+                                "isSelected": false,
                                 "name": "Fluted Barrel"
                             },
                             {
                                 "hash": 202670084,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9307c5604f995d90ad5ed65281b64772.png",
+                                "isSelected": false,
                                 "name": "Full Bore"
                             },
                             {
                                 "hash": 3250034553,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9acb073d4e85160f66f0d617d210cf61.png",
+                                "isSelected": false,
                                 "name": "Hammer-Forged Rifling"
                             },
                             {
                                 "hash": 1392496348,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7cadd68b66ffd3bbedc09aa9c7ba6e03.png",
+                                "isSelected": false,
                                 "name": "Polygonal Rifling"
+                            },
+                            {
+                                "hash": 965619223,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cc4da92c0f3314ffa852b544896fe74b.png",
+                                "isSelected": false,
+                                "name": "SLO-10 Post"
+                            },
+                            {
+                                "hash": 965619221,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/560373df32b96679b03768a3e0aa3e05.png",
+                                "isSelected": false,
+                                "name": "SLO-12 Post"
+                            },
+                            {
+                                "hash": 965619220,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c422c90b4d5811210a9eca7fdd98dc1a.png",
+                                "isSelected": false,
+                                "name": "SLO-21 Post"
+                            },
+                            {
+                                "hash": 3151536503,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e014290b97c6bfb58ae519c5e0ca343b.png",
+                                "isSelected": false,
+                                "name": "SPO-26 Front"
+                            },
+                            {
+                                "hash": 3151536500,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7d97516e3a1d2b84f60e006b1fbb5749.png",
+                                "isSelected": false,
+                                "name": "SPO-28 Front"
+                            },
+                            {
+                                "hash": 3151536501,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8e85d31d83046a1a06fa28b44f8c54d5.png",
+                                "isSelected": false,
+                                "name": "SPO-57 Front"
+                            },
+                            {
+                                "hash": 360593483,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1d7f482e8dbfb962ccebd3a8796fa664.png",
+                                "isSelected": false,
+                                "name": "SRO-37 Ocular"
+                            },
+                            {
+                                "hash": 360593482,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b1b1220f301d8e4ce3f87ecbf6812b20.png",
+                                "isSelected": false,
+                                "name": "SRO-41 Ocular"
                             },
                             {
                                 "hash": 1482024992,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png",
+                                "isSelected": false,
                                 "name": "Smallbore"
                             }
                         ],
@@ -6373,44 +7060,52 @@ export const WeaponTypes = [
                         "name": "Magazine",
                         "perks": [
                             {
-                                "hash": 2420895100,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
-                                "name": "Extended Mag"
-                            },
-                            {
                                 "hash": 1431678320,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/932e7b84c233c6cc49a58058f8c5144d.png",
+                                "isSelected": false,
                                 "name": "Alloy Magazine"
                             },
                             {
                                 "hash": 1087426260,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9d8a7be4c2fef471a6fde38d02ab8dae.png",
+                                "isSelected": false,
                                 "name": "Appended Mag"
                             },
                             {
                                 "hash": 1968497646,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/73b724a6839bb3e1db37742f7ed5249b.png",
+                                "isSelected": false,
                                 "name": "Armor-Piercing Rounds"
                             },
                             {
-                                "hash": 1561002382,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f06239ee156ee70f99b48e8e1970dbca.png",
-                                "name": "High-Caliber Rounds"
-                            },
-                            {
-                                "hash": 1885400500,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png",
-                                "name": "Ricochet Rounds"
+                                "hash": 2420895100,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
+                                "isSelected": false,
+                                "name": "Extended Mag"
                             },
                             {
                                 "hash": 3230963543,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ec1bca64fc9709678ea5c297c0e64c19.png",
+                                "isSelected": false,
                                 "name": "Flared Magwell"
+                            },
+                            {
+                                "hash": 1561002382,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f06239ee156ee70f99b48e8e1970dbca.png",
+                                "isSelected": false,
+                                "name": "High-Caliber Rounds"
                             },
                             {
                                 "hash": 679225683,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1d87312c174b44d5ef1ed24ad42efe9c.png",
+                                "isSelected": false,
                                 "name": "Light Mag"
+                            },
+                            {
+                                "hash": 1885400500,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png",
+                                "isSelected": false,
+                                "name": "Ricochet Rounds"
                             }
                         ],
                         "socketIndex": 1
@@ -6419,94 +7114,112 @@ export const WeaponTypes = [
                         "name": "traits",
                         "perks": [
                             {
-                                "hash": 1645158859,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a88b6ed7519cb27fd608c5743ca20b1.png",
-                                "name": "Under Pressure"
+                                "hash": 2010801679,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/df460693665b7b4dd42f1706e5fbb9e1.png",
+                                "isSelected": false,
+                                "name": "Ambitious Assassin"
                             },
                             {
                                 "hash": 1359896290,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/16d063d66a8d90643a409dfa4283c4e2.png",
+                                "isSelected": false,
                                 "name": "Dynamic Sway Reduction"
-                            },
-                            {
-                                "hash": 2039302152,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ccac4f90945c16a520b823d2a6cd48a3.png",
-                                "name": "Slideways"
-                            },
-                            {
-                                "hash": 4071163871,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png",
-                                "name": "Threat Detector"
-                            },
-                            {
-                                "hash": 588594999,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
-                                "name": "Moving Target"
                             },
                             {
                                 "hash": 2779035018,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/5838b4ef410895011edfed3eaf11641f.png",
+                                "isSelected": false,
                                 "name": "Feeding Frenzy"
-                            },
-                            {
-                                "hash": 3425386926,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
-                                "name": "Rampage"
-                            },
-                            {
-                                "hash": 2213355989,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bee920445b5d0ccb01814d2e6fcea27b.png",
-                                "name": "High-Impact Reserves"
-                            },
-                            {
-                                "hash": 706527188,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png",
-                                "name": "Quickdraw"
                             },
                             {
                                 "hash": 280464955,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc9da416fe98c79b59074403084765b7.png",
+                                "isSelected": false,
                                 "name": "Firmly Planted"
-                            },
-                            {
-                                "hash": 957782887,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
-                                "name": "Snapshot Sights"
-                            },
-                            {
-                                "hash": 1866048759,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9f3c3ae1bddbed21af1cc6487338028e.png",
-                                "name": "Hip-Fire Grip"
-                            },
-                            {
-                                "hash": 1890422124,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8e910e56aa6e36b2c406804e1d78d04f.png",
-                                "name": "Tap the Trigger"
-                            },
-                            {
-                                "hash": 3275789089,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7b527f4401012c2acf400759338c31f8.png",
-                                "name": "Shield Disorient"
-                            },
-                            {
-                                "hash": 3708227201,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0dbd2b11fd1343c11b4559c7a72ae8da.png",
-                                "name": "Surrounded"
-                            },
-                            {
-                                "hash": 2010801679,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/df460693665b7b4dd42f1706e5fbb9e1.png",
-                                "name": "Ambitious Assassin"
                             },
                             {
                                 "hash": 3096702027,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e52e3441db003abe3aa2b8a2f7fda730.png",
+                                "isSelected": false,
                                 "name": "Genesis"
+                            },
+                            {
+                                "hash": 2213355989,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bee920445b5d0ccb01814d2e6fcea27b.png",
+                                "isSelected": false,
+                                "name": "High-Impact Reserves"
+                            },
+                            {
+                                "hash": 1866048759,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9f3c3ae1bddbed21af1cc6487338028e.png",
+                                "isSelected": false,
+                                "name": "Hip-Fire Grip"
+                            },
+                            {
+                                "hash": 588594999,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
+                                "isSelected": false,
+                                "name": "Moving Target"
                             },
                             {
                                 "hash": 3513791699,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/72d0300b728c2b8c81cc37f1abc53ddc.png",
+                                "isSelected": false,
                                 "name": "Mulligan"
+                            },
+                            {
+                                "hash": 706527188,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png",
+                                "isSelected": false,
+                                "name": "Quickdraw"
+                            },
+                            {
+                                "hash": 3425386926,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
+                                "isSelected": false,
+                                "name": "Rampage"
+                            },
+                            {
+                                "hash": 3275789089,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7b527f4401012c2acf400759338c31f8.png",
+                                "isSelected": false,
+                                "name": "Shield Disorient"
+                            },
+                            {
+                                "hash": 2039302152,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ccac4f90945c16a520b823d2a6cd48a3.png",
+                                "isSelected": false,
+                                "name": "Slideways"
+                            },
+                            {
+                                "hash": 957782887,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
+                                "isSelected": false,
+                                "name": "Snapshot Sights"
+                            },
+                            {
+                                "hash": 3708227201,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0dbd2b11fd1343c11b4559c7a72ae8da.png",
+                                "isSelected": false,
+                                "name": "Surrounded"
+                            },
+                            {
+                                "hash": 1890422124,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8e910e56aa6e36b2c406804e1d78d04f.png",
+                                "isSelected": false,
+                                "name": "Tap the Trigger"
+                            },
+                            {
+                                "hash": 4071163871,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png",
+                                "isSelected": false,
+                                "name": "Threat Detector"
+                            },
+                            {
+                                "hash": 1645158859,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a88b6ed7519cb27fd608c5743ca20b1.png",
+                                "isSelected": false,
+                                "name": "Under Pressure"
                             }
                         ],
                         "socketIndex": 2
@@ -6629,6 +7342,7 @@ export const WeaponTypes = [
                             {
                                 "hash": 1392496348,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7cadd68b66ffd3bbedc09aa9c7ba6e03.png",
+                                "isSelected": false,
                                 "name": "Polygonal Rifling"
                             }
                         ],
@@ -6640,6 +7354,7 @@ export const WeaponTypes = [
                             {
                                 "hash": 2420895100,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
+                                "isSelected": false,
                                 "name": "Extended Mag"
                             }
                         ],
@@ -6649,14 +7364,16 @@ export const WeaponTypes = [
                         "name": "traits",
                         "perks": [
                             {
-                                "hash": 3643424744,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e5d9d70aadec948e851d443c64ff5d9d.png",
-                                "name": "Overflow"
-                            },
-                            {
                                 "hash": 2782457288,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e2db0c911d07fc0e9f505927aab055.png",
+                                "isSelected": false,
                                 "name": "Killing Tally"
+                            },
+                            {
+                                "hash": 3643424744,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e5d9d70aadec948e851d443c64ff5d9d.png",
+                                "isSelected": false,
+                                "name": "Overflow"
                             }
                         ],
                         "socketIndex": 2
@@ -6705,93 +7422,111 @@ export const WeaponTypes = [
                         "name": "Sight",
                         "perks": [
                             {
-                                "hash": 360593483,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1d7f482e8dbfb962ccebd3a8796fa664.png",
-                                "name": "SRO-37 Ocular"
-                            },
-                            {
-                                "hash": 360593482,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b1b1220f301d8e4ce3f87ecbf6812b20.png",
-                                "name": "SRO-41 Ocular"
-                            },
-                            {
-                                "hash": 360593481,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ea101dea3e2446ee8f999fc4c2a43944.png",
-                                "name": "SRO-52 Ocular"
-                            },
-                            {
-                                "hash": 965619221,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/560373df32b96679b03768a3e0aa3e05.png",
-                                "name": "SLO-12 Post"
-                            },
-                            {
-                                "hash": 965619220,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c422c90b4d5811210a9eca7fdd98dc1a.png",
-                                "name": "SLO-21 Post"
-                            },
-                            {
-                                "hash": 965619223,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cc4da92c0f3314ffa852b544896fe74b.png",
-                                "name": "SLO-10 Post"
-                            },
-                            {
-                                "hash": 3151536501,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8e85d31d83046a1a06fa28b44f8c54d5.png",
-                                "name": "SPO-57 Front"
-                            },
-                            {
-                                "hash": 3151536500,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7d97516e3a1d2b84f60e006b1fbb5749.png",
-                                "name": "SPO-28 Front"
-                            },
-                            {
-                                "hash": 3151536503,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e014290b97c6bfb58ae519c5e0ca343b.png",
-                                "name": "SPO-26 Front"
-                            },
-                            {
                                 "hash": 839105230,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png",
+                                "isSelected": false,
                                 "name": "Arrowhead Brake"
                             },
                             {
                                 "hash": 3661387068,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/376aa9bd8c392567f501012fc3b3d4d0.png",
+                                "isSelected": false,
                                 "name": "Chambered Compensator"
                             },
                             {
                                 "hash": 4090651448,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/18cc75bf9a17bb80b5109f1b8909521f.png",
+                                "isSelected": false,
                                 "name": "Corkscrew Rifling"
                             },
                             {
                                 "hash": 1467527085,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/151465ba86df34438248aad2248cce32.png",
+                                "isSelected": false,
                                 "name": "Extended Barrel"
                             },
                             {
                                 "hash": 1840239774,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png",
+                                "isSelected": false,
                                 "name": "Fluted Barrel"
                             },
                             {
                                 "hash": 202670084,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9307c5604f995d90ad5ed65281b64772.png",
+                                "isSelected": false,
                                 "name": "Full Bore"
                             },
                             {
                                 "hash": 3250034553,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9acb073d4e85160f66f0d617d210cf61.png",
+                                "isSelected": false,
                                 "name": "Hammer-Forged Rifling"
                             },
                             {
                                 "hash": 1392496348,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7cadd68b66ffd3bbedc09aa9c7ba6e03.png",
+                                "isSelected": false,
                                 "name": "Polygonal Rifling"
+                            },
+                            {
+                                "hash": 965619223,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cc4da92c0f3314ffa852b544896fe74b.png",
+                                "isSelected": false,
+                                "name": "SLO-10 Post"
+                            },
+                            {
+                                "hash": 965619221,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/560373df32b96679b03768a3e0aa3e05.png",
+                                "isSelected": false,
+                                "name": "SLO-12 Post"
+                            },
+                            {
+                                "hash": 965619220,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c422c90b4d5811210a9eca7fdd98dc1a.png",
+                                "isSelected": false,
+                                "name": "SLO-21 Post"
+                            },
+                            {
+                                "hash": 3151536503,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e014290b97c6bfb58ae519c5e0ca343b.png",
+                                "isSelected": false,
+                                "name": "SPO-26 Front"
+                            },
+                            {
+                                "hash": 3151536500,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7d97516e3a1d2b84f60e006b1fbb5749.png",
+                                "isSelected": false,
+                                "name": "SPO-28 Front"
+                            },
+                            {
+                                "hash": 3151536501,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8e85d31d83046a1a06fa28b44f8c54d5.png",
+                                "isSelected": false,
+                                "name": "SPO-57 Front"
+                            },
+                            {
+                                "hash": 360593483,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1d7f482e8dbfb962ccebd3a8796fa664.png",
+                                "isSelected": false,
+                                "name": "SRO-37 Ocular"
+                            },
+                            {
+                                "hash": 360593482,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b1b1220f301d8e4ce3f87ecbf6812b20.png",
+                                "isSelected": false,
+                                "name": "SRO-41 Ocular"
+                            },
+                            {
+                                "hash": 360593481,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ea101dea3e2446ee8f999fc4c2a43944.png",
+                                "isSelected": false,
+                                "name": "SRO-52 Ocular"
                             },
                             {
                                 "hash": 1482024992,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png",
+                                "isSelected": false,
                                 "name": "Smallbore"
                             }
                         ],
@@ -6803,62 +7538,74 @@ export const WeaponTypes = [
                             {
                                 "hash": 3142289711,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png",
+                                "isSelected": false,
                                 "name": "Accurized Rounds"
-                            },
-                            {
-                                "hash": 4134353779,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d316be9e70844427e69034b0f06bec75.png",
-                                "name": "Drop Mag"
-                            },
-                            {
-                                "hash": 1087426260,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9d8a7be4c2fef471a6fde38d02ab8dae.png",
-                                "name": "Appended Mag"
-                            },
-                            {
-                                "hash": 106909392,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9711e6d3de7a9cf2f844752992390a63.png",
-                                "name": "Tactical Mag"
-                            },
-                            {
-                                "hash": 2420895100,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
-                                "name": "Extended Mag"
-                            },
-                            {
-                                "hash": 3177308360,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/adaf4315dab749519c41a233e9954598.png",
-                                "name": "Steady Rounds"
                             },
                             {
                                 "hash": 1431678320,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/932e7b84c233c6cc49a58058f8c5144d.png",
+                                "isSelected": false,
                                 "name": "Alloy Magazine"
                             },
                             {
-                                "hash": 3230963543,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ec1bca64fc9709678ea5c297c0e64c19.png",
-                                "name": "Flared Magwell"
+                                "hash": 1087426260,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9d8a7be4c2fef471a6fde38d02ab8dae.png",
+                                "isSelected": false,
+                                "name": "Appended Mag"
                             },
                             {
                                 "hash": 1968497646,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/73b724a6839bb3e1db37742f7ed5249b.png",
+                                "isSelected": false,
                                 "name": "Armor-Piercing Rounds"
+                            },
+                            {
+                                "hash": 4134353779,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d316be9e70844427e69034b0f06bec75.png",
+                                "isSelected": false,
+                                "name": "Drop Mag"
+                            },
+                            {
+                                "hash": 2420895100,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
+                                "isSelected": false,
+                                "name": "Extended Mag"
+                            },
+                            {
+                                "hash": 3230963543,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ec1bca64fc9709678ea5c297c0e64c19.png",
+                                "isSelected": false,
+                                "name": "Flared Magwell"
                             },
                             {
                                 "hash": 1561002382,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f06239ee156ee70f99b48e8e1970dbca.png",
+                                "isSelected": false,
                                 "name": "High-Caliber Rounds"
-                            },
-                            {
-                                "hash": 1885400500,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png",
-                                "name": "Ricochet Rounds"
                             },
                             {
                                 "hash": 679225683,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1d87312c174b44d5ef1ed24ad42efe9c.png",
+                                "isSelected": false,
                                 "name": "Light Mag"
+                            },
+                            {
+                                "hash": 1885400500,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png",
+                                "isSelected": false,
+                                "name": "Ricochet Rounds"
+                            },
+                            {
+                                "hash": 3177308360,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/adaf4315dab749519c41a233e9954598.png",
+                                "isSelected": false,
+                                "name": "Steady Rounds"
+                            },
+                            {
+                                "hash": 106909392,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9711e6d3de7a9cf2f844752992390a63.png",
+                                "isSelected": false,
+                                "name": "Tactical Mag"
                             }
                         ],
                         "socketIndex": 1
@@ -6867,84 +7614,100 @@ export const WeaponTypes = [
                         "name": "traits",
                         "perks": [
                             {
-                                "hash": 1168162263,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
-                                "name": "Outlaw"
-                            },
-                            {
-                                "hash": 2846385770,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png",
-                                "name": "Rangefinder"
+                                "hash": 2010801679,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/df460693665b7b4dd42f1706e5fbb9e1.png",
+                                "isSelected": false,
+                                "name": "Ambitious Assassin"
                             },
                             {
                                 "hash": 280464955,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc9da416fe98c79b59074403084765b7.png",
+                                "isSelected": false,
                                 "name": "Firmly Planted"
-                            },
-                            {
-                                "hash": 1631667848,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/83e206ebea83f76d9969efea7134ddcc.png",
-                                "name": "Grave Robber"
-                            },
-                            {
-                                "hash": 1645158859,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a88b6ed7519cb27fd608c5743ca20b1.png",
-                                "name": "Under Pressure"
-                            },
-                            {
-                                "hash": 588594999,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
-                                "name": "Moving Target"
-                            },
-                            {
-                                "hash": 3425386926,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
-                                "name": "Rampage"
-                            },
-                            {
-                                "hash": 1015611457,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
-                                "name": "Kill Clip"
-                            },
-                            {
-                                "hash": 2213355989,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bee920445b5d0ccb01814d2e6fcea27b.png",
-                                "name": "High-Impact Reserves"
                             },
                             {
                                 "hash": 4267945040,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c995638d381d6ff46df5606f49abd7b3.png",
+                                "isSelected": false,
                                 "name": "Full Auto Trigger System"
                             },
                             {
-                                "hash": 957782887,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
-                                "name": "Snapshot Sights"
+                                "hash": 1631667848,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/83e206ebea83f76d9969efea7134ddcc.png",
+                                "isSelected": false,
+                                "name": "Grave Robber"
                             },
                             {
                                 "hash": 460017080,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1f0a13d78a9acb919a688adcc21bfdcf.png",
+                                "isSelected": false,
                                 "name": "Headseeker"
                             },
                             {
-                                "hash": 2387244414,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49958f356ea1df930888d15fe6539fe1.png",
-                                "name": "Zen Moment"
+                                "hash": 2213355989,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bee920445b5d0ccb01814d2e6fcea27b.png",
+                                "isSelected": false,
+                                "name": "High-Impact Reserves"
                             },
                             {
-                                "hash": 2010801679,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/df460693665b7b4dd42f1706e5fbb9e1.png",
-                                "name": "Ambitious Assassin"
+                                "hash": 1015611457,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
+                                "isSelected": false,
+                                "name": "Kill Clip"
+                            },
+                            {
+                                "hash": 588594999,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
+                                "isSelected": false,
+                                "name": "Moving Target"
                             },
                             {
                                 "hash": 47981717,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0fd9dbe1c09b8cc7d0be888c68ff4526.png",
+                                "isSelected": false,
                                 "name": "Opening Shot"
+                            },
+                            {
+                                "hash": 1168162263,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
+                                "isSelected": false,
+                                "name": "Outlaw"
+                            },
+                            {
+                                "hash": 3425386926,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
+                                "isSelected": false,
+                                "name": "Rampage"
+                            },
+                            {
+                                "hash": 2846385770,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png",
+                                "isSelected": false,
+                                "name": "Rangefinder"
                             },
                             {
                                 "hash": 3161816588,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fa7ba2abcd8effd143e287668d7c865b.png",
+                                "isSelected": false,
                                 "name": "Slideshot"
+                            },
+                            {
+                                "hash": 957782887,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
+                                "isSelected": false,
+                                "name": "Snapshot Sights"
+                            },
+                            {
+                                "hash": 1645158859,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a88b6ed7519cb27fd608c5743ca20b1.png",
+                                "isSelected": false,
+                                "name": "Under Pressure"
+                            },
+                            {
+                                "hash": 2387244414,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49958f356ea1df930888d15fe6539fe1.png",
+                                "isSelected": false,
+                                "name": "Zen Moment"
                             }
                         ],
                         "socketIndex": 2
@@ -7122,67 +7885,80 @@ export const WeaponTypes = [
                             {
                                 "hash": 809345546,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9e8f8f5490ed191d783f2b93c624c466.png",
+                                "isSelected": false,
                                 "name": "Devil Scope D2"
-                            },
-                            {
-                                "hash": 809345547,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9e8f8f5490ed191d783f2b93c624c466.png",
-                                "name": "Dusk Scope D2"
-                            },
-                            {
-                                "hash": 1288081796,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1c1be01de23c5233cab50ff8dbe6c2c4.png",
-                                "name": "Wolf Sight W1"
-                            },
-                            {
-                                "hash": 1288081797,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1c1be01de23c5233cab50ff8dbe6c2c4.png",
-                                "name": "King Sight K1"
-                            },
-                            {
-                                "hash": 1288081798,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1c1be01de23c5233cab50ff8dbe6c2c4.png",
-                                "name": "Dusk Sight D1"
-                            },
-                            {
-                                "hash": 1452368632,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/39e67986552e5675249862f76a6ff542.png",
-                                "name": "Wolf Dot W2"
-                            },
-                            {
-                                "hash": 1452368633,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/39e67986552e5675249862f76a6ff542.png",
-                                "name": "King Dot K2"
                             },
                             {
                                 "hash": 1452368634,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/39e67986552e5675249862f76a6ff542.png",
+                                "isSelected": false,
                                 "name": "Dusk Dot D1"
                             },
                             {
-                                "hash": 1096957638,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/89ae6176468ad3efd04bf2cdee255f0c.png",
-                                "name": "Rasmussen ISA"
+                                "hash": 809345547,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9e8f8f5490ed191d783f2b93c624c466.png",
+                                "isSelected": false,
+                                "name": "Dusk Scope D2"
                             },
                             {
-                                "hash": 3433396026,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/83904ac7f4475214abde90141e3af360.png",
-                                "name": "Meyrin RDS"
+                                "hash": 1288081798,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1c1be01de23c5233cab50ff8dbe6c2c4.png",
+                                "isSelected": false,
+                                "name": "Dusk Sight D1"
+                            },
+                            {
+                                "hash": 1452368633,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/39e67986552e5675249862f76a6ff542.png",
+                                "isSelected": false,
+                                "name": "King Dot K2"
+                            },
+                            {
+                                "hash": 1288081797,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1c1be01de23c5233cab50ff8dbe6c2c4.png",
+                                "isSelected": false,
+                                "name": "King Sight K1"
                             },
                             {
                                 "hash": 3433396027,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/de12bacce62d0b591a3c95a206fbbe43.png",
+                                "isSelected": false,
                                 "name": "Meyrin RDL"
+                            },
+                            {
+                                "hash": 3433396026,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/83904ac7f4475214abde90141e3af360.png",
+                                "isSelected": false,
+                                "name": "Meyrin RDS"
+                            },
+                            {
+                                "hash": 1096957638,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/89ae6176468ad3efd04bf2cdee255f0c.png",
+                                "isSelected": false,
+                                "name": "Rasmussen ISA"
                             },
                             {
                                 "hash": 2414725840,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f5c248963331d5bf804daa4bbdd691bd.png",
+                                "isSelected": false,
                                 "name": "Satou Focus Lens"
                             },
                             {
                                 "hash": 2414725841,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7b5e34f3c9026a439b297b5d5eecf78a.png",
+                                "isSelected": false,
                                 "name": "Satou Precision Lens"
+                            },
+                            {
+                                "hash": 1452368632,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/39e67986552e5675249862f76a6ff542.png",
+                                "isSelected": false,
+                                "name": "Wolf Dot W2"
+                            },
+                            {
+                                "hash": 1288081796,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1c1be01de23c5233cab50ff8dbe6c2c4.png",
+                                "isSelected": false,
+                                "name": "Wolf Sight W1"
                             }
                         ],
                         "socketIndex": 0
@@ -7193,62 +7969,74 @@ export const WeaponTypes = [
                             {
                                 "hash": 3142289711,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png",
+                                "isSelected": false,
                                 "name": "Accurized Rounds"
-                            },
-                            {
-                                "hash": 4134353779,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d316be9e70844427e69034b0f06bec75.png",
-                                "name": "Drop Mag"
-                            },
-                            {
-                                "hash": 1087426260,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9d8a7be4c2fef471a6fde38d02ab8dae.png",
-                                "name": "Appended Mag"
-                            },
-                            {
-                                "hash": 106909392,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9711e6d3de7a9cf2f844752992390a63.png",
-                                "name": "Tactical Mag"
-                            },
-                            {
-                                "hash": 2420895100,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
-                                "name": "Extended Mag"
-                            },
-                            {
-                                "hash": 3177308360,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/adaf4315dab749519c41a233e9954598.png",
-                                "name": "Steady Rounds"
                             },
                             {
                                 "hash": 1431678320,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/932e7b84c233c6cc49a58058f8c5144d.png",
+                                "isSelected": false,
                                 "name": "Alloy Magazine"
                             },
                             {
-                                "hash": 3230963543,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ec1bca64fc9709678ea5c297c0e64c19.png",
-                                "name": "Flared Magwell"
+                                "hash": 1087426260,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9d8a7be4c2fef471a6fde38d02ab8dae.png",
+                                "isSelected": false,
+                                "name": "Appended Mag"
                             },
                             {
                                 "hash": 1968497646,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/73b724a6839bb3e1db37742f7ed5249b.png",
+                                "isSelected": false,
                                 "name": "Armor-Piercing Rounds"
+                            },
+                            {
+                                "hash": 4134353779,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d316be9e70844427e69034b0f06bec75.png",
+                                "isSelected": false,
+                                "name": "Drop Mag"
+                            },
+                            {
+                                "hash": 2420895100,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
+                                "isSelected": false,
+                                "name": "Extended Mag"
+                            },
+                            {
+                                "hash": 3230963543,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ec1bca64fc9709678ea5c297c0e64c19.png",
+                                "isSelected": false,
+                                "name": "Flared Magwell"
                             },
                             {
                                 "hash": 1561002382,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f06239ee156ee70f99b48e8e1970dbca.png",
+                                "isSelected": false,
                                 "name": "High-Caliber Rounds"
-                            },
-                            {
-                                "hash": 1885400500,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png",
-                                "name": "Ricochet Rounds"
                             },
                             {
                                 "hash": 679225683,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1d87312c174b44d5ef1ed24ad42efe9c.png",
+                                "isSelected": false,
                                 "name": "Light Mag"
+                            },
+                            {
+                                "hash": 1885400500,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png",
+                                "isSelected": false,
+                                "name": "Ricochet Rounds"
+                            },
+                            {
+                                "hash": 3177308360,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/adaf4315dab749519c41a233e9954598.png",
+                                "isSelected": false,
+                                "name": "Steady Rounds"
+                            },
+                            {
+                                "hash": 106909392,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9711e6d3de7a9cf2f844752992390a63.png",
+                                "isSelected": false,
+                                "name": "Tactical Mag"
                             }
                         ],
                         "socketIndex": 1
@@ -7257,94 +8045,112 @@ export const WeaponTypes = [
                         "name": "traits",
                         "perks": [
                             {
-                                "hash": 1168162263,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
-                                "name": "Outlaw"
-                            },
-                            {
-                                "hash": 588594999,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
-                                "name": "Moving Target"
-                            },
-                            {
-                                "hash": 280464955,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc9da416fe98c79b59074403084765b7.png",
-                                "name": "Firmly Planted"
-                            },
-                            {
-                                "hash": 2387244414,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49958f356ea1df930888d15fe6539fe1.png",
-                                "name": "Zen Moment"
-                            },
-                            {
-                                "hash": 1645158859,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a88b6ed7519cb27fd608c5743ca20b1.png",
-                                "name": "Under Pressure"
-                            },
-                            {
-                                "hash": 1866048759,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9f3c3ae1bddbed21af1cc6487338028e.png",
-                                "name": "Hip-Fire Grip"
-                            },
-                            {
-                                "hash": 3425386926,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
-                                "name": "Rampage"
-                            },
-                            {
-                                "hash": 1015611457,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
-                                "name": "Kill Clip"
-                            },
-                            {
-                                "hash": 2213355989,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bee920445b5d0ccb01814d2e6fcea27b.png",
-                                "name": "High-Impact Reserves"
-                            },
-                            {
-                                "hash": 4267945040,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c995638d381d6ff46df5606f49abd7b3.png",
-                                "name": "Full Auto Trigger System"
-                            },
-                            {
-                                "hash": 2846385770,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png",
-                                "name": "Rangefinder"
-                            },
-                            {
-                                "hash": 460017080,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1f0a13d78a9acb919a688adcc21bfdcf.png",
-                                "name": "Headseeker"
-                            },
-                            {
-                                "hash": 2779035018,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/5838b4ef410895011edfed3eaf11641f.png",
-                                "name": "Feeding Frenzy"
-                            },
-                            {
                                 "hash": 3722653512,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/34e3043d3f29eb8d38c8e0f5d5138f57.png",
+                                "isSelected": false,
                                 "name": "Air Assault"
-                            },
-                            {
-                                "hash": 706527188,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png",
-                                "name": "Quickdraw"
-                            },
-                            {
-                                "hash": 957782887,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
-                                "name": "Snapshot Sights"
                             },
                             {
                                 "hash": 2010801679,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/df460693665b7b4dd42f1706e5fbb9e1.png",
+                                "isSelected": false,
                                 "name": "Ambitious Assassin"
+                            },
+                            {
+                                "hash": 2779035018,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/5838b4ef410895011edfed3eaf11641f.png",
+                                "isSelected": false,
+                                "name": "Feeding Frenzy"
+                            },
+                            {
+                                "hash": 280464955,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc9da416fe98c79b59074403084765b7.png",
+                                "isSelected": false,
+                                "name": "Firmly Planted"
+                            },
+                            {
+                                "hash": 4267945040,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c995638d381d6ff46df5606f49abd7b3.png",
+                                "isSelected": false,
+                                "name": "Full Auto Trigger System"
+                            },
+                            {
+                                "hash": 460017080,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1f0a13d78a9acb919a688adcc21bfdcf.png",
+                                "isSelected": false,
+                                "name": "Headseeker"
+                            },
+                            {
+                                "hash": 2213355989,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bee920445b5d0ccb01814d2e6fcea27b.png",
+                                "isSelected": false,
+                                "name": "High-Impact Reserves"
+                            },
+                            {
+                                "hash": 1866048759,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9f3c3ae1bddbed21af1cc6487338028e.png",
+                                "isSelected": false,
+                                "name": "Hip-Fire Grip"
+                            },
+                            {
+                                "hash": 1015611457,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
+                                "isSelected": false,
+                                "name": "Kill Clip"
+                            },
+                            {
+                                "hash": 588594999,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
+                                "isSelected": false,
+                                "name": "Moving Target"
+                            },
+                            {
+                                "hash": 1168162263,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
+                                "isSelected": false,
+                                "name": "Outlaw"
+                            },
+                            {
+                                "hash": 706527188,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png",
+                                "isSelected": false,
+                                "name": "Quickdraw"
+                            },
+                            {
+                                "hash": 3425386926,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
+                                "isSelected": false,
+                                "name": "Rampage"
+                            },
+                            {
+                                "hash": 2846385770,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png",
+                                "isSelected": false,
+                                "name": "Rangefinder"
                             },
                             {
                                 "hash": 3161816588,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fa7ba2abcd8effd143e287668d7c865b.png",
+                                "isSelected": false,
                                 "name": "Slideshot"
+                            },
+                            {
+                                "hash": 957782887,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
+                                "isSelected": false,
+                                "name": "Snapshot Sights"
+                            },
+                            {
+                                "hash": 1645158859,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a88b6ed7519cb27fd608c5743ca20b1.png",
+                                "isSelected": false,
+                                "name": "Under Pressure"
+                            },
+                            {
+                                "hash": 2387244414,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49958f356ea1df930888d15fe6539fe1.png",
+                                "isSelected": false,
+                                "name": "Zen Moment"
                             }
                         ],
                         "socketIndex": 2
@@ -7515,82 +8321,98 @@ export const WeaponTypes = [
                             {
                                 "hash": 839105230,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png",
+                                "isSelected": false,
                                 "name": "Arrowhead Brake"
                             },
                             {
                                 "hash": 3661387068,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/376aa9bd8c392567f501012fc3b3d4d0.png",
+                                "isSelected": false,
                                 "name": "Chambered Compensator"
                             },
                             {
                                 "hash": 4090651448,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/18cc75bf9a17bb80b5109f1b8909521f.png",
+                                "isSelected": false,
                                 "name": "Corkscrew Rifling"
                             },
                             {
                                 "hash": 1467527085,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/151465ba86df34438248aad2248cce32.png",
+                                "isSelected": false,
                                 "name": "Extended Barrel"
                             },
                             {
                                 "hash": 1840239774,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png",
+                                "isSelected": false,
                                 "name": "Fluted Barrel"
                             },
                             {
                                 "hash": 202670084,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9307c5604f995d90ad5ed65281b64772.png",
+                                "isSelected": false,
                                 "name": "Full Bore"
-                            },
-                            {
-                                "hash": 3250034553,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9acb073d4e85160f66f0d617d210cf61.png",
-                                "name": "Hammer-Forged Rifling"
-                            },
-                            {
-                                "hash": 1392496348,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7cadd68b66ffd3bbedc09aa9c7ba6e03.png",
-                                "name": "Polygonal Rifling"
-                            },
-                            {
-                                "hash": 1482024992,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png",
-                                "name": "Smallbore"
-                            },
-                            {
-                                "hash": 1313805251,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/818ff9531daa0807c3264b7ea3cdc23a.png",
-                                "name": "LD Watchdog"
-                            },
-                            {
-                                "hash": 1313805250,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/818ff9531daa0807c3264b7ea3cdc23a.png",
-                                "name": "LB Assault"
-                            },
-                            {
-                                "hash": 1313805249,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/aec0c1d5d51350bd43ba4ebbf9af1c68.png",
-                                "name": "LC Ranged"
                             },
                             {
                                 "hash": 87986589,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/5f1bc34100784790cb6db337a23509b3.png",
+                                "isSelected": false,
                                 "name": "GA Post"
                             },
                             {
                                 "hash": 87986588,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/25cd9fea8cb23e6ecfc4badc2490fbe3.png",
+                                "isSelected": false,
                                 "name": "GB Iron"
                             },
                             {
-                                "hash": 2054312701,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/addb9e2f4a8fd2f7396c07486cb0c6c5.png",
-                                "name": "SD Thermal"
+                                "hash": 3250034553,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9acb073d4e85160f66f0d617d210cf61.png",
+                                "isSelected": false,
+                                "name": "Hammer-Forged Rifling"
+                            },
+                            {
+                                "hash": 1313805250,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/818ff9531daa0807c3264b7ea3cdc23a.png",
+                                "isSelected": false,
+                                "name": "LB Assault"
+                            },
+                            {
+                                "hash": 1313805249,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/aec0c1d5d51350bd43ba4ebbf9af1c68.png",
+                                "isSelected": false,
+                                "name": "LC Ranged"
+                            },
+                            {
+                                "hash": 1313805251,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/818ff9531daa0807c3264b7ea3cdc23a.png",
+                                "isSelected": false,
+                                "name": "LD Watchdog"
+                            },
+                            {
+                                "hash": 1392496348,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7cadd68b66ffd3bbedc09aa9c7ba6e03.png",
+                                "isSelected": false,
+                                "name": "Polygonal Rifling"
                             },
                             {
                                 "hash": 2054312700,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/6ed5ea6e2434149e7ec9f3d0fc7b0e63.png",
+                                "isSelected": false,
                                 "name": "SC Holo"
+                            },
+                            {
+                                "hash": 2054312701,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/addb9e2f4a8fd2f7396c07486cb0c6c5.png",
+                                "isSelected": false,
+                                "name": "SD Thermal"
+                            },
+                            {
+                                "hash": 1482024992,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png",
+                                "isSelected": false,
+                                "name": "Smallbore"
                             }
                         ],
                         "socketIndex": 0
@@ -7599,44 +8421,52 @@ export const WeaponTypes = [
                         "name": "Magazine",
                         "perks": [
                             {
-                                "hash": 2420895100,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
-                                "name": "Extended Mag"
-                            },
-                            {
                                 "hash": 1431678320,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/932e7b84c233c6cc49a58058f8c5144d.png",
+                                "isSelected": false,
                                 "name": "Alloy Magazine"
                             },
                             {
                                 "hash": 1087426260,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9d8a7be4c2fef471a6fde38d02ab8dae.png",
+                                "isSelected": false,
                                 "name": "Appended Mag"
                             },
                             {
                                 "hash": 1968497646,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/73b724a6839bb3e1db37742f7ed5249b.png",
+                                "isSelected": false,
                                 "name": "Armor-Piercing Rounds"
                             },
                             {
-                                "hash": 1561002382,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f06239ee156ee70f99b48e8e1970dbca.png",
-                                "name": "High-Caliber Rounds"
-                            },
-                            {
-                                "hash": 1885400500,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png",
-                                "name": "Ricochet Rounds"
+                                "hash": 2420895100,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
+                                "isSelected": false,
+                                "name": "Extended Mag"
                             },
                             {
                                 "hash": 3230963543,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ec1bca64fc9709678ea5c297c0e64c19.png",
+                                "isSelected": false,
                                 "name": "Flared Magwell"
+                            },
+                            {
+                                "hash": 1561002382,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f06239ee156ee70f99b48e8e1970dbca.png",
+                                "isSelected": false,
+                                "name": "High-Caliber Rounds"
                             },
                             {
                                 "hash": 679225683,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1d87312c174b44d5ef1ed24ad42efe9c.png",
+                                "isSelected": false,
                                 "name": "Light Mag"
+                            },
+                            {
+                                "hash": 1885400500,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png",
+                                "isSelected": false,
+                                "name": "Ricochet Rounds"
                             }
                         ],
                         "socketIndex": 1
@@ -7645,78 +8475,93 @@ export const WeaponTypes = [
                         "name": "traits",
                         "perks": [
                             {
-                                "hash": 1168162263,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
-                                "name": "Outlaw"
+                                "hash": 2010801679,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/df460693665b7b4dd42f1706e5fbb9e1.png",
+                                "isSelected": false,
+                                "name": "Ambitious Assassin"
                             },
                             {
                                 "hash": 3047969693,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c65ca84ff8fe31b00fb0bb569ddf25a8.png",
+                                "isSelected": false,
                                 "name": "Desperado"
-                            },
-                            {
-                                "hash": 2846385770,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png",
-                                "name": "Rangefinder"
                             },
                             {
                                 "hash": 280464955,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc9da416fe98c79b59074403084765b7.png",
+                                "isSelected": false,
                                 "name": "Firmly Planted"
-                            },
-                            {
-                                "hash": 1631667848,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/83e206ebea83f76d9969efea7134ddcc.png",
-                                "name": "Grave Robber"
-                            },
-                            {
-                                "hash": 1645158859,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a88b6ed7519cb27fd608c5743ca20b1.png",
-                                "name": "Under Pressure"
-                            },
-                            {
-                                "hash": 588594999,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
-                                "name": "Moving Target"
-                            },
-                            {
-                                "hash": 2010801679,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/df460693665b7b4dd42f1706e5fbb9e1.png",
-                                "name": "Ambitious Assassin"
-                            },
-                            {
-                                "hash": 3425386926,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
-                                "name": "Rampage"
-                            },
-                            {
-                                "hash": 1015611457,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
-                                "name": "Kill Clip"
-                            },
-                            {
-                                "hash": 2213355989,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bee920445b5d0ccb01814d2e6fcea27b.png",
-                                "name": "High-Impact Reserves"
                             },
                             {
                                 "hash": 4267945040,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c995638d381d6ff46df5606f49abd7b3.png",
+                                "isSelected": false,
                                 "name": "Full Auto Trigger System"
                             },
                             {
-                                "hash": 957782887,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
-                                "name": "Snapshot Sights"
+                                "hash": 1631667848,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/83e206ebea83f76d9969efea7134ddcc.png",
+                                "isSelected": false,
+                                "name": "Grave Robber"
                             },
                             {
                                 "hash": 460017080,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1f0a13d78a9acb919a688adcc21bfdcf.png",
+                                "isSelected": false,
                                 "name": "Headseeker"
+                            },
+                            {
+                                "hash": 2213355989,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bee920445b5d0ccb01814d2e6fcea27b.png",
+                                "isSelected": false,
+                                "name": "High-Impact Reserves"
+                            },
+                            {
+                                "hash": 1015611457,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
+                                "isSelected": false,
+                                "name": "Kill Clip"
+                            },
+                            {
+                                "hash": 588594999,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
+                                "isSelected": false,
+                                "name": "Moving Target"
+                            },
+                            {
+                                "hash": 1168162263,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
+                                "isSelected": false,
+                                "name": "Outlaw"
+                            },
+                            {
+                                "hash": 3425386926,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
+                                "isSelected": false,
+                                "name": "Rampage"
+                            },
+                            {
+                                "hash": 2846385770,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png",
+                                "isSelected": false,
+                                "name": "Rangefinder"
+                            },
+                            {
+                                "hash": 957782887,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
+                                "isSelected": false,
+                                "name": "Snapshot Sights"
+                            },
+                            {
+                                "hash": 1645158859,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a88b6ed7519cb27fd608c5743ca20b1.png",
+                                "isSelected": false,
+                                "name": "Under Pressure"
                             },
                             {
                                 "hash": 2387244414,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49958f356ea1df930888d15fe6539fe1.png",
+                                "isSelected": false,
                                 "name": "Zen Moment"
                             }
                         ],
@@ -7831,77 +8676,92 @@ export const WeaponTypes = [
                             {
                                 "hash": 839105230,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png",
+                                "isSelected": false,
                                 "name": "Arrowhead Brake"
                             },
                             {
                                 "hash": 3661387068,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/376aa9bd8c392567f501012fc3b3d4d0.png",
+                                "isSelected": false,
                                 "name": "Chambered Compensator"
+                            },
+                            {
+                                "hash": 13792279,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/43ffd338e67c18c493d164ae7fce1a67.png",
+                                "isSelected": false,
+                                "name": "Cleanshot IS"
                             },
                             {
                                 "hash": 4090651448,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/18cc75bf9a17bb80b5109f1b8909521f.png",
+                                "isSelected": false,
                                 "name": "Corkscrew Rifling"
                             },
                             {
                                 "hash": 1467527085,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/151465ba86df34438248aad2248cce32.png",
+                                "isSelected": false,
                                 "name": "Extended Barrel"
                             },
                             {
                                 "hash": 1840239774,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png",
+                                "isSelected": false,
                                 "name": "Fluted Barrel"
                             },
                             {
                                 "hash": 202670084,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9307c5604f995d90ad5ed65281b64772.png",
+                                "isSelected": false,
                                 "name": "Full Bore"
                             },
                             {
                                 "hash": 3250034553,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9acb073d4e85160f66f0d617d210cf61.png",
+                                "isSelected": false,
                                 "name": "Hammer-Forged Rifling"
-                            },
-                            {
-                                "hash": 1392496348,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7cadd68b66ffd3bbedc09aa9c7ba6e03.png",
-                                "name": "Polygonal Rifling"
-                            },
-                            {
-                                "hash": 1482024992,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png",
-                                "name": "Smallbore"
-                            },
-                            {
-                                "hash": 679077873,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c03a51592fe203813f97d0a4e871b450.png",
-                                "name": "Rifle Scope ST"
-                            },
-                            {
-                                "hash": 679077872,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c03a51592fe203813f97d0a4e871b450.png",
-                                "name": "Rifle Scope SSF"
-                            },
-                            {
-                                "hash": 13792279,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/43ffd338e67c18c493d164ae7fce1a67.png",
-                                "name": "Cleanshot IS"
                             },
                             {
                                 "hash": 13792278,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4df80be29a7eb6ba01bf7ea41f46f7da.png",
+                                "isSelected": false,
                                 "name": "Hitmark IS"
+                            },
+                            {
+                                "hash": 1392496348,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7cadd68b66ffd3bbedc09aa9c7ba6e03.png",
+                                "isSelected": false,
+                                "name": "Polygonal Rifling"
                             },
                             {
                                 "hash": 2405638015,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ee62caf152c3747675fe43c544d72e45.png",
+                                "isSelected": false,
                                 "name": "Red Dot 2 MOA"
                             },
                             {
                                 "hash": 2405638014,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ee62caf152c3747675fe43c544d72e45.png",
+                                "isSelected": false,
                                 "name": "Red Dot Micro"
+                            },
+                            {
+                                "hash": 679077872,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c03a51592fe203813f97d0a4e871b450.png",
+                                "isSelected": false,
+                                "name": "Rifle Scope SSF"
+                            },
+                            {
+                                "hash": 679077873,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c03a51592fe203813f97d0a4e871b450.png",
+                                "isSelected": false,
+                                "name": "Rifle Scope ST"
+                            },
+                            {
+                                "hash": 1482024992,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png",
+                                "isSelected": false,
+                                "name": "Smallbore"
                             }
                         ],
                         "socketIndex": 0
@@ -7910,64 +8770,76 @@ export const WeaponTypes = [
                         "name": "Magazine",
                         "perks": [
                             {
-                                "hash": 2420895100,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
-                                "name": "Extended Mag"
+                                "hash": 3142289711,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png",
+                                "isSelected": false,
+                                "name": "Accurized Rounds"
                             },
                             {
                                 "hash": 1431678320,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/932e7b84c233c6cc49a58058f8c5144d.png",
+                                "isSelected": false,
                                 "name": "Alloy Magazine"
-                            },
-                            {
-                                "hash": 1968497646,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/73b724a6839bb3e1db37742f7ed5249b.png",
-                                "name": "Armor-Piercing Rounds"
-                            },
-                            {
-                                "hash": 1561002382,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f06239ee156ee70f99b48e8e1970dbca.png",
-                                "name": "High-Caliber Rounds"
-                            },
-                            {
-                                "hash": 1885400500,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png",
-                                "name": "Ricochet Rounds"
-                            },
-                            {
-                                "hash": 679225683,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1d87312c174b44d5ef1ed24ad42efe9c.png",
-                                "name": "Light Mag"
-                            },
-                            {
-                                "hash": 3142289711,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png",
-                                "name": "Accurized Rounds"
-                            },
-                            {
-                                "hash": 4134353779,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d316be9e70844427e69034b0f06bec75.png",
-                                "name": "Drop Mag"
                             },
                             {
                                 "hash": 1087426260,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9d8a7be4c2fef471a6fde38d02ab8dae.png",
+                                "isSelected": false,
                                 "name": "Appended Mag"
                             },
                             {
-                                "hash": 106909392,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9711e6d3de7a9cf2f844752992390a63.png",
-                                "name": "Tactical Mag"
+                                "hash": 1968497646,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/73b724a6839bb3e1db37742f7ed5249b.png",
+                                "isSelected": false,
+                                "name": "Armor-Piercing Rounds"
                             },
                             {
-                                "hash": 3177308360,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/adaf4315dab749519c41a233e9954598.png",
-                                "name": "Steady Rounds"
+                                "hash": 4134353779,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d316be9e70844427e69034b0f06bec75.png",
+                                "isSelected": false,
+                                "name": "Drop Mag"
+                            },
+                            {
+                                "hash": 2420895100,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
+                                "isSelected": false,
+                                "name": "Extended Mag"
                             },
                             {
                                 "hash": 3230963543,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ec1bca64fc9709678ea5c297c0e64c19.png",
+                                "isSelected": false,
                                 "name": "Flared Magwell"
+                            },
+                            {
+                                "hash": 1561002382,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f06239ee156ee70f99b48e8e1970dbca.png",
+                                "isSelected": false,
+                                "name": "High-Caliber Rounds"
+                            },
+                            {
+                                "hash": 679225683,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1d87312c174b44d5ef1ed24ad42efe9c.png",
+                                "isSelected": false,
+                                "name": "Light Mag"
+                            },
+                            {
+                                "hash": 1885400500,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png",
+                                "isSelected": false,
+                                "name": "Ricochet Rounds"
+                            },
+                            {
+                                "hash": 3177308360,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/adaf4315dab749519c41a233e9954598.png",
+                                "isSelected": false,
+                                "name": "Steady Rounds"
+                            },
+                            {
+                                "hash": 106909392,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9711e6d3de7a9cf2f844752992390a63.png",
+                                "isSelected": false,
+                                "name": "Tactical Mag"
                             }
                         ],
                         "socketIndex": 1
@@ -7976,78 +8848,93 @@ export const WeaponTypes = [
                         "name": "traits",
                         "perks": [
                             {
-                                "hash": 4267945040,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c995638d381d6ff46df5606f49abd7b3.png",
-                                "name": "Full Auto Trigger System"
-                            },
-                            {
-                                "hash": 1168162263,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
-                                "name": "Outlaw"
-                            },
-                            {
-                                "hash": 47981717,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0fd9dbe1c09b8cc7d0be888c68ff4526.png",
-                                "name": "Opening Shot"
-                            },
-                            {
-                                "hash": 2846385770,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png",
-                                "name": "Rangefinder"
-                            },
-                            {
-                                "hash": 3425386926,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
-                                "name": "Rampage"
-                            },
-                            {
-                                "hash": 2213355989,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bee920445b5d0ccb01814d2e6fcea27b.png",
-                                "name": "High-Impact Reserves"
-                            },
-                            {
-                                "hash": 460017080,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1f0a13d78a9acb919a688adcc21bfdcf.png",
-                                "name": "Headseeker"
-                            },
-                            {
-                                "hash": 1645158859,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a88b6ed7519cb27fd608c5743ca20b1.png",
-                                "name": "Under Pressure"
+                                "hash": 2010801679,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/df460693665b7b4dd42f1706e5fbb9e1.png",
+                                "isSelected": false,
+                                "name": "Ambitious Assassin"
                             },
                             {
                                 "hash": 280464955,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc9da416fe98c79b59074403084765b7.png",
+                                "isSelected": false,
                                 "name": "Firmly Planted"
+                            },
+                            {
+                                "hash": 4267945040,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c995638d381d6ff46df5606f49abd7b3.png",
+                                "isSelected": false,
+                                "name": "Full Auto Trigger System"
                             },
                             {
                                 "hash": 1631667848,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/83e206ebea83f76d9969efea7134ddcc.png",
+                                "isSelected": false,
                                 "name": "Grave Robber"
                             },
                             {
-                                "hash": 588594999,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
-                                "name": "Moving Target"
+                                "hash": 460017080,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1f0a13d78a9acb919a688adcc21bfdcf.png",
+                                "isSelected": false,
+                                "name": "Headseeker"
                             },
                             {
-                                "hash": 2010801679,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/df460693665b7b4dd42f1706e5fbb9e1.png",
-                                "name": "Ambitious Assassin"
+                                "hash": 2213355989,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bee920445b5d0ccb01814d2e6fcea27b.png",
+                                "isSelected": false,
+                                "name": "High-Impact Reserves"
                             },
                             {
                                 "hash": 1015611457,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
+                                "isSelected": false,
                                 "name": "Kill Clip"
+                            },
+                            {
+                                "hash": 588594999,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
+                                "isSelected": false,
+                                "name": "Moving Target"
+                            },
+                            {
+                                "hash": 47981717,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0fd9dbe1c09b8cc7d0be888c68ff4526.png",
+                                "isSelected": false,
+                                "name": "Opening Shot"
+                            },
+                            {
+                                "hash": 1168162263,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
+                                "isSelected": false,
+                                "name": "Outlaw"
+                            },
+                            {
+                                "hash": 3425386926,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
+                                "isSelected": false,
+                                "name": "Rampage"
+                            },
+                            {
+                                "hash": 2846385770,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png",
+                                "isSelected": false,
+                                "name": "Rangefinder"
                             },
                             {
                                 "hash": 957782887,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
+                                "isSelected": false,
                                 "name": "Snapshot Sights"
+                            },
+                            {
+                                "hash": 1645158859,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a88b6ed7519cb27fd608c5743ca20b1.png",
+                                "isSelected": false,
+                                "name": "Under Pressure"
                             },
                             {
                                 "hash": 2387244414,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49958f356ea1df930888d15fe6539fe1.png",
+                                "isSelected": false,
                                 "name": "Zen Moment"
                             }
                         ],
@@ -8165,46 +9052,55 @@ export const WeaponTypes = [
                             {
                                 "hash": 839105230,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png",
+                                "isSelected": false,
                                 "name": "Arrowhead Brake"
                             },
                             {
                                 "hash": 3661387068,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/376aa9bd8c392567f501012fc3b3d4d0.png",
+                                "isSelected": false,
                                 "name": "Chambered Compensator"
                             },
                             {
                                 "hash": 4090651448,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/18cc75bf9a17bb80b5109f1b8909521f.png",
+                                "isSelected": false,
                                 "name": "Corkscrew Rifling"
                             },
                             {
                                 "hash": 1467527085,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/151465ba86df34438248aad2248cce32.png",
+                                "isSelected": false,
                                 "name": "Extended Barrel"
                             },
                             {
                                 "hash": 1840239774,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png",
+                                "isSelected": false,
                                 "name": "Fluted Barrel"
                             },
                             {
                                 "hash": 202670084,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9307c5604f995d90ad5ed65281b64772.png",
+                                "isSelected": false,
                                 "name": "Full Bore"
                             },
                             {
                                 "hash": 3250034553,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9acb073d4e85160f66f0d617d210cf61.png",
+                                "isSelected": false,
                                 "name": "Hammer-Forged Rifling"
                             },
                             {
                                 "hash": 1392496348,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7cadd68b66ffd3bbedc09aa9c7ba6e03.png",
+                                "isSelected": false,
                                 "name": "Polygonal Rifling"
                             },
                             {
                                 "hash": 1482024992,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png",
+                                "isSelected": false,
                                 "name": "Smallbore"
                             }
                         ],
@@ -8216,62 +9112,74 @@ export const WeaponTypes = [
                             {
                                 "hash": 3142289711,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png",
+                                "isSelected": false,
                                 "name": "Accurized Rounds"
-                            },
-                            {
-                                "hash": 4134353779,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d316be9e70844427e69034b0f06bec75.png",
-                                "name": "Drop Mag"
-                            },
-                            {
-                                "hash": 1087426260,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9d8a7be4c2fef471a6fde38d02ab8dae.png",
-                                "name": "Appended Mag"
-                            },
-                            {
-                                "hash": 106909392,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9711e6d3de7a9cf2f844752992390a63.png",
-                                "name": "Tactical Mag"
-                            },
-                            {
-                                "hash": 2420895100,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
-                                "name": "Extended Mag"
-                            },
-                            {
-                                "hash": 3177308360,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/adaf4315dab749519c41a233e9954598.png",
-                                "name": "Steady Rounds"
                             },
                             {
                                 "hash": 1431678320,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/932e7b84c233c6cc49a58058f8c5144d.png",
+                                "isSelected": false,
                                 "name": "Alloy Magazine"
                             },
                             {
-                                "hash": 3230963543,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ec1bca64fc9709678ea5c297c0e64c19.png",
-                                "name": "Flared Magwell"
+                                "hash": 1087426260,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9d8a7be4c2fef471a6fde38d02ab8dae.png",
+                                "isSelected": false,
+                                "name": "Appended Mag"
                             },
                             {
                                 "hash": 1968497646,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/73b724a6839bb3e1db37742f7ed5249b.png",
+                                "isSelected": false,
                                 "name": "Armor-Piercing Rounds"
+                            },
+                            {
+                                "hash": 4134353779,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d316be9e70844427e69034b0f06bec75.png",
+                                "isSelected": false,
+                                "name": "Drop Mag"
+                            },
+                            {
+                                "hash": 2420895100,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
+                                "isSelected": false,
+                                "name": "Extended Mag"
+                            },
+                            {
+                                "hash": 3230963543,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ec1bca64fc9709678ea5c297c0e64c19.png",
+                                "isSelected": false,
+                                "name": "Flared Magwell"
                             },
                             {
                                 "hash": 1561002382,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f06239ee156ee70f99b48e8e1970dbca.png",
+                                "isSelected": false,
                                 "name": "High-Caliber Rounds"
-                            },
-                            {
-                                "hash": 1885400500,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png",
-                                "name": "Ricochet Rounds"
                             },
                             {
                                 "hash": 679225683,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1d87312c174b44d5ef1ed24ad42efe9c.png",
+                                "isSelected": false,
                                 "name": "Light Mag"
+                            },
+                            {
+                                "hash": 1885400500,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png",
+                                "isSelected": false,
+                                "name": "Ricochet Rounds"
+                            },
+                            {
+                                "hash": 3177308360,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/adaf4315dab749519c41a233e9954598.png",
+                                "isSelected": false,
+                                "name": "Steady Rounds"
+                            },
+                            {
+                                "hash": 106909392,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9711e6d3de7a9cf2f844752992390a63.png",
+                                "isSelected": false,
+                                "name": "Tactical Mag"
                             }
                         ],
                         "socketIndex": 1
@@ -8280,99 +9188,118 @@ export const WeaponTypes = [
                         "name": "traits",
                         "perks": [
                             {
-                                "hash": 4267945040,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c995638d381d6ff46df5606f49abd7b3.png",
-                                "name": "Full Auto Trigger System"
-                            },
-                            {
-                                "hash": 1168162263,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
-                                "name": "Outlaw"
-                            },
-                            {
-                                "hash": 1645158859,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a88b6ed7519cb27fd608c5743ca20b1.png",
-                                "name": "Under Pressure"
-                            },
-                            {
-                                "hash": 2779035018,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/5838b4ef410895011edfed3eaf11641f.png",
-                                "name": "Feeding Frenzy"
-                            },
-                            {
-                                "hash": 2846385770,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png",
-                                "name": "Rangefinder"
-                            },
-                            {
-                                "hash": 3425386926,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
-                                "name": "Rampage"
-                            },
-                            {
-                                "hash": 1015611457,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
-                                "name": "Kill Clip"
-                            },
-                            {
-                                "hash": 2213355989,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bee920445b5d0ccb01814d2e6fcea27b.png",
-                                "name": "High-Impact Reserves"
+                                "hash": 2010801679,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/df460693665b7b4dd42f1706e5fbb9e1.png",
+                                "isSelected": false,
+                                "name": "Ambitious Assassin"
                             },
                             {
                                 "hash": 3523296417,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/53ead908917c9156457c7c9dd453d649.png",
+                                "isSelected": false,
                                 "name": "Demolitionist"
-                            },
-                            {
-                                "hash": 957782887,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
-                                "name": "Snapshot Sights"
-                            },
-                            {
-                                "hash": 2387244414,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49958f356ea1df930888d15fe6539fe1.png",
-                                "name": "Zen Moment"
-                            },
-                            {
-                                "hash": 460017080,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1f0a13d78a9acb919a688adcc21bfdcf.png",
-                                "name": "Headseeker"
-                            },
-                            {
-                                "hash": 588594999,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
-                                "name": "Moving Target"
                             },
                             {
                                 "hash": 2848615171,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8fe8293ba02002f69bfa052a0c44223f.png",
+                                "isSelected": false,
                                 "name": "Dragonfly"
                             },
                             {
-                                "hash": 2010801679,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/df460693665b7b4dd42f1706e5fbb9e1.png",
-                                "name": "Ambitious Assassin"
-                            },
-                            {
-                                "hash": 3161816588,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fa7ba2abcd8effd143e287668d7c865b.png",
-                                "name": "Slideshot"
+                                "hash": 2779035018,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/5838b4ef410895011edfed3eaf11641f.png",
+                                "isSelected": false,
+                                "name": "Feeding Frenzy"
                             },
                             {
                                 "hash": 2869569095,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fd815414532978ad2e5decbfc416b9e4.png",
+                                "isSelected": false,
                                 "name": "Field Prep"
                             },
                             {
-                                "hash": 4071163871,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png",
-                                "name": "Threat Detector"
+                                "hash": 4267945040,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c995638d381d6ff46df5606f49abd7b3.png",
+                                "isSelected": false,
+                                "name": "Full Auto Trigger System"
                             },
                             {
                                 "hash": 1631667848,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/83e206ebea83f76d9969efea7134ddcc.png",
+                                "isSelected": false,
                                 "name": "Grave Robber"
+                            },
+                            {
+                                "hash": 460017080,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1f0a13d78a9acb919a688adcc21bfdcf.png",
+                                "isSelected": false,
+                                "name": "Headseeker"
+                            },
+                            {
+                                "hash": 2213355989,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bee920445b5d0ccb01814d2e6fcea27b.png",
+                                "isSelected": false,
+                                "name": "High-Impact Reserves"
+                            },
+                            {
+                                "hash": 1015611457,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
+                                "isSelected": false,
+                                "name": "Kill Clip"
+                            },
+                            {
+                                "hash": 588594999,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
+                                "isSelected": false,
+                                "name": "Moving Target"
+                            },
+                            {
+                                "hash": 1168162263,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
+                                "isSelected": false,
+                                "name": "Outlaw"
+                            },
+                            {
+                                "hash": 3425386926,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
+                                "isSelected": false,
+                                "name": "Rampage"
+                            },
+                            {
+                                "hash": 2846385770,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png",
+                                "isSelected": false,
+                                "name": "Rangefinder"
+                            },
+                            {
+                                "hash": 3161816588,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fa7ba2abcd8effd143e287668d7c865b.png",
+                                "isSelected": false,
+                                "name": "Slideshot"
+                            },
+                            {
+                                "hash": 957782887,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
+                                "isSelected": false,
+                                "name": "Snapshot Sights"
+                            },
+                            {
+                                "hash": 4071163871,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png",
+                                "isSelected": false,
+                                "name": "Threat Detector"
+                            },
+                            {
+                                "hash": 1645158859,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a88b6ed7519cb27fd608c5743ca20b1.png",
+                                "isSelected": false,
+                                "name": "Under Pressure"
+                            },
+                            {
+                                "hash": 2387244414,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49958f356ea1df930888d15fe6539fe1.png",
+                                "isSelected": false,
+                                "name": "Zen Moment"
                             }
                         ],
                         "socketIndex": 2
@@ -8548,39 +9475,46 @@ export const WeaponTypes = [
                         "name": "Launcher Barrel",
                         "perks": [
                             {
-                                "hash": 1478423395,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/402765b86ff7b1d97078ac43d5ca39ad.png",
-                                "name": "Volatile Launch"
-                            },
-                            {
                                 "hash": 1844523823,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c9439f5d740d017dc9551a60a902c797.png",
+                                "isSelected": false,
                                 "name": "Confined Launch"
                             },
                             {
                                 "hash": 3809316345,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b1e34eabc2ad012b6258436e80705b49.png",
+                                "isSelected": false,
                                 "name": "Countermass"
                             },
                             {
                                 "hash": 981914802,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/823b8ae4f48bca3bb5586167c1666781.png",
+                                "isSelected": false,
                                 "name": "Hard Launch"
                             },
                             {
                                 "hash": 1441682018,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/eab8eeedc70188ad3798b6ca84fbb7cb.png",
+                                "isSelected": false,
                                 "name": "Linear Compensator"
                             },
                             {
                                 "hash": 3525010810,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/11664d61e115d9a59bd969b87081f1a6.png",
+                                "isSelected": false,
                                 "name": "Quick Launch"
                             },
                             {
                                 "hash": 3798852852,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/52a4646804b96ed190f1e1ae97b64e17.png",
+                                "isSelected": false,
                                 "name": "Smart Drift Control"
+                            },
+                            {
+                                "hash": 1478423395,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/402765b86ff7b1d97078ac43d5ca39ad.png",
+                                "isSelected": false,
+                                "name": "Volatile Launch"
                             }
                         ],
                         "socketIndex": 0
@@ -8591,27 +9525,32 @@ export const WeaponTypes = [
                             {
                                 "hash": 2985827016,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/edbc74db634e0848209b885550c6c7a0.png",
+                                "isSelected": false,
                                 "name": "Alloy Casing"
                             },
                             {
                                 "hash": 1996142143,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fadc2600c37a417f532a3735caff04ac.png",
+                                "isSelected": false,
                                 "name": "Black Powder"
                             },
                             {
                                 "hash": 2822142346,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d541a7c35981cb9caceaf3736097adb9.png",
+                                "isSelected": false,
                                 "name": "High-Velocity Rounds"
-                            },
-                            {
-                                "hash": 3492396210,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/2a0232f77cee68e2945d11808f5a1d96.png",
-                                "name": "Implosion Rounds"
                             },
                             {
                                 "hash": 3796465595,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d2f835dad7b493e1f52c6b4b7a6571bc.png",
+                                "isSelected": false,
                                 "name": "Impact Casing"
+                            },
+                            {
+                                "hash": 3492396210,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/2a0232f77cee68e2945d11808f5a1d96.png",
+                                "isSelected": false,
+                                "name": "Implosion Rounds"
                             }
                         ],
                         "socketIndex": 1
@@ -8620,64 +9559,76 @@ export const WeaponTypes = [
                         "name": "traits",
                         "perks": [
                             {
-                                "hash": 3977735242,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/50b794dcc2a372cbc216e287790f9aa5.png",
-                                "name": "Tracking Module"
-                            },
-                            {
-                                "hash": 706527188,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png",
-                                "name": "Quickdraw"
-                            },
-                            {
-                                "hash": 3096702027,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e52e3441db003abe3aa2b8a2f7fda730.png",
-                                "name": "Genesis"
-                            },
-                            {
-                                "hash": 2869569095,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fd815414532978ad2e5decbfc416b9e4.png",
-                                "name": "Field Prep"
-                            },
-                            {
-                                "hash": 2846385770,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png",
-                                "name": "Rangefinder"
-                            },
-                            {
-                                "hash": 1275731761,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/26eb5d8ffd1c09e212ad2ea51ffd5ef9.png",
-                                "name": "Cluster Bomb"
-                            },
-                            {
                                 "hash": 2010801679,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/df460693665b7b4dd42f1706e5fbb9e1.png",
+                                "isSelected": false,
                                 "name": "Ambitious Assassin"
                             },
                             {
                                 "hash": 3300816228,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d355b1117307c9f187729249361cecc3.png",
+                                "isSelected": false,
                                 "name": "Auto-Loading Holster"
                             },
                             {
-                                "hash": 588594999,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
-                                "name": "Moving Target"
+                                "hash": 1275731761,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/26eb5d8ffd1c09e212ad2ea51ffd5ef9.png",
+                                "isSelected": false,
+                                "name": "Cluster Bomb"
                             },
                             {
-                                "hash": 4071163871,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png",
-                                "name": "Threat Detector"
+                                "hash": 2869569095,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fd815414532978ad2e5decbfc416b9e4.png",
+                                "isSelected": false,
+                                "name": "Field Prep"
+                            },
+                            {
+                                "hash": 3096702027,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e52e3441db003abe3aa2b8a2f7fda730.png",
+                                "isSelected": false,
+                                "name": "Genesis"
                             },
                             {
                                 "hash": 1015611457,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
+                                "isSelected": false,
                                 "name": "Kill Clip"
+                            },
+                            {
+                                "hash": 588594999,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
+                                "isSelected": false,
+                                "name": "Moving Target"
+                            },
+                            {
+                                "hash": 706527188,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png",
+                                "isSelected": false,
+                                "name": "Quickdraw"
+                            },
+                            {
+                                "hash": 2846385770,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png",
+                                "isSelected": false,
+                                "name": "Rangefinder"
                             },
                             {
                                 "hash": 957782887,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
+                                "isSelected": false,
                                 "name": "Snapshot Sights"
+                            },
+                            {
+                                "hash": 4071163871,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png",
+                                "isSelected": false,
+                                "name": "Threat Detector"
+                            },
+                            {
+                                "hash": 3977735242,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/50b794dcc2a372cbc216e287790f9aa5.png",
+                                "isSelected": false,
+                                "name": "Tracking Module"
                             }
                         ],
                         "socketIndex": 2
@@ -8825,39 +9776,46 @@ export const WeaponTypes = [
                         "name": "Launcher Barrel",
                         "perks": [
                             {
-                                "hash": 1478423395,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/402765b86ff7b1d97078ac43d5ca39ad.png",
-                                "name": "Volatile Launch"
-                            },
-                            {
                                 "hash": 1844523823,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c9439f5d740d017dc9551a60a902c797.png",
+                                "isSelected": false,
                                 "name": "Confined Launch"
                             },
                             {
                                 "hash": 3809316345,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b1e34eabc2ad012b6258436e80705b49.png",
+                                "isSelected": false,
                                 "name": "Countermass"
                             },
                             {
                                 "hash": 981914802,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/823b8ae4f48bca3bb5586167c1666781.png",
+                                "isSelected": false,
                                 "name": "Hard Launch"
                             },
                             {
                                 "hash": 1441682018,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/eab8eeedc70188ad3798b6ca84fbb7cb.png",
+                                "isSelected": false,
                                 "name": "Linear Compensator"
                             },
                             {
                                 "hash": 3525010810,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/11664d61e115d9a59bd969b87081f1a6.png",
+                                "isSelected": false,
                                 "name": "Quick Launch"
                             },
                             {
                                 "hash": 3798852852,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/52a4646804b96ed190f1e1ae97b64e17.png",
+                                "isSelected": false,
                                 "name": "Smart Drift Control"
+                            },
+                            {
+                                "hash": 1478423395,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/402765b86ff7b1d97078ac43d5ca39ad.png",
+                                "isSelected": false,
+                                "name": "Volatile Launch"
                             }
                         ],
                         "socketIndex": 0
@@ -8868,21 +9826,25 @@ export const WeaponTypes = [
                             {
                                 "hash": 2985827016,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/edbc74db634e0848209b885550c6c7a0.png",
+                                "isSelected": false,
                                 "name": "Alloy Casing"
                             },
                             {
                                 "hash": 1996142143,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fadc2600c37a417f532a3735caff04ac.png",
+                                "isSelected": false,
                                 "name": "Black Powder"
                             },
                             {
                                 "hash": 2822142346,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d541a7c35981cb9caceaf3736097adb9.png",
+                                "isSelected": false,
                                 "name": "High-Velocity Rounds"
                             },
                             {
                                 "hash": 3492396210,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/2a0232f77cee68e2945d11808f5a1d96.png",
+                                "isSelected": false,
                                 "name": "Implosion Rounds"
                             }
                         ],
@@ -8892,44 +9854,52 @@ export const WeaponTypes = [
                         "name": "traits",
                         "perks": [
                             {
-                                "hash": 3977735242,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/50b794dcc2a372cbc216e287790f9aa5.png",
-                                "name": "Tracking Module"
-                            },
-                            {
-                                "hash": 2869569095,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fd815414532978ad2e5decbfc416b9e4.png",
-                                "name": "Field Prep"
-                            },
-                            {
                                 "hash": 3300816228,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d355b1117307c9f187729249361cecc3.png",
+                                "isSelected": false,
                                 "name": "Auto-Loading Holster"
-                            },
-                            {
-                                "hash": 957782887,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
-                                "name": "Snapshot Sights"
                             },
                             {
                                 "hash": 1275731761,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/26eb5d8ffd1c09e212ad2ea51ffd5ef9.png",
+                                "isSelected": false,
                                 "name": "Cluster Bomb"
                             },
                             {
-                                "hash": 706527188,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png",
-                                "name": "Quickdraw"
+                                "hash": 2869569095,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fd815414532978ad2e5decbfc416b9e4.png",
+                                "isSelected": false,
+                                "name": "Field Prep"
                             },
                             {
                                 "hash": 3096702027,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e52e3441db003abe3aa2b8a2f7fda730.png",
+                                "isSelected": false,
                                 "name": "Genesis"
                             },
                             {
                                 "hash": 1015611457,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
+                                "isSelected": false,
                                 "name": "Kill Clip"
+                            },
+                            {
+                                "hash": 706527188,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png",
+                                "isSelected": false,
+                                "name": "Quickdraw"
+                            },
+                            {
+                                "hash": 957782887,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
+                                "isSelected": false,
+                                "name": "Snapshot Sights"
+                            },
+                            {
+                                "hash": 3977735242,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/50b794dcc2a372cbc216e287790f9aa5.png",
+                                "isSelected": false,
+                                "name": "Tracking Module"
                             }
                         ],
                         "socketIndex": 2
@@ -8988,39 +9958,46 @@ export const WeaponTypes = [
                         "name": "Launcher Barrel",
                         "perks": [
                             {
-                                "hash": 1478423395,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/402765b86ff7b1d97078ac43d5ca39ad.png",
-                                "name": "Volatile Launch"
-                            },
-                            {
                                 "hash": 1844523823,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c9439f5d740d017dc9551a60a902c797.png",
+                                "isSelected": false,
                                 "name": "Confined Launch"
                             },
                             {
                                 "hash": 3809316345,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b1e34eabc2ad012b6258436e80705b49.png",
+                                "isSelected": false,
                                 "name": "Countermass"
                             },
                             {
                                 "hash": 981914802,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/823b8ae4f48bca3bb5586167c1666781.png",
+                                "isSelected": false,
                                 "name": "Hard Launch"
                             },
                             {
                                 "hash": 1441682018,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/eab8eeedc70188ad3798b6ca84fbb7cb.png",
+                                "isSelected": false,
                                 "name": "Linear Compensator"
                             },
                             {
                                 "hash": 3525010810,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/11664d61e115d9a59bd969b87081f1a6.png",
+                                "isSelected": false,
                                 "name": "Quick Launch"
                             },
                             {
                                 "hash": 3798852852,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/52a4646804b96ed190f1e1ae97b64e17.png",
+                                "isSelected": false,
                                 "name": "Smart Drift Control"
+                            },
+                            {
+                                "hash": 1478423395,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/402765b86ff7b1d97078ac43d5ca39ad.png",
+                                "isSelected": false,
+                                "name": "Volatile Launch"
                             }
                         ],
                         "socketIndex": 0
@@ -9031,27 +10008,32 @@ export const WeaponTypes = [
                             {
                                 "hash": 2985827016,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/edbc74db634e0848209b885550c6c7a0.png",
+                                "isSelected": false,
                                 "name": "Alloy Casing"
                             },
                             {
                                 "hash": 1996142143,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fadc2600c37a417f532a3735caff04ac.png",
+                                "isSelected": false,
                                 "name": "Black Powder"
                             },
                             {
                                 "hash": 2822142346,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d541a7c35981cb9caceaf3736097adb9.png",
+                                "isSelected": false,
                                 "name": "High-Velocity Rounds"
-                            },
-                            {
-                                "hash": 3492396210,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/2a0232f77cee68e2945d11808f5a1d96.png",
-                                "name": "Implosion Rounds"
                             },
                             {
                                 "hash": 3796465595,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d2f835dad7b493e1f52c6b4b7a6571bc.png",
+                                "isSelected": false,
                                 "name": "Impact Casing"
+                            },
+                            {
+                                "hash": 3492396210,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/2a0232f77cee68e2945d11808f5a1d96.png",
+                                "isSelected": false,
+                                "name": "Implosion Rounds"
                             }
                         ],
                         "socketIndex": 1
@@ -9060,59 +10042,70 @@ export const WeaponTypes = [
                         "name": "traits",
                         "perks": [
                             {
-                                "hash": 3977735242,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/50b794dcc2a372cbc216e287790f9aa5.png",
-                                "name": "Tracking Module"
-                            },
-                            {
-                                "hash": 4071163871,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png",
-                                "name": "Threat Detector"
-                            },
-                            {
-                                "hash": 957782887,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
-                                "name": "Snapshot Sights"
-                            },
-                            {
-                                "hash": 2869569095,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fd815414532978ad2e5decbfc416b9e4.png",
-                                "name": "Field Prep"
-                            },
-                            {
                                 "hash": 3300816228,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d355b1117307c9f187729249361cecc3.png",
+                                "isSelected": false,
                                 "name": "Auto-Loading Holster"
-                            },
-                            {
-                                "hash": 706527188,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png",
-                                "name": "Quickdraw"
-                            },
-                            {
-                                "hash": 1015611457,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
-                                "name": "Kill Clip"
-                            },
-                            {
-                                "hash": 2846385770,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png",
-                                "name": "Rangefinder"
                             },
                             {
                                 "hash": 1275731761,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/26eb5d8ffd1c09e212ad2ea51ffd5ef9.png",
+                                "isSelected": false,
                                 "name": "Cluster Bomb"
                             },
                             {
-                                "hash": 588594999,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
-                                "name": "Moving Target"
+                                "hash": 2869569095,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fd815414532978ad2e5decbfc416b9e4.png",
+                                "isSelected": false,
+                                "name": "Field Prep"
                             },
                             {
                                 "hash": 3096702027,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e52e3441db003abe3aa2b8a2f7fda730.png",
+                                "isSelected": false,
                                 "name": "Genesis"
+                            },
+                            {
+                                "hash": 1015611457,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
+                                "isSelected": false,
+                                "name": "Kill Clip"
+                            },
+                            {
+                                "hash": 588594999,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
+                                "isSelected": false,
+                                "name": "Moving Target"
+                            },
+                            {
+                                "hash": 706527188,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png",
+                                "isSelected": false,
+                                "name": "Quickdraw"
+                            },
+                            {
+                                "hash": 2846385770,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png",
+                                "isSelected": false,
+                                "name": "Rangefinder"
+                            },
+                            {
+                                "hash": 957782887,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
+                                "isSelected": false,
+                                "name": "Snapshot Sights"
+                            },
+                            {
+                                "hash": 4071163871,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png",
+                                "isSelected": false,
+                                "name": "Threat Detector"
+                            },
+                            {
+                                "hash": 3977735242,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/50b794dcc2a372cbc216e287790f9aa5.png",
+                                "isSelected": false,
+                                "name": "Tracking Module"
                             }
                         ],
                         "socketIndex": 2
@@ -9215,39 +10208,46 @@ export const WeaponTypes = [
                         "name": "Launcher Barrel",
                         "perks": [
                             {
-                                "hash": 1478423395,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/402765b86ff7b1d97078ac43d5ca39ad.png",
-                                "name": "Volatile Launch"
-                            },
-                            {
                                 "hash": 1844523823,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c9439f5d740d017dc9551a60a902c797.png",
+                                "isSelected": false,
                                 "name": "Confined Launch"
                             },
                             {
                                 "hash": 3809316345,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b1e34eabc2ad012b6258436e80705b49.png",
+                                "isSelected": false,
                                 "name": "Countermass"
                             },
                             {
                                 "hash": 981914802,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/823b8ae4f48bca3bb5586167c1666781.png",
+                                "isSelected": false,
                                 "name": "Hard Launch"
                             },
                             {
                                 "hash": 1441682018,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/eab8eeedc70188ad3798b6ca84fbb7cb.png",
+                                "isSelected": false,
                                 "name": "Linear Compensator"
                             },
                             {
                                 "hash": 3525010810,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/11664d61e115d9a59bd969b87081f1a6.png",
+                                "isSelected": false,
                                 "name": "Quick Launch"
                             },
                             {
                                 "hash": 3798852852,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/52a4646804b96ed190f1e1ae97b64e17.png",
+                                "isSelected": false,
                                 "name": "Smart Drift Control"
+                            },
+                            {
+                                "hash": 1478423395,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/402765b86ff7b1d97078ac43d5ca39ad.png",
+                                "isSelected": false,
+                                "name": "Volatile Launch"
                             }
                         ],
                         "socketIndex": 0
@@ -9258,27 +10258,32 @@ export const WeaponTypes = [
                             {
                                 "hash": 2985827016,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/edbc74db634e0848209b885550c6c7a0.png",
+                                "isSelected": false,
                                 "name": "Alloy Casing"
                             },
                             {
                                 "hash": 1996142143,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fadc2600c37a417f532a3735caff04ac.png",
+                                "isSelected": false,
                                 "name": "Black Powder"
                             },
                             {
                                 "hash": 2822142346,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d541a7c35981cb9caceaf3736097adb9.png",
+                                "isSelected": false,
                                 "name": "High-Velocity Rounds"
-                            },
-                            {
-                                "hash": 3492396210,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/2a0232f77cee68e2945d11808f5a1d96.png",
-                                "name": "Implosion Rounds"
                             },
                             {
                                 "hash": 3796465595,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d2f835dad7b493e1f52c6b4b7a6571bc.png",
+                                "isSelected": false,
                                 "name": "Impact Casing"
+                            },
+                            {
+                                "hash": 3492396210,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/2a0232f77cee68e2945d11808f5a1d96.png",
+                                "isSelected": false,
+                                "name": "Implosion Rounds"
                             }
                         ],
                         "socketIndex": 1
@@ -9287,44 +10292,52 @@ export const WeaponTypes = [
                         "name": "traits",
                         "perks": [
                             {
-                                "hash": 2846385770,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png",
-                                "name": "Rangefinder"
-                            },
-                            {
-                                "hash": 2869569095,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fd815414532978ad2e5decbfc416b9e4.png",
-                                "name": "Field Prep"
+                                "hash": 2010801679,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/df460693665b7b4dd42f1706e5fbb9e1.png",
+                                "isSelected": false,
+                                "name": "Ambitious Assassin"
                             },
                             {
                                 "hash": 3300816228,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d355b1117307c9f187729249361cecc3.png",
+                                "isSelected": false,
                                 "name": "Auto-Loading Holster"
-                            },
-                            {
-                                "hash": 957782887,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
-                                "name": "Snapshot Sights"
                             },
                             {
                                 "hash": 1275731761,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/26eb5d8ffd1c09e212ad2ea51ffd5ef9.png",
+                                "isSelected": false,
                                 "name": "Cluster Bomb"
                             },
                             {
-                                "hash": 706527188,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png",
-                                "name": "Quickdraw"
-                            },
-                            {
-                                "hash": 2010801679,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/df460693665b7b4dd42f1706e5fbb9e1.png",
-                                "name": "Ambitious Assassin"
+                                "hash": 2869569095,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fd815414532978ad2e5decbfc416b9e4.png",
+                                "isSelected": false,
+                                "name": "Field Prep"
                             },
                             {
                                 "hash": 1015611457,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
+                                "isSelected": false,
                                 "name": "Kill Clip"
+                            },
+                            {
+                                "hash": 706527188,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png",
+                                "isSelected": false,
+                                "name": "Quickdraw"
+                            },
+                            {
+                                "hash": 2846385770,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png",
+                                "isSelected": false,
+                                "name": "Rangefinder"
+                            },
+                            {
+                                "hash": 957782887,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
+                                "isSelected": false,
+                                "name": "Snapshot Sights"
                             }
                         ],
                         "socketIndex": 2
@@ -9389,119 +10402,142 @@ export const WeaponTypes = [
                         "name": "Barrel",
                         "perks": [
                             {
-                                "hash": 1482024992,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png",
-                                "name": "Smallbore"
-                            },
-                            {
                                 "hash": 839105230,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png",
+                                "isSelected": false,
                                 "name": "Arrowhead Brake"
                             },
                             {
                                 "hash": 3661387068,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/376aa9bd8c392567f501012fc3b3d4d0.png",
+                                "isSelected": false,
                                 "name": "Chambered Compensator"
+                            },
+                            {
+                                "hash": 13792279,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/43ffd338e67c18c493d164ae7fce1a67.png",
+                                "isSelected": false,
+                                "name": "Cleanshot IS"
                             },
                             {
                                 "hash": 4090651448,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/18cc75bf9a17bb80b5109f1b8909521f.png",
+                                "isSelected": false,
                                 "name": "Corkscrew Rifling"
+                            },
+                            {
+                                "hash": 809345546,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9e8f8f5490ed191d783f2b93c624c466.png",
+                                "isSelected": false,
+                                "name": "Devil Scope D2"
+                            },
+                            {
+                                "hash": 1452368634,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/39e67986552e5675249862f76a6ff542.png",
+                                "isSelected": false,
+                                "name": "Dusk Dot D1"
+                            },
+                            {
+                                "hash": 809345547,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9e8f8f5490ed191d783f2b93c624c466.png",
+                                "isSelected": false,
+                                "name": "Dusk Scope D2"
+                            },
+                            {
+                                "hash": 1288081798,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1c1be01de23c5233cab50ff8dbe6c2c4.png",
+                                "isSelected": false,
+                                "name": "Dusk Sight D1"
                             },
                             {
                                 "hash": 1467527085,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/151465ba86df34438248aad2248cce32.png",
+                                "isSelected": false,
                                 "name": "Extended Barrel"
                             },
                             {
                                 "hash": 1840239774,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png",
+                                "isSelected": false,
                                 "name": "Fluted Barrel"
                             },
                             {
                                 "hash": 202670084,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9307c5604f995d90ad5ed65281b64772.png",
+                                "isSelected": false,
                                 "name": "Full Bore"
                             },
                             {
                                 "hash": 3250034553,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9acb073d4e85160f66f0d617d210cf61.png",
+                                "isSelected": false,
                                 "name": "Hammer-Forged Rifling"
-                            },
-                            {
-                                "hash": 1392496348,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7cadd68b66ffd3bbedc09aa9c7ba6e03.png",
-                                "name": "Polygonal Rifling"
-                            },
-                            {
-                                "hash": 679077873,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c03a51592fe203813f97d0a4e871b450.png",
-                                "name": "Rifle Scope ST"
-                            },
-                            {
-                                "hash": 679077872,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c03a51592fe203813f97d0a4e871b450.png",
-                                "name": "Rifle Scope SSF"
-                            },
-                            {
-                                "hash": 13792279,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/43ffd338e67c18c493d164ae7fce1a67.png",
-                                "name": "Cleanshot IS"
                             },
                             {
                                 "hash": 13792278,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4df80be29a7eb6ba01bf7ea41f46f7da.png",
+                                "isSelected": false,
                                 "name": "Hitmark IS"
+                            },
+                            {
+                                "hash": 1452368633,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/39e67986552e5675249862f76a6ff542.png",
+                                "isSelected": false,
+                                "name": "King Dot K2"
+                            },
+                            {
+                                "hash": 1288081797,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1c1be01de23c5233cab50ff8dbe6c2c4.png",
+                                "isSelected": false,
+                                "name": "King Sight K1"
+                            },
+                            {
+                                "hash": 1392496348,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7cadd68b66ffd3bbedc09aa9c7ba6e03.png",
+                                "isSelected": false,
+                                "name": "Polygonal Rifling"
                             },
                             {
                                 "hash": 2405638015,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ee62caf152c3747675fe43c544d72e45.png",
+                                "isSelected": false,
                                 "name": "Red Dot 2 MOA"
                             },
                             {
                                 "hash": 2405638014,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ee62caf152c3747675fe43c544d72e45.png",
+                                "isSelected": false,
                                 "name": "Red Dot Micro"
                             },
                             {
-                                "hash": 809345546,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9e8f8f5490ed191d783f2b93c624c466.png",
-                                "name": "Devil Scope D2"
+                                "hash": 679077872,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c03a51592fe203813f97d0a4e871b450.png",
+                                "isSelected": false,
+                                "name": "Rifle Scope SSF"
                             },
                             {
-                                "hash": 809345547,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9e8f8f5490ed191d783f2b93c624c466.png",
-                                "name": "Dusk Scope D2"
+                                "hash": 679077873,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c03a51592fe203813f97d0a4e871b450.png",
+                                "isSelected": false,
+                                "name": "Rifle Scope ST"
                             },
                             {
-                                "hash": 1288081796,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1c1be01de23c5233cab50ff8dbe6c2c4.png",
-                                "name": "Wolf Sight W1"
-                            },
-                            {
-                                "hash": 1288081797,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1c1be01de23c5233cab50ff8dbe6c2c4.png",
-                                "name": "King Sight K1"
-                            },
-                            {
-                                "hash": 1288081798,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1c1be01de23c5233cab50ff8dbe6c2c4.png",
-                                "name": "Dusk Sight D1"
+                                "hash": 1482024992,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png",
+                                "isSelected": false,
+                                "name": "Smallbore"
                             },
                             {
                                 "hash": 1452368632,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/39e67986552e5675249862f76a6ff542.png",
+                                "isSelected": false,
                                 "name": "Wolf Dot W2"
                             },
                             {
-                                "hash": 1452368633,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/39e67986552e5675249862f76a6ff542.png",
-                                "name": "King Dot K2"
-                            },
-                            {
-                                "hash": 1452368634,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/39e67986552e5675249862f76a6ff542.png",
-                                "name": "Dusk Dot D1"
+                                "hash": 1288081796,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1c1be01de23c5233cab50ff8dbe6c2c4.png",
+                                "isSelected": false,
+                                "name": "Wolf Sight W1"
                             }
                         ],
                         "socketIndex": 0
@@ -9510,64 +10546,76 @@ export const WeaponTypes = [
                         "name": "Magazine",
                         "perks": [
                             {
-                                "hash": 106909392,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9711e6d3de7a9cf2f844752992390a63.png",
-                                "name": "Tactical Mag"
-                            },
-                            {
                                 "hash": 3142289711,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png",
+                                "isSelected": false,
                                 "name": "Accurized Rounds"
-                            },
-                            {
-                                "hash": 4134353779,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d316be9e70844427e69034b0f06bec75.png",
-                                "name": "Drop Mag"
-                            },
-                            {
-                                "hash": 1087426260,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9d8a7be4c2fef471a6fde38d02ab8dae.png",
-                                "name": "Appended Mag"
-                            },
-                            {
-                                "hash": 2420895100,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
-                                "name": "Extended Mag"
-                            },
-                            {
-                                "hash": 3177308360,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/adaf4315dab749519c41a233e9954598.png",
-                                "name": "Steady Rounds"
                             },
                             {
                                 "hash": 1431678320,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/932e7b84c233c6cc49a58058f8c5144d.png",
+                                "isSelected": false,
                                 "name": "Alloy Magazine"
                             },
                             {
-                                "hash": 3230963543,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ec1bca64fc9709678ea5c297c0e64c19.png",
-                                "name": "Flared Magwell"
+                                "hash": 1087426260,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9d8a7be4c2fef471a6fde38d02ab8dae.png",
+                                "isSelected": false,
+                                "name": "Appended Mag"
                             },
                             {
                                 "hash": 1968497646,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/73b724a6839bb3e1db37742f7ed5249b.png",
+                                "isSelected": false,
                                 "name": "Armor-Piercing Rounds"
+                            },
+                            {
+                                "hash": 4134353779,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d316be9e70844427e69034b0f06bec75.png",
+                                "isSelected": false,
+                                "name": "Drop Mag"
+                            },
+                            {
+                                "hash": 2420895100,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
+                                "isSelected": false,
+                                "name": "Extended Mag"
+                            },
+                            {
+                                "hash": 3230963543,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ec1bca64fc9709678ea5c297c0e64c19.png",
+                                "isSelected": false,
+                                "name": "Flared Magwell"
                             },
                             {
                                 "hash": 1561002382,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f06239ee156ee70f99b48e8e1970dbca.png",
+                                "isSelected": false,
                                 "name": "High-Caliber Rounds"
-                            },
-                            {
-                                "hash": 1885400500,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png",
-                                "name": "Ricochet Rounds"
                             },
                             {
                                 "hash": 679225683,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1d87312c174b44d5ef1ed24ad42efe9c.png",
+                                "isSelected": false,
                                 "name": "Light Mag"
+                            },
+                            {
+                                "hash": 1885400500,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png",
+                                "isSelected": false,
+                                "name": "Ricochet Rounds"
+                            },
+                            {
+                                "hash": 3177308360,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/adaf4315dab749519c41a233e9954598.png",
+                                "isSelected": false,
+                                "name": "Steady Rounds"
+                            },
+                            {
+                                "hash": 106909392,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9711e6d3de7a9cf2f844752992390a63.png",
+                                "isSelected": false,
+                                "name": "Tactical Mag"
                             }
                         ],
                         "socketIndex": 1
@@ -9576,99 +10624,118 @@ export const WeaponTypes = [
                         "name": "traits",
                         "perks": [
                             {
-                                "hash": 2387244414,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49958f356ea1df930888d15fe6539fe1.png",
-                                "name": "Zen Moment"
-                            },
-                            {
-                                "hash": 3400784728,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/44cc0f78fd98d462dc4914dbe203dc49.png",
-                                "name": "Triple Tap"
-                            },
-                            {
-                                "hash": 1168162263,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
-                                "name": "Outlaw"
-                            },
-                            {
-                                "hash": 4267945040,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c995638d381d6ff46df5606f49abd7b3.png",
-                                "name": "Full Auto Trigger System"
-                            },
-                            {
-                                "hash": 4071163871,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png",
-                                "name": "Threat Detector"
-                            },
-                            {
-                                "hash": 280464955,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc9da416fe98c79b59074403084765b7.png",
-                                "name": "Firmly Planted"
-                            },
-                            {
                                 "hash": 2010801679,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/df460693665b7b4dd42f1706e5fbb9e1.png",
+                                "isSelected": false,
                                 "name": "Ambitious Assassin"
-                            },
-                            {
-                                "hash": 47981717,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0fd9dbe1c09b8cc7d0be888c68ff4526.png",
-                                "name": "Opening Shot"
-                            },
-                            {
-                                "hash": 588594999,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
-                                "name": "Moving Target"
-                            },
-                            {
-                                "hash": 3425386926,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
-                                "name": "Rampage"
-                            },
-                            {
-                                "hash": 3038247973,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d41dd918d42681c5b0ad00880274b22c.png",
-                                "name": "Explosive Payload"
-                            },
-                            {
-                                "hash": 1866048759,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9f3c3ae1bddbed21af1cc6487338028e.png",
-                                "name": "Hip-Fire Grip"
-                            },
-                            {
-                                "hash": 1631667848,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/83e206ebea83f76d9969efea7134ddcc.png",
-                                "name": "Grave Robber"
                             },
                             {
                                 "hash": 3300816228,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d355b1117307c9f187729249361cecc3.png",
+                                "isSelected": false,
                                 "name": "Auto-Loading Holster"
-                            },
-                            {
-                                "hash": 2213355989,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bee920445b5d0ccb01814d2e6fcea27b.png",
-                                "name": "High-Impact Reserves"
-                            },
-                            {
-                                "hash": 2846385770,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png",
-                                "name": "Rangefinder"
-                            },
-                            {
-                                "hash": 1015611457,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
-                                "name": "Kill Clip"
                             },
                             {
                                 "hash": 2848615171,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8fe8293ba02002f69bfa052a0c44223f.png",
+                                "isSelected": false,
                                 "name": "Dragonfly"
+                            },
+                            {
+                                "hash": 3038247973,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d41dd918d42681c5b0ad00880274b22c.png",
+                                "isSelected": false,
+                                "name": "Explosive Payload"
+                            },
+                            {
+                                "hash": 280464955,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc9da416fe98c79b59074403084765b7.png",
+                                "isSelected": false,
+                                "name": "Firmly Planted"
+                            },
+                            {
+                                "hash": 4267945040,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c995638d381d6ff46df5606f49abd7b3.png",
+                                "isSelected": false,
+                                "name": "Full Auto Trigger System"
                             },
                             {
                                 "hash": 3096702027,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e52e3441db003abe3aa2b8a2f7fda730.png",
+                                "isSelected": false,
                                 "name": "Genesis"
+                            },
+                            {
+                                "hash": 1631667848,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/83e206ebea83f76d9969efea7134ddcc.png",
+                                "isSelected": false,
+                                "name": "Grave Robber"
+                            },
+                            {
+                                "hash": 2213355989,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bee920445b5d0ccb01814d2e6fcea27b.png",
+                                "isSelected": false,
+                                "name": "High-Impact Reserves"
+                            },
+                            {
+                                "hash": 1866048759,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9f3c3ae1bddbed21af1cc6487338028e.png",
+                                "isSelected": false,
+                                "name": "Hip-Fire Grip"
+                            },
+                            {
+                                "hash": 1015611457,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
+                                "isSelected": false,
+                                "name": "Kill Clip"
+                            },
+                            {
+                                "hash": 588594999,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
+                                "isSelected": false,
+                                "name": "Moving Target"
+                            },
+                            {
+                                "hash": 47981717,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0fd9dbe1c09b8cc7d0be888c68ff4526.png",
+                                "isSelected": false,
+                                "name": "Opening Shot"
+                            },
+                            {
+                                "hash": 1168162263,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
+                                "isSelected": false,
+                                "name": "Outlaw"
+                            },
+                            {
+                                "hash": 3425386926,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
+                                "isSelected": false,
+                                "name": "Rampage"
+                            },
+                            {
+                                "hash": 2846385770,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png",
+                                "isSelected": false,
+                                "name": "Rangefinder"
+                            },
+                            {
+                                "hash": 4071163871,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png",
+                                "isSelected": false,
+                                "name": "Threat Detector"
+                            },
+                            {
+                                "hash": 3400784728,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/44cc0f78fd98d462dc4914dbe203dc49.png",
+                                "isSelected": false,
+                                "name": "Triple Tap"
+                            },
+                            {
+                                "hash": 2387244414,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49958f356ea1df930888d15fe6539fe1.png",
+                                "isSelected": false,
+                                "name": "Zen Moment"
                             }
                         ],
                         "socketIndex": 2
@@ -9969,46 +11036,55 @@ export const WeaponTypes = [
                             {
                                 "hash": 839105230,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png",
+                                "isSelected": false,
                                 "name": "Arrowhead Brake"
                             },
                             {
                                 "hash": 3661387068,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/376aa9bd8c392567f501012fc3b3d4d0.png",
+                                "isSelected": false,
                                 "name": "Chambered Compensator"
                             },
                             {
                                 "hash": 4090651448,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/18cc75bf9a17bb80b5109f1b8909521f.png",
+                                "isSelected": false,
                                 "name": "Corkscrew Rifling"
                             },
                             {
                                 "hash": 1467527085,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/151465ba86df34438248aad2248cce32.png",
+                                "isSelected": false,
                                 "name": "Extended Barrel"
                             },
                             {
                                 "hash": 1840239774,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png",
+                                "isSelected": false,
                                 "name": "Fluted Barrel"
                             },
                             {
                                 "hash": 202670084,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9307c5604f995d90ad5ed65281b64772.png",
+                                "isSelected": false,
                                 "name": "Full Bore"
                             },
                             {
                                 "hash": 3250034553,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9acb073d4e85160f66f0d617d210cf61.png",
+                                "isSelected": false,
                                 "name": "Hammer-Forged Rifling"
                             },
                             {
                                 "hash": 1392496348,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7cadd68b66ffd3bbedc09aa9c7ba6e03.png",
+                                "isSelected": false,
                                 "name": "Polygonal Rifling"
                             },
                             {
                                 "hash": 1482024992,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png",
+                                "isSelected": false,
                                 "name": "Smallbore"
                             }
                         ],
@@ -10020,42 +11096,50 @@ export const WeaponTypes = [
                             {
                                 "hash": 3142289711,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png",
+                                "isSelected": false,
                                 "name": "Accurized Rounds"
-                            },
-                            {
-                                "hash": 4134353779,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d316be9e70844427e69034b0f06bec75.png",
-                                "name": "Drop Mag"
-                            },
-                            {
-                                "hash": 1087426260,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9d8a7be4c2fef471a6fde38d02ab8dae.png",
-                                "name": "Appended Mag"
-                            },
-                            {
-                                "hash": 106909392,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9711e6d3de7a9cf2f844752992390a63.png",
-                                "name": "Tactical Mag"
-                            },
-                            {
-                                "hash": 2420895100,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
-                                "name": "Extended Mag"
-                            },
-                            {
-                                "hash": 3177308360,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/adaf4315dab749519c41a233e9954598.png",
-                                "name": "Steady Rounds"
                             },
                             {
                                 "hash": 1431678320,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/932e7b84c233c6cc49a58058f8c5144d.png",
+                                "isSelected": false,
                                 "name": "Alloy Magazine"
+                            },
+                            {
+                                "hash": 1087426260,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9d8a7be4c2fef471a6fde38d02ab8dae.png",
+                                "isSelected": false,
+                                "name": "Appended Mag"
+                            },
+                            {
+                                "hash": 4134353779,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d316be9e70844427e69034b0f06bec75.png",
+                                "isSelected": false,
+                                "name": "Drop Mag"
+                            },
+                            {
+                                "hash": 2420895100,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
+                                "isSelected": false,
+                                "name": "Extended Mag"
                             },
                             {
                                 "hash": 3230963543,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ec1bca64fc9709678ea5c297c0e64c19.png",
+                                "isSelected": false,
                                 "name": "Flared Magwell"
+                            },
+                            {
+                                "hash": 3177308360,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/adaf4315dab749519c41a233e9954598.png",
+                                "isSelected": false,
+                                "name": "Steady Rounds"
+                            },
+                            {
+                                "hash": 106909392,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9711e6d3de7a9cf2f844752992390a63.png",
+                                "isSelected": false,
+                                "name": "Tactical Mag"
                             }
                         ],
                         "socketIndex": 1
@@ -10064,89 +11148,106 @@ export const WeaponTypes = [
                         "name": "traits",
                         "perks": [
                             {
-                                "hash": 1866048759,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9f3c3ae1bddbed21af1cc6487338028e.png",
-                                "name": "Hip-Fire Grip"
-                            },
-                            {
-                                "hash": 280464955,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc9da416fe98c79b59074403084765b7.png",
-                                "name": "Firmly Planted"
-                            },
-                            {
                                 "hash": 2010801679,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/df460693665b7b4dd42f1706e5fbb9e1.png",
+                                "isSelected": false,
                                 "name": "Ambitious Assassin"
                             },
                             {
                                 "hash": 3300816228,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d355b1117307c9f187729249361cecc3.png",
+                                "isSelected": false,
                                 "name": "Auto-Loading Holster"
-                            },
-                            {
-                                "hash": 4267945040,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c995638d381d6ff46df5606f49abd7b3.png",
-                                "name": "Full Auto Trigger System"
-                            },
-                            {
-                                "hash": 2848615171,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8fe8293ba02002f69bfa052a0c44223f.png",
-                                "name": "Dragonfly"
-                            },
-                            {
-                                "hash": 3400784728,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/44cc0f78fd98d462dc4914dbe203dc49.png",
-                                "name": "Triple Tap"
-                            },
-                            {
-                                "hash": 1168162263,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
-                                "name": "Outlaw"
-                            },
-                            {
-                                "hash": 247725512,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/56f26a865c24a6a10cb4177794eb7788.png",
-                                "name": "Rapid Hit"
-                            },
-                            {
-                                "hash": 3038247973,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d41dd918d42681c5b0ad00880274b22c.png",
-                                "name": "Explosive Payload"
-                            },
-                            {
-                                "hash": 1820235745,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03d774525048e5eb5b6899b37d418920.png",
-                                "name": "Subsistence"
-                            },
-                            {
-                                "hash": 957782887,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
-                                "name": "Snapshot Sights"
-                            },
-                            {
-                                "hash": 4071163871,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png",
-                                "name": "Threat Detector"
-                            },
-                            {
-                                "hash": 3425386926,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
-                                "name": "Rampage"
-                            },
-                            {
-                                "hash": 588594999,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
-                                "name": "Moving Target"
                             },
                             {
                                 "hash": 3523296417,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/53ead908917c9156457c7c9dd453d649.png",
+                                "isSelected": false,
                                 "name": "Demolitionist"
+                            },
+                            {
+                                "hash": 2848615171,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8fe8293ba02002f69bfa052a0c44223f.png",
+                                "isSelected": false,
+                                "name": "Dragonfly"
+                            },
+                            {
+                                "hash": 3038247973,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d41dd918d42681c5b0ad00880274b22c.png",
+                                "isSelected": false,
+                                "name": "Explosive Payload"
+                            },
+                            {
+                                "hash": 280464955,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc9da416fe98c79b59074403084765b7.png",
+                                "isSelected": false,
+                                "name": "Firmly Planted"
+                            },
+                            {
+                                "hash": 4267945040,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c995638d381d6ff46df5606f49abd7b3.png",
+                                "isSelected": false,
+                                "name": "Full Auto Trigger System"
+                            },
+                            {
+                                "hash": 1866048759,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9f3c3ae1bddbed21af1cc6487338028e.png",
+                                "isSelected": false,
+                                "name": "Hip-Fire Grip"
+                            },
+                            {
+                                "hash": 588594999,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
+                                "isSelected": false,
+                                "name": "Moving Target"
                             },
                             {
                                 "hash": 2458213969,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/a610c14dcf450e8c5b0c0903d5b05965.png",
+                                "isSelected": false,
                                 "name": "Multikill Clip"
+                            },
+                            {
+                                "hash": 1168162263,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
+                                "isSelected": false,
+                                "name": "Outlaw"
+                            },
+                            {
+                                "hash": 3425386926,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
+                                "isSelected": false,
+                                "name": "Rampage"
+                            },
+                            {
+                                "hash": 247725512,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/56f26a865c24a6a10cb4177794eb7788.png",
+                                "isSelected": false,
+                                "name": "Rapid Hit"
+                            },
+                            {
+                                "hash": 957782887,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
+                                "isSelected": false,
+                                "name": "Snapshot Sights"
+                            },
+                            {
+                                "hash": 1820235745,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03d774525048e5eb5b6899b37d418920.png",
+                                "isSelected": false,
+                                "name": "Subsistence"
+                            },
+                            {
+                                "hash": 4071163871,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png",
+                                "isSelected": false,
+                                "name": "Threat Detector"
+                            },
+                            {
+                                "hash": 3400784728,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/44cc0f78fd98d462dc4914dbe203dc49.png",
+                                "isSelected": false,
+                                "name": "Triple Tap"
                             }
                         ],
                         "socketIndex": 2
@@ -10264,149 +11365,178 @@ export const WeaponTypes = [
                         "name": "Sight",
                         "perks": [
                             {
-                                "hash": 360593483,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1d7f482e8dbfb962ccebd3a8796fa664.png",
-                                "name": "SRO-37 Ocular"
-                            },
-                            {
-                                "hash": 360593482,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b1b1220f301d8e4ce3f87ecbf6812b20.png",
-                                "name": "SRO-41 Ocular"
-                            },
-                            {
-                                "hash": 360593481,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ea101dea3e2446ee8f999fc4c2a43944.png",
-                                "name": "SRO-52 Ocular"
-                            },
-                            {
-                                "hash": 965619221,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/560373df32b96679b03768a3e0aa3e05.png",
-                                "name": "SLO-12 Post"
-                            },
-                            {
-                                "hash": 965619220,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c422c90b4d5811210a9eca7fdd98dc1a.png",
-                                "name": "SLO-21 Post"
-                            },
-                            {
-                                "hash": 965619223,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cc4da92c0f3314ffa852b544896fe74b.png",
-                                "name": "SLO-10 Post"
-                            },
-                            {
-                                "hash": 3151536501,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8e85d31d83046a1a06fa28b44f8c54d5.png",
-                                "name": "SPO-57 Front"
-                            },
-                            {
-                                "hash": 3151536500,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7d97516e3a1d2b84f60e006b1fbb5749.png",
-                                "name": "SPO-28 Front"
-                            },
-                            {
-                                "hash": 3151536503,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e014290b97c6bfb58ae519c5e0ca343b.png",
-                                "name": "SPO-26 Front"
-                            },
-                            {
-                                "hash": 1096957638,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/89ae6176468ad3efd04bf2cdee255f0c.png",
-                                "name": "Rasmussen ISA"
-                            },
-                            {
-                                "hash": 3433396026,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/83904ac7f4475214abde90141e3af360.png",
-                                "name": "Meyrin RDS"
-                            },
-                            {
-                                "hash": 3433396027,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/de12bacce62d0b591a3c95a206fbbe43.png",
-                                "name": "Meyrin RDL"
-                            },
-                            {
-                                "hash": 2414725840,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f5c248963331d5bf804daa4bbdd691bd.png",
-                                "name": "Satou Focus Lens"
-                            },
-                            {
-                                "hash": 2414725841,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7b5e34f3c9026a439b297b5d5eecf78a.png",
-                                "name": "Satou Precision Lens"
-                            },
-                            {
                                 "hash": 839105230,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png",
+                                "isSelected": false,
                                 "name": "Arrowhead Brake"
                             },
                             {
                                 "hash": 3661387068,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/376aa9bd8c392567f501012fc3b3d4d0.png",
+                                "isSelected": false,
                                 "name": "Chambered Compensator"
+                            },
+                            {
+                                "hash": 13792279,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/43ffd338e67c18c493d164ae7fce1a67.png",
+                                "isSelected": false,
+                                "name": "Cleanshot IS"
                             },
                             {
                                 "hash": 4090651448,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/18cc75bf9a17bb80b5109f1b8909521f.png",
+                                "isSelected": false,
                                 "name": "Corkscrew Rifling"
                             },
                             {
                                 "hash": 1467527085,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/151465ba86df34438248aad2248cce32.png",
+                                "isSelected": false,
                                 "name": "Extended Barrel"
                             },
                             {
                                 "hash": 1840239774,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png",
+                                "isSelected": false,
                                 "name": "Fluted Barrel"
                             },
                             {
                                 "hash": 202670084,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9307c5604f995d90ad5ed65281b64772.png",
+                                "isSelected": false,
                                 "name": "Full Bore"
                             },
                             {
                                 "hash": 3250034553,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9acb073d4e85160f66f0d617d210cf61.png",
+                                "isSelected": false,
                                 "name": "Hammer-Forged Rifling"
-                            },
-                            {
-                                "hash": 1392496348,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7cadd68b66ffd3bbedc09aa9c7ba6e03.png",
-                                "name": "Polygonal Rifling"
-                            },
-                            {
-                                "hash": 1482024992,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png",
-                                "name": "Smallbore"
-                            },
-                            {
-                                "hash": 679077873,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c03a51592fe203813f97d0a4e871b450.png",
-                                "name": "Rifle Scope ST"
-                            },
-                            {
-                                "hash": 679077872,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c03a51592fe203813f97d0a4e871b450.png",
-                                "name": "Rifle Scope SSF"
-                            },
-                            {
-                                "hash": 13792279,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/43ffd338e67c18c493d164ae7fce1a67.png",
-                                "name": "Cleanshot IS"
                             },
                             {
                                 "hash": 13792278,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4df80be29a7eb6ba01bf7ea41f46f7da.png",
+                                "isSelected": false,
                                 "name": "Hitmark IS"
+                            },
+                            {
+                                "hash": 3433396027,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/de12bacce62d0b591a3c95a206fbbe43.png",
+                                "isSelected": false,
+                                "name": "Meyrin RDL"
+                            },
+                            {
+                                "hash": 3433396026,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/83904ac7f4475214abde90141e3af360.png",
+                                "isSelected": false,
+                                "name": "Meyrin RDS"
+                            },
+                            {
+                                "hash": 1392496348,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7cadd68b66ffd3bbedc09aa9c7ba6e03.png",
+                                "isSelected": false,
+                                "name": "Polygonal Rifling"
+                            },
+                            {
+                                "hash": 1096957638,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/89ae6176468ad3efd04bf2cdee255f0c.png",
+                                "isSelected": false,
+                                "name": "Rasmussen ISA"
                             },
                             {
                                 "hash": 2405638015,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ee62caf152c3747675fe43c544d72e45.png",
+                                "isSelected": false,
                                 "name": "Red Dot 2 MOA"
                             },
                             {
                                 "hash": 2405638014,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ee62caf152c3747675fe43c544d72e45.png",
+                                "isSelected": false,
                                 "name": "Red Dot Micro"
+                            },
+                            {
+                                "hash": 679077872,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c03a51592fe203813f97d0a4e871b450.png",
+                                "isSelected": false,
+                                "name": "Rifle Scope SSF"
+                            },
+                            {
+                                "hash": 679077873,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c03a51592fe203813f97d0a4e871b450.png",
+                                "isSelected": false,
+                                "name": "Rifle Scope ST"
+                            },
+                            {
+                                "hash": 965619223,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cc4da92c0f3314ffa852b544896fe74b.png",
+                                "isSelected": false,
+                                "name": "SLO-10 Post"
+                            },
+                            {
+                                "hash": 965619221,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/560373df32b96679b03768a3e0aa3e05.png",
+                                "isSelected": false,
+                                "name": "SLO-12 Post"
+                            },
+                            {
+                                "hash": 965619220,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c422c90b4d5811210a9eca7fdd98dc1a.png",
+                                "isSelected": false,
+                                "name": "SLO-21 Post"
+                            },
+                            {
+                                "hash": 3151536503,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e014290b97c6bfb58ae519c5e0ca343b.png",
+                                "isSelected": false,
+                                "name": "SPO-26 Front"
+                            },
+                            {
+                                "hash": 3151536500,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7d97516e3a1d2b84f60e006b1fbb5749.png",
+                                "isSelected": false,
+                                "name": "SPO-28 Front"
+                            },
+                            {
+                                "hash": 3151536501,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8e85d31d83046a1a06fa28b44f8c54d5.png",
+                                "isSelected": false,
+                                "name": "SPO-57 Front"
+                            },
+                            {
+                                "hash": 360593483,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1d7f482e8dbfb962ccebd3a8796fa664.png",
+                                "isSelected": false,
+                                "name": "SRO-37 Ocular"
+                            },
+                            {
+                                "hash": 360593482,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b1b1220f301d8e4ce3f87ecbf6812b20.png",
+                                "isSelected": false,
+                                "name": "SRO-41 Ocular"
+                            },
+                            {
+                                "hash": 360593481,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ea101dea3e2446ee8f999fc4c2a43944.png",
+                                "isSelected": false,
+                                "name": "SRO-52 Ocular"
+                            },
+                            {
+                                "hash": 2414725840,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f5c248963331d5bf804daa4bbdd691bd.png",
+                                "isSelected": false,
+                                "name": "Satou Focus Lens"
+                            },
+                            {
+                                "hash": 2414725841,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7b5e34f3c9026a439b297b5d5eecf78a.png",
+                                "isSelected": false,
+                                "name": "Satou Precision Lens"
+                            },
+                            {
+                                "hash": 1482024992,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png",
+                                "isSelected": false,
+                                "name": "Smallbore"
                             }
                         ],
                         "socketIndex": 0
@@ -10417,42 +11547,50 @@ export const WeaponTypes = [
                             {
                                 "hash": 3142289711,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png",
+                                "isSelected": false,
                                 "name": "Accurized Rounds"
-                            },
-                            {
-                                "hash": 4134353779,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d316be9e70844427e69034b0f06bec75.png",
-                                "name": "Drop Mag"
-                            },
-                            {
-                                "hash": 1087426260,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9d8a7be4c2fef471a6fde38d02ab8dae.png",
-                                "name": "Appended Mag"
-                            },
-                            {
-                                "hash": 106909392,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9711e6d3de7a9cf2f844752992390a63.png",
-                                "name": "Tactical Mag"
-                            },
-                            {
-                                "hash": 2420895100,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
-                                "name": "Extended Mag"
-                            },
-                            {
-                                "hash": 3177308360,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/adaf4315dab749519c41a233e9954598.png",
-                                "name": "Steady Rounds"
                             },
                             {
                                 "hash": 1431678320,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/932e7b84c233c6cc49a58058f8c5144d.png",
+                                "isSelected": false,
                                 "name": "Alloy Magazine"
+                            },
+                            {
+                                "hash": 1087426260,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9d8a7be4c2fef471a6fde38d02ab8dae.png",
+                                "isSelected": false,
+                                "name": "Appended Mag"
+                            },
+                            {
+                                "hash": 4134353779,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d316be9e70844427e69034b0f06bec75.png",
+                                "isSelected": false,
+                                "name": "Drop Mag"
+                            },
+                            {
+                                "hash": 2420895100,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
+                                "isSelected": false,
+                                "name": "Extended Mag"
                             },
                             {
                                 "hash": 3230963543,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ec1bca64fc9709678ea5c297c0e64c19.png",
+                                "isSelected": false,
                                 "name": "Flared Magwell"
+                            },
+                            {
+                                "hash": 3177308360,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/adaf4315dab749519c41a233e9954598.png",
+                                "isSelected": false,
+                                "name": "Steady Rounds"
+                            },
+                            {
+                                "hash": 106909392,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9711e6d3de7a9cf2f844752992390a63.png",
+                                "isSelected": false,
+                                "name": "Tactical Mag"
                             }
                         ],
                         "socketIndex": 1
@@ -10461,124 +11599,148 @@ export const WeaponTypes = [
                         "name": "traits",
                         "perks": [
                             {
-                                "hash": 1866048759,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9f3c3ae1bddbed21af1cc6487338028e.png",
-                                "name": "Hip-Fire Grip"
-                            },
-                            {
-                                "hash": 1631667848,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/83e206ebea83f76d9969efea7134ddcc.png",
-                                "name": "Grave Robber"
+                                "hash": 2010801679,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/df460693665b7b4dd42f1706e5fbb9e1.png",
+                                "isSelected": false,
+                                "name": "Ambitious Assassin"
                             },
                             {
                                 "hash": 3300816228,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d355b1117307c9f187729249361cecc3.png",
+                                "isSelected": false,
                                 "name": "Auto-Loading Holster"
                             },
                             {
-                                "hash": 2387244414,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49958f356ea1df930888d15fe6539fe1.png",
-                                "name": "Zen Moment"
+                                "hash": 2551157718,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/711aa76b6ac8087d3744260fa03c154c.png",
+                                "isSelected": false,
+                                "name": "Box Breathing"
                             },
                             {
-                                "hash": 588594999,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
-                                "name": "Moving Target"
+                                "hash": 2848615171,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8fe8293ba02002f69bfa052a0c44223f.png",
+                                "isSelected": false,
+                                "name": "Dragonfly"
                             },
                             {
-                                "hash": 3400784728,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/44cc0f78fd98d462dc4914dbe203dc49.png",
-                                "name": "Triple Tap"
-                            },
-                            {
-                                "hash": 2213355989,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bee920445b5d0ccb01814d2e6fcea27b.png",
-                                "name": "High-Impact Reserves"
+                                "hash": 3865257976,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8fe8293ba02002f69bfa052a0c44223f.png",
+                                "isSelected": false,
+                                "name": "Dragonfly"
                             },
                             {
                                 "hash": 3038247973,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d41dd918d42681c5b0ad00880274b22c.png",
+                                "isSelected": false,
                                 "name": "Explosive Payload"
                             },
                             {
-                                "hash": 2846385770,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png",
-                                "name": "Rangefinder"
+                                "hash": 280464955,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc9da416fe98c79b59074403084765b7.png",
+                                "isSelected": false,
+                                "name": "Firmly Planted"
+                            },
+                            {
+                                "hash": 4267945040,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c995638d381d6ff46df5606f49abd7b3.png",
+                                "isSelected": false,
+                                "name": "Full Auto Trigger System"
                             },
                             {
                                 "hash": 3096702027,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e52e3441db003abe3aa2b8a2f7fda730.png",
+                                "isSelected": false,
                                 "name": "Genesis"
+                            },
+                            {
+                                "hash": 1631667848,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/83e206ebea83f76d9969efea7134ddcc.png",
+                                "isSelected": false,
+                                "name": "Grave Robber"
+                            },
+                            {
+                                "hash": 2213355989,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bee920445b5d0ccb01814d2e6fcea27b.png",
+                                "isSelected": false,
+                                "name": "High-Impact Reserves"
+                            },
+                            {
+                                "hash": 1866048759,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9f3c3ae1bddbed21af1cc6487338028e.png",
+                                "isSelected": false,
+                                "name": "Hip-Fire Grip"
+                            },
+                            {
+                                "hash": 1015611457,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
+                                "isSelected": false,
+                                "name": "Kill Clip"
+                            },
+                            {
+                                "hash": 1941225610,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cd82297f969dd5659da6bf2e475d1ca.png",
+                                "isSelected": false,
+                                "name": "Meganeura"
+                            },
+                            {
+                                "hash": 588594999,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
+                                "isSelected": false,
+                                "name": "Moving Target"
+                            },
+                            {
+                                "hash": 3513791699,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/72d0300b728c2b8c81cc37f1abc53ddc.png",
+                                "isSelected": false,
+                                "name": "Mulligan"
                             },
                             {
                                 "hash": 47981717,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0fd9dbe1c09b8cc7d0be888c68ff4526.png",
+                                "isSelected": false,
                                 "name": "Opening Shot"
                             },
                             {
                                 "hash": 1168162263,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
+                                "isSelected": false,
                                 "name": "Outlaw"
                             },
                             {
                                 "hash": 3425386926,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
+                                "isSelected": false,
                                 "name": "Rampage"
                             },
                             {
-                                "hash": 2848615171,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8fe8293ba02002f69bfa052a0c44223f.png",
-                                "name": "Dragonfly"
-                            },
-                            {
-                                "hash": 4267945040,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c995638d381d6ff46df5606f49abd7b3.png",
-                                "name": "Full Auto Trigger System"
+                                "hash": 2846385770,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png",
+                                "isSelected": false,
+                                "name": "Rangefinder"
                             },
                             {
                                 "hash": 247725512,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/56f26a865c24a6a10cb4177794eb7788.png",
+                                "isSelected": false,
                                 "name": "Rapid Hit"
-                            },
-                            {
-                                "hash": 2010801679,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/df460693665b7b4dd42f1706e5fbb9e1.png",
-                                "name": "Ambitious Assassin"
-                            },
-                            {
-                                "hash": 3513791699,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/72d0300b728c2b8c81cc37f1abc53ddc.png",
-                                "name": "Mulligan"
-                            },
-                            {
-                                "hash": 1015611457,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
-                                "name": "Kill Clip"
-                            },
-                            {
-                                "hash": 2551157718,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/711aa76b6ac8087d3744260fa03c154c.png",
-                                "name": "Box Breathing"
-                            },
-                            {
-                                "hash": 280464955,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc9da416fe98c79b59074403084765b7.png",
-                                "name": "Firmly Planted"
                             },
                             {
                                 "hash": 4071163871,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png",
+                                "isSelected": false,
                                 "name": "Threat Detector"
                             },
                             {
-                                "hash": 3865257976,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8fe8293ba02002f69bfa052a0c44223f.png",
-                                "name": "Dragonfly"
+                                "hash": 3400784728,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/44cc0f78fd98d462dc4914dbe203dc49.png",
+                                "isSelected": false,
+                                "name": "Triple Tap"
                             },
                             {
-                                "hash": 1941225610,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cd82297f969dd5659da6bf2e475d1ca.png",
-                                "name": "Meganeura"
+                                "hash": 2387244414,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49958f356ea1df930888d15fe6539fe1.png",
+                                "isSelected": false,
+                                "name": "Zen Moment"
                             }
                         ],
                         "socketIndex": 2
@@ -10831,46 +11993,55 @@ export const WeaponTypes = [
                             {
                                 "hash": 839105230,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png",
+                                "isSelected": false,
                                 "name": "Arrowhead Brake"
                             },
                             {
                                 "hash": 3661387068,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/376aa9bd8c392567f501012fc3b3d4d0.png",
+                                "isSelected": false,
                                 "name": "Chambered Compensator"
                             },
                             {
                                 "hash": 4090651448,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/18cc75bf9a17bb80b5109f1b8909521f.png",
+                                "isSelected": false,
                                 "name": "Corkscrew Rifling"
                             },
                             {
                                 "hash": 1467527085,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/151465ba86df34438248aad2248cce32.png",
+                                "isSelected": false,
                                 "name": "Extended Barrel"
                             },
                             {
                                 "hash": 1840239774,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png",
+                                "isSelected": false,
                                 "name": "Fluted Barrel"
                             },
                             {
                                 "hash": 202670084,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9307c5604f995d90ad5ed65281b64772.png",
+                                "isSelected": false,
                                 "name": "Full Bore"
                             },
                             {
                                 "hash": 3250034553,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9acb073d4e85160f66f0d617d210cf61.png",
+                                "isSelected": false,
                                 "name": "Hammer-Forged Rifling"
                             },
                             {
                                 "hash": 1392496348,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7cadd68b66ffd3bbedc09aa9c7ba6e03.png",
+                                "isSelected": false,
                                 "name": "Polygonal Rifling"
                             },
                             {
                                 "hash": 1482024992,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png",
+                                "isSelected": false,
                                 "name": "Smallbore"
                             }
                         ],
@@ -10882,42 +12053,50 @@ export const WeaponTypes = [
                             {
                                 "hash": 3142289711,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png",
+                                "isSelected": false,
                                 "name": "Accurized Rounds"
-                            },
-                            {
-                                "hash": 4134353779,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d316be9e70844427e69034b0f06bec75.png",
-                                "name": "Drop Mag"
-                            },
-                            {
-                                "hash": 1087426260,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9d8a7be4c2fef471a6fde38d02ab8dae.png",
-                                "name": "Appended Mag"
-                            },
-                            {
-                                "hash": 106909392,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9711e6d3de7a9cf2f844752992390a63.png",
-                                "name": "Tactical Mag"
-                            },
-                            {
-                                "hash": 2420895100,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
-                                "name": "Extended Mag"
-                            },
-                            {
-                                "hash": 3177308360,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/adaf4315dab749519c41a233e9954598.png",
-                                "name": "Steady Rounds"
                             },
                             {
                                 "hash": 1431678320,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/932e7b84c233c6cc49a58058f8c5144d.png",
+                                "isSelected": false,
                                 "name": "Alloy Magazine"
+                            },
+                            {
+                                "hash": 1087426260,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9d8a7be4c2fef471a6fde38d02ab8dae.png",
+                                "isSelected": false,
+                                "name": "Appended Mag"
+                            },
+                            {
+                                "hash": 4134353779,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d316be9e70844427e69034b0f06bec75.png",
+                                "isSelected": false,
+                                "name": "Drop Mag"
+                            },
+                            {
+                                "hash": 2420895100,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
+                                "isSelected": false,
+                                "name": "Extended Mag"
                             },
                             {
                                 "hash": 3230963543,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ec1bca64fc9709678ea5c297c0e64c19.png",
+                                "isSelected": false,
                                 "name": "Flared Magwell"
+                            },
+                            {
+                                "hash": 3177308360,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/adaf4315dab749519c41a233e9954598.png",
+                                "isSelected": false,
+                                "name": "Steady Rounds"
+                            },
+                            {
+                                "hash": 106909392,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9711e6d3de7a9cf2f844752992390a63.png",
+                                "isSelected": false,
+                                "name": "Tactical Mag"
                             }
                         ],
                         "socketIndex": 1
@@ -10926,74 +12105,88 @@ export const WeaponTypes = [
                         "name": "traits",
                         "perks": [
                             {
-                                "hash": 1866048759,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9f3c3ae1bddbed21af1cc6487338028e.png",
-                                "name": "Hip-Fire Grip"
-                            },
-                            {
-                                "hash": 1631667848,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/83e206ebea83f76d9969efea7134ddcc.png",
-                                "name": "Grave Robber"
-                            },
-                            {
                                 "hash": 3300816228,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d355b1117307c9f187729249361cecc3.png",
+                                "isSelected": false,
                                 "name": "Auto-Loading Holster"
                             },
                             {
-                                "hash": 2387244414,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49958f356ea1df930888d15fe6539fe1.png",
-                                "name": "Zen Moment"
-                            },
-                            {
-                                "hash": 588594999,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
-                                "name": "Moving Target"
-                            },
-                            {
-                                "hash": 3400784728,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/44cc0f78fd98d462dc4914dbe203dc49.png",
-                                "name": "Triple Tap"
-                            },
-                            {
-                                "hash": 2213355989,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bee920445b5d0ccb01814d2e6fcea27b.png",
-                                "name": "High-Impact Reserves"
-                            },
-                            {
-                                "hash": 2846385770,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png",
-                                "name": "Rangefinder"
+                                "hash": 2848615171,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8fe8293ba02002f69bfa052a0c44223f.png",
+                                "isSelected": false,
+                                "name": "Dragonfly"
                             },
                             {
                                 "hash": 3096702027,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e52e3441db003abe3aa2b8a2f7fda730.png",
+                                "isSelected": false,
                                 "name": "Genesis"
+                            },
+                            {
+                                "hash": 1631667848,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/83e206ebea83f76d9969efea7134ddcc.png",
+                                "isSelected": false,
+                                "name": "Grave Robber"
+                            },
+                            {
+                                "hash": 2213355989,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bee920445b5d0ccb01814d2e6fcea27b.png",
+                                "isSelected": false,
+                                "name": "High-Impact Reserves"
+                            },
+                            {
+                                "hash": 1866048759,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9f3c3ae1bddbed21af1cc6487338028e.png",
+                                "isSelected": false,
+                                "name": "Hip-Fire Grip"
+                            },
+                            {
+                                "hash": 588594999,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
+                                "isSelected": false,
+                                "name": "Moving Target"
                             },
                             {
                                 "hash": 47981717,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0fd9dbe1c09b8cc7d0be888c68ff4526.png",
+                                "isSelected": false,
                                 "name": "Opening Shot"
                             },
                             {
                                 "hash": 1168162263,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
+                                "isSelected": false,
                                 "name": "Outlaw"
                             },
                             {
                                 "hash": 3425386926,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
+                                "isSelected": false,
                                 "name": "Rampage"
                             },
                             {
-                                "hash": 2848615171,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8fe8293ba02002f69bfa052a0c44223f.png",
-                                "name": "Dragonfly"
+                                "hash": 2846385770,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png",
+                                "isSelected": false,
+                                "name": "Rangefinder"
                             },
                             {
                                 "hash": 957782887,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
+                                "isSelected": false,
                                 "name": "Snapshot Sights"
+                            },
+                            {
+                                "hash": 3400784728,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/44cc0f78fd98d462dc4914dbe203dc49.png",
+                                "isSelected": false,
+                                "name": "Triple Tap"
+                            },
+                            {
+                                "hash": 2387244414,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49958f356ea1df930888d15fe6539fe1.png",
+                                "isSelected": false,
+                                "name": "Zen Moment"
                             }
                         ],
                         "socketIndex": 2
@@ -11069,34 +12262,40 @@ export const WeaponTypes = [
                         "name": "Barrel",
                         "perks": [
                             {
-                                "hash": 1332244541,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d119dcbd56799bdbaa79d1d6ea4c270c.png",
-                                "name": "Rifled Barrel"
-                            },
-                            {
-                                "hash": 466087222,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/a85cb5a7011708991cfbadfb9823ade0.png",
-                                "name": "Smoothbore"
-                            },
-                            {
-                                "hash": 1482024992,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png",
-                                "name": "Smallbore"
-                            },
-                            {
                                 "hash": 1300023272,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/151465ba86df34438248aad2248cce32.png",
+                                "isSelected": false,
                                 "name": "Barrel Shroud"
                             },
                             {
                                 "hash": 4090651448,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/18cc75bf9a17bb80b5109f1b8909521f.png",
+                                "isSelected": false,
                                 "name": "Corkscrew Rifling"
                             },
                             {
                                 "hash": 1047830412,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/2189986ea3700992e313d8a9649be898.png",
+                                "isSelected": false,
                                 "name": "Full Choke"
+                            },
+                            {
+                                "hash": 1332244541,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d119dcbd56799bdbaa79d1d6ea4c270c.png",
+                                "isSelected": false,
+                                "name": "Rifled Barrel"
+                            },
+                            {
+                                "hash": 1482024992,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png",
+                                "isSelected": false,
+                                "name": "Smallbore"
+                            },
+                            {
+                                "hash": 466087222,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/a85cb5a7011708991cfbadfb9823ade0.png",
+                                "isSelected": false,
+                                "name": "Smoothbore"
                             }
                         ],
                         "socketIndex": 0
@@ -11105,39 +12304,46 @@ export const WeaponTypes = [
                         "name": "Magazine",
                         "perks": [
                             {
-                                "hash": 791862061,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4d0cb2e34dfd2ed102e03ca1f0809d37.png",
-                                "name": "Assault Mag"
+                                "hash": 3142289711,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png",
+                                "isSelected": false,
+                                "name": "Accurized Rounds"
                             },
                             {
                                 "hash": 1087426260,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9d8a7be4c2fef471a6fde38d02ab8dae.png",
+                                "isSelected": false,
                                 "name": "Appended Mag"
                             },
                             {
-                                "hash": 106909392,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9711e6d3de7a9cf2f844752992390a63.png",
-                                "name": "Tactical Mag"
+                                "hash": 791862061,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4d0cb2e34dfd2ed102e03ca1f0809d37.png",
+                                "isSelected": false,
+                                "name": "Assault Mag"
                             },
                             {
                                 "hash": 2420895100,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
+                                "isSelected": false,
                                 "name": "Extended Mag"
-                            },
-                            {
-                                "hash": 3177308360,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/adaf4315dab749519c41a233e9954598.png",
-                                "name": "Steady Rounds"
-                            },
-                            {
-                                "hash": 3142289711,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png",
-                                "name": "Accurized Rounds"
                             },
                             {
                                 "hash": 679225683,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1d87312c174b44d5ef1ed24ad42efe9c.png",
+                                "isSelected": false,
                                 "name": "Light Mag"
+                            },
+                            {
+                                "hash": 3177308360,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/adaf4315dab749519c41a233e9954598.png",
+                                "isSelected": false,
+                                "name": "Steady Rounds"
+                            },
+                            {
+                                "hash": 106909392,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9711e6d3de7a9cf2f844752992390a63.png",
+                                "isSelected": false,
+                                "name": "Tactical Mag"
                             }
                         ],
                         "socketIndex": 1
@@ -11146,94 +12352,112 @@ export const WeaponTypes = [
                         "name": "traits",
                         "perks": [
                             {
-                                "hash": 1631667848,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/83e206ebea83f76d9969efea7134ddcc.png",
-                                "name": "Grave Robber"
-                            },
-                            {
-                                "hash": 4071163871,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png",
-                                "name": "Threat Detector"
-                            },
-                            {
-                                "hash": 47981717,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0fd9dbe1c09b8cc7d0be888c68ff4526.png",
-                                "name": "Opening Shot"
+                                "hash": 3722653512,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/34e3043d3f29eb8d38c8e0f5d5138f57.png",
+                                "isSelected": false,
+                                "name": "Air Assault"
                             },
                             {
                                 "hash": 3300816228,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d355b1117307c9f187729249361cecc3.png",
+                                "isSelected": false,
                                 "name": "Auto-Loading Holster"
-                            },
-                            {
-                                "hash": 2869569095,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fd815414532978ad2e5decbfc416b9e4.png",
-                                "name": "Field Prep"
-                            },
-                            {
-                                "hash": 3425386926,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
-                                "name": "Rampage"
-                            },
-                            {
-                                "hash": 2679249093,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9e8b9d285c5064ad85a0b7dbcb911f36.png",
-                                "name": "One-Two Punch"
-                            },
-                            {
-                                "hash": 4082225868,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ef89b89410de618e9cfa353ff35125d8.png",
-                                "name": "Swashbuckler"
-                            },
-                            {
-                                "hash": 1866048759,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9f3c3ae1bddbed21af1cc6487338028e.png",
-                                "name": "Hip-Fire Grip"
                             },
                             {
                                 "hash": 3523296417,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/53ead908917c9156457c7c9dd453d649.png",
+                                "isSelected": false,
                                 "name": "Demolitionist"
                             },
                             {
-                                "hash": 3161816588,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fa7ba2abcd8effd143e287668d7c865b.png",
-                                "name": "Slideshot"
+                                "hash": 2869569095,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fd815414532978ad2e5decbfc416b9e4.png",
+                                "isSelected": false,
+                                "name": "Field Prep"
                             },
                             {
                                 "hash": 2117683199,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c995638d381d6ff46df5606f49abd7b3.png",
+                                "isSelected": false,
                                 "name": "Full Auto Trigger System"
                             },
                             {
-                                "hash": 972757866,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8f55a0d8cd93d9830480239350c022b1.png",
-                                "name": "Pulse Monitor"
+                                "hash": 1631667848,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/83e206ebea83f76d9969efea7134ddcc.png",
+                                "isSelected": false,
+                                "name": "Grave Robber"
                             },
                             {
-                                "hash": 1168162263,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
-                                "name": "Outlaw"
-                            },
-                            {
-                                "hash": 957782887,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
-                                "name": "Snapshot Sights"
+                                "hash": 1866048759,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9f3c3ae1bddbed21af1cc6487338028e.png",
+                                "isSelected": false,
+                                "name": "Hip-Fire Grip"
                             },
                             {
                                 "hash": 588594999,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
+                                "isSelected": false,
                                 "name": "Moving Target"
                             },
                             {
-                                "hash": 3722653512,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/34e3043d3f29eb8d38c8e0f5d5138f57.png",
-                                "name": "Air Assault"
+                                "hash": 2679249093,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9e8b9d285c5064ad85a0b7dbcb911f36.png",
+                                "isSelected": false,
+                                "name": "One-Two Punch"
+                            },
+                            {
+                                "hash": 47981717,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0fd9dbe1c09b8cc7d0be888c68ff4526.png",
+                                "isSelected": false,
+                                "name": "Opening Shot"
+                            },
+                            {
+                                "hash": 1168162263,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
+                                "isSelected": false,
+                                "name": "Outlaw"
+                            },
+                            {
+                                "hash": 972757866,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8f55a0d8cd93d9830480239350c022b1.png",
+                                "isSelected": false,
+                                "name": "Pulse Monitor"
                             },
                             {
                                 "hash": 706527188,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png",
+                                "isSelected": false,
                                 "name": "Quickdraw"
+                            },
+                            {
+                                "hash": 3425386926,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
+                                "isSelected": false,
+                                "name": "Rampage"
+                            },
+                            {
+                                "hash": 3161816588,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fa7ba2abcd8effd143e287668d7c865b.png",
+                                "isSelected": false,
+                                "name": "Slideshot"
+                            },
+                            {
+                                "hash": 957782887,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
+                                "isSelected": false,
+                                "name": "Snapshot Sights"
+                            },
+                            {
+                                "hash": 4082225868,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ef89b89410de618e9cfa353ff35125d8.png",
+                                "isSelected": false,
+                                "name": "Swashbuckler"
+                            },
+                            {
+                                "hash": 4071163871,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png",
+                                "isSelected": false,
+                                "name": "Threat Detector"
                             }
                         ],
                         "socketIndex": 2
@@ -11436,34 +12660,40 @@ export const WeaponTypes = [
                         "name": "Barrel",
                         "perks": [
                             {
-                                "hash": 1332244541,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d119dcbd56799bdbaa79d1d6ea4c270c.png",
-                                "name": "Rifled Barrel"
-                            },
-                            {
-                                "hash": 466087222,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/a85cb5a7011708991cfbadfb9823ade0.png",
-                                "name": "Smoothbore"
-                            },
-                            {
-                                "hash": 1482024992,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png",
-                                "name": "Smallbore"
-                            },
-                            {
                                 "hash": 1300023272,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/151465ba86df34438248aad2248cce32.png",
+                                "isSelected": false,
                                 "name": "Barrel Shroud"
                             },
                             {
                                 "hash": 4090651448,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/18cc75bf9a17bb80b5109f1b8909521f.png",
+                                "isSelected": false,
                                 "name": "Corkscrew Rifling"
                             },
                             {
                                 "hash": 1047830412,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/2189986ea3700992e313d8a9649be898.png",
+                                "isSelected": false,
                                 "name": "Full Choke"
+                            },
+                            {
+                                "hash": 1332244541,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d119dcbd56799bdbaa79d1d6ea4c270c.png",
+                                "isSelected": false,
+                                "name": "Rifled Barrel"
+                            },
+                            {
+                                "hash": 1482024992,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png",
+                                "isSelected": false,
+                                "name": "Smallbore"
+                            },
+                            {
+                                "hash": 466087222,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/a85cb5a7011708991cfbadfb9823ade0.png",
+                                "isSelected": false,
+                                "name": "Smoothbore"
                             }
                         ],
                         "socketIndex": 0
@@ -11472,39 +12702,46 @@ export const WeaponTypes = [
                         "name": "Magazine",
                         "perks": [
                             {
-                                "hash": 791862061,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4d0cb2e34dfd2ed102e03ca1f0809d37.png",
-                                "name": "Assault Mag"
+                                "hash": 3142289711,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png",
+                                "isSelected": false,
+                                "name": "Accurized Rounds"
                             },
                             {
                                 "hash": 1087426260,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9d8a7be4c2fef471a6fde38d02ab8dae.png",
+                                "isSelected": false,
                                 "name": "Appended Mag"
                             },
                             {
-                                "hash": 106909392,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9711e6d3de7a9cf2f844752992390a63.png",
-                                "name": "Tactical Mag"
+                                "hash": 791862061,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4d0cb2e34dfd2ed102e03ca1f0809d37.png",
+                                "isSelected": false,
+                                "name": "Assault Mag"
                             },
                             {
                                 "hash": 2420895100,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
+                                "isSelected": false,
                                 "name": "Extended Mag"
-                            },
-                            {
-                                "hash": 3177308360,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/adaf4315dab749519c41a233e9954598.png",
-                                "name": "Steady Rounds"
-                            },
-                            {
-                                "hash": 3142289711,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png",
-                                "name": "Accurized Rounds"
                             },
                             {
                                 "hash": 679225683,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1d87312c174b44d5ef1ed24ad42efe9c.png",
+                                "isSelected": false,
                                 "name": "Light Mag"
+                            },
+                            {
+                                "hash": 3177308360,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/adaf4315dab749519c41a233e9954598.png",
+                                "isSelected": false,
+                                "name": "Steady Rounds"
+                            },
+                            {
+                                "hash": 106909392,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9711e6d3de7a9cf2f844752992390a63.png",
+                                "isSelected": false,
+                                "name": "Tactical Mag"
                             }
                         ],
                         "socketIndex": 1
@@ -11513,54 +12750,64 @@ export const WeaponTypes = [
                         "name": "traits",
                         "perks": [
                             {
-                                "hash": 3161816588,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fa7ba2abcd8effd143e287668d7c865b.png",
-                                "name": "Slideshot"
-                            },
-                            {
-                                "hash": 4071163871,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png",
-                                "name": "Threat Detector"
-                            },
-                            {
-                                "hash": 47981717,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0fd9dbe1c09b8cc7d0be888c68ff4526.png",
-                                "name": "Opening Shot"
+                                "hash": 3300816228,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d355b1117307c9f187729249361cecc3.png",
+                                "isSelected": false,
+                                "name": "Auto-Loading Holster"
                             },
                             {
                                 "hash": 2117683199,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c995638d381d6ff46df5606f49abd7b3.png",
+                                "isSelected": false,
                                 "name": "Full Auto Trigger System"
-                            },
-                            {
-                                "hash": 957782887,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
-                                "name": "Snapshot Sights"
-                            },
-                            {
-                                "hash": 3425386926,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
-                                "name": "Rampage"
-                            },
-                            {
-                                "hash": 1168162263,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
-                                "name": "Outlaw"
                             },
                             {
                                 "hash": 588594999,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
+                                "isSelected": false,
                                 "name": "Moving Target"
                             },
                             {
-                                "hash": 3300816228,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d355b1117307c9f187729249361cecc3.png",
-                                "name": "Auto-Loading Holster"
+                                "hash": 47981717,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0fd9dbe1c09b8cc7d0be888c68ff4526.png",
+                                "isSelected": false,
+                                "name": "Opening Shot"
+                            },
+                            {
+                                "hash": 1168162263,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
+                                "isSelected": false,
+                                "name": "Outlaw"
                             },
                             {
                                 "hash": 972757866,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8f55a0d8cd93d9830480239350c022b1.png",
+                                "isSelected": false,
                                 "name": "Pulse Monitor"
+                            },
+                            {
+                                "hash": 3425386926,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
+                                "isSelected": false,
+                                "name": "Rampage"
+                            },
+                            {
+                                "hash": 3161816588,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fa7ba2abcd8effd143e287668d7c865b.png",
+                                "isSelected": false,
+                                "name": "Slideshot"
+                            },
+                            {
+                                "hash": 957782887,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
+                                "isSelected": false,
+                                "name": "Snapshot Sights"
+                            },
+                            {
+                                "hash": 4071163871,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png",
+                                "isSelected": false,
+                                "name": "Threat Detector"
                             }
                         ],
                         "socketIndex": 2
@@ -11625,67 +12872,80 @@ export const WeaponTypes = [
                             {
                                 "hash": 839105230,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png",
+                                "isSelected": false,
                                 "name": "Arrowhead Brake"
+                            },
+                            {
+                                "hash": 1300023272,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/151465ba86df34438248aad2248cce32.png",
+                                "isSelected": false,
+                                "name": "Barrel Shroud"
                             },
                             {
                                 "hash": 3661387068,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/376aa9bd8c392567f501012fc3b3d4d0.png",
+                                "isSelected": false,
                                 "name": "Chambered Compensator"
                             },
                             {
                                 "hash": 4090651448,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/18cc75bf9a17bb80b5109f1b8909521f.png",
+                                "isSelected": false,
                                 "name": "Corkscrew Rifling"
                             },
                             {
                                 "hash": 1467527085,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/151465ba86df34438248aad2248cce32.png",
+                                "isSelected": false,
                                 "name": "Extended Barrel"
                             },
                             {
                                 "hash": 1840239774,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png",
+                                "isSelected": false,
                                 "name": "Fluted Barrel"
                             },
                             {
                                 "hash": 202670084,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9307c5604f995d90ad5ed65281b64772.png",
+                                "isSelected": false,
                                 "name": "Full Bore"
+                            },
+                            {
+                                "hash": 1047830412,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/2189986ea3700992e313d8a9649be898.png",
+                                "isSelected": false,
+                                "name": "Full Choke"
                             },
                             {
                                 "hash": 3250034553,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9acb073d4e85160f66f0d617d210cf61.png",
+                                "isSelected": false,
                                 "name": "Hammer-Forged Rifling"
                             },
                             {
                                 "hash": 1392496348,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7cadd68b66ffd3bbedc09aa9c7ba6e03.png",
+                                "isSelected": false,
                                 "name": "Polygonal Rifling"
-                            },
-                            {
-                                "hash": 1482024992,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png",
-                                "name": "Smallbore"
                             },
                             {
                                 "hash": 1332244541,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d119dcbd56799bdbaa79d1d6ea4c270c.png",
+                                "isSelected": false,
                                 "name": "Rifled Barrel"
+                            },
+                            {
+                                "hash": 1482024992,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png",
+                                "isSelected": false,
+                                "name": "Smallbore"
                             },
                             {
                                 "hash": 466087222,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/a85cb5a7011708991cfbadfb9823ade0.png",
+                                "isSelected": false,
                                 "name": "Smoothbore"
-                            },
-                            {
-                                "hash": 1300023272,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/151465ba86df34438248aad2248cce32.png",
-                                "name": "Barrel Shroud"
-                            },
-                            {
-                                "hash": 1047830412,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/2189986ea3700992e313d8a9649be898.png",
-                                "name": "Full Choke"
                             }
                         ],
                         "socketIndex": 0
@@ -11694,39 +12954,46 @@ export const WeaponTypes = [
                         "name": "Magazine",
                         "perks": [
                             {
-                                "hash": 791862061,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4d0cb2e34dfd2ed102e03ca1f0809d37.png",
-                                "name": "Assault Mag"
+                                "hash": 3142289711,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png",
+                                "isSelected": false,
+                                "name": "Accurized Rounds"
                             },
                             {
                                 "hash": 1087426260,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9d8a7be4c2fef471a6fde38d02ab8dae.png",
+                                "isSelected": false,
                                 "name": "Appended Mag"
                             },
                             {
-                                "hash": 106909392,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9711e6d3de7a9cf2f844752992390a63.png",
-                                "name": "Tactical Mag"
+                                "hash": 791862061,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4d0cb2e34dfd2ed102e03ca1f0809d37.png",
+                                "isSelected": false,
+                                "name": "Assault Mag"
                             },
                             {
                                 "hash": 2420895100,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
+                                "isSelected": false,
                                 "name": "Extended Mag"
-                            },
-                            {
-                                "hash": 3177308360,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/adaf4315dab749519c41a233e9954598.png",
-                                "name": "Steady Rounds"
-                            },
-                            {
-                                "hash": 3142289711,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png",
-                                "name": "Accurized Rounds"
                             },
                             {
                                 "hash": 679225683,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1d87312c174b44d5ef1ed24ad42efe9c.png",
+                                "isSelected": false,
                                 "name": "Light Mag"
+                            },
+                            {
+                                "hash": 3177308360,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/adaf4315dab749519c41a233e9954598.png",
+                                "isSelected": false,
+                                "name": "Steady Rounds"
+                            },
+                            {
+                                "hash": 106909392,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9711e6d3de7a9cf2f844752992390a63.png",
+                                "isSelected": false,
+                                "name": "Tactical Mag"
                             }
                         ],
                         "socketIndex": 1
@@ -11735,74 +13002,88 @@ export const WeaponTypes = [
                         "name": "traits",
                         "perks": [
                             {
-                                "hash": 1168162263,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
-                                "name": "Outlaw"
-                            },
-                            {
-                                "hash": 4071163871,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png",
-                                "name": "Threat Detector"
+                                "hash": 3300816228,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d355b1117307c9f187729249361cecc3.png",
+                                "isSelected": false,
+                                "name": "Auto-Loading Holster"
                             },
                             {
                                 "hash": 2869569095,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fd815414532978ad2e5decbfc416b9e4.png",
+                                "isSelected": false,
                                 "name": "Field Prep"
                             },
                             {
                                 "hash": 2117683199,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c995638d381d6ff46df5606f49abd7b3.png",
+                                "isSelected": false,
                                 "name": "Full Auto Trigger System"
+                            },
+                            {
+                                "hash": 1631667848,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/83e206ebea83f76d9969efea7134ddcc.png",
+                                "isSelected": false,
+                                "name": "Grave Robber"
+                            },
+                            {
+                                "hash": 588594999,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
+                                "isSelected": false,
+                                "name": "Moving Target"
+                            },
+                            {
+                                "hash": 47981717,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0fd9dbe1c09b8cc7d0be888c68ff4526.png",
+                                "isSelected": false,
+                                "name": "Opening Shot"
+                            },
+                            {
+                                "hash": 1168162263,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
+                                "isSelected": false,
+                                "name": "Outlaw"
                             },
                             {
                                 "hash": 972757866,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8f55a0d8cd93d9830480239350c022b1.png",
+                                "isSelected": false,
                                 "name": "Pulse Monitor"
                             },
                             {
                                 "hash": 706527188,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png",
+                                "isSelected": false,
                                 "name": "Quickdraw"
                             },
                             {
                                 "hash": 3425386926,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
+                                "isSelected": false,
                                 "name": "Rampage"
-                            },
-                            {
-                                "hash": 3400784728,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/44cc0f78fd98d462dc4914dbe203dc49.png",
-                                "name": "Triple Tap"
-                            },
-                            {
-                                "hash": 957782887,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
-                                "name": "Snapshot Sights"
-                            },
-                            {
-                                "hash": 588594999,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
-                                "name": "Moving Target"
                             },
                             {
                                 "hash": 3161816588,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fa7ba2abcd8effd143e287668d7c865b.png",
+                                "isSelected": false,
                                 "name": "Slideshot"
                             },
                             {
-                                "hash": 47981717,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0fd9dbe1c09b8cc7d0be888c68ff4526.png",
-                                "name": "Opening Shot"
+                                "hash": 957782887,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
+                                "isSelected": false,
+                                "name": "Snapshot Sights"
                             },
                             {
-                                "hash": 3300816228,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d355b1117307c9f187729249361cecc3.png",
-                                "name": "Auto-Loading Holster"
+                                "hash": 4071163871,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png",
+                                "isSelected": false,
+                                "name": "Threat Detector"
                             },
                             {
-                                "hash": 1631667848,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/83e206ebea83f76d9969efea7134ddcc.png",
-                                "name": "Grave Robber"
+                                "hash": 3400784728,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/44cc0f78fd98d462dc4914dbe203dc49.png",
+                                "isSelected": false,
+                                "name": "Triple Tap"
                             }
                         ],
                         "socketIndex": 2
@@ -11964,34 +13245,40 @@ export const WeaponTypes = [
                         "name": "Barrel",
                         "perks": [
                             {
-                                "hash": 1332244541,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d119dcbd56799bdbaa79d1d6ea4c270c.png",
-                                "name": "Rifled Barrel"
-                            },
-                            {
-                                "hash": 466087222,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/a85cb5a7011708991cfbadfb9823ade0.png",
-                                "name": "Smoothbore"
-                            },
-                            {
-                                "hash": 1482024992,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png",
-                                "name": "Smallbore"
-                            },
-                            {
                                 "hash": 1300023272,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/151465ba86df34438248aad2248cce32.png",
+                                "isSelected": false,
                                 "name": "Barrel Shroud"
                             },
                             {
                                 "hash": 4090651448,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/18cc75bf9a17bb80b5109f1b8909521f.png",
+                                "isSelected": false,
                                 "name": "Corkscrew Rifling"
                             },
                             {
                                 "hash": 1047830412,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/2189986ea3700992e313d8a9649be898.png",
+                                "isSelected": false,
                                 "name": "Full Choke"
+                            },
+                            {
+                                "hash": 1332244541,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d119dcbd56799bdbaa79d1d6ea4c270c.png",
+                                "isSelected": false,
+                                "name": "Rifled Barrel"
+                            },
+                            {
+                                "hash": 1482024992,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png",
+                                "isSelected": false,
+                                "name": "Smallbore"
+                            },
+                            {
+                                "hash": 466087222,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/a85cb5a7011708991cfbadfb9823ade0.png",
+                                "isSelected": false,
+                                "name": "Smoothbore"
                             }
                         ],
                         "socketIndex": 0
@@ -12000,38 +13287,45 @@ export const WeaponTypes = [
                         "name": "Magazine",
                         "perks": [
                             {
-                                "hash": 1087426260,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9d8a7be4c2fef471a6fde38d02ab8dae.png",
-                                "name": "Appended Mag"
+                                "hash": 3142289711,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png",
+                                "isSelected": false,
+                                "name": "Accurized Rounds"
                             },
                             {
-                                "hash": 106909392,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9711e6d3de7a9cf2f844752992390a63.png",
-                                "name": "Tactical Mag"
+                                "hash": 1087426260,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9d8a7be4c2fef471a6fde38d02ab8dae.png",
+                                "isSelected": false,
+                                "name": "Appended Mag"
                             },
                             {
                                 "hash": 2420895100,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
+                                "isSelected": false,
                                 "name": "Extended Mag"
-                            },
-                            {
-                                "hash": 3177308360,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/adaf4315dab749519c41a233e9954598.png",
-                                "name": "Steady Rounds"
-                            },
-                            {
-                                "hash": 3142289711,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png",
-                                "name": "Accurized Rounds"
                             },
                             {
                                 "hash": 679225683,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1d87312c174b44d5ef1ed24ad42efe9c.png",
+                                "isSelected": false,
                                 "name": "Light Mag"
+                            },
+                            {
+                                "hash": 3177308360,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/adaf4315dab749519c41a233e9954598.png",
+                                "isSelected": false,
+                                "name": "Steady Rounds"
+                            },
+                            {
+                                "hash": 106909392,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9711e6d3de7a9cf2f844752992390a63.png",
+                                "isSelected": false,
+                                "name": "Tactical Mag"
                             },
                             {
                                 "hash": 806159697,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/09ecf09e4cc4b0e087d8711d817c64b6.png",
+                                "isSelected": false,
                                 "name": "Trench Barrel"
                             }
                         ],
@@ -12041,89 +13335,106 @@ export const WeaponTypes = [
                         "name": "traits",
                         "perks": [
                             {
-                                "hash": 3161816588,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fa7ba2abcd8effd143e287668d7c865b.png",
-                                "name": "Slideshot"
-                            },
-                            {
-                                "hash": 4071163871,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png",
-                                "name": "Threat Detector"
-                            },
-                            {
-                                "hash": 2869569095,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fd815414532978ad2e5decbfc416b9e4.png",
-                                "name": "Field Prep"
-                            },
-                            {
-                                "hash": 588594999,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
-                                "name": "Moving Target"
-                            },
-                            {
-                                "hash": 972757866,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8f55a0d8cd93d9830480239350c022b1.png",
-                                "name": "Pulse Monitor"
-                            },
-                            {
-                                "hash": 3425386926,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
-                                "name": "Rampage"
-                            },
-                            {
-                                "hash": 3096702027,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e52e3441db003abe3aa2b8a2f7fda730.png",
-                                "name": "Genesis"
-                            },
-                            {
-                                "hash": 957782887,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
-                                "name": "Snapshot Sights"
-                            },
-                            {
-                                "hash": 706527188,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png",
-                                "name": "Quickdraw"
+                                "hash": 3722653512,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/34e3043d3f29eb8d38c8e0f5d5138f57.png",
+                                "isSelected": false,
+                                "name": "Air Assault"
                             },
                             {
                                 "hash": 3300816228,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d355b1117307c9f187729249361cecc3.png",
+                                "isSelected": false,
                                 "name": "Auto-Loading Holster"
                             },
                             {
-                                "hash": 2360754333,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/09ecf09e4cc4b0e087d8711d817c64b6.png",
-                                "name": "Trench Barrel"
+                                "hash": 2869569095,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fd815414532978ad2e5decbfc416b9e4.png",
+                                "isSelected": false,
+                                "name": "Field Prep"
                             },
                             {
-                                "hash": 3708227201,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0dbd2b11fd1343c11b4559c7a72ae8da.png",
-                                "name": "Surrounded"
+                                "hash": 3096702027,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e52e3441db003abe3aa2b8a2f7fda730.png",
+                                "isSelected": false,
+                                "name": "Genesis"
                             },
                             {
                                 "hash": 1631667848,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/83e206ebea83f76d9969efea7134ddcc.png",
+                                "isSelected": false,
                                 "name": "Grave Robber"
-                            },
-                            {
-                                "hash": 3722653512,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/34e3043d3f29eb8d38c8e0f5d5138f57.png",
-                                "name": "Air Assault"
-                            },
-                            {
-                                "hash": 106909392,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9711e6d3de7a9cf2f844752992390a63.png",
-                                "name": "Tactical Mag"
                             },
                             {
                                 "hash": 1866048759,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9f3c3ae1bddbed21af1cc6487338028e.png",
+                                "isSelected": false,
                                 "name": "Hip-Fire Grip"
+                            },
+                            {
+                                "hash": 588594999,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
+                                "isSelected": false,
+                                "name": "Moving Target"
                             },
                             {
                                 "hash": 47981717,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0fd9dbe1c09b8cc7d0be888c68ff4526.png",
+                                "isSelected": false,
                                 "name": "Opening Shot"
+                            },
+                            {
+                                "hash": 972757866,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8f55a0d8cd93d9830480239350c022b1.png",
+                                "isSelected": false,
+                                "name": "Pulse Monitor"
+                            },
+                            {
+                                "hash": 706527188,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png",
+                                "isSelected": false,
+                                "name": "Quickdraw"
+                            },
+                            {
+                                "hash": 3425386926,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
+                                "isSelected": false,
+                                "name": "Rampage"
+                            },
+                            {
+                                "hash": 3161816588,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fa7ba2abcd8effd143e287668d7c865b.png",
+                                "isSelected": false,
+                                "name": "Slideshot"
+                            },
+                            {
+                                "hash": 957782887,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
+                                "isSelected": false,
+                                "name": "Snapshot Sights"
+                            },
+                            {
+                                "hash": 3708227201,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0dbd2b11fd1343c11b4559c7a72ae8da.png",
+                                "isSelected": false,
+                                "name": "Surrounded"
+                            },
+                            {
+                                "hash": 106909392,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9711e6d3de7a9cf2f844752992390a63.png",
+                                "isSelected": false,
+                                "name": "Tactical Mag"
+                            },
+                            {
+                                "hash": 4071163871,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png",
+                                "isSelected": false,
+                                "name": "Threat Detector"
+                            },
+                            {
+                                "hash": 2360754333,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/09ecf09e4cc4b0e087d8711d817c64b6.png",
+                                "isSelected": false,
+                                "name": "Trench Barrel"
                             }
                         ],
                         "socketIndex": 2
@@ -12313,34 +13624,40 @@ export const WeaponTypes = [
                         "name": "Sight",
                         "perks": [
                             {
-                                "hash": 445755707,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f4881d52b0c80356e9ccadb3ea681f8b.png",
-                                "name": "QuickDot SAS"
-                            },
-                            {
                                 "hash": 445755706,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f4881d52b0c80356e9ccadb3ea681f8b.png",
+                                "isSelected": false,
                                 "name": "Control SAS"
+                            },
+                            {
+                                "hash": 445755710,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f4881d52b0c80356e9ccadb3ea681f8b.png",
+                                "isSelected": false,
+                                "name": "FarPoint SAS"
+                            },
+                            {
+                                "hash": 445755707,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f4881d52b0c80356e9ccadb3ea681f8b.png",
+                                "isSelected": false,
+                                "name": "QuickDot SAS"
                             },
                             {
                                 "hash": 445755705,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f4881d52b0c80356e9ccadb3ea681f8b.png",
+                                "isSelected": false,
                                 "name": "Shortspec SAS"
                             },
                             {
                                 "hash": 445755704,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f4881d52b0c80356e9ccadb3ea681f8b.png",
+                                "isSelected": false,
                                 "name": "Tactic SAS"
                             },
                             {
                                 "hash": 445755711,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f4881d52b0c80356e9ccadb3ea681f8b.png",
+                                "isSelected": false,
                                 "name": "Target SAS"
-                            },
-                            {
-                                "hash": 445755710,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f4881d52b0c80356e9ccadb3ea681f8b.png",
-                                "name": "FarPoint SAS"
                             }
                         ],
                         "socketIndex": 0
@@ -12349,44 +13666,52 @@ export const WeaponTypes = [
                         "name": "Magazine",
                         "perks": [
                             {
-                                "hash": 2420895100,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
-                                "name": "Extended Mag"
-                            },
-                            {
                                 "hash": 1431678320,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/932e7b84c233c6cc49a58058f8c5144d.png",
+                                "isSelected": false,
                                 "name": "Alloy Magazine"
                             },
                             {
                                 "hash": 1087426260,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9d8a7be4c2fef471a6fde38d02ab8dae.png",
+                                "isSelected": false,
                                 "name": "Appended Mag"
                             },
                             {
                                 "hash": 1968497646,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/73b724a6839bb3e1db37742f7ed5249b.png",
+                                "isSelected": false,
                                 "name": "Armor-Piercing Rounds"
                             },
                             {
-                                "hash": 1561002382,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f06239ee156ee70f99b48e8e1970dbca.png",
-                                "name": "High-Caliber Rounds"
-                            },
-                            {
-                                "hash": 1885400500,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png",
-                                "name": "Ricochet Rounds"
+                                "hash": 2420895100,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
+                                "isSelected": false,
+                                "name": "Extended Mag"
                             },
                             {
                                 "hash": 3230963543,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ec1bca64fc9709678ea5c297c0e64c19.png",
+                                "isSelected": false,
                                 "name": "Flared Magwell"
+                            },
+                            {
+                                "hash": 1561002382,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f06239ee156ee70f99b48e8e1970dbca.png",
+                                "isSelected": false,
+                                "name": "High-Caliber Rounds"
                             },
                             {
                                 "hash": 679225683,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1d87312c174b44d5ef1ed24ad42efe9c.png",
+                                "isSelected": false,
                                 "name": "Light Mag"
+                            },
+                            {
+                                "hash": 1885400500,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png",
+                                "isSelected": false,
+                                "name": "Ricochet Rounds"
                             }
                         ],
                         "socketIndex": 1
@@ -12395,64 +13720,76 @@ export const WeaponTypes = [
                         "name": "traits",
                         "perks": [
                             {
+                                "hash": 2010801679,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/df460693665b7b4dd42f1706e5fbb9e1.png",
+                                "isSelected": false,
+                                "name": "Ambitious Assassin"
+                            },
+                            {
+                                "hash": 4267945040,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c995638d381d6ff46df5606f49abd7b3.png",
+                                "isSelected": false,
+                                "name": "Full Auto Trigger System"
+                            },
+                            {
+                                "hash": 1631667848,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/83e206ebea83f76d9969efea7134ddcc.png",
+                                "isSelected": false,
+                                "name": "Grave Robber"
+                            },
+                            {
+                                "hash": 1015611457,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
+                                "isSelected": false,
+                                "name": "Kill Clip"
+                            },
+                            {
                                 "hash": 588594999,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
+                                "isSelected": false,
                                 "name": "Moving Target"
                             },
                             {
-                                "hash": 2010801679,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/df460693665b7b4dd42f1706e5fbb9e1.png",
-                                "name": "Ambitious Assassin"
+                                "hash": 47981717,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0fd9dbe1c09b8cc7d0be888c68ff4526.png",
+                                "isSelected": false,
+                                "name": "Opening Shot"
+                            },
+                            {
+                                "hash": 1168162263,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
+                                "isSelected": false,
+                                "name": "Outlaw"
+                            },
+                            {
+                                "hash": 3425386926,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
+                                "isSelected": false,
+                                "name": "Rampage"
+                            },
+                            {
+                                "hash": 1890422124,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8e910e56aa6e36b2c406804e1d78d04f.png",
+                                "isSelected": false,
+                                "name": "Tap the Trigger"
                             },
                             {
                                 "hash": 4071163871,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png",
+                                "isSelected": false,
                                 "name": "Threat Detector"
                             },
                             {
                                 "hash": 1645158859,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a88b6ed7519cb27fd608c5743ca20b1.png",
+                                "isSelected": false,
                                 "name": "Under Pressure"
-                            },
-                            {
-                                "hash": 4267945040,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c995638d381d6ff46df5606f49abd7b3.png",
-                                "name": "Full Auto Trigger System"
-                            },
-                            {
-                                "hash": 1168162263,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
-                                "name": "Outlaw"
-                            },
-                            {
-                                "hash": 1015611457,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
-                                "name": "Kill Clip"
-                            },
-                            {
-                                "hash": 3425386926,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
-                                "name": "Rampage"
-                            },
-                            {
-                                "hash": 1631667848,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/83e206ebea83f76d9969efea7134ddcc.png",
-                                "name": "Grave Robber"
-                            },
-                            {
-                                "hash": 1890422124,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8e910e56aa6e36b2c406804e1d78d04f.png",
-                                "name": "Tap the Trigger"
                             },
                             {
                                 "hash": 2387244414,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49958f356ea1df930888d15fe6539fe1.png",
+                                "isSelected": false,
                                 "name": "Zen Moment"
-                            },
-                            {
-                                "hash": 47981717,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0fd9dbe1c09b8cc7d0be888c68ff4526.png",
-                                "name": "Opening Shot"
                             }
                         ],
                         "socketIndex": 2
@@ -12518,34 +13855,40 @@ export const WeaponTypes = [
                         "name": "Sight",
                         "perks": [
                             {
-                                "hash": 445755707,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f4881d52b0c80356e9ccadb3ea681f8b.png",
-                                "name": "QuickDot SAS"
-                            },
-                            {
                                 "hash": 445755706,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f4881d52b0c80356e9ccadb3ea681f8b.png",
+                                "isSelected": false,
                                 "name": "Control SAS"
+                            },
+                            {
+                                "hash": 445755710,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f4881d52b0c80356e9ccadb3ea681f8b.png",
+                                "isSelected": false,
+                                "name": "FarPoint SAS"
+                            },
+                            {
+                                "hash": 445755707,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f4881d52b0c80356e9ccadb3ea681f8b.png",
+                                "isSelected": false,
+                                "name": "QuickDot SAS"
                             },
                             {
                                 "hash": 445755705,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f4881d52b0c80356e9ccadb3ea681f8b.png",
+                                "isSelected": false,
                                 "name": "Shortspec SAS"
                             },
                             {
                                 "hash": 445755704,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f4881d52b0c80356e9ccadb3ea681f8b.png",
+                                "isSelected": false,
                                 "name": "Tactic SAS"
                             },
                             {
                                 "hash": 445755711,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f4881d52b0c80356e9ccadb3ea681f8b.png",
+                                "isSelected": false,
                                 "name": "Target SAS"
-                            },
-                            {
-                                "hash": 445755710,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f4881d52b0c80356e9ccadb3ea681f8b.png",
-                                "name": "FarPoint SAS"
                             }
                         ],
                         "socketIndex": 0
@@ -12554,44 +13897,52 @@ export const WeaponTypes = [
                         "name": "Magazine",
                         "perks": [
                             {
-                                "hash": 2420895100,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
-                                "name": "Extended Mag"
-                            },
-                            {
                                 "hash": 1431678320,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/932e7b84c233c6cc49a58058f8c5144d.png",
+                                "isSelected": false,
                                 "name": "Alloy Magazine"
                             },
                             {
                                 "hash": 1087426260,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9d8a7be4c2fef471a6fde38d02ab8dae.png",
+                                "isSelected": false,
                                 "name": "Appended Mag"
                             },
                             {
                                 "hash": 1968497646,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/73b724a6839bb3e1db37742f7ed5249b.png",
+                                "isSelected": false,
                                 "name": "Armor-Piercing Rounds"
                             },
                             {
-                                "hash": 1561002382,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f06239ee156ee70f99b48e8e1970dbca.png",
-                                "name": "High-Caliber Rounds"
-                            },
-                            {
-                                "hash": 1885400500,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png",
-                                "name": "Ricochet Rounds"
+                                "hash": 2420895100,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
+                                "isSelected": false,
+                                "name": "Extended Mag"
                             },
                             {
                                 "hash": 3230963543,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ec1bca64fc9709678ea5c297c0e64c19.png",
+                                "isSelected": false,
                                 "name": "Flared Magwell"
+                            },
+                            {
+                                "hash": 1561002382,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f06239ee156ee70f99b48e8e1970dbca.png",
+                                "isSelected": false,
+                                "name": "High-Caliber Rounds"
                             },
                             {
                                 "hash": 679225683,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1d87312c174b44d5ef1ed24ad42efe9c.png",
+                                "isSelected": false,
                                 "name": "Light Mag"
+                            },
+                            {
+                                "hash": 1885400500,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png",
+                                "isSelected": false,
+                                "name": "Ricochet Rounds"
                             }
                         ],
                         "socketIndex": 1
@@ -12600,69 +13951,82 @@ export const WeaponTypes = [
                         "name": "traits",
                         "perks": [
                             {
-                                "hash": 588594999,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
-                                "name": "Moving Target"
-                            },
-                            {
-                                "hash": 706527188,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png",
-                                "name": "Quickdraw"
-                            },
-                            {
-                                "hash": 4071163871,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png",
-                                "name": "Threat Detector"
-                            },
-                            {
-                                "hash": 1645158859,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a88b6ed7519cb27fd608c5743ca20b1.png",
-                                "name": "Under Pressure"
-                            },
-                            {
                                 "hash": 4267945040,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c995638d381d6ff46df5606f49abd7b3.png",
+                                "isSelected": false,
                                 "name": "Full Auto Trigger System"
                             },
                             {
-                                "hash": 1168162263,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
-                                "name": "Outlaw"
+                                "hash": 460017080,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1f0a13d78a9acb919a688adcc21bfdcf.png",
+                                "isSelected": false,
+                                "name": "Headseeker"
                             },
                             {
                                 "hash": 1015611457,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
+                                "isSelected": false,
                                 "name": "Kill Clip"
+                            },
+                            {
+                                "hash": 588594999,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
+                                "isSelected": false,
+                                "name": "Moving Target"
+                            },
+                            {
+                                "hash": 47981717,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0fd9dbe1c09b8cc7d0be888c68ff4526.png",
+                                "isSelected": false,
+                                "name": "Opening Shot"
+                            },
+                            {
+                                "hash": 1168162263,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
+                                "isSelected": false,
+                                "name": "Outlaw"
+                            },
+                            {
+                                "hash": 706527188,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png",
+                                "isSelected": false,
+                                "name": "Quickdraw"
                             },
                             {
                                 "hash": 3425386926,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
+                                "isSelected": false,
                                 "name": "Rampage"
                             },
                             {
                                 "hash": 2846385770,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png",
+                                "isSelected": false,
                                 "name": "Rangefinder"
                             },
                             {
                                 "hash": 1890422124,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8e910e56aa6e36b2c406804e1d78d04f.png",
+                                "isSelected": false,
                                 "name": "Tap the Trigger"
+                            },
+                            {
+                                "hash": 4071163871,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png",
+                                "isSelected": false,
+                                "name": "Threat Detector"
+                            },
+                            {
+                                "hash": 1645158859,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a88b6ed7519cb27fd608c5743ca20b1.png",
+                                "isSelected": false,
+                                "name": "Under Pressure"
                             },
                             {
                                 "hash": 2387244414,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49958f356ea1df930888d15fe6539fe1.png",
+                                "isSelected": false,
                                 "name": "Zen Moment"
-                            },
-                            {
-                                "hash": 47981717,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0fd9dbe1c09b8cc7d0be888c68ff4526.png",
-                                "name": "Opening Shot"
-                            },
-                            {
-                                "hash": 460017080,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1f0a13d78a9acb919a688adcc21bfdcf.png",
-                                "name": "Headseeker"
                             }
                         ],
                         "socketIndex": 2
@@ -12756,34 +14120,40 @@ export const WeaponTypes = [
                         "name": "Sight",
                         "perks": [
                             {
-                                "hash": 445755707,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f4881d52b0c80356e9ccadb3ea681f8b.png",
-                                "name": "QuickDot SAS"
-                            },
-                            {
                                 "hash": 445755706,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f4881d52b0c80356e9ccadb3ea681f8b.png",
+                                "isSelected": false,
                                 "name": "Control SAS"
+                            },
+                            {
+                                "hash": 445755710,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f4881d52b0c80356e9ccadb3ea681f8b.png",
+                                "isSelected": false,
+                                "name": "FarPoint SAS"
+                            },
+                            {
+                                "hash": 445755707,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f4881d52b0c80356e9ccadb3ea681f8b.png",
+                                "isSelected": false,
+                                "name": "QuickDot SAS"
                             },
                             {
                                 "hash": 445755705,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f4881d52b0c80356e9ccadb3ea681f8b.png",
+                                "isSelected": false,
                                 "name": "Shortspec SAS"
                             },
                             {
                                 "hash": 445755704,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f4881d52b0c80356e9ccadb3ea681f8b.png",
+                                "isSelected": false,
                                 "name": "Tactic SAS"
                             },
                             {
                                 "hash": 445755711,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f4881d52b0c80356e9ccadb3ea681f8b.png",
+                                "isSelected": false,
                                 "name": "Target SAS"
-                            },
-                            {
-                                "hash": 445755710,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f4881d52b0c80356e9ccadb3ea681f8b.png",
-                                "name": "FarPoint SAS"
                             }
                         ],
                         "socketIndex": 0
@@ -12792,44 +14162,52 @@ export const WeaponTypes = [
                         "name": "Magazine",
                         "perks": [
                             {
-                                "hash": 2420895100,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
-                                "name": "Extended Mag"
-                            },
-                            {
                                 "hash": 1431678320,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/932e7b84c233c6cc49a58058f8c5144d.png",
+                                "isSelected": false,
                                 "name": "Alloy Magazine"
                             },
                             {
                                 "hash": 1087426260,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9d8a7be4c2fef471a6fde38d02ab8dae.png",
+                                "isSelected": false,
                                 "name": "Appended Mag"
                             },
                             {
                                 "hash": 1968497646,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/73b724a6839bb3e1db37742f7ed5249b.png",
+                                "isSelected": false,
                                 "name": "Armor-Piercing Rounds"
                             },
                             {
-                                "hash": 1561002382,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f06239ee156ee70f99b48e8e1970dbca.png",
-                                "name": "High-Caliber Rounds"
-                            },
-                            {
-                                "hash": 1885400500,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png",
-                                "name": "Ricochet Rounds"
+                                "hash": 2420895100,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
+                                "isSelected": false,
+                                "name": "Extended Mag"
                             },
                             {
                                 "hash": 3230963543,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ec1bca64fc9709678ea5c297c0e64c19.png",
+                                "isSelected": false,
                                 "name": "Flared Magwell"
+                            },
+                            {
+                                "hash": 1561002382,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f06239ee156ee70f99b48e8e1970dbca.png",
+                                "isSelected": false,
+                                "name": "High-Caliber Rounds"
                             },
                             {
                                 "hash": 679225683,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1d87312c174b44d5ef1ed24ad42efe9c.png",
+                                "isSelected": false,
                                 "name": "Light Mag"
+                            },
+                            {
+                                "hash": 1885400500,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png",
+                                "isSelected": false,
+                                "name": "Ricochet Rounds"
                             }
                         ],
                         "socketIndex": 1
@@ -12838,64 +14216,76 @@ export const WeaponTypes = [
                         "name": "traits",
                         "perks": [
                             {
-                                "hash": 588594999,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
-                                "name": "Moving Target"
-                            },
-                            {
-                                "hash": 706527188,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png",
-                                "name": "Quickdraw"
-                            },
-                            {
-                                "hash": 4071163871,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png",
-                                "name": "Threat Detector"
-                            },
-                            {
-                                "hash": 1645158859,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a88b6ed7519cb27fd608c5743ca20b1.png",
-                                "name": "Under Pressure"
-                            },
-                            {
                                 "hash": 4267945040,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c995638d381d6ff46df5606f49abd7b3.png",
+                                "isSelected": false,
                                 "name": "Full Auto Trigger System"
                             },
                             {
-                                "hash": 1168162263,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
-                                "name": "Outlaw"
+                                "hash": 1631667848,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/83e206ebea83f76d9969efea7134ddcc.png",
+                                "isSelected": false,
+                                "name": "Grave Robber"
                             },
                             {
                                 "hash": 1015611457,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
+                                "isSelected": false,
                                 "name": "Kill Clip"
+                            },
+                            {
+                                "hash": 588594999,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
+                                "isSelected": false,
+                                "name": "Moving Target"
+                            },
+                            {
+                                "hash": 47981717,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0fd9dbe1c09b8cc7d0be888c68ff4526.png",
+                                "isSelected": false,
+                                "name": "Opening Shot"
+                            },
+                            {
+                                "hash": 1168162263,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
+                                "isSelected": false,
+                                "name": "Outlaw"
+                            },
+                            {
+                                "hash": 706527188,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png",
+                                "isSelected": false,
+                                "name": "Quickdraw"
                             },
                             {
                                 "hash": 3425386926,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
+                                "isSelected": false,
                                 "name": "Rampage"
                             },
                             {
                                 "hash": 2846385770,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png",
+                                "isSelected": false,
                                 "name": "Rangefinder"
                             },
                             {
-                                "hash": 1631667848,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/83e206ebea83f76d9969efea7134ddcc.png",
-                                "name": "Grave Robber"
+                                "hash": 4071163871,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png",
+                                "isSelected": false,
+                                "name": "Threat Detector"
+                            },
+                            {
+                                "hash": 1645158859,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a88b6ed7519cb27fd608c5743ca20b1.png",
+                                "isSelected": false,
+                                "name": "Under Pressure"
                             },
                             {
                                 "hash": 2387244414,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49958f356ea1df930888d15fe6539fe1.png",
+                                "isSelected": false,
                                 "name": "Zen Moment"
-                            },
-                            {
-                                "hash": 47981717,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0fd9dbe1c09b8cc7d0be888c68ff4526.png",
-                                "name": "Opening Shot"
                             }
                         ],
                         "socketIndex": 2
@@ -12961,34 +14351,40 @@ export const WeaponTypes = [
                         "name": "Sight",
                         "perks": [
                             {
-                                "hash": 445755707,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f4881d52b0c80356e9ccadb3ea681f8b.png",
-                                "name": "QuickDot SAS"
-                            },
-                            {
                                 "hash": 445755706,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f4881d52b0c80356e9ccadb3ea681f8b.png",
+                                "isSelected": false,
                                 "name": "Control SAS"
+                            },
+                            {
+                                "hash": 445755710,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f4881d52b0c80356e9ccadb3ea681f8b.png",
+                                "isSelected": false,
+                                "name": "FarPoint SAS"
+                            },
+                            {
+                                "hash": 445755707,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f4881d52b0c80356e9ccadb3ea681f8b.png",
+                                "isSelected": false,
+                                "name": "QuickDot SAS"
                             },
                             {
                                 "hash": 445755705,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f4881d52b0c80356e9ccadb3ea681f8b.png",
+                                "isSelected": false,
                                 "name": "Shortspec SAS"
                             },
                             {
                                 "hash": 445755704,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f4881d52b0c80356e9ccadb3ea681f8b.png",
+                                "isSelected": false,
                                 "name": "Tactic SAS"
                             },
                             {
                                 "hash": 445755711,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f4881d52b0c80356e9ccadb3ea681f8b.png",
+                                "isSelected": false,
                                 "name": "Target SAS"
-                            },
-                            {
-                                "hash": 445755710,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f4881d52b0c80356e9ccadb3ea681f8b.png",
-                                "name": "FarPoint SAS"
                             }
                         ],
                         "socketIndex": 0
@@ -12997,44 +14393,52 @@ export const WeaponTypes = [
                         "name": "Magazine",
                         "perks": [
                             {
-                                "hash": 2420895100,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
-                                "name": "Extended Mag"
-                            },
-                            {
                                 "hash": 1431678320,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/932e7b84c233c6cc49a58058f8c5144d.png",
+                                "isSelected": false,
                                 "name": "Alloy Magazine"
                             },
                             {
                                 "hash": 1087426260,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9d8a7be4c2fef471a6fde38d02ab8dae.png",
+                                "isSelected": false,
                                 "name": "Appended Mag"
                             },
                             {
                                 "hash": 1968497646,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/73b724a6839bb3e1db37742f7ed5249b.png",
+                                "isSelected": false,
                                 "name": "Armor-Piercing Rounds"
                             },
                             {
-                                "hash": 1561002382,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f06239ee156ee70f99b48e8e1970dbca.png",
-                                "name": "High-Caliber Rounds"
-                            },
-                            {
-                                "hash": 1885400500,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png",
-                                "name": "Ricochet Rounds"
+                                "hash": 2420895100,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
+                                "isSelected": false,
+                                "name": "Extended Mag"
                             },
                             {
                                 "hash": 3230963543,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ec1bca64fc9709678ea5c297c0e64c19.png",
+                                "isSelected": false,
                                 "name": "Flared Magwell"
+                            },
+                            {
+                                "hash": 1561002382,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f06239ee156ee70f99b48e8e1970dbca.png",
+                                "isSelected": false,
+                                "name": "High-Caliber Rounds"
                             },
                             {
                                 "hash": 679225683,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1d87312c174b44d5ef1ed24ad42efe9c.png",
+                                "isSelected": false,
                                 "name": "Light Mag"
+                            },
+                            {
+                                "hash": 1885400500,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png",
+                                "isSelected": false,
+                                "name": "Ricochet Rounds"
                             }
                         ],
                         "socketIndex": 1
@@ -13043,64 +14447,76 @@ export const WeaponTypes = [
                         "name": "traits",
                         "perks": [
                             {
-                                "hash": 588594999,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
-                                "name": "Moving Target"
-                            },
-                            {
-                                "hash": 706527188,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png",
-                                "name": "Quickdraw"
-                            },
-                            {
-                                "hash": 4071163871,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png",
-                                "name": "Threat Detector"
-                            },
-                            {
-                                "hash": 1645158859,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a88b6ed7519cb27fd608c5743ca20b1.png",
-                                "name": "Under Pressure"
+                                "hash": 2848615171,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8fe8293ba02002f69bfa052a0c44223f.png",
+                                "isSelected": false,
+                                "name": "Dragonfly"
                             },
                             {
                                 "hash": 4267945040,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c995638d381d6ff46df5606f49abd7b3.png",
+                                "isSelected": false,
                                 "name": "Full Auto Trigger System"
-                            },
-                            {
-                                "hash": 1168162263,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
-                                "name": "Outlaw"
                             },
                             {
                                 "hash": 1015611457,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
+                                "isSelected": false,
                                 "name": "Kill Clip"
                             },
                             {
-                                "hash": 2848615171,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8fe8293ba02002f69bfa052a0c44223f.png",
-                                "name": "Dragonfly"
+                                "hash": 588594999,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
+                                "isSelected": false,
+                                "name": "Moving Target"
+                            },
+                            {
+                                "hash": 47981717,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0fd9dbe1c09b8cc7d0be888c68ff4526.png",
+                                "isSelected": false,
+                                "name": "Opening Shot"
+                            },
+                            {
+                                "hash": 1168162263,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
+                                "isSelected": false,
+                                "name": "Outlaw"
+                            },
+                            {
+                                "hash": 706527188,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png",
+                                "isSelected": false,
+                                "name": "Quickdraw"
                             },
                             {
                                 "hash": 2846385770,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png",
+                                "isSelected": false,
                                 "name": "Rangefinder"
                             },
                             {
                                 "hash": 1890422124,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8e910e56aa6e36b2c406804e1d78d04f.png",
+                                "isSelected": false,
                                 "name": "Tap the Trigger"
+                            },
+                            {
+                                "hash": 4071163871,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png",
+                                "isSelected": false,
+                                "name": "Threat Detector"
+                            },
+                            {
+                                "hash": 1645158859,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a88b6ed7519cb27fd608c5743ca20b1.png",
+                                "isSelected": false,
+                                "name": "Under Pressure"
                             },
                             {
                                 "hash": 2387244414,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49958f356ea1df930888d15fe6539fe1.png",
+                                "isSelected": false,
                                 "name": "Zen Moment"
-                            },
-                            {
-                                "hash": 47981717,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0fd9dbe1c09b8cc7d0be888c68ff4526.png",
-                                "name": "Opening Shot"
                             }
                         ],
                         "socketIndex": 2
@@ -13168,46 +14584,55 @@ export const WeaponTypes = [
                             {
                                 "hash": 839105230,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png",
+                                "isSelected": false,
                                 "name": "Arrowhead Brake"
                             },
                             {
                                 "hash": 3661387068,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/376aa9bd8c392567f501012fc3b3d4d0.png",
+                                "isSelected": false,
                                 "name": "Chambered Compensator"
                             },
                             {
                                 "hash": 4090651448,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/18cc75bf9a17bb80b5109f1b8909521f.png",
+                                "isSelected": false,
                                 "name": "Corkscrew Rifling"
                             },
                             {
                                 "hash": 1467527085,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/151465ba86df34438248aad2248cce32.png",
+                                "isSelected": false,
                                 "name": "Extended Barrel"
                             },
                             {
                                 "hash": 1840239774,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png",
+                                "isSelected": false,
                                 "name": "Fluted Barrel"
                             },
                             {
                                 "hash": 202670084,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9307c5604f995d90ad5ed65281b64772.png",
+                                "isSelected": false,
                                 "name": "Full Bore"
                             },
                             {
                                 "hash": 3250034553,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9acb073d4e85160f66f0d617d210cf61.png",
+                                "isSelected": false,
                                 "name": "Hammer-Forged Rifling"
                             },
                             {
                                 "hash": 1392496348,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7cadd68b66ffd3bbedc09aa9c7ba6e03.png",
+                                "isSelected": false,
                                 "name": "Polygonal Rifling"
                             },
                             {
                                 "hash": 1482024992,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png",
+                                "isSelected": false,
                                 "name": "Smallbore"
                             }
                         ],
@@ -13217,44 +14642,52 @@ export const WeaponTypes = [
                         "name": "Magazine",
                         "perks": [
                             {
-                                "hash": 2420895100,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
-                                "name": "Extended Mag"
-                            },
-                            {
                                 "hash": 1431678320,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/932e7b84c233c6cc49a58058f8c5144d.png",
+                                "isSelected": false,
                                 "name": "Alloy Magazine"
                             },
                             {
                                 "hash": 1087426260,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9d8a7be4c2fef471a6fde38d02ab8dae.png",
+                                "isSelected": false,
                                 "name": "Appended Mag"
                             },
                             {
                                 "hash": 1968497646,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/73b724a6839bb3e1db37742f7ed5249b.png",
+                                "isSelected": false,
                                 "name": "Armor-Piercing Rounds"
                             },
                             {
-                                "hash": 1561002382,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f06239ee156ee70f99b48e8e1970dbca.png",
-                                "name": "High-Caliber Rounds"
-                            },
-                            {
-                                "hash": 1885400500,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png",
-                                "name": "Ricochet Rounds"
+                                "hash": 2420895100,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
+                                "isSelected": false,
+                                "name": "Extended Mag"
                             },
                             {
                                 "hash": 3230963543,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ec1bca64fc9709678ea5c297c0e64c19.png",
+                                "isSelected": false,
                                 "name": "Flared Magwell"
+                            },
+                            {
+                                "hash": 1561002382,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f06239ee156ee70f99b48e8e1970dbca.png",
+                                "isSelected": false,
+                                "name": "High-Caliber Rounds"
                             },
                             {
                                 "hash": 679225683,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1d87312c174b44d5ef1ed24ad42efe9c.png",
+                                "isSelected": false,
                                 "name": "Light Mag"
+                            },
+                            {
+                                "hash": 1885400500,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png",
+                                "isSelected": false,
+                                "name": "Ricochet Rounds"
                             }
                         ],
                         "socketIndex": 1
@@ -13263,64 +14696,76 @@ export const WeaponTypes = [
                         "name": "traits",
                         "perks": [
                             {
-                                "hash": 1168162263,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
-                                "name": "Outlaw"
-                            },
-                            {
-                                "hash": 4267945040,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c995638d381d6ff46df5606f49abd7b3.png",
-                                "name": "Full Auto Trigger System"
-                            },
-                            {
-                                "hash": 247725512,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/56f26a865c24a6a10cb4177794eb7788.png",
-                                "name": "Rapid Hit"
-                            },
-                            {
-                                "hash": 1631667848,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/83e206ebea83f76d9969efea7134ddcc.png",
-                                "name": "Grave Robber"
-                            },
-                            {
-                                "hash": 2387244414,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49958f356ea1df930888d15fe6539fe1.png",
-                                "name": "Zen Moment"
-                            },
-                            {
-                                "hash": 4082225868,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ef89b89410de618e9cfa353ff35125d8.png",
-                                "name": "Swashbuckler"
-                            },
-                            {
                                 "hash": 3523296417,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/53ead908917c9156457c7c9dd453d649.png",
+                                "isSelected": false,
                                 "name": "Demolitionist"
-                            },
-                            {
-                                "hash": 1015611457,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
-                                "name": "Kill Clip"
-                            },
-                            {
-                                "hash": 3161816588,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fa7ba2abcd8effd143e287668d7c865b.png",
-                                "name": "Slideshot"
-                            },
-                            {
-                                "hash": 47981717,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0fd9dbe1c09b8cc7d0be888c68ff4526.png",
-                                "name": "Opening Shot"
-                            },
-                            {
-                                "hash": 2458213969,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/a610c14dcf450e8c5b0c0903d5b05965.png",
-                                "name": "Multikill Clip"
                             },
                             {
                                 "hash": 2848615171,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8fe8293ba02002f69bfa052a0c44223f.png",
+                                "isSelected": false,
                                 "name": "Dragonfly"
+                            },
+                            {
+                                "hash": 4267945040,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c995638d381d6ff46df5606f49abd7b3.png",
+                                "isSelected": false,
+                                "name": "Full Auto Trigger System"
+                            },
+                            {
+                                "hash": 1631667848,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/83e206ebea83f76d9969efea7134ddcc.png",
+                                "isSelected": false,
+                                "name": "Grave Robber"
+                            },
+                            {
+                                "hash": 1015611457,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
+                                "isSelected": false,
+                                "name": "Kill Clip"
+                            },
+                            {
+                                "hash": 2458213969,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/a610c14dcf450e8c5b0c0903d5b05965.png",
+                                "isSelected": false,
+                                "name": "Multikill Clip"
+                            },
+                            {
+                                "hash": 47981717,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0fd9dbe1c09b8cc7d0be888c68ff4526.png",
+                                "isSelected": false,
+                                "name": "Opening Shot"
+                            },
+                            {
+                                "hash": 1168162263,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
+                                "isSelected": false,
+                                "name": "Outlaw"
+                            },
+                            {
+                                "hash": 247725512,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/56f26a865c24a6a10cb4177794eb7788.png",
+                                "isSelected": false,
+                                "name": "Rapid Hit"
+                            },
+                            {
+                                "hash": 3161816588,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fa7ba2abcd8effd143e287668d7c865b.png",
+                                "isSelected": false,
+                                "name": "Slideshot"
+                            },
+                            {
+                                "hash": 4082225868,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ef89b89410de618e9cfa353ff35125d8.png",
+                                "isSelected": false,
+                                "name": "Swashbuckler"
+                            },
+                            {
+                                "hash": 2387244414,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49958f356ea1df930888d15fe6539fe1.png",
+                                "isSelected": false,
+                                "name": "Zen Moment"
                             }
                         ],
                         "socketIndex": 2
@@ -13416,34 +14861,40 @@ export const WeaponTypes = [
                         "name": "Sight",
                         "perks": [
                             {
-                                "hash": 445755707,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f4881d52b0c80356e9ccadb3ea681f8b.png",
-                                "name": "QuickDot SAS"
-                            },
-                            {
                                 "hash": 445755706,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f4881d52b0c80356e9ccadb3ea681f8b.png",
+                                "isSelected": false,
                                 "name": "Control SAS"
+                            },
+                            {
+                                "hash": 445755710,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f4881d52b0c80356e9ccadb3ea681f8b.png",
+                                "isSelected": false,
+                                "name": "FarPoint SAS"
+                            },
+                            {
+                                "hash": 445755707,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f4881d52b0c80356e9ccadb3ea681f8b.png",
+                                "isSelected": false,
+                                "name": "QuickDot SAS"
                             },
                             {
                                 "hash": 445755705,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f4881d52b0c80356e9ccadb3ea681f8b.png",
+                                "isSelected": false,
                                 "name": "Shortspec SAS"
                             },
                             {
                                 "hash": 445755704,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f4881d52b0c80356e9ccadb3ea681f8b.png",
+                                "isSelected": false,
                                 "name": "Tactic SAS"
                             },
                             {
                                 "hash": 445755711,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f4881d52b0c80356e9ccadb3ea681f8b.png",
+                                "isSelected": false,
                                 "name": "Target SAS"
-                            },
-                            {
-                                "hash": 445755710,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f4881d52b0c80356e9ccadb3ea681f8b.png",
-                                "name": "FarPoint SAS"
                             }
                         ],
                         "socketIndex": 0
@@ -13454,42 +14905,50 @@ export const WeaponTypes = [
                             {
                                 "hash": 3142289711,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png",
+                                "isSelected": false,
                                 "name": "Accurized Rounds"
-                            },
-                            {
-                                "hash": 4134353779,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d316be9e70844427e69034b0f06bec75.png",
-                                "name": "Drop Mag"
-                            },
-                            {
-                                "hash": 1087426260,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9d8a7be4c2fef471a6fde38d02ab8dae.png",
-                                "name": "Appended Mag"
-                            },
-                            {
-                                "hash": 106909392,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9711e6d3de7a9cf2f844752992390a63.png",
-                                "name": "Tactical Mag"
-                            },
-                            {
-                                "hash": 2420895100,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
-                                "name": "Extended Mag"
-                            },
-                            {
-                                "hash": 3177308360,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/adaf4315dab749519c41a233e9954598.png",
-                                "name": "Steady Rounds"
                             },
                             {
                                 "hash": 1431678320,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/932e7b84c233c6cc49a58058f8c5144d.png",
+                                "isSelected": false,
                                 "name": "Alloy Magazine"
+                            },
+                            {
+                                "hash": 1087426260,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9d8a7be4c2fef471a6fde38d02ab8dae.png",
+                                "isSelected": false,
+                                "name": "Appended Mag"
+                            },
+                            {
+                                "hash": 4134353779,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d316be9e70844427e69034b0f06bec75.png",
+                                "isSelected": false,
+                                "name": "Drop Mag"
+                            },
+                            {
+                                "hash": 2420895100,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
+                                "isSelected": false,
+                                "name": "Extended Mag"
                             },
                             {
                                 "hash": 3230963543,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ec1bca64fc9709678ea5c297c0e64c19.png",
+                                "isSelected": false,
                                 "name": "Flared Magwell"
+                            },
+                            {
+                                "hash": 3177308360,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/adaf4315dab749519c41a233e9954598.png",
+                                "isSelected": false,
+                                "name": "Steady Rounds"
+                            },
+                            {
+                                "hash": 106909392,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9711e6d3de7a9cf2f844752992390a63.png",
+                                "isSelected": false,
+                                "name": "Tactical Mag"
                             }
                         ],
                         "socketIndex": 1
@@ -13498,59 +14957,70 @@ export const WeaponTypes = [
                         "name": "traits",
                         "perks": [
                             {
-                                "hash": 588594999,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
-                                "name": "Moving Target"
-                            },
-                            {
-                                "hash": 706527188,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png",
-                                "name": "Quickdraw"
-                            },
-                            {
-                                "hash": 4071163871,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png",
-                                "name": "Threat Detector"
-                            },
-                            {
-                                "hash": 1645158859,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a88b6ed7519cb27fd608c5743ca20b1.png",
-                                "name": "Under Pressure"
-                            },
-                            {
-                                "hash": 1168162263,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
-                                "name": "Outlaw"
+                                "hash": 1631667848,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/83e206ebea83f76d9969efea7134ddcc.png",
+                                "isSelected": false,
+                                "name": "Grave Robber"
                             },
                             {
                                 "hash": 1015611457,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
+                                "isSelected": false,
                                 "name": "Kill Clip"
+                            },
+                            {
+                                "hash": 588594999,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
+                                "isSelected": false,
+                                "name": "Moving Target"
+                            },
+                            {
+                                "hash": 47981717,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0fd9dbe1c09b8cc7d0be888c68ff4526.png",
+                                "isSelected": false,
+                                "name": "Opening Shot"
+                            },
+                            {
+                                "hash": 1168162263,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
+                                "isSelected": false,
+                                "name": "Outlaw"
+                            },
+                            {
+                                "hash": 706527188,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png",
+                                "isSelected": false,
+                                "name": "Quickdraw"
                             },
                             {
                                 "hash": 3425386926,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
+                                "isSelected": false,
                                 "name": "Rampage"
                             },
                             {
                                 "hash": 2846385770,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png",
+                                "isSelected": false,
                                 "name": "Rangefinder"
                             },
                             {
-                                "hash": 1631667848,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/83e206ebea83f76d9969efea7134ddcc.png",
-                                "name": "Grave Robber"
+                                "hash": 4071163871,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png",
+                                "isSelected": false,
+                                "name": "Threat Detector"
+                            },
+                            {
+                                "hash": 1645158859,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a88b6ed7519cb27fd608c5743ca20b1.png",
+                                "isSelected": false,
+                                "name": "Under Pressure"
                             },
                             {
                                 "hash": 2387244414,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49958f356ea1df930888d15fe6539fe1.png",
+                                "isSelected": false,
                                 "name": "Zen Moment"
-                            },
-                            {
-                                "hash": 47981717,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0fd9dbe1c09b8cc7d0be888c68ff4526.png",
-                                "name": "Opening Shot"
                             }
                         ],
                         "socketIndex": 2
@@ -13620,94 +15090,112 @@ export const WeaponTypes = [
                         "name": "Barrel",
                         "perks": [
                             {
+                                "hash": 893526892,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b414f849f54e62427c3ef513848b2040.png",
+                                "isSelected": false,
+                                "name": "ATA Scout"
+                            },
+                            {
+                                "hash": 893526894,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c776d6dd90c677762ea3864686d3d492.png",
+                                "isSelected": false,
+                                "name": "ATB Long Range"
+                            },
+                            {
+                                "hash": 893526893,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/36decbcf0eab4d6a2807d7ea8ecf5ae7.png",
+                                "isSelected": false,
+                                "name": "ATC Rex"
+                            },
+                            {
+                                "hash": 893526895,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/3f250f262a8c13efe6018b4bceeb744b.png",
+                                "isSelected": false,
+                                "name": "ATD Raptor"
+                            },
+                            {
                                 "hash": 839105230,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png",
+                                "isSelected": false,
                                 "name": "Arrowhead Brake"
                             },
                             {
                                 "hash": 3661387068,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/376aa9bd8c392567f501012fc3b3d4d0.png",
+                                "isSelected": false,
                                 "name": "Chambered Compensator"
                             },
                             {
                                 "hash": 4090651448,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/18cc75bf9a17bb80b5109f1b8909521f.png",
+                                "isSelected": false,
                                 "name": "Corkscrew Rifling"
                             },
                             {
                                 "hash": 1467527085,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/151465ba86df34438248aad2248cce32.png",
+                                "isSelected": false,
                                 "name": "Extended Barrel"
                             },
                             {
                                 "hash": 1840239774,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png",
+                                "isSelected": false,
                                 "name": "Fluted Barrel"
                             },
                             {
                                 "hash": 202670084,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9307c5604f995d90ad5ed65281b64772.png",
+                                "isSelected": false,
                                 "name": "Full Bore"
                             },
                             {
                                 "hash": 3250034553,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9acb073d4e85160f66f0d617d210cf61.png",
+                                "isSelected": false,
                                 "name": "Hammer-Forged Rifling"
                             },
                             {
                                 "hash": 1392496348,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7cadd68b66ffd3bbedc09aa9c7ba6e03.png",
+                                "isSelected": false,
                                 "name": "Polygonal Rifling"
-                            },
-                            {
-                                "hash": 1482024992,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png",
-                                "name": "Smallbore"
-                            },
-                            {
-                                "hash": 554078784,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c5144cc49c83deb6e32e02089d088135.png",
-                                "name": "Zoom 30 Focus"
-                            },
-                            {
-                                "hash": 554078785,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c5144cc49c83deb6e32e02089d088135.png",
-                                "name": "Zoom 10 Point"
                             },
                             {
                                 "hash": 1617987574,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e36334562aeae09b4a4dddf26808d0ac.png",
+                                "isSelected": false,
                                 "name": "SSO-05 Sniper"
                             },
                             {
                                 "hash": 1617987575,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/18e989b5068d0c4cfe474940ad353d1f.png",
+                                "isSelected": false,
                                 "name": "SSO-07 Sniper"
                             },
                             {
                                 "hash": 1617987572,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/5f8542c0514c0b942b40d121b6171431.png",
+                                "isSelected": false,
                                 "name": "SSO-08 Sniper"
                             },
                             {
-                                "hash": 893526894,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c776d6dd90c677762ea3864686d3d492.png",
-                                "name": "ATB Long Range"
+                                "hash": 1482024992,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png",
+                                "isSelected": false,
+                                "name": "Smallbore"
                             },
                             {
-                                "hash": 893526895,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/3f250f262a8c13efe6018b4bceeb744b.png",
-                                "name": "ATD Raptor"
+                                "hash": 554078785,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c5144cc49c83deb6e32e02089d088135.png",
+                                "isSelected": false,
+                                "name": "Zoom 10 Point"
                             },
                             {
-                                "hash": 893526892,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b414f849f54e62427c3ef513848b2040.png",
-                                "name": "ATA Scout"
-                            },
-                            {
-                                "hash": 893526893,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/36decbcf0eab4d6a2807d7ea8ecf5ae7.png",
-                                "name": "ATC Rex"
+                                "hash": 554078784,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c5144cc49c83deb6e32e02089d088135.png",
+                                "isSelected": false,
+                                "name": "Zoom 30 Focus"
                             }
                         ],
                         "socketIndex": 0
@@ -13716,64 +15204,76 @@ export const WeaponTypes = [
                         "name": "Magazine",
                         "perks": [
                             {
-                                "hash": 2420895100,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
-                                "name": "Extended Mag"
+                                "hash": 3142289711,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png",
+                                "isSelected": false,
+                                "name": "Accurized Rounds"
                             },
                             {
                                 "hash": 1431678320,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/932e7b84c233c6cc49a58058f8c5144d.png",
+                                "isSelected": false,
                                 "name": "Alloy Magazine"
                             },
                             {
                                 "hash": 1087426260,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9d8a7be4c2fef471a6fde38d02ab8dae.png",
+                                "isSelected": false,
                                 "name": "Appended Mag"
                             },
                             {
                                 "hash": 1968497646,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/73b724a6839bb3e1db37742f7ed5249b.png",
+                                "isSelected": false,
                                 "name": "Armor-Piercing Rounds"
-                            },
-                            {
-                                "hash": 1561002382,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f06239ee156ee70f99b48e8e1970dbca.png",
-                                "name": "High-Caliber Rounds"
-                            },
-                            {
-                                "hash": 1885400500,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png",
-                                "name": "Ricochet Rounds"
-                            },
-                            {
-                                "hash": 3230963543,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ec1bca64fc9709678ea5c297c0e64c19.png",
-                                "name": "Flared Magwell"
-                            },
-                            {
-                                "hash": 679225683,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1d87312c174b44d5ef1ed24ad42efe9c.png",
-                                "name": "Light Mag"
-                            },
-                            {
-                                "hash": 3142289711,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png",
-                                "name": "Accurized Rounds"
                             },
                             {
                                 "hash": 4134353779,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d316be9e70844427e69034b0f06bec75.png",
+                                "isSelected": false,
                                 "name": "Drop Mag"
                             },
                             {
-                                "hash": 106909392,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9711e6d3de7a9cf2f844752992390a63.png",
-                                "name": "Tactical Mag"
+                                "hash": 2420895100,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
+                                "isSelected": false,
+                                "name": "Extended Mag"
+                            },
+                            {
+                                "hash": 3230963543,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ec1bca64fc9709678ea5c297c0e64c19.png",
+                                "isSelected": false,
+                                "name": "Flared Magwell"
+                            },
+                            {
+                                "hash": 1561002382,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f06239ee156ee70f99b48e8e1970dbca.png",
+                                "isSelected": false,
+                                "name": "High-Caliber Rounds"
+                            },
+                            {
+                                "hash": 679225683,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1d87312c174b44d5ef1ed24ad42efe9c.png",
+                                "isSelected": false,
+                                "name": "Light Mag"
+                            },
+                            {
+                                "hash": 1885400500,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png",
+                                "isSelected": false,
+                                "name": "Ricochet Rounds"
                             },
                             {
                                 "hash": 3177308360,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/adaf4315dab749519c41a233e9954598.png",
+                                "isSelected": false,
                                 "name": "Steady Rounds"
+                            },
+                            {
+                                "hash": 106909392,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9711e6d3de7a9cf2f844752992390a63.png",
+                                "isSelected": false,
+                                "name": "Tactical Mag"
                             }
                         ],
                         "socketIndex": 1
@@ -13782,109 +15282,130 @@ export const WeaponTypes = [
                         "name": "traits",
                         "perks": [
                             {
-                                "hash": 3400784728,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/44cc0f78fd98d462dc4914dbe203dc49.png",
-                                "name": "Triple Tap"
-                            },
-                            {
                                 "hash": 2010801679,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/df460693665b7b4dd42f1706e5fbb9e1.png",
+                                "isSelected": false,
                                 "name": "Ambitious Assassin"
-                            },
-                            {
-                                "hash": 1354429876,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8134a0712e5b3120d4153e00d4e3b4b9.png",
-                                "name": "Fourth Time's the Charm"
-                            },
-                            {
-                                "hash": 2869569095,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fd815414532978ad2e5decbfc416b9e4.png",
-                                "name": "Field Prep"
-                            },
-                            {
-                                "hash": 247725512,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/56f26a865c24a6a10cb4177794eb7788.png",
-                                "name": "Rapid Hit"
-                            },
-                            {
-                                "hash": 957782887,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
-                                "name": "Snapshot Sights"
-                            },
-                            {
-                                "hash": 1771339417,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d20201c3a2512d582af9be538f29d4f8.png",
-                                "name": "Firing Line"
                             },
                             {
                                 "hash": 3300816228,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d355b1117307c9f187729249361cecc3.png",
+                                "isSelected": false,
                                 "name": "Auto-Loading Holster"
-                            },
-                            {
-                                "hash": 3161816588,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fa7ba2abcd8effd143e287668d7c865b.png",
-                                "name": "Slideshot"
-                            },
-                            {
-                                "hash": 47981717,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0fd9dbe1c09b8cc7d0be888c68ff4526.png",
-                                "name": "Opening Shot"
                             },
                             {
                                 "hash": 3523296417,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/53ead908917c9156457c7c9dd453d649.png",
+                                "isSelected": false,
                                 "name": "Demolitionist"
-                            },
-                            {
-                                "hash": 1866048759,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9f3c3ae1bddbed21af1cc6487338028e.png",
-                                "name": "Hip-Fire Grip"
-                            },
-                            {
-                                "hash": 280464955,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc9da416fe98c79b59074403084765b7.png",
-                                "name": "Firmly Planted"
-                            },
-                            {
-                                "hash": 3096702027,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e52e3441db003abe3aa2b8a2f7fda730.png",
-                                "name": "Genesis"
                             },
                             {
                                 "hash": 2848615171,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8fe8293ba02002f69bfa052a0c44223f.png",
+                                "isSelected": false,
                                 "name": "Dragonfly"
-                            },
-                            {
-                                "hash": 588594999,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
-                                "name": "Moving Target"
-                            },
-                            {
-                                "hash": 3425386926,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
-                                "name": "Rampage"
-                            },
-                            {
-                                "hash": 1168162263,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
-                                "name": "Outlaw"
                             },
                             {
                                 "hash": 3038247973,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d41dd918d42681c5b0ad00880274b22c.png",
+                                "isSelected": false,
                                 "name": "Explosive Payload"
+                            },
+                            {
+                                "hash": 2869569095,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fd815414532978ad2e5decbfc416b9e4.png",
+                                "isSelected": false,
+                                "name": "Field Prep"
+                            },
+                            {
+                                "hash": 1771339417,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d20201c3a2512d582af9be538f29d4f8.png",
+                                "isSelected": false,
+                                "name": "Firing Line"
+                            },
+                            {
+                                "hash": 280464955,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc9da416fe98c79b59074403084765b7.png",
+                                "isSelected": false,
+                                "name": "Firmly Planted"
+                            },
+                            {
+                                "hash": 1354429876,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8134a0712e5b3120d4153e00d4e3b4b9.png",
+                                "isSelected": false,
+                                "name": "Fourth Time's the Charm"
+                            },
+                            {
+                                "hash": 3096702027,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e52e3441db003abe3aa2b8a2f7fda730.png",
+                                "isSelected": false,
+                                "name": "Genesis"
                             },
                             {
                                 "hash": 2213355989,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bee920445b5d0ccb01814d2e6fcea27b.png",
+                                "isSelected": false,
                                 "name": "High-Impact Reserves"
+                            },
+                            {
+                                "hash": 1866048759,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9f3c3ae1bddbed21af1cc6487338028e.png",
+                                "isSelected": false,
+                                "name": "Hip-Fire Grip"
+                            },
+                            {
+                                "hash": 588594999,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
+                                "isSelected": false,
+                                "name": "Moving Target"
+                            },
+                            {
+                                "hash": 47981717,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0fd9dbe1c09b8cc7d0be888c68ff4526.png",
+                                "isSelected": false,
+                                "name": "Opening Shot"
+                            },
+                            {
+                                "hash": 1168162263,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
+                                "isSelected": false,
+                                "name": "Outlaw"
+                            },
+                            {
+                                "hash": 3425386926,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
+                                "isSelected": false,
+                                "name": "Rampage"
+                            },
+                            {
+                                "hash": 247725512,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/56f26a865c24a6a10cb4177794eb7788.png",
+                                "isSelected": false,
+                                "name": "Rapid Hit"
+                            },
+                            {
+                                "hash": 3161816588,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fa7ba2abcd8effd143e287668d7c865b.png",
+                                "isSelected": false,
+                                "name": "Slideshot"
+                            },
+                            {
+                                "hash": 957782887,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
+                                "isSelected": false,
+                                "name": "Snapshot Sights"
                             },
                             {
                                 "hash": 4071163871,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png",
+                                "isSelected": false,
                                 "name": "Threat Detector"
+                            },
+                            {
+                                "hash": 3400784728,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/44cc0f78fd98d462dc4914dbe203dc49.png",
+                                "isSelected": false,
+                                "name": "Triple Tap"
                             }
                         ],
                         "socketIndex": 2
@@ -14140,69 +15661,82 @@ export const WeaponTypes = [
                         "name": "Barrel",
                         "perks": [
                             {
+                                "hash": 893526892,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b414f849f54e62427c3ef513848b2040.png",
+                                "isSelected": false,
+                                "name": "ATA Scout"
+                            },
+                            {
+                                "hash": 893526894,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c776d6dd90c677762ea3864686d3d492.png",
+                                "isSelected": false,
+                                "name": "ATB Long Range"
+                            },
+                            {
+                                "hash": 893526893,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/36decbcf0eab4d6a2807d7ea8ecf5ae7.png",
+                                "isSelected": false,
+                                "name": "ATC Rex"
+                            },
+                            {
+                                "hash": 893526895,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/3f250f262a8c13efe6018b4bceeb744b.png",
+                                "isSelected": false,
+                                "name": "ATD Raptor"
+                            },
+                            {
                                 "hash": 839105230,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png",
+                                "isSelected": false,
                                 "name": "Arrowhead Brake"
                             },
                             {
                                 "hash": 3661387068,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/376aa9bd8c392567f501012fc3b3d4d0.png",
+                                "isSelected": false,
                                 "name": "Chambered Compensator"
                             },
                             {
                                 "hash": 4090651448,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/18cc75bf9a17bb80b5109f1b8909521f.png",
+                                "isSelected": false,
                                 "name": "Corkscrew Rifling"
                             },
                             {
                                 "hash": 1467527085,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/151465ba86df34438248aad2248cce32.png",
+                                "isSelected": false,
                                 "name": "Extended Barrel"
                             },
                             {
                                 "hash": 1840239774,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png",
+                                "isSelected": false,
                                 "name": "Fluted Barrel"
                             },
                             {
                                 "hash": 202670084,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9307c5604f995d90ad5ed65281b64772.png",
+                                "isSelected": false,
                                 "name": "Full Bore"
                             },
                             {
                                 "hash": 3250034553,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9acb073d4e85160f66f0d617d210cf61.png",
+                                "isSelected": false,
                                 "name": "Hammer-Forged Rifling"
                             },
                             {
                                 "hash": 1392496348,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7cadd68b66ffd3bbedc09aa9c7ba6e03.png",
+                                "isSelected": false,
                                 "name": "Polygonal Rifling"
                             },
                             {
                                 "hash": 1482024992,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png",
+                                "isSelected": false,
                                 "name": "Smallbore"
-                            },
-                            {
-                                "hash": 893526894,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c776d6dd90c677762ea3864686d3d492.png",
-                                "name": "ATB Long Range"
-                            },
-                            {
-                                "hash": 893526895,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/3f250f262a8c13efe6018b4bceeb744b.png",
-                                "name": "ATD Raptor"
-                            },
-                            {
-                                "hash": 893526892,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b414f849f54e62427c3ef513848b2040.png",
-                                "name": "ATA Scout"
-                            },
-                            {
-                                "hash": 893526893,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/36decbcf0eab4d6a2807d7ea8ecf5ae7.png",
-                                "name": "ATC Rex"
                             }
                         ],
                         "socketIndex": 0
@@ -14213,42 +15747,50 @@ export const WeaponTypes = [
                             {
                                 "hash": 3142289711,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png",
+                                "isSelected": false,
                                 "name": "Accurized Rounds"
-                            },
-                            {
-                                "hash": 4134353779,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d316be9e70844427e69034b0f06bec75.png",
-                                "name": "Drop Mag"
-                            },
-                            {
-                                "hash": 1087426260,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9d8a7be4c2fef471a6fde38d02ab8dae.png",
-                                "name": "Appended Mag"
-                            },
-                            {
-                                "hash": 106909392,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9711e6d3de7a9cf2f844752992390a63.png",
-                                "name": "Tactical Mag"
-                            },
-                            {
-                                "hash": 2420895100,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
-                                "name": "Extended Mag"
-                            },
-                            {
-                                "hash": 3177308360,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/adaf4315dab749519c41a233e9954598.png",
-                                "name": "Steady Rounds"
                             },
                             {
                                 "hash": 1431678320,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/932e7b84c233c6cc49a58058f8c5144d.png",
+                                "isSelected": false,
                                 "name": "Alloy Magazine"
+                            },
+                            {
+                                "hash": 1087426260,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9d8a7be4c2fef471a6fde38d02ab8dae.png",
+                                "isSelected": false,
+                                "name": "Appended Mag"
+                            },
+                            {
+                                "hash": 4134353779,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d316be9e70844427e69034b0f06bec75.png",
+                                "isSelected": false,
+                                "name": "Drop Mag"
+                            },
+                            {
+                                "hash": 2420895100,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
+                                "isSelected": false,
+                                "name": "Extended Mag"
                             },
                             {
                                 "hash": 3230963543,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ec1bca64fc9709678ea5c297c0e64c19.png",
+                                "isSelected": false,
                                 "name": "Flared Magwell"
+                            },
+                            {
+                                "hash": 3177308360,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/adaf4315dab749519c41a233e9954598.png",
+                                "isSelected": false,
+                                "name": "Steady Rounds"
+                            },
+                            {
+                                "hash": 106909392,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9711e6d3de7a9cf2f844752992390a63.png",
+                                "isSelected": false,
+                                "name": "Tactical Mag"
                             }
                         ],
                         "socketIndex": 1
@@ -14257,114 +15799,136 @@ export const WeaponTypes = [
                         "name": "traits",
                         "perks": [
                             {
+                                "hash": 2010801679,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/df460693665b7b4dd42f1706e5fbb9e1.png",
+                                "isSelected": false,
+                                "name": "Ambitious Assassin"
+                            },
+                            {
+                                "hash": 3300816228,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d355b1117307c9f187729249361cecc3.png",
+                                "isSelected": false,
+                                "name": "Auto-Loading Holster"
+                            },
+                            {
+                                "hash": 2551157718,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/711aa76b6ac8087d3744260fa03c154c.png",
+                                "isSelected": false,
+                                "name": "Box Breathing"
+                            },
+                            {
+                                "hash": 2848615171,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8fe8293ba02002f69bfa052a0c44223f.png",
+                                "isSelected": false,
+                                "name": "Dragonfly"
+                            },
+                            {
+                                "hash": 3038247973,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d41dd918d42681c5b0ad00880274b22c.png",
+                                "isSelected": false,
+                                "name": "Explosive Payload"
+                            },
+                            {
+                                "hash": 2869569095,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fd815414532978ad2e5decbfc416b9e4.png",
+                                "isSelected": false,
+                                "name": "Field Prep"
+                            },
+                            {
+                                "hash": 280464955,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc9da416fe98c79b59074403084765b7.png",
+                                "isSelected": false,
+                                "name": "Firmly Planted"
+                            },
+                            {
+                                "hash": 3096702027,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e52e3441db003abe3aa2b8a2f7fda730.png",
+                                "isSelected": false,
+                                "name": "Genesis"
+                            },
+                            {
+                                "hash": 1866048759,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9f3c3ae1bddbed21af1cc6487338028e.png",
+                                "isSelected": false,
+                                "name": "Hip-Fire Grip"
+                            },
+                            {
+                                "hash": 1015611457,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
+                                "isSelected": false,
+                                "name": "Kill Clip"
+                            },
+                            {
+                                "hash": 588594999,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
+                                "isSelected": false,
+                                "name": "Moving Target"
+                            },
+                            {
+                                "hash": 3513791699,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/72d0300b728c2b8c81cc37f1abc53ddc.png",
+                                "isSelected": false,
+                                "name": "Mulligan"
+                            },
+                            {
+                                "hash": 47981717,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0fd9dbe1c09b8cc7d0be888c68ff4526.png",
+                                "isSelected": false,
+                                "name": "Opening Shot"
+                            },
+                            {
                                 "hash": 1168162263,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
+                                "isSelected": false,
                                 "name": "Outlaw"
+                            },
+                            {
+                                "hash": 706527188,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png",
+                                "isSelected": false,
+                                "name": "Quickdraw"
+                            },
+                            {
+                                "hash": 3425386926,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
+                                "isSelected": false,
+                                "name": "Rampage"
                             },
                             {
                                 "hash": 2846385770,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cd4bc691a022136dc149e56ff4e04bf4.png",
+                                "isSelected": false,
                                 "name": "Rangefinder"
                             },
                             {
                                 "hash": 247725512,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/56f26a865c24a6a10cb4177794eb7788.png",
+                                "isSelected": false,
                                 "name": "Rapid Hit"
                             },
                             {
                                 "hash": 3275789089,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7b527f4401012c2acf400759338c31f8.png",
+                                "isSelected": false,
                                 "name": "Shield Disorient"
-                            },
-                            {
-                                "hash": 706527188,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png",
-                                "name": "Quickdraw"
                             },
                             {
                                 "hash": 957782887,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
+                                "isSelected": false,
                                 "name": "Snapshot Sights"
-                            },
-                            {
-                                "hash": 3425386926,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
-                                "name": "Rampage"
-                            },
-                            {
-                                "hash": 1015611457,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
-                                "name": "Kill Clip"
-                            },
-                            {
-                                "hash": 2848615171,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8fe8293ba02002f69bfa052a0c44223f.png",
-                                "name": "Dragonfly"
-                            },
-                            {
-                                "hash": 47981717,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0fd9dbe1c09b8cc7d0be888c68ff4526.png",
-                                "name": "Opening Shot"
-                            },
-                            {
-                                "hash": 3096702027,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e52e3441db003abe3aa2b8a2f7fda730.png",
-                                "name": "Genesis"
-                            },
-                            {
-                                "hash": 2551157718,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/711aa76b6ac8087d3744260fa03c154c.png",
-                                "name": "Box Breathing"
-                            },
-                            {
-                                "hash": 3400784728,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/44cc0f78fd98d462dc4914dbe203dc49.png",
-                                "name": "Triple Tap"
-                            },
-                            {
-                                "hash": 2010801679,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/df460693665b7b4dd42f1706e5fbb9e1.png",
-                                "name": "Ambitious Assassin"
-                            },
-                            {
-                                "hash": 3038247973,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d41dd918d42681c5b0ad00880274b22c.png",
-                                "name": "Explosive Payload"
-                            },
-                            {
-                                "hash": 1866048759,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9f3c3ae1bddbed21af1cc6487338028e.png",
-                                "name": "Hip-Fire Grip"
-                            },
-                            {
-                                "hash": 280464955,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc9da416fe98c79b59074403084765b7.png",
-                                "name": "Firmly Planted"
-                            },
-                            {
-                                "hash": 3300816228,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d355b1117307c9f187729249361cecc3.png",
-                                "name": "Auto-Loading Holster"
                             },
                             {
                                 "hash": 4071163871,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png",
+                                "isSelected": false,
                                 "name": "Threat Detector"
                             },
                             {
-                                "hash": 588594999,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
-                                "name": "Moving Target"
-                            },
-                            {
-                                "hash": 2869569095,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fd815414532978ad2e5decbfc416b9e4.png",
-                                "name": "Field Prep"
-                            },
-                            {
-                                "hash": 3513791699,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/72d0300b728c2b8c81cc37f1abc53ddc.png",
-                                "name": "Mulligan"
+                                "hash": 3400784728,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/44cc0f78fd98d462dc4914dbe203dc49.png",
+                                "isSelected": false,
+                                "name": "Triple Tap"
                             }
                         ],
                         "socketIndex": 2
@@ -14584,59 +16148,70 @@ export const WeaponTypes = [
                         "name": "Barrel",
                         "perks": [
                             {
+                                "hash": 767484757,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4c0798dc8e1942914cb3cf803e6d2984.png",
+                                "isSelected": false,
+                                "name": "50VAL Telescopic"
+                            },
+                            {
+                                "hash": 767484756,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4c0798dc8e1942914cb3cf803e6d2984.png",
+                                "isSelected": false,
+                                "name": "9RECT Telescopic"
+                            },
+                            {
                                 "hash": 839105230,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png",
+                                "isSelected": false,
                                 "name": "Arrowhead Brake"
                             },
                             {
                                 "hash": 3661387068,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/376aa9bd8c392567f501012fc3b3d4d0.png",
+                                "isSelected": false,
                                 "name": "Chambered Compensator"
                             },
                             {
                                 "hash": 4090651448,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/18cc75bf9a17bb80b5109f1b8909521f.png",
+                                "isSelected": false,
                                 "name": "Corkscrew Rifling"
                             },
                             {
                                 "hash": 1467527085,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/151465ba86df34438248aad2248cce32.png",
+                                "isSelected": false,
                                 "name": "Extended Barrel"
                             },
                             {
                                 "hash": 1840239774,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png",
+                                "isSelected": false,
                                 "name": "Fluted Barrel"
                             },
                             {
                                 "hash": 202670084,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9307c5604f995d90ad5ed65281b64772.png",
+                                "isSelected": false,
                                 "name": "Full Bore"
                             },
                             {
                                 "hash": 3250034553,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9acb073d4e85160f66f0d617d210cf61.png",
+                                "isSelected": false,
                                 "name": "Hammer-Forged Rifling"
                             },
                             {
                                 "hash": 1392496348,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7cadd68b66ffd3bbedc09aa9c7ba6e03.png",
+                                "isSelected": false,
                                 "name": "Polygonal Rifling"
                             },
                             {
                                 "hash": 1482024992,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png",
+                                "isSelected": false,
                                 "name": "Smallbore"
-                            },
-                            {
-                                "hash": 767484756,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4c0798dc8e1942914cb3cf803e6d2984.png",
-                                "name": "9RECT Telescopic"
-                            },
-                            {
-                                "hash": 767484757,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4c0798dc8e1942914cb3cf803e6d2984.png",
-                                "name": "50VAL Telescopic"
                             }
                         ],
                         "socketIndex": 0
@@ -14645,69 +16220,82 @@ export const WeaponTypes = [
                         "name": "Magazine",
                         "perks": [
                             {
-                                "hash": 2420895100,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
-                                "name": "Extended Mag"
+                                "hash": 3142289711,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png",
+                                "isSelected": false,
+                                "name": "Accurized Rounds"
                             },
                             {
                                 "hash": 1431678320,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/932e7b84c233c6cc49a58058f8c5144d.png",
+                                "isSelected": false,
                                 "name": "Alloy Magazine"
                             },
                             {
                                 "hash": 1087426260,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9d8a7be4c2fef471a6fde38d02ab8dae.png",
+                                "isSelected": false,
                                 "name": "Appended Mag"
                             },
                             {
                                 "hash": 1968497646,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/73b724a6839bb3e1db37742f7ed5249b.png",
+                                "isSelected": false,
                                 "name": "Armor-Piercing Rounds"
-                            },
-                            {
-                                "hash": 1561002382,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f06239ee156ee70f99b48e8e1970dbca.png",
-                                "name": "High-Caliber Rounds"
-                            },
-                            {
-                                "hash": 1885400500,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png",
-                                "name": "Ricochet Rounds"
-                            },
-                            {
-                                "hash": 3230963543,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ec1bca64fc9709678ea5c297c0e64c19.png",
-                                "name": "Flared Magwell"
-                            },
-                            {
-                                "hash": 679225683,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1d87312c174b44d5ef1ed24ad42efe9c.png",
-                                "name": "Light Mag"
-                            },
-                            {
-                                "hash": 1140096971,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bd9cedff38154e0151b5a1afe903a9b7.png",
-                                "name": "Seraph Rounds"
-                            },
-                            {
-                                "hash": 3142289711,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png",
-                                "name": "Accurized Rounds"
                             },
                             {
                                 "hash": 4134353779,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d316be9e70844427e69034b0f06bec75.png",
+                                "isSelected": false,
                                 "name": "Drop Mag"
                             },
                             {
-                                "hash": 106909392,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9711e6d3de7a9cf2f844752992390a63.png",
-                                "name": "Tactical Mag"
+                                "hash": 2420895100,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
+                                "isSelected": false,
+                                "name": "Extended Mag"
+                            },
+                            {
+                                "hash": 3230963543,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ec1bca64fc9709678ea5c297c0e64c19.png",
+                                "isSelected": false,
+                                "name": "Flared Magwell"
+                            },
+                            {
+                                "hash": 1561002382,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f06239ee156ee70f99b48e8e1970dbca.png",
+                                "isSelected": false,
+                                "name": "High-Caliber Rounds"
+                            },
+                            {
+                                "hash": 679225683,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1d87312c174b44d5ef1ed24ad42efe9c.png",
+                                "isSelected": false,
+                                "name": "Light Mag"
+                            },
+                            {
+                                "hash": 1885400500,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png",
+                                "isSelected": false,
+                                "name": "Ricochet Rounds"
+                            },
+                            {
+                                "hash": 1140096971,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bd9cedff38154e0151b5a1afe903a9b7.png",
+                                "isSelected": false,
+                                "name": "Seraph Rounds"
                             },
                             {
                                 "hash": 3177308360,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/adaf4315dab749519c41a233e9954598.png",
+                                "isSelected": false,
                                 "name": "Steady Rounds"
+                            },
+                            {
+                                "hash": 106909392,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9711e6d3de7a9cf2f844752992390a63.png",
+                                "isSelected": false,
+                                "name": "Tactical Mag"
                             }
                         ],
                         "socketIndex": 1
@@ -14716,84 +16304,100 @@ export const WeaponTypes = [
                         "name": "traits",
                         "perks": [
                             {
-                                "hash": 957782887,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
-                                "name": "Snapshot Sights"
-                            },
-                            {
-                                "hash": 1168162263,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
-                                "name": "Outlaw"
-                            },
-                            {
                                 "hash": 2010801679,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/df460693665b7b4dd42f1706e5fbb9e1.png",
+                                "isSelected": false,
                                 "name": "Ambitious Assassin"
-                            },
-                            {
-                                "hash": 3096702027,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e52e3441db003abe3aa2b8a2f7fda730.png",
-                                "name": "Genesis"
-                            },
-                            {
-                                "hash": 3400784728,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/44cc0f78fd98d462dc4914dbe203dc49.png",
-                                "name": "Triple Tap"
-                            },
-                            {
-                                "hash": 3425386926,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
-                                "name": "Rampage"
-                            },
-                            {
-                                "hash": 1015611457,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
-                                "name": "Kill Clip"
-                            },
-                            {
-                                "hash": 247725512,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/56f26a865c24a6a10cb4177794eb7788.png",
-                                "name": "Rapid Hit"
                             },
                             {
                                 "hash": 2551157718,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/711aa76b6ac8087d3744260fa03c154c.png",
+                                "isSelected": false,
                                 "name": "Box Breathing"
-                            },
-                            {
-                                "hash": 1866048759,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9f3c3ae1bddbed21af1cc6487338028e.png",
-                                "name": "Hip-Fire Grip"
-                            },
-                            {
-                                "hash": 280464955,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc9da416fe98c79b59074403084765b7.png",
-                                "name": "Firmly Planted"
-                            },
-                            {
-                                "hash": 47981717,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0fd9dbe1c09b8cc7d0be888c68ff4526.png",
-                                "name": "Opening Shot"
                             },
                             {
                                 "hash": 2848615171,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8fe8293ba02002f69bfa052a0c44223f.png",
+                                "isSelected": false,
                                 "name": "Dragonfly"
-                            },
-                            {
-                                "hash": 2869569095,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fd815414532978ad2e5decbfc416b9e4.png",
-                                "name": "Field Prep"
                             },
                             {
                                 "hash": 3038247973,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d41dd918d42681c5b0ad00880274b22c.png",
+                                "isSelected": false,
                                 "name": "Explosive Payload"
+                            },
+                            {
+                                "hash": 2869569095,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fd815414532978ad2e5decbfc416b9e4.png",
+                                "isSelected": false,
+                                "name": "Field Prep"
+                            },
+                            {
+                                "hash": 280464955,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc9da416fe98c79b59074403084765b7.png",
+                                "isSelected": false,
+                                "name": "Firmly Planted"
+                            },
+                            {
+                                "hash": 3096702027,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e52e3441db003abe3aa2b8a2f7fda730.png",
+                                "isSelected": false,
+                                "name": "Genesis"
+                            },
+                            {
+                                "hash": 1866048759,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9f3c3ae1bddbed21af1cc6487338028e.png",
+                                "isSelected": false,
+                                "name": "Hip-Fire Grip"
+                            },
+                            {
+                                "hash": 1015611457,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
+                                "isSelected": false,
+                                "name": "Kill Clip"
                             },
                             {
                                 "hash": 588594999,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
+                                "isSelected": false,
                                 "name": "Moving Target"
+                            },
+                            {
+                                "hash": 47981717,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0fd9dbe1c09b8cc7d0be888c68ff4526.png",
+                                "isSelected": false,
+                                "name": "Opening Shot"
+                            },
+                            {
+                                "hash": 1168162263,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
+                                "isSelected": false,
+                                "name": "Outlaw"
+                            },
+                            {
+                                "hash": 3425386926,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
+                                "isSelected": false,
+                                "name": "Rampage"
+                            },
+                            {
+                                "hash": 247725512,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/56f26a865c24a6a10cb4177794eb7788.png",
+                                "isSelected": false,
+                                "name": "Rapid Hit"
+                            },
+                            {
+                                "hash": 957782887,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
+                                "isSelected": false,
+                                "name": "Snapshot Sights"
+                            },
+                            {
+                                "hash": 3400784728,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/44cc0f78fd98d462dc4914dbe203dc49.png",
+                                "isSelected": false,
+                                "name": "Triple Tap"
                             }
                         ],
                         "socketIndex": 2
@@ -14988,109 +16592,130 @@ export const WeaponTypes = [
                         "name": "Sight",
                         "perks": [
                             {
-                                "hash": 965619221,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/560373df32b96679b03768a3e0aa3e05.png",
-                                "name": "SLO-12 Post"
-                            },
-                            {
-                                "hash": 965619220,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c422c90b4d5811210a9eca7fdd98dc1a.png",
-                                "name": "SLO-21 Post"
-                            },
-                            {
-                                "hash": 965619223,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cc4da92c0f3314ffa852b544896fe74b.png",
-                                "name": "SLO-10 Post"
-                            },
-                            {
-                                "hash": 3151536501,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8e85d31d83046a1a06fa28b44f8c54d5.png",
-                                "name": "SPO-57 Front"
-                            },
-                            {
-                                "hash": 3151536500,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7d97516e3a1d2b84f60e006b1fbb5749.png",
-                                "name": "SPO-28 Front"
-                            },
-                            {
-                                "hash": 3151536503,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e014290b97c6bfb58ae519c5e0ca343b.png",
-                                "name": "SPO-26 Front"
-                            },
-                            {
-                                "hash": 1288081796,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1c1be01de23c5233cab50ff8dbe6c2c4.png",
-                                "name": "Wolf Sight W1"
-                            },
-                            {
-                                "hash": 1288081797,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1c1be01de23c5233cab50ff8dbe6c2c4.png",
-                                "name": "King Sight K1"
-                            },
-                            {
-                                "hash": 1288081798,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1c1be01de23c5233cab50ff8dbe6c2c4.png",
-                                "name": "Dusk Sight D1"
-                            },
-                            {
-                                "hash": 1452368632,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/39e67986552e5675249862f76a6ff542.png",
-                                "name": "Wolf Dot W2"
-                            },
-                            {
-                                "hash": 1452368633,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/39e67986552e5675249862f76a6ff542.png",
-                                "name": "King Dot K2"
-                            },
-                            {
-                                "hash": 1452368634,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/39e67986552e5675249862f76a6ff542.png",
-                                "name": "Dusk Dot D1"
-                            },
-                            {
                                 "hash": 839105230,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png",
+                                "isSelected": false,
                                 "name": "Arrowhead Brake"
                             },
                             {
                                 "hash": 3661387068,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/376aa9bd8c392567f501012fc3b3d4d0.png",
+                                "isSelected": false,
                                 "name": "Chambered Compensator"
                             },
                             {
                                 "hash": 4090651448,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/18cc75bf9a17bb80b5109f1b8909521f.png",
+                                "isSelected": false,
                                 "name": "Corkscrew Rifling"
+                            },
+                            {
+                                "hash": 1452368634,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/39e67986552e5675249862f76a6ff542.png",
+                                "isSelected": false,
+                                "name": "Dusk Dot D1"
+                            },
+                            {
+                                "hash": 1288081798,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1c1be01de23c5233cab50ff8dbe6c2c4.png",
+                                "isSelected": false,
+                                "name": "Dusk Sight D1"
                             },
                             {
                                 "hash": 1467527085,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/151465ba86df34438248aad2248cce32.png",
+                                "isSelected": false,
                                 "name": "Extended Barrel"
                             },
                             {
                                 "hash": 1840239774,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png",
+                                "isSelected": false,
                                 "name": "Fluted Barrel"
                             },
                             {
                                 "hash": 202670084,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9307c5604f995d90ad5ed65281b64772.png",
+                                "isSelected": false,
                                 "name": "Full Bore"
                             },
                             {
                                 "hash": 3250034553,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9acb073d4e85160f66f0d617d210cf61.png",
+                                "isSelected": false,
                                 "name": "Hammer-Forged Rifling"
+                            },
+                            {
+                                "hash": 1452368633,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/39e67986552e5675249862f76a6ff542.png",
+                                "isSelected": false,
+                                "name": "King Dot K2"
+                            },
+                            {
+                                "hash": 1288081797,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1c1be01de23c5233cab50ff8dbe6c2c4.png",
+                                "isSelected": false,
+                                "name": "King Sight K1"
                             },
                             {
                                 "hash": 1392496348,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7cadd68b66ffd3bbedc09aa9c7ba6e03.png",
+                                "isSelected": false,
                                 "name": "Polygonal Rifling"
+                            },
+                            {
+                                "hash": 965619223,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/cc4da92c0f3314ffa852b544896fe74b.png",
+                                "isSelected": false,
+                                "name": "SLO-10 Post"
+                            },
+                            {
+                                "hash": 965619221,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/560373df32b96679b03768a3e0aa3e05.png",
+                                "isSelected": false,
+                                "name": "SLO-12 Post"
+                            },
+                            {
+                                "hash": 965619220,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c422c90b4d5811210a9eca7fdd98dc1a.png",
+                                "isSelected": false,
+                                "name": "SLO-21 Post"
+                            },
+                            {
+                                "hash": 3151536503,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e014290b97c6bfb58ae519c5e0ca343b.png",
+                                "isSelected": false,
+                                "name": "SPO-26 Front"
+                            },
+                            {
+                                "hash": 3151536500,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7d97516e3a1d2b84f60e006b1fbb5749.png",
+                                "isSelected": false,
+                                "name": "SPO-28 Front"
+                            },
+                            {
+                                "hash": 3151536501,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8e85d31d83046a1a06fa28b44f8c54d5.png",
+                                "isSelected": false,
+                                "name": "SPO-57 Front"
                             },
                             {
                                 "hash": 1482024992,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png",
+                                "isSelected": false,
                                 "name": "Smallbore"
+                            },
+                            {
+                                "hash": 1452368632,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/39e67986552e5675249862f76a6ff542.png",
+                                "isSelected": false,
+                                "name": "Wolf Dot W2"
+                            },
+                            {
+                                "hash": 1288081796,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1c1be01de23c5233cab50ff8dbe6c2c4.png",
+                                "isSelected": false,
+                                "name": "Wolf Sight W1"
                             }
                         ],
                         "socketIndex": 0
@@ -15099,64 +16724,76 @@ export const WeaponTypes = [
                         "name": "Magazine",
                         "perks": [
                             {
-                                "hash": 2420895100,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
-                                "name": "Extended Mag"
+                                "hash": 3142289711,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png",
+                                "isSelected": false,
+                                "name": "Accurized Rounds"
                             },
                             {
                                 "hash": 1431678320,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/932e7b84c233c6cc49a58058f8c5144d.png",
+                                "isSelected": false,
                                 "name": "Alloy Magazine"
                             },
                             {
                                 "hash": 1087426260,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9d8a7be4c2fef471a6fde38d02ab8dae.png",
+                                "isSelected": false,
                                 "name": "Appended Mag"
                             },
                             {
                                 "hash": 1968497646,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/73b724a6839bb3e1db37742f7ed5249b.png",
+                                "isSelected": false,
                                 "name": "Armor-Piercing Rounds"
-                            },
-                            {
-                                "hash": 1561002382,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f06239ee156ee70f99b48e8e1970dbca.png",
-                                "name": "High-Caliber Rounds"
-                            },
-                            {
-                                "hash": 1885400500,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png",
-                                "name": "Ricochet Rounds"
-                            },
-                            {
-                                "hash": 3230963543,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ec1bca64fc9709678ea5c297c0e64c19.png",
-                                "name": "Flared Magwell"
-                            },
-                            {
-                                "hash": 679225683,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1d87312c174b44d5ef1ed24ad42efe9c.png",
-                                "name": "Light Mag"
-                            },
-                            {
-                                "hash": 3142289711,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/05e357cd152eb0f665ee986aaa3edc56.png",
-                                "name": "Accurized Rounds"
                             },
                             {
                                 "hash": 4134353779,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d316be9e70844427e69034b0f06bec75.png",
+                                "isSelected": false,
                                 "name": "Drop Mag"
                             },
                             {
-                                "hash": 106909392,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9711e6d3de7a9cf2f844752992390a63.png",
-                                "name": "Tactical Mag"
+                                "hash": 2420895100,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
+                                "isSelected": false,
+                                "name": "Extended Mag"
+                            },
+                            {
+                                "hash": 3230963543,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ec1bca64fc9709678ea5c297c0e64c19.png",
+                                "isSelected": false,
+                                "name": "Flared Magwell"
+                            },
+                            {
+                                "hash": 1561002382,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f06239ee156ee70f99b48e8e1970dbca.png",
+                                "isSelected": false,
+                                "name": "High-Caliber Rounds"
+                            },
+                            {
+                                "hash": 679225683,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1d87312c174b44d5ef1ed24ad42efe9c.png",
+                                "isSelected": false,
+                                "name": "Light Mag"
+                            },
+                            {
+                                "hash": 1885400500,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png",
+                                "isSelected": false,
+                                "name": "Ricochet Rounds"
                             },
                             {
                                 "hash": 3177308360,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/adaf4315dab749519c41a233e9954598.png",
+                                "isSelected": false,
                                 "name": "Steady Rounds"
+                            },
+                            {
+                                "hash": 106909392,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9711e6d3de7a9cf2f844752992390a63.png",
+                                "isSelected": false,
+                                "name": "Tactical Mag"
                             }
                         ],
                         "socketIndex": 1
@@ -15165,109 +16802,130 @@ export const WeaponTypes = [
                         "name": "traits",
                         "perks": [
                             {
-                                "hash": 972757866,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8f55a0d8cd93d9830480239350c022b1.png",
-                                "name": "Pulse Monitor"
-                            },
-                            {
-                                "hash": 1645158859,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a88b6ed7519cb27fd608c5743ca20b1.png",
-                                "name": "Under Pressure"
-                            },
-                            {
-                                "hash": 2039302152,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ccac4f90945c16a520b823d2a6cd48a3.png",
-                                "name": "Slideways"
-                            },
-                            {
-                                "hash": 2869569095,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fd815414532978ad2e5decbfc416b9e4.png",
-                                "name": "Field Prep"
-                            },
-                            {
-                                "hash": 2387244414,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49958f356ea1df930888d15fe6539fe1.png",
-                                "name": "Zen Moment"
-                            },
-                            {
-                                "hash": 957782887,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
-                                "name": "Snapshot Sights"
-                            },
-                            {
-                                "hash": 588594999,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
-                                "name": "Moving Target"
-                            },
-                            {
-                                "hash": 1359896290,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/16d063d66a8d90643a409dfa4283c4e2.png",
-                                "name": "Dynamic Sway Reduction"
-                            },
-                            {
-                                "hash": 1015611457,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
-                                "name": "Kill Clip"
-                            },
-                            {
-                                "hash": 2213355989,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bee920445b5d0ccb01814d2e6fcea27b.png",
-                                "name": "High-Impact Reserves"
-                            },
-                            {
-                                "hash": 1631667848,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/83e206ebea83f76d9969efea7134ddcc.png",
-                                "name": "Grave Robber"
-                            },
-                            {
-                                "hash": 1890422124,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8e910e56aa6e36b2c406804e1d78d04f.png",
-                                "name": "Tap the Trigger"
-                            },
-                            {
-                                "hash": 3096702027,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e52e3441db003abe3aa2b8a2f7fda730.png",
-                                "name": "Genesis"
-                            },
-                            {
-                                "hash": 4071163871,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png",
-                                "name": "Threat Detector"
-                            },
-                            {
-                                "hash": 706527188,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png",
-                                "name": "Quickdraw"
-                            },
-                            {
-                                "hash": 1168162263,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
-                                "name": "Outlaw"
-                            },
-                            {
                                 "hash": 3300816228,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d355b1117307c9f187729249361cecc3.png",
+                                "isSelected": false,
                                 "name": "Auto-Loading Holster"
-                            },
-                            {
-                                "hash": 1820235745,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03d774525048e5eb5b6899b37d418920.png",
-                                "name": "Subsistence"
-                            },
-                            {
-                                "hash": 2458213969,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/a610c14dcf450e8c5b0c0903d5b05965.png",
-                                "name": "Multikill Clip"
                             },
                             {
                                 "hash": 3523296417,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/53ead908917c9156457c7c9dd453d649.png",
+                                "isSelected": false,
                                 "name": "Demolitionist"
+                            },
+                            {
+                                "hash": 1359896290,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/16d063d66a8d90643a409dfa4283c4e2.png",
+                                "isSelected": false,
+                                "name": "Dynamic Sway Reduction"
+                            },
+                            {
+                                "hash": 2869569095,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fd815414532978ad2e5decbfc416b9e4.png",
+                                "isSelected": false,
+                                "name": "Field Prep"
+                            },
+                            {
+                                "hash": 3096702027,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e52e3441db003abe3aa2b8a2f7fda730.png",
+                                "isSelected": false,
+                                "name": "Genesis"
+                            },
+                            {
+                                "hash": 1631667848,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/83e206ebea83f76d9969efea7134ddcc.png",
+                                "isSelected": false,
+                                "name": "Grave Robber"
+                            },
+                            {
+                                "hash": 2213355989,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bee920445b5d0ccb01814d2e6fcea27b.png",
+                                "isSelected": false,
+                                "name": "High-Impact Reserves"
+                            },
+                            {
+                                "hash": 1015611457,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
+                                "isSelected": false,
+                                "name": "Kill Clip"
+                            },
+                            {
+                                "hash": 588594999,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
+                                "isSelected": false,
+                                "name": "Moving Target"
+                            },
+                            {
+                                "hash": 2458213969,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/a610c14dcf450e8c5b0c0903d5b05965.png",
+                                "isSelected": false,
+                                "name": "Multikill Clip"
+                            },
+                            {
+                                "hash": 1168162263,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
+                                "isSelected": false,
+                                "name": "Outlaw"
+                            },
+                            {
+                                "hash": 972757866,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8f55a0d8cd93d9830480239350c022b1.png",
+                                "isSelected": false,
+                                "name": "Pulse Monitor"
+                            },
+                            {
+                                "hash": 706527188,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/b04cf9a75031115055678b71c3c58443.png",
+                                "isSelected": false,
+                                "name": "Quickdraw"
+                            },
+                            {
+                                "hash": 2039302152,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ccac4f90945c16a520b823d2a6cd48a3.png",
+                                "isSelected": false,
+                                "name": "Slideways"
+                            },
+                            {
+                                "hash": 957782887,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
+                                "isSelected": false,
+                                "name": "Snapshot Sights"
+                            },
+                            {
+                                "hash": 1820235745,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03d774525048e5eb5b6899b37d418920.png",
+                                "isSelected": false,
+                                "name": "Subsistence"
                             },
                             {
                                 "hash": 4082225868,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ef89b89410de618e9cfa353ff35125d8.png",
+                                "isSelected": false,
                                 "name": "Swashbuckler"
+                            },
+                            {
+                                "hash": 1890422124,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8e910e56aa6e36b2c406804e1d78d04f.png",
+                                "isSelected": false,
+                                "name": "Tap the Trigger"
+                            },
+                            {
+                                "hash": 4071163871,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png",
+                                "isSelected": false,
+                                "name": "Threat Detector"
+                            },
+                            {
+                                "hash": 1645158859,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a88b6ed7519cb27fd608c5743ca20b1.png",
+                                "isSelected": false,
+                                "name": "Under Pressure"
+                            },
+                            {
+                                "hash": 2387244414,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49958f356ea1df930888d15fe6539fe1.png",
+                                "isSelected": false,
+                                "name": "Zen Moment"
                             }
                         ],
                         "socketIndex": 2
@@ -15437,29 +17095,34 @@ export const WeaponTypes = [
                         "name": "Sight",
                         "perks": [
                             {
+                                "hash": 4090651448,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/18cc75bf9a17bb80b5109f1b8909521f.png",
+                                "isSelected": false,
+                                "name": "Corkscrew Rifling"
+                            },
+                            {
                                 "hash": 2209280307,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ea6b8a7bf1dd9b15ff681a35a9f4cc54.png",
+                                "isSelected": false,
                                 "name": "IS 2 Classic"
                             },
                             {
                                 "hash": 2209280306,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ea6b8a7bf1dd9b15ff681a35a9f4cc54.png",
+                                "isSelected": false,
                                 "name": "IS 5 Circle"
                             },
                             {
                                 "hash": 663495155,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/29519ba1bd98e15765f90227befa3d76.png",
+                                "isSelected": false,
                                 "name": "Model 6 Loop"
                             },
                             {
                                 "hash": 663495154,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/29519ba1bd98e15765f90227befa3d76.png",
+                                "isSelected": false,
                                 "name": "Model 8 Red"
-                            },
-                            {
-                                "hash": 4090651448,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/18cc75bf9a17bb80b5109f1b8909521f.png",
-                                "name": "Corkscrew Rifling"
                             }
                         ],
                         "socketIndex": 0
@@ -15468,49 +17131,58 @@ export const WeaponTypes = [
                         "name": "Magazine",
                         "perks": [
                             {
-                                "hash": 2420895100,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
-                                "name": "Extended Mag"
-                            },
-                            {
                                 "hash": 1431678320,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/932e7b84c233c6cc49a58058f8c5144d.png",
+                                "isSelected": false,
                                 "name": "Alloy Magazine"
                             },
                             {
                                 "hash": 1087426260,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9d8a7be4c2fef471a6fde38d02ab8dae.png",
+                                "isSelected": false,
                                 "name": "Appended Mag"
                             },
                             {
                                 "hash": 1968497646,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/73b724a6839bb3e1db37742f7ed5249b.png",
+                                "isSelected": false,
                                 "name": "Armor-Piercing Rounds"
-                            },
-                            {
-                                "hash": 1561002382,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f06239ee156ee70f99b48e8e1970dbca.png",
-                                "name": "High-Caliber Rounds"
-                            },
-                            {
-                                "hash": 1885400500,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png",
-                                "name": "Ricochet Rounds"
-                            },
-                            {
-                                "hash": 3230963543,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ec1bca64fc9709678ea5c297c0e64c19.png",
-                                "name": "Flared Magwell"
-                            },
-                            {
-                                "hash": 679225683,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1d87312c174b44d5ef1ed24ad42efe9c.png",
-                                "name": "Light Mag"
                             },
                             {
                                 "hash": 3871884143,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/5b83b3c3fc474c9716e54b4dfe4a862b.png",
+                                "isSelected": false,
                                 "name": "Disruption Break"
+                            },
+                            {
+                                "hash": 2420895100,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
+                                "isSelected": false,
+                                "name": "Extended Mag"
+                            },
+                            {
+                                "hash": 3230963543,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ec1bca64fc9709678ea5c297c0e64c19.png",
+                                "isSelected": false,
+                                "name": "Flared Magwell"
+                            },
+                            {
+                                "hash": 1561002382,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f06239ee156ee70f99b48e8e1970dbca.png",
+                                "isSelected": false,
+                                "name": "High-Caliber Rounds"
+                            },
+                            {
+                                "hash": 679225683,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1d87312c174b44d5ef1ed24ad42efe9c.png",
+                                "isSelected": false,
+                                "name": "Light Mag"
+                            },
+                            {
+                                "hash": 1885400500,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png",
+                                "isSelected": false,
+                                "name": "Ricochet Rounds"
                             }
                         ],
                         "socketIndex": 1
@@ -15519,79 +17191,94 @@ export const WeaponTypes = [
                         "name": "traits",
                         "perks": [
                             {
-                                "hash": 972757866,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8f55a0d8cd93d9830480239350c022b1.png",
-                                "name": "Pulse Monitor"
-                            },
-                            {
-                                "hash": 1645158859,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a88b6ed7519cb27fd608c5743ca20b1.png",
-                                "name": "Under Pressure"
-                            },
-                            {
-                                "hash": 2039302152,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ccac4f90945c16a520b823d2a6cd48a3.png",
-                                "name": "Slideways"
-                            },
-                            {
-                                "hash": 2869569095,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fd815414532978ad2e5decbfc416b9e4.png",
-                                "name": "Field Prep"
-                            },
-                            {
-                                "hash": 2387244414,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49958f356ea1df930888d15fe6539fe1.png",
-                                "name": "Zen Moment"
-                            },
-                            {
-                                "hash": 957782887,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
-                                "name": "Snapshot Sights"
-                            },
-                            {
-                                "hash": 588594999,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
-                                "name": "Moving Target"
+                                "hash": 3300816228,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d355b1117307c9f187729249361cecc3.png",
+                                "isSelected": false,
+                                "name": "Auto-Loading Holster"
                             },
                             {
                                 "hash": 1359896290,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/16d063d66a8d90643a409dfa4283c4e2.png",
+                                "isSelected": false,
                                 "name": "Dynamic Sway Reduction"
                             },
                             {
-                                "hash": 1015611457,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
-                                "name": "Kill Clip"
-                            },
-                            {
-                                "hash": 2213355989,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bee920445b5d0ccb01814d2e6fcea27b.png",
-                                "name": "High-Impact Reserves"
+                                "hash": 2869569095,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fd815414532978ad2e5decbfc416b9e4.png",
+                                "isSelected": false,
+                                "name": "Field Prep"
                             },
                             {
                                 "hash": 1631667848,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/83e206ebea83f76d9969efea7134ddcc.png",
+                                "isSelected": false,
                                 "name": "Grave Robber"
                             },
                             {
-                                "hash": 1890422124,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8e910e56aa6e36b2c406804e1d78d04f.png",
-                                "name": "Tap the Trigger"
+                                "hash": 2213355989,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bee920445b5d0ccb01814d2e6fcea27b.png",
+                                "isSelected": false,
+                                "name": "High-Impact Reserves"
                             },
                             {
-                                "hash": 3300816228,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d355b1117307c9f187729249361cecc3.png",
-                                "name": "Auto-Loading Holster"
+                                "hash": 1015611457,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
+                                "isSelected": false,
+                                "name": "Kill Clip"
                             },
                             {
-                                "hash": 4071163871,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png",
-                                "name": "Threat Detector"
+                                "hash": 588594999,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
+                                "isSelected": false,
+                                "name": "Moving Target"
+                            },
+                            {
+                                "hash": 972757866,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8f55a0d8cd93d9830480239350c022b1.png",
+                                "isSelected": false,
+                                "name": "Pulse Monitor"
                             },
                             {
                                 "hash": 1140096971,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bd9cedff38154e0151b5a1afe903a9b7.png",
+                                "isSelected": false,
                                 "name": "Seraph Rounds"
+                            },
+                            {
+                                "hash": 2039302152,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ccac4f90945c16a520b823d2a6cd48a3.png",
+                                "isSelected": false,
+                                "name": "Slideways"
+                            },
+                            {
+                                "hash": 957782887,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
+                                "isSelected": false,
+                                "name": "Snapshot Sights"
+                            },
+                            {
+                                "hash": 1890422124,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8e910e56aa6e36b2c406804e1d78d04f.png",
+                                "isSelected": false,
+                                "name": "Tap the Trigger"
+                            },
+                            {
+                                "hash": 4071163871,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png",
+                                "isSelected": false,
+                                "name": "Threat Detector"
+                            },
+                            {
+                                "hash": 1645158859,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a88b6ed7519cb27fd608c5743ca20b1.png",
+                                "isSelected": false,
+                                "name": "Under Pressure"
+                            },
+                            {
+                                "hash": 2387244414,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49958f356ea1df930888d15fe6539fe1.png",
+                                "isSelected": false,
+                                "name": "Zen Moment"
                             }
                         ],
                         "socketIndex": 2
@@ -15687,46 +17374,55 @@ export const WeaponTypes = [
                             {
                                 "hash": 839105230,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a0a23f9622636cea92387d50d368333.png",
+                                "isSelected": false,
                                 "name": "Arrowhead Brake"
                             },
                             {
                                 "hash": 3661387068,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/376aa9bd8c392567f501012fc3b3d4d0.png",
+                                "isSelected": false,
                                 "name": "Chambered Compensator"
                             },
                             {
                                 "hash": 4090651448,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/18cc75bf9a17bb80b5109f1b8909521f.png",
+                                "isSelected": false,
                                 "name": "Corkscrew Rifling"
                             },
                             {
                                 "hash": 1467527085,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/151465ba86df34438248aad2248cce32.png",
+                                "isSelected": false,
                                 "name": "Extended Barrel"
                             },
                             {
                                 "hash": 1840239774,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/c2a4355c8db7eac12d6dec52d09a20fe.png",
+                                "isSelected": false,
                                 "name": "Fluted Barrel"
                             },
                             {
                                 "hash": 202670084,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9307c5604f995d90ad5ed65281b64772.png",
+                                "isSelected": false,
                                 "name": "Full Bore"
                             },
                             {
                                 "hash": 3250034553,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9acb073d4e85160f66f0d617d210cf61.png",
+                                "isSelected": false,
                                 "name": "Hammer-Forged Rifling"
                             },
                             {
                                 "hash": 1392496348,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7cadd68b66ffd3bbedc09aa9c7ba6e03.png",
+                                "isSelected": false,
                                 "name": "Polygonal Rifling"
                             },
                             {
                                 "hash": 1482024992,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bc3d5d36c6b4627bdb8d37cd52711cf4.png",
+                                "isSelected": false,
                                 "name": "Smallbore"
                             }
                         ],
@@ -15736,44 +17432,52 @@ export const WeaponTypes = [
                         "name": "Magazine",
                         "perks": [
                             {
-                                "hash": 2420895100,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
-                                "name": "Extended Mag"
-                            },
-                            {
                                 "hash": 1431678320,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/932e7b84c233c6cc49a58058f8c5144d.png",
+                                "isSelected": false,
                                 "name": "Alloy Magazine"
                             },
                             {
                                 "hash": 1087426260,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9d8a7be4c2fef471a6fde38d02ab8dae.png",
+                                "isSelected": false,
                                 "name": "Appended Mag"
                             },
                             {
                                 "hash": 1968497646,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/73b724a6839bb3e1db37742f7ed5249b.png",
+                                "isSelected": false,
                                 "name": "Armor-Piercing Rounds"
                             },
                             {
-                                "hash": 1561002382,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f06239ee156ee70f99b48e8e1970dbca.png",
-                                "name": "High-Caliber Rounds"
-                            },
-                            {
-                                "hash": 1885400500,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png",
-                                "name": "Ricochet Rounds"
+                                "hash": 2420895100,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
+                                "isSelected": false,
+                                "name": "Extended Mag"
                             },
                             {
                                 "hash": 3230963543,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ec1bca64fc9709678ea5c297c0e64c19.png",
+                                "isSelected": false,
                                 "name": "Flared Magwell"
+                            },
+                            {
+                                "hash": 1561002382,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f06239ee156ee70f99b48e8e1970dbca.png",
+                                "isSelected": false,
+                                "name": "High-Caliber Rounds"
                             },
                             {
                                 "hash": 679225683,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1d87312c174b44d5ef1ed24ad42efe9c.png",
+                                "isSelected": false,
                                 "name": "Light Mag"
+                            },
+                            {
+                                "hash": 1885400500,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png",
+                                "isSelected": false,
+                                "name": "Ricochet Rounds"
                             }
                         ],
                         "socketIndex": 1
@@ -15782,79 +17486,94 @@ export const WeaponTypes = [
                         "name": "traits",
                         "perks": [
                             {
-                                "hash": 1645158859,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a88b6ed7519cb27fd608c5743ca20b1.png",
-                                "name": "Under Pressure"
+                                "hash": 1359896290,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/16d063d66a8d90643a409dfa4283c4e2.png",
+                                "isSelected": false,
+                                "name": "Dynamic Sway Reduction"
                             },
                             {
-                                "hash": 2387244414,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49958f356ea1df930888d15fe6539fe1.png",
-                                "name": "Zen Moment"
-                            },
-                            {
-                                "hash": 957782887,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
-                                "name": "Snapshot Sights"
-                            },
-                            {
-                                "hash": 588594999,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
-                                "name": "Moving Target"
-                            },
-                            {
-                                "hash": 2039302152,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ccac4f90945c16a520b823d2a6cd48a3.png",
-                                "name": "Slideways"
+                                "hash": 2779035018,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/5838b4ef410895011edfed3eaf11641f.png",
+                                "isSelected": false,
+                                "name": "Feeding Frenzy"
                             },
                             {
                                 "hash": 1631667848,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/83e206ebea83f76d9969efea7134ddcc.png",
+                                "isSelected": false,
                                 "name": "Grave Robber"
                             },
                             {
-                                "hash": 1359896290,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/16d063d66a8d90643a409dfa4283c4e2.png",
-                                "name": "Dynamic Sway Reduction"
+                                "hash": 2213355989,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bee920445b5d0ccb01814d2e6fcea27b.png",
+                                "isSelected": false,
+                                "name": "High-Impact Reserves"
                             },
                             {
                                 "hash": 1015611457,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
+                                "isSelected": false,
                                 "name": "Kill Clip"
+                            },
+                            {
+                                "hash": 3081867624,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0412c5b7c3b66065a258b65458f852a2.png",
+                                "isSelected": false,
+                                "name": "Master of Arms"
+                            },
+                            {
+                                "hash": 588594999,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
+                                "isSelected": false,
+                                "name": "Moving Target"
+                            },
+                            {
+                                "hash": 1168162263,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
+                                "isSelected": false,
+                                "name": "Outlaw"
+                            },
+                            {
+                                "hash": 3425386926,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
+                                "isSelected": false,
+                                "name": "Rampage"
+                            },
+                            {
+                                "hash": 2039302152,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ccac4f90945c16a520b823d2a6cd48a3.png",
+                                "isSelected": false,
+                                "name": "Slideways"
+                            },
+                            {
+                                "hash": 957782887,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
+                                "isSelected": false,
+                                "name": "Snapshot Sights"
                             },
                             {
                                 "hash": 1890422124,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8e910e56aa6e36b2c406804e1d78d04f.png",
+                                "isSelected": false,
                                 "name": "Tap the Trigger"
                             },
                             {
                                 "hash": 4071163871,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png",
+                                "isSelected": false,
                                 "name": "Threat Detector"
                             },
                             {
-                                "hash": 3425386926,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e9aa2f479812bfabc8d48effde384737.png",
-                                "name": "Rampage"
+                                "hash": 1645158859,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a88b6ed7519cb27fd608c5743ca20b1.png",
+                                "isSelected": false,
+                                "name": "Under Pressure"
                             },
                             {
-                                "hash": 2213355989,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bee920445b5d0ccb01814d2e6fcea27b.png",
-                                "name": "High-Impact Reserves"
-                            },
-                            {
-                                "hash": 1168162263,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
-                                "name": "Outlaw"
-                            },
-                            {
-                                "hash": 2779035018,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/5838b4ef410895011edfed3eaf11641f.png",
-                                "name": "Feeding Frenzy"
-                            },
-                            {
-                                "hash": 3081867624,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0412c5b7c3b66065a258b65458f852a2.png",
-                                "name": "Master of Arms"
+                                "hash": 2387244414,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49958f356ea1df930888d15fe6539fe1.png",
+                                "isSelected": false,
+                                "name": "Zen Moment"
                             }
                         ],
                         "socketIndex": 2
@@ -16002,54 +17721,64 @@ export const WeaponTypes = [
                         "name": "Sight",
                         "perks": [
                             {
-                                "hash": 1288081796,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1c1be01de23c5233cab50ff8dbe6c2c4.png",
-                                "name": "Wolf Sight W1"
-                            },
-                            {
-                                "hash": 1288081797,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1c1be01de23c5233cab50ff8dbe6c2c4.png",
-                                "name": "King Sight K1"
+                                "hash": 1452368634,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/39e67986552e5675249862f76a6ff542.png",
+                                "isSelected": false,
+                                "name": "Dusk Dot D1"
                             },
                             {
                                 "hash": 1288081798,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1c1be01de23c5233cab50ff8dbe6c2c4.png",
+                                "isSelected": false,
                                 "name": "Dusk Sight D1"
-                            },
-                            {
-                                "hash": 1452368632,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/39e67986552e5675249862f76a6ff542.png",
-                                "name": "Wolf Dot W2"
-                            },
-                            {
-                                "hash": 1452368633,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/39e67986552e5675249862f76a6ff542.png",
-                                "name": "King Dot K2"
-                            },
-                            {
-                                "hash": 1452368634,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/39e67986552e5675249862f76a6ff542.png",
-                                "name": "Dusk Dot D1"
                             },
                             {
                                 "hash": 87986589,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/5f1bc34100784790cb6db337a23509b3.png",
+                                "isSelected": false,
                                 "name": "GA Post"
                             },
                             {
                                 "hash": 87986588,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/25cd9fea8cb23e6ecfc4badc2490fbe3.png",
+                                "isSelected": false,
                                 "name": "GB Iron"
                             },
                             {
-                                "hash": 2054312701,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/addb9e2f4a8fd2f7396c07486cb0c6c5.png",
-                                "name": "SD Thermal"
+                                "hash": 1452368633,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/39e67986552e5675249862f76a6ff542.png",
+                                "isSelected": false,
+                                "name": "King Dot K2"
+                            },
+                            {
+                                "hash": 1288081797,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1c1be01de23c5233cab50ff8dbe6c2c4.png",
+                                "isSelected": false,
+                                "name": "King Sight K1"
                             },
                             {
                                 "hash": 2054312700,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/6ed5ea6e2434149e7ec9f3d0fc7b0e63.png",
+                                "isSelected": false,
                                 "name": "SC Holo"
+                            },
+                            {
+                                "hash": 2054312701,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/addb9e2f4a8fd2f7396c07486cb0c6c5.png",
+                                "isSelected": false,
+                                "name": "SD Thermal"
+                            },
+                            {
+                                "hash": 1452368632,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/39e67986552e5675249862f76a6ff542.png",
+                                "isSelected": false,
+                                "name": "Wolf Dot W2"
+                            },
+                            {
+                                "hash": 1288081796,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1c1be01de23c5233cab50ff8dbe6c2c4.png",
+                                "isSelected": false,
+                                "name": "Wolf Sight W1"
                             }
                         ],
                         "socketIndex": 0
@@ -16058,44 +17787,52 @@ export const WeaponTypes = [
                         "name": "Magazine",
                         "perks": [
                             {
-                                "hash": 2420895100,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
-                                "name": "Extended Mag"
-                            },
-                            {
                                 "hash": 1431678320,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/932e7b84c233c6cc49a58058f8c5144d.png",
+                                "isSelected": false,
                                 "name": "Alloy Magazine"
                             },
                             {
                                 "hash": 1087426260,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/9d8a7be4c2fef471a6fde38d02ab8dae.png",
+                                "isSelected": false,
                                 "name": "Appended Mag"
                             },
                             {
                                 "hash": 1968497646,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/73b724a6839bb3e1db37742f7ed5249b.png",
+                                "isSelected": false,
                                 "name": "Armor-Piercing Rounds"
                             },
                             {
-                                "hash": 1561002382,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f06239ee156ee70f99b48e8e1970dbca.png",
-                                "name": "High-Caliber Rounds"
-                            },
-                            {
-                                "hash": 1885400500,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png",
-                                "name": "Ricochet Rounds"
+                                "hash": 2420895100,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4cd73ae5b1bc1ae0afc7adb34c2f2df6.png",
+                                "isSelected": false,
+                                "name": "Extended Mag"
                             },
                             {
                                 "hash": 3230963543,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ec1bca64fc9709678ea5c297c0e64c19.png",
+                                "isSelected": false,
                                 "name": "Flared Magwell"
+                            },
+                            {
+                                "hash": 1561002382,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f06239ee156ee70f99b48e8e1970dbca.png",
+                                "isSelected": false,
+                                "name": "High-Caliber Rounds"
                             },
                             {
                                 "hash": 679225683,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1d87312c174b44d5ef1ed24ad42efe9c.png",
+                                "isSelected": false,
                                 "name": "Light Mag"
+                            },
+                            {
+                                "hash": 1885400500,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/86e63358fefcb1666160259779594592.png",
+                                "isSelected": false,
+                                "name": "Ricochet Rounds"
                             }
                         ],
                         "socketIndex": 1
@@ -16104,84 +17841,100 @@ export const WeaponTypes = [
                         "name": "traits",
                         "perks": [
                             {
-                                "hash": 972757866,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8f55a0d8cd93d9830480239350c022b1.png",
-                                "name": "Pulse Monitor"
-                            },
-                            {
-                                "hash": 1890422124,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8e910e56aa6e36b2c406804e1d78d04f.png",
-                                "name": "Tap the Trigger"
-                            },
-                            {
-                                "hash": 2039302152,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ccac4f90945c16a520b823d2a6cd48a3.png",
-                                "name": "Slideways"
-                            },
-                            {
-                                "hash": 1631667848,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/83e206ebea83f76d9969efea7134ddcc.png",
-                                "name": "Grave Robber"
-                            },
-                            {
-                                "hash": 2387244414,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49958f356ea1df930888d15fe6539fe1.png",
-                                "name": "Zen Moment"
-                            },
-                            {
-                                "hash": 3096702027,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e52e3441db003abe3aa2b8a2f7fda730.png",
-                                "name": "Genesis"
+                                "hash": 3300816228,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d355b1117307c9f187729249361cecc3.png",
+                                "isSelected": false,
+                                "name": "Auto-Loading Holster"
                             },
                             {
                                 "hash": 1359896290,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/16d063d66a8d90643a409dfa4283c4e2.png",
+                                "isSelected": false,
                                 "name": "Dynamic Sway Reduction"
-                            },
-                            {
-                                "hash": 1015611457,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
-                                "name": "Kill Clip"
-                            },
-                            {
-                                "hash": 2213355989,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bee920445b5d0ccb01814d2e6fcea27b.png",
-                                "name": "High-Impact Reserves"
-                            },
-                            {
-                                "hash": 1168162263,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
-                                "name": "Outlaw"
-                            },
-                            {
-                                "hash": 1645158859,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a88b6ed7519cb27fd608c5743ca20b1.png",
-                                "name": "Under Pressure"
-                            },
-                            {
-                                "hash": 957782887,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
-                                "name": "Snapshot Sights"
                             },
                             {
                                 "hash": 2869569095,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/fd815414532978ad2e5decbfc416b9e4.png",
+                                "isSelected": false,
                                 "name": "Field Prep"
+                            },
+                            {
+                                "hash": 3096702027,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e52e3441db003abe3aa2b8a2f7fda730.png",
+                                "isSelected": false,
+                                "name": "Genesis"
+                            },
+                            {
+                                "hash": 1631667848,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/83e206ebea83f76d9969efea7134ddcc.png",
+                                "isSelected": false,
+                                "name": "Grave Robber"
+                            },
+                            {
+                                "hash": 2213355989,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bee920445b5d0ccb01814d2e6fcea27b.png",
+                                "isSelected": false,
+                                "name": "High-Impact Reserves"
+                            },
+                            {
+                                "hash": 1015611457,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/03e17b5e24aa08bebda6bcbd405b8ada.png",
+                                "isSelected": false,
+                                "name": "Kill Clip"
                             },
                             {
                                 "hash": 588594999,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/274a7f773a1bec5feb48bda6d9ecaa10.png",
+                                "isSelected": false,
                                 "name": "Moving Target"
                             },
                             {
-                                "hash": 3300816228,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/d355b1117307c9f187729249361cecc3.png",
-                                "name": "Auto-Loading Holster"
+                                "hash": 1168162263,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/22f478a5c757c128b7c367ddc42180ab.png",
+                                "isSelected": false,
+                                "name": "Outlaw"
+                            },
+                            {
+                                "hash": 972757866,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8f55a0d8cd93d9830480239350c022b1.png",
+                                "isSelected": false,
+                                "name": "Pulse Monitor"
+                            },
+                            {
+                                "hash": 2039302152,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/ccac4f90945c16a520b823d2a6cd48a3.png",
+                                "isSelected": false,
+                                "name": "Slideways"
+                            },
+                            {
+                                "hash": 957782887,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49df9d90b3f27bd5ec6a9b35f4c10def.png",
+                                "isSelected": false,
+                                "name": "Snapshot Sights"
+                            },
+                            {
+                                "hash": 1890422124,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8e910e56aa6e36b2c406804e1d78d04f.png",
+                                "isSelected": false,
+                                "name": "Tap the Trigger"
                             },
                             {
                                 "hash": 4071163871,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/1cc8d4604d29dfe5bdc321b4c2681bfb.png",
+                                "isSelected": false,
                                 "name": "Threat Detector"
+                            },
+                            {
+                                "hash": 1645158859,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7a88b6ed7519cb27fd608c5743ca20b1.png",
+                                "isSelected": false,
+                                "name": "Under Pressure"
+                            },
+                            {
+                                "hash": 2387244414,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/49958f356ea1df930888d15fe6539fe1.png",
+                                "isSelected": false,
+                                "name": "Zen Moment"
                             }
                         ],
                         "socketIndex": 2
@@ -16352,28 +18105,33 @@ export const WeaponTypes = [
                         "name": "Blade",
                         "perks": [
                             {
-                                "hash": 436053704,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/524e24197c0e4d2c5a73f29e3a28e19b.png",
-                                "name": "Hungry Edge"
-                            },
-                            {
                                 "hash": 1261178282,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/195157f00f406f7203052418ae0ff5d0.png",
+                                "isSelected": false,
                                 "name": "Enduring Blade"
                             },
                             {
                                 "hash": 2827049491,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/bf4e60b9b3289fb9d2c3ffa0e4c2cc04.png",
+                                "isSelected": false,
                                 "name": "Honed Edge"
+                            },
+                            {
+                                "hash": 436053704,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/524e24197c0e4d2c5a73f29e3a28e19b.png",
+                                "isSelected": false,
+                                "name": "Hungry Edge"
                             },
                             {
                                 "hash": 3666208348,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/464c494e9ac760699272764a9929eff0.png",
+                                "isSelected": false,
                                 "name": "Jagged Edge"
                             },
                             {
                                 "hash": 938542991,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/f4366b8df3efab997683662dfedc012a.png",
+                                "isSelected": false,
                                 "name": "Tempered Edge"
                             }
                         ],
@@ -16385,32 +18143,38 @@ export const WeaponTypes = [
                             {
                                 "hash": 52780822,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/af27236ce356d54af0037b9a4e52c356.png",
+                                "isSelected": false,
                                 "name": "Balanced Guard"
                             },
                             {
                                 "hash": 3625355092,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/744c9acae30e2c33eb2163435362f445.png",
+                                "isSelected": false,
                                 "name": "Burst Guard"
                             },
                             {
                                 "hash": 599007201,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/25c1519d424a56ff538ec015368147f6.png",
+                                "isSelected": false,
+                                "name": "Enduring Guard"
+                            },
+                            {
+                                "hash": 1180618054,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/25c1519d424a56ff538ec015368147f6.png",
+                                "isSelected": false,
                                 "name": "Enduring Guard"
                             },
                             {
                                 "hash": 2349202967,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/4f900a2b6e2b8d14e96e7e8afded72db.png",
+                                "isSelected": false,
                                 "name": "Heavy Guard"
                             },
                             {
                                 "hash": 269888150,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/7c04ae7d23ee842c2b58c3e9c0f5855f.png",
+                                "isSelected": false,
                                 "name": "Swordmaster's Guard"
-                            },
-                            {
-                                "hash": 1180618054,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/25c1519d424a56ff538ec015368147f6.png",
-                                "name": "Enduring Guard"
                             }
                         ],
                         "socketIndex": 1
@@ -16419,39 +18183,46 @@ export const WeaponTypes = [
                         "name": "traits",
                         "perks": [
                             {
-                                "hash": 1749209109,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0619b0257fec929e5b6eeb5890c99c53.png",
-                                "name": "Relentless Strikes"
-                            },
-                            {
-                                "hash": 2590710093,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8d005d05d75b57fe0a78e2aa68519e68.png",
-                                "name": "Tireless Blade"
-                            },
-                            {
-                                "hash": 818211479,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/2c71f768f79de201f8ac1cba2c16c158.png",
-                                "name": "Shattering Blade"
-                            },
-                            {
-                                "hash": 3913600130,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/5c4e494d008a8c2cf4c4361ab42c9973.png",
-                                "name": "Whirlwind Blade"
+                                "hash": 354401740,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e190dc87349887b6f585ede0f2a73356.png",
+                                "isSelected": false,
+                                "name": "Assassin's Blade"
                             },
                             {
                                 "hash": 1685431615,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/96aac853bf520635d09558f589abeade.png",
+                                "isSelected": false,
                                 "name": "En Garde"
                             },
                             {
-                                "hash": 354401740,
-                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/e190dc87349887b6f585ede0f2a73356.png",
-                                "name": "Assassin's Blade"
+                                "hash": 1749209109,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0619b0257fec929e5b6eeb5890c99c53.png",
+                                "isSelected": false,
+                                "name": "Relentless Strikes"
+                            },
+                            {
+                                "hash": 818211479,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/2c71f768f79de201f8ac1cba2c16c158.png",
+                                "isSelected": false,
+                                "name": "Shattering Blade"
                             },
                             {
                                 "hash": 3708227201,
                                 "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/0dbd2b11fd1343c11b4559c7a72ae8da.png",
+                                "isSelected": false,
                                 "name": "Surrounded"
+                            },
+                            {
+                                "hash": 2590710093,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/8d005d05d75b57fe0a78e2aa68519e68.png",
+                                "isSelected": false,
+                                "name": "Tireless Blade"
+                            },
+                            {
+                                "hash": 3913600130,
+                                "iconUrl": "https://www.bungie.net/common/destiny2_content/icons/5c4e494d008a8c2cf4c4361ab42c9973.png",
+                                "isSelected": false,
+                                "name": "Whirlwind Blade"
                             }
                         ],
                         "socketIndex": 2

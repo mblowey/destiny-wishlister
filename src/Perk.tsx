@@ -5,6 +5,7 @@ import './Perk.css';
 export interface IPerkProps {
     hash: number;
     iconUrl: string;
+    isSelected: boolean;
     name: string;
 }
 
@@ -30,12 +31,12 @@ export class Perk extends React.Component<IPerkProps, IPerkState> {
     }
 
 	public render() {
-        const labelClass = this.state.isSelected ? 'perk-label checked' : 'perk-label';
+        const labelClass = this.props.isSelected ? 'perk-label checked' : 'perk-label';
 
 	    return (
 	        <li className='perk'>
 	            <label className={labelClass}>
-	            	<input type='checkbox' checked={this.state.isSelected}
+	            	<input type='checkbox' checked={this.props.isSelected}
                            onChange={this.change}/>
             		<img className='perk-icon' src={this.props.iconUrl}/>
                     <p>{this.props.name}</p>

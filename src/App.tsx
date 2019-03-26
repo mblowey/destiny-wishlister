@@ -14,6 +14,14 @@ class App extends React.Component<object, IAppState> {
         this.state = {
             types: WeaponTypes
         };
+
+        this.selectPerk = this.selectPerk.bind(this);
+    }
+
+    public selectPerk() {
+        this.setState(prevState => {
+            prevState.types['Rocket Launcher'].name
+        });
     }
 
     public render() {

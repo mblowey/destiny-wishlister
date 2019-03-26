@@ -132,6 +132,7 @@ def get_perk(perk_hash):
     perk['name'] = perk_data['displayProperties']['name']
     perk['hash'] = perk_data['hash']
     perk['iconUrl'] = 'https://www.bungie.net' + perk_data['displayProperties']['icon']
+    perk['isSelected'] = False
 
     return perk
 
@@ -140,8 +141,9 @@ for weapon_type in weapon_types.values():
     for subtypes in weapon_type.values():
         for socket in subtypes['sockets']:
             socket['perks'] = [get_perk(perk_hash) for perk_hash in socket['perks']]
+            socket['perks'].sort(key=lambda p: p['name'])
 
-#Sort all the JSON
+#Sort all the JSON keys
 weapon_types = json.loads(json.dumps(weapon_types, sort_keys=True))
 
 #Move to final output format
