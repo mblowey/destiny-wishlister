@@ -1,5 +1,7 @@
 .App {
-    text-align: left;
+    text-align: center;
+
+    background-color: #627387;
 }
 
 .App-header {
@@ -25,12 +27,19 @@
 
 
 .App-body {
+    min-width: max-content;
+
+    display: inline-block;
+}
+
+.App-weapon-types {
+    padding: 0px;
+    margin: 0px;
+
     display: flex;
     flex-flow: column;
-    justify-content: center;
-    align-content: center;
 
-    background-color: #627387;
+    list-style: none;
 }
 
 body {

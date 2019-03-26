@@ -25,7 +25,7 @@ export class WeaponSubtype extends React.Component<IWeaponSubtypeProps, object> 
 
         return (
             <li className='subtype'>
-                <details open={true}>
+                <details open={false}>
                     <summary className='subtype-name'>{this.props.name}</summary>
                     <ul className='subtype-sockets'>
                         {sockets}

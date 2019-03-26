@@ -28,7 +28,9 @@ class App extends React.Component<object, IAppState> {
                     <button>Get Wishlist</button>
                 </header>
                 <div className='App-body'>
-                    {types}
+                    <ul className='App-weapon-types'>
+                        {types}
+                    </ul>
                 </div>
             </div>
         );

@@ -19,12 +19,12 @@ export class WeaponType extends React.Component<IWeaponTypeProps, object> {
         );
 
         return (
-            <div className='weapon'>
+            <li className='weapon'>
                 <div className='weapon-name'>{this.props.name}</div>
                 <ul className='weapon-subtypes'>
                     {subtypes}
                 </ul>
-            </div>
+            </li>
         );
     }
 }

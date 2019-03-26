@@ -1,8 +1,10 @@
 
 .weapon {
-    width: fit-content;
     padding: 5px;
     text-align: left;
+
+    flex-grow: 1;
+    flex-basis: 0;
 
     background-color: #3a506b;
 
@@ -19,9 +21,10 @@
 }
 
 .weapon-subtypes {
+    padding: 0px;
+    margin: 0px;
+
     display: flex;
     flex-direction: column;
     list-style: none;
-    padding: 0px;
-    margin: 0px;
 }
