@@ -1,7 +1,7 @@
 import * as React from 'react';
 import './App.css';
 
-import { RocketLauncherType } from './models/rocket-launcher/RocketLauncher';
+import { WeaponTypes } from './models/WeaponTypes';
 import { IWeaponTypeProps, WeaponType } from './WeaponType';
 
 export interface IAppState {
@@ -12,7 +12,7 @@ class App extends React.Component<object, IAppState> {
     constructor(props: any) {
         super(props);
         this.state = {
-            types: [RocketLauncherType]
+            types: WeaponTypes
         };
     }
 

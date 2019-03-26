@@ -1,4 +1,4 @@
-[
+export const WeaponTypes = [
     {
         "name": "Auto Rifle",
         "subtypes": [

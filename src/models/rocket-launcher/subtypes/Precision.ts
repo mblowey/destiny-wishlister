@@ -3,7 +3,7 @@ export const PrecisionSubtype = {
     name: 'Hakke Precision Frame',
     sockets: [
         {
-            name: 'Launcher Barrel',
+            'name': 'Launcher Barrel',
             socketIndex: 0,
             perks: [
                 {
