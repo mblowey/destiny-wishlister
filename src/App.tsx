@@ -1,11 +1,12 @@
 import * as React from 'react';
 import './App.css';
 
+import { IWeaponType } from './models/IWeaponTypes';
 import { WeaponTypes } from './models/WeaponTypes';
-import { IWeaponTypeProps, WeaponType } from './WeaponType';
+import { WeaponType } from './WeaponType';
 
 export interface IAppState {
-    types: IWeaponTypeProps[];
+    types: IWeaponType[];
 }
 
 class App extends React.Component<object, IAppState> {
@@ -18,21 +19,28 @@ class App extends React.Component<object, IAppState> {
         this.selectPerk = this.selectPerk.bind(this);
     }
 
-    public selectPerk() {
+    public selectPerk(typeIndex: number, subtypeIndex: number, socketIndex: number, perkIndex: number) {
         this.setState(prevState => {
-            prevState.types['Rocket Launcher'].name
+            const prevValue = prevState.types[typeIndex].subtypes[subtypeIndex].sockets[socketIndex].perks[perkIndex].isSelected;
+            prevState.types[typeIndex].subtypes[subtypeIndex].sockets[socketIndex].perks[perkIndex].isSelected = !prevValue;
+            return prevState;
         });
     }
 
     public render() {
         const types = this.state.types.map((t, i) => 
-            <WeaponType key={i} name={t.name} subtypes={t.subtypes}/>
+            <WeaponType key={i} 
+                        index={i}
+                        name={t.name}
+                        selectPerk={this.selectPerk}
+                        subtypes={t.subtypes}
+                        />
         );
 
         return (
             <div className="App">
                 <header className="App-header">
-                    <p>Destiny Wishlister</p>
+                    <p>Destiny Wishlister .02</p>
                     <button>Get Wishlist</button>
                 </header>
                 <div className='App-body'>

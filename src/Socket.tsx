@@ -1,28 +1,36 @@
 import * as React from 'react';
 import './Socket.css';
 
-import { IPerkProps, Perk } from './Perk';
+import { IPerk } from './models/IWeaponTypes';
+import { Perk } from './Perk';
 
 
 export interface ISocketProps {
+    index: number;
     name: string;
-    socketIndex: number;
-    perks: IPerkProps[];
+    perks: IPerk[];
+    selectPerk: (typeIndex: number, subtypeIndex: number, socketIndex: number, perkIndex: number) => void;
+    typeIndex: number;
+    subtypeIndex: number
 }
 
 export class Socket extends React.Component<ISocketProps, object> {
     constructor(props: ISocketProps) {
         super(props);
-        this.state = { desiredHashes: new Set<number>() }
     }
 
     public render() {
-        const perks = this.props.perks.map(p =>
-            <Perk key={p.hash}
+        const perks = this.props.perks.map((p, i) =>
+            <Perk key={i}
                   hash={p.hash}
+                  index={i}
                   iconUrl={p.iconUrl}
                   isSelected={p.isSelected}
                   name={p.name}
+                  selectPerk={this.props.selectPerk}
+                  typeIndex={this.props.typeIndex}
+                  subtypeIndex={this.props.subtypeIndex}
+                  socketIndex={this.props.index}
                   />
         );
 

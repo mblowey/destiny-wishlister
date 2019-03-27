@@ -77,17 +77,14 @@ def get_socket_array(weapon):
 
     sockets.append({})
     sockets[0]['name'] = weapon['slot1']['name']
-    sockets[0]['socketIndex'] = 0
     sockets[0]['perks'] = []
 
     sockets.append({})
     sockets[1]['name'] = weapon['slot2']['name']
-    sockets[1]['socketIndex'] = 1
     sockets[1]['perks'] = []
 
     sockets.append({})
     sockets[2]['name'] = 'traits'
-    sockets[2]['socketIndex'] = 2
     sockets[2]['perks'] = []
 
     return sockets

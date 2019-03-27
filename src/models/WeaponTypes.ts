@@ -164,8 +164,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Wolf Sight W1"
                             }
-                        ],
-                        "socketIndex": 0
+                        ]
                     },
                     {
                         "name": "Magazine",
@@ -242,8 +241,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Tactical Mag"
                             }
-                        ],
-                        "socketIndex": 1
+                        ]
                     },
                     {
                         "name": "traits",
@@ -374,8 +372,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Zen Moment"
                             }
-                        ],
-                        "socketIndex": 2
+                        ]
                     }
                 ],
                 "weapons": [
@@ -639,8 +636,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Smallbore"
                             }
-                        ],
-                        "socketIndex": 0
+                        ]
                     },
                     {
                         "name": "Magazine",
@@ -717,8 +713,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Tactical Mag"
                             }
-                        ],
-                        "socketIndex": 1
+                        ]
                     },
                     {
                         "name": "traits",
@@ -831,8 +826,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Zen Moment"
                             }
-                        ],
-                        "socketIndex": 2
+                        ]
                     }
                 ],
                 "weapons": [
@@ -1034,8 +1028,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Smallbore"
                             }
-                        ],
-                        "socketIndex": 0
+                        ]
                     },
                     {
                         "name": "Magazine",
@@ -1088,8 +1081,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Ricochet Rounds"
                             }
-                        ],
-                        "socketIndex": 1
+                        ]
                     },
                     {
                         "name": "traits",
@@ -1202,8 +1194,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Zen Moment"
                             }
-                        ],
-                        "socketIndex": 2
+                        ]
                     }
                 ],
                 "weapons": [
@@ -1524,8 +1515,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Wolf Sight W1"
                             }
-                        ],
-                        "socketIndex": 0
+                        ]
                     },
                     {
                         "name": "Magazine",
@@ -1578,8 +1568,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Ricochet Rounds"
                             }
-                        ],
-                        "socketIndex": 1
+                        ]
                     },
                     {
                         "name": "traits",
@@ -1680,8 +1669,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Zen Moment"
                             }
-                        ],
-                        "socketIndex": 2
+                        ]
                     }
                 ],
                 "weapons": [
@@ -1847,8 +1835,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Tactile String"
                             }
-                        ],
-                        "socketIndex": 0
+                        ]
                     },
                     {
                         "name": "Arrow",
@@ -1889,8 +1876,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Straight Fletching"
                             }
-                        ],
-                        "socketIndex": 1
+                        ]
                     },
                     {
                         "name": "traits",
@@ -1967,8 +1953,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Threat Detector"
                             }
-                        ],
-                        "socketIndex": 2
+                        ]
                     }
                 ],
                 "weapons": [
@@ -2168,8 +2153,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Tactile String"
                             }
-                        ],
-                        "socketIndex": 0
+                        ]
                     },
                     {
                         "name": "Arrow",
@@ -2210,8 +2194,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Straight Fletching"
                             }
-                        ],
-                        "socketIndex": 1
+                        ]
                     },
                     {
                         "name": "traits",
@@ -2270,8 +2253,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Sneak Bow"
                             }
-                        ],
-                        "socketIndex": 2
+                        ]
                     }
                 ],
                 "weapons": [
@@ -2416,8 +2398,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Smallbore"
                             }
-                        ],
-                        "socketIndex": 0
+                        ]
                     },
                     {
                         "name": "Battery",
@@ -2458,8 +2439,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Projection Fuse"
                             }
-                        ],
-                        "socketIndex": 1
+                        ]
                     },
                     {
                         "name": "traits",
@@ -2512,8 +2492,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Under Pressure"
                             }
-                        ],
-                        "socketIndex": 2
+                        ]
                     }
                 ],
                 "weapons": [
@@ -2644,8 +2623,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Transmission MS7"
                             }
-                        ],
-                        "socketIndex": 0
+                        ]
                     },
                     {
                         "name": "Battery",
@@ -2686,8 +2664,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Projection Fuse"
                             }
-                        ],
-                        "socketIndex": 1
+                        ]
                     },
                     {
                         "name": "traits",
@@ -2788,8 +2765,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Under Pressure"
                             }
-                        ],
-                        "socketIndex": 2
+                        ]
                     }
                 ],
                 "weapons": [
@@ -2967,8 +2943,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Red Dot Micro"
                             }
-                        ],
-                        "socketIndex": 0
+                        ]
                     },
                     {
                         "name": "Battery",
@@ -3009,8 +2984,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Projection Fuse"
                             }
-                        ],
-                        "socketIndex": 1
+                        ]
                     },
                     {
                         "name": "traits",
@@ -3129,8 +3103,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Under Pressure"
                             }
-                        ],
-                        "socketIndex": 2
+                        ]
                     }
                 ],
                 "weapons": [
@@ -3283,8 +3256,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Transmission MS7"
                             }
-                        ],
-                        "socketIndex": 0
+                        ]
                     },
                     {
                         "name": "Battery",
@@ -3325,8 +3297,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Projection Fuse"
                             }
-                        ],
-                        "socketIndex": 1
+                        ]
                     },
                     {
                         "name": "traits",
@@ -3415,8 +3386,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Under Pressure"
                             }
-                        ],
-                        "socketIndex": 2
+                        ]
                     }
                 ],
                 "weapons": [
@@ -3527,8 +3497,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Volatile Launch"
                             }
-                        ],
-                        "socketIndex": 0
+                        ]
                     },
                     {
                         "name": "Magazine",
@@ -3587,8 +3556,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Thermoplastic Grenades"
                             }
-                        ],
-                        "socketIndex": 1
+                        ]
                     },
                     {
                         "name": "traits",
@@ -3665,8 +3633,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Threat Detector"
                             }
-                        ],
-                        "socketIndex": 2
+                        ]
                     }
                 ],
                 "weapons": [
@@ -3916,8 +3883,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Volatile Launch"
                             }
-                        ],
-                        "socketIndex": 0
+                        ]
                     },
                     {
                         "name": "Magazine",
@@ -3994,8 +3960,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Thermoplastic Grenades"
                             }
-                        ],
-                        "socketIndex": 1
+                        ]
                     },
                     {
                         "name": "traits",
@@ -4060,8 +4025,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Threat Detector"
                             }
-                        ],
-                        "socketIndex": 2
+                        ]
                     }
                 ],
                 "weapons": [
@@ -4290,8 +4254,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Volatile Launch"
                             }
-                        ],
-                        "socketIndex": 0
+                        ]
                     },
                     {
                         "name": "Magazine",
@@ -4332,8 +4295,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Spike Grenades"
                             }
-                        ],
-                        "socketIndex": 1
+                        ]
                     },
                     {
                         "name": "traits",
@@ -4416,8 +4378,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Threat Detector"
                             }
-                        ],
-                        "socketIndex": 2
+                        ]
                     }
                 ],
                 "weapons": [
@@ -4644,8 +4605,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "TrueSight HCS"
                             }
-                        ],
-                        "socketIndex": 0
+                        ]
                     },
                     {
                         "name": "Magazine",
@@ -4698,8 +4658,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Tactical Mag"
                             }
-                        ],
-                        "socketIndex": 1
+                        ]
                     },
                     {
                         "name": "traits",
@@ -4836,8 +4795,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Zen Moment"
                             }
-                        ],
-                        "socketIndex": 2
+                        ]
                     }
                 ],
                 "weapons": [
@@ -5088,8 +5046,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "TrueSight HCS"
                             }
-                        ],
-                        "socketIndex": 0
+                        ]
                     },
                     {
                         "name": "Magazine",
@@ -5202,8 +5159,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Zen Moment"
                             }
-                        ],
-                        "socketIndex": 1
+                        ]
                     },
                     {
                         "name": "traits",
@@ -5376,8 +5332,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Zen Moment"
                             }
-                        ],
-                        "socketIndex": 2
+                        ]
                     }
                 ],
                 "weapons": [
@@ -5681,8 +5636,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "TrueSight HCS"
                             }
-                        ],
-                        "socketIndex": 0
+                        ]
                     },
                     {
                         "name": "Magazine",
@@ -5735,8 +5689,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Tactical Mag"
                             }
-                        ],
-                        "socketIndex": 1
+                        ]
                     },
                     {
                         "name": "traits",
@@ -5807,8 +5760,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Zen Moment"
                             }
-                        ],
-                        "socketIndex": 2
+                        ]
                     }
                 ],
                 "weapons": [
@@ -5959,8 +5911,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "TrueSight HCS"
                             }
-                        ],
-                        "socketIndex": 0
+                        ]
                     },
                     {
                         "name": "Magazine",
@@ -6013,8 +5964,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Ricochet Rounds"
                             }
-                        ],
-                        "socketIndex": 1
+                        ]
                     },
                     {
                         "name": "traits",
@@ -6145,8 +6095,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Zen Moment"
                             }
-                        ],
-                        "socketIndex": 2
+                        ]
                     }
                 ],
                 "weapons": [
@@ -6352,8 +6301,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "TrueSight HCS"
                             }
-                        ],
-                        "socketIndex": 0
+                        ]
                     },
                     {
                         "name": "Magazine",
@@ -6430,8 +6378,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Tactical Mag"
                             }
-                        ],
-                        "socketIndex": 1
+                        ]
                     },
                     {
                         "name": "traits",
@@ -6520,8 +6467,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Zen Moment"
                             }
-                        ],
-                        "socketIndex": 2
+                        ]
                     }
                 ],
                 "weapons": [
@@ -6748,8 +6694,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Smallbore"
                             }
-                        ],
-                        "socketIndex": 0
+                        ]
                     },
                     {
                         "name": "Battery",
@@ -6790,8 +6735,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Projection Fuse"
                             }
-                        ],
-                        "socketIndex": 1
+                        ]
                     },
                     {
                         "name": "traits",
@@ -6880,8 +6824,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Threat Detector"
                             }
-                        ],
-                        "socketIndex": 2
+                        ]
                     }
                 ],
                 "weapons": [
@@ -7053,8 +6996,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Smallbore"
                             }
-                        ],
-                        "socketIndex": 0
+                        ]
                     },
                     {
                         "name": "Magazine",
@@ -7107,8 +7049,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Ricochet Rounds"
                             }
-                        ],
-                        "socketIndex": 1
+                        ]
                     },
                     {
                         "name": "traits",
@@ -7221,8 +7162,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Under Pressure"
                             }
-                        ],
-                        "socketIndex": 2
+                        ]
                     }
                 ],
                 "weapons": [
@@ -7345,8 +7285,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Polygonal Rifling"
                             }
-                        ],
-                        "socketIndex": 0
+                        ]
                     },
                     {
                         "name": "Magazine",
@@ -7357,8 +7296,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Extended Mag"
                             }
-                        ],
-                        "socketIndex": 1
+                        ]
                     },
                     {
                         "name": "traits",
@@ -7375,8 +7313,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Overflow"
                             }
-                        ],
-                        "socketIndex": 2
+                        ]
                     }
                 ],
                 "weapons": [
@@ -7529,8 +7466,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Smallbore"
                             }
-                        ],
-                        "socketIndex": 0
+                        ]
                     },
                     {
                         "name": "Magazine",
@@ -7607,8 +7543,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Tactical Mag"
                             }
-                        ],
-                        "socketIndex": 1
+                        ]
                     },
                     {
                         "name": "traits",
@@ -7709,8 +7644,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Zen Moment"
                             }
-                        ],
-                        "socketIndex": 2
+                        ]
                     }
                 ],
                 "weapons": [
@@ -7960,8 +7894,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Wolf Sight W1"
                             }
-                        ],
-                        "socketIndex": 0
+                        ]
                     },
                     {
                         "name": "Magazine",
@@ -8038,8 +7971,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Tactical Mag"
                             }
-                        ],
-                        "socketIndex": 1
+                        ]
                     },
                     {
                         "name": "traits",
@@ -8152,8 +8084,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Zen Moment"
                             }
-                        ],
-                        "socketIndex": 2
+                        ]
                     }
                 ],
                 "weapons": [
@@ -8414,8 +8345,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Smallbore"
                             }
-                        ],
-                        "socketIndex": 0
+                        ]
                     },
                     {
                         "name": "Magazine",
@@ -8468,8 +8398,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Ricochet Rounds"
                             }
-                        ],
-                        "socketIndex": 1
+                        ]
                     },
                     {
                         "name": "traits",
@@ -8564,8 +8493,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Zen Moment"
                             }
-                        ],
-                        "socketIndex": 2
+                        ]
                     }
                 ],
                 "weapons": [
@@ -8763,8 +8691,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Smallbore"
                             }
-                        ],
-                        "socketIndex": 0
+                        ]
                     },
                     {
                         "name": "Magazine",
@@ -8841,8 +8768,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Tactical Mag"
                             }
-                        ],
-                        "socketIndex": 1
+                        ]
                     },
                     {
                         "name": "traits",
@@ -8937,8 +8863,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Zen Moment"
                             }
-                        ],
-                        "socketIndex": 2
+                        ]
                     }
                 ],
                 "weapons": [
@@ -9103,8 +9028,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Smallbore"
                             }
-                        ],
-                        "socketIndex": 0
+                        ]
                     },
                     {
                         "name": "Magazine",
@@ -9181,8 +9105,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Tactical Mag"
                             }
-                        ],
-                        "socketIndex": 1
+                        ]
                     },
                     {
                         "name": "traits",
@@ -9301,8 +9224,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Zen Moment"
                             }
-                        ],
-                        "socketIndex": 2
+                        ]
                     }
                 ],
                 "weapons": [
@@ -9516,8 +9438,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Volatile Launch"
                             }
-                        ],
-                        "socketIndex": 0
+                        ]
                     },
                     {
                         "name": "Magazine",
@@ -9552,8 +9473,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Implosion Rounds"
                             }
-                        ],
-                        "socketIndex": 1
+                        ]
                     },
                     {
                         "name": "traits",
@@ -9630,8 +9550,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Tracking Module"
                             }
-                        ],
-                        "socketIndex": 2
+                        ]
                     }
                 ],
                 "weapons": [
@@ -9817,8 +9736,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Volatile Launch"
                             }
-                        ],
-                        "socketIndex": 0
+                        ]
                     },
                     {
                         "name": "Magazine",
@@ -9847,8 +9765,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Implosion Rounds"
                             }
-                        ],
-                        "socketIndex": 1
+                        ]
                     },
                     {
                         "name": "traits",
@@ -9901,8 +9818,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Tracking Module"
                             }
-                        ],
-                        "socketIndex": 2
+                        ]
                     }
                 ],
                 "weapons": [
@@ -9999,8 +9915,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Volatile Launch"
                             }
-                        ],
-                        "socketIndex": 0
+                        ]
                     },
                     {
                         "name": "Magazine",
@@ -10035,8 +9950,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Implosion Rounds"
                             }
-                        ],
-                        "socketIndex": 1
+                        ]
                     },
                     {
                         "name": "traits",
@@ -10107,8 +10021,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Tracking Module"
                             }
-                        ],
-                        "socketIndex": 2
+                        ]
                     }
                 ],
                 "weapons": [
@@ -10249,8 +10162,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Volatile Launch"
                             }
-                        ],
-                        "socketIndex": 0
+                        ]
                     },
                     {
                         "name": "Magazine",
@@ -10285,8 +10197,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Implosion Rounds"
                             }
-                        ],
-                        "socketIndex": 1
+                        ]
                     },
                     {
                         "name": "traits",
@@ -10339,8 +10250,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Snapshot Sights"
                             }
-                        ],
-                        "socketIndex": 2
+                        ]
                     }
                 ],
                 "weapons": [
@@ -10539,8 +10449,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Wolf Sight W1"
                             }
-                        ],
-                        "socketIndex": 0
+                        ]
                     },
                     {
                         "name": "Magazine",
@@ -10617,8 +10526,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Tactical Mag"
                             }
-                        ],
-                        "socketIndex": 1
+                        ]
                     },
                     {
                         "name": "traits",
@@ -10737,8 +10645,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Zen Moment"
                             }
-                        ],
-                        "socketIndex": 2
+                        ]
                     }
                 ],
                 "weapons": [
@@ -11087,8 +10994,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Smallbore"
                             }
-                        ],
-                        "socketIndex": 0
+                        ]
                     },
                     {
                         "name": "Magazine",
@@ -11141,8 +11047,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Tactical Mag"
                             }
-                        ],
-                        "socketIndex": 1
+                        ]
                     },
                     {
                         "name": "traits",
@@ -11249,8 +11154,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Triple Tap"
                             }
-                        ],
-                        "socketIndex": 2
+                        ]
                     }
                 ],
                 "weapons": [
@@ -11538,8 +11442,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Smallbore"
                             }
-                        ],
-                        "socketIndex": 0
+                        ]
                     },
                     {
                         "name": "Magazine",
@@ -11592,8 +11495,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Tactical Mag"
                             }
-                        ],
-                        "socketIndex": 1
+                        ]
                     },
                     {
                         "name": "traits",
@@ -11742,8 +11644,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Zen Moment"
                             }
-                        ],
-                        "socketIndex": 2
+                        ]
                     }
                 ],
                 "weapons": [
@@ -12044,8 +11945,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Smallbore"
                             }
-                        ],
-                        "socketIndex": 0
+                        ]
                     },
                     {
                         "name": "Magazine",
@@ -12098,8 +11998,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Tactical Mag"
                             }
-                        ],
-                        "socketIndex": 1
+                        ]
                     },
                     {
                         "name": "traits",
@@ -12188,8 +12087,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Zen Moment"
                             }
-                        ],
-                        "socketIndex": 2
+                        ]
                     }
                 ],
                 "weapons": [
@@ -12297,8 +12195,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Smoothbore"
                             }
-                        ],
-                        "socketIndex": 0
+                        ]
                     },
                     {
                         "name": "Magazine",
@@ -12345,8 +12242,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Tactical Mag"
                             }
-                        ],
-                        "socketIndex": 1
+                        ]
                     },
                     {
                         "name": "traits",
@@ -12459,8 +12355,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Threat Detector"
                             }
-                        ],
-                        "socketIndex": 2
+                        ]
                     }
                 ],
                 "weapons": [
@@ -12695,8 +12590,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Smoothbore"
                             }
-                        ],
-                        "socketIndex": 0
+                        ]
                     },
                     {
                         "name": "Magazine",
@@ -12743,8 +12637,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Tactical Mag"
                             }
-                        ],
-                        "socketIndex": 1
+                        ]
                     },
                     {
                         "name": "traits",
@@ -12809,8 +12702,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Threat Detector"
                             }
-                        ],
-                        "socketIndex": 2
+                        ]
                     }
                 ],
                 "weapons": [
@@ -12947,8 +12839,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Smoothbore"
                             }
-                        ],
-                        "socketIndex": 0
+                        ]
                     },
                     {
                         "name": "Magazine",
@@ -12995,8 +12886,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Tactical Mag"
                             }
-                        ],
-                        "socketIndex": 1
+                        ]
                     },
                     {
                         "name": "traits",
@@ -13085,8 +12975,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Triple Tap"
                             }
-                        ],
-                        "socketIndex": 2
+                        ]
                     }
                 ],
                 "weapons": [
@@ -13280,8 +13169,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Smoothbore"
                             }
-                        ],
-                        "socketIndex": 0
+                        ]
                     },
                     {
                         "name": "Magazine",
@@ -13328,8 +13216,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Trench Barrel"
                             }
-                        ],
-                        "socketIndex": 1
+                        ]
                     },
                     {
                         "name": "traits",
@@ -13436,8 +13323,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Trench Barrel"
                             }
-                        ],
-                        "socketIndex": 2
+                        ]
                     }
                 ],
                 "weapons": [
@@ -13659,8 +13545,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Target SAS"
                             }
-                        ],
-                        "socketIndex": 0
+                        ]
                     },
                     {
                         "name": "Magazine",
@@ -13713,8 +13598,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Ricochet Rounds"
                             }
-                        ],
-                        "socketIndex": 1
+                        ]
                     },
                     {
                         "name": "traits",
@@ -13791,8 +13675,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Zen Moment"
                             }
-                        ],
-                        "socketIndex": 2
+                        ]
                     }
                 ],
                 "weapons": [
@@ -13890,8 +13773,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Target SAS"
                             }
-                        ],
-                        "socketIndex": 0
+                        ]
                     },
                     {
                         "name": "Magazine",
@@ -13944,8 +13826,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Ricochet Rounds"
                             }
-                        ],
-                        "socketIndex": 1
+                        ]
                     },
                     {
                         "name": "traits",
@@ -14028,8 +13909,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Zen Moment"
                             }
-                        ],
-                        "socketIndex": 2
+                        ]
                     }
                 ],
                 "weapons": [
@@ -14155,8 +14035,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Target SAS"
                             }
-                        ],
-                        "socketIndex": 0
+                        ]
                     },
                     {
                         "name": "Magazine",
@@ -14209,8 +14088,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Ricochet Rounds"
                             }
-                        ],
-                        "socketIndex": 1
+                        ]
                     },
                     {
                         "name": "traits",
@@ -14287,8 +14165,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Zen Moment"
                             }
-                        ],
-                        "socketIndex": 2
+                        ]
                     }
                 ],
                 "weapons": [
@@ -14386,8 +14263,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Target SAS"
                             }
-                        ],
-                        "socketIndex": 0
+                        ]
                     },
                     {
                         "name": "Magazine",
@@ -14440,8 +14316,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Ricochet Rounds"
                             }
-                        ],
-                        "socketIndex": 1
+                        ]
                     },
                     {
                         "name": "traits",
@@ -14518,8 +14393,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Zen Moment"
                             }
-                        ],
-                        "socketIndex": 2
+                        ]
                     }
                 ],
                 "weapons": [
@@ -14635,8 +14509,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Smallbore"
                             }
-                        ],
-                        "socketIndex": 0
+                        ]
                     },
                     {
                         "name": "Magazine",
@@ -14689,8 +14562,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Ricochet Rounds"
                             }
-                        ],
-                        "socketIndex": 1
+                        ]
                     },
                     {
                         "name": "traits",
@@ -14767,8 +14639,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Zen Moment"
                             }
-                        ],
-                        "socketIndex": 2
+                        ]
                     }
                 ],
                 "weapons": [
@@ -14896,8 +14767,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Target SAS"
                             }
-                        ],
-                        "socketIndex": 0
+                        ]
                     },
                     {
                         "name": "Magazine",
@@ -14950,8 +14820,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Tactical Mag"
                             }
-                        ],
-                        "socketIndex": 1
+                        ]
                     },
                     {
                         "name": "traits",
@@ -15022,8 +14891,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Zen Moment"
                             }
-                        ],
-                        "socketIndex": 2
+                        ]
                     }
                 ],
                 "weapons": [
@@ -15197,8 +15065,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Zoom 30 Focus"
                             }
-                        ],
-                        "socketIndex": 0
+                        ]
                     },
                     {
                         "name": "Magazine",
@@ -15275,8 +15142,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Tactical Mag"
                             }
-                        ],
-                        "socketIndex": 1
+                        ]
                     },
                     {
                         "name": "traits",
@@ -15407,8 +15273,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Triple Tap"
                             }
-                        ],
-                        "socketIndex": 2
+                        ]
                     }
                 ],
                 "weapons": [
@@ -15738,8 +15603,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Smallbore"
                             }
-                        ],
-                        "socketIndex": 0
+                        ]
                     },
                     {
                         "name": "Magazine",
@@ -15792,8 +15656,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Tactical Mag"
                             }
-                        ],
-                        "socketIndex": 1
+                        ]
                     },
                     {
                         "name": "traits",
@@ -15930,8 +15793,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Triple Tap"
                             }
-                        ],
-                        "socketIndex": 2
+                        ]
                     }
                 ],
                 "weapons": [
@@ -16213,8 +16075,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Smallbore"
                             }
-                        ],
-                        "socketIndex": 0
+                        ]
                     },
                     {
                         "name": "Magazine",
@@ -16297,8 +16158,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Tactical Mag"
                             }
-                        ],
-                        "socketIndex": 1
+                        ]
                     },
                     {
                         "name": "traits",
@@ -16399,8 +16259,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Triple Tap"
                             }
-                        ],
-                        "socketIndex": 2
+                        ]
                     }
                 ],
                 "weapons": [
@@ -16717,8 +16576,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Wolf Sight W1"
                             }
-                        ],
-                        "socketIndex": 0
+                        ]
                     },
                     {
                         "name": "Magazine",
@@ -16795,8 +16653,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Tactical Mag"
                             }
-                        ],
-                        "socketIndex": 1
+                        ]
                     },
                     {
                         "name": "traits",
@@ -16927,8 +16784,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Zen Moment"
                             }
-                        ],
-                        "socketIndex": 2
+                        ]
                     }
                 ],
                 "weapons": [
@@ -17124,8 +16980,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Model 8 Red"
                             }
-                        ],
-                        "socketIndex": 0
+                        ]
                     },
                     {
                         "name": "Magazine",
@@ -17184,8 +17039,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Ricochet Rounds"
                             }
-                        ],
-                        "socketIndex": 1
+                        ]
                     },
                     {
                         "name": "traits",
@@ -17280,8 +17134,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Zen Moment"
                             }
-                        ],
-                        "socketIndex": 2
+                        ]
                     }
                 ],
                 "weapons": [
@@ -17425,8 +17278,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Smallbore"
                             }
-                        ],
-                        "socketIndex": 0
+                        ]
                     },
                     {
                         "name": "Magazine",
@@ -17479,8 +17331,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Ricochet Rounds"
                             }
-                        ],
-                        "socketIndex": 1
+                        ]
                     },
                     {
                         "name": "traits",
@@ -17575,8 +17426,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Zen Moment"
                             }
-                        ],
-                        "socketIndex": 2
+                        ]
                     }
                 ],
                 "weapons": [
@@ -17780,8 +17630,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Wolf Sight W1"
                             }
-                        ],
-                        "socketIndex": 0
+                        ]
                     },
                     {
                         "name": "Magazine",
@@ -17834,8 +17683,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Ricochet Rounds"
                             }
-                        ],
-                        "socketIndex": 1
+                        ]
                     },
                     {
                         "name": "traits",
@@ -17936,8 +17784,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Zen Moment"
                             }
-                        ],
-                        "socketIndex": 2
+                        ]
                     }
                 ],
                 "weapons": [
@@ -18134,8 +17981,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Tempered Edge"
                             }
-                        ],
-                        "socketIndex": 0
+                        ]
                     },
                     {
                         "name": "Guard",
@@ -18176,8 +18022,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Swordmaster's Guard"
                             }
-                        ],
-                        "socketIndex": 1
+                        ]
                     },
                     {
                         "name": "traits",
@@ -18224,8 +18069,7 @@ export const WeaponTypes = [
                                 "isSelected": false,
                                 "name": "Whirlwind Blade"
                             }
-                        ],
-                        "socketIndex": 2
+                        ]
                     }
                 ],
                 "weapons": [

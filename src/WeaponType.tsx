@@ -1,11 +1,14 @@
 import * as React from 'react';
 import './WeaponType.css';
 
-import { IWeaponSubtypeProps, WeaponSubtype } from './WeaponSubtype';
+import { IWeaponSubtype } from './models/IWeaponTypes';
+import { WeaponSubtype } from './WeaponSubtype';
 
 export interface IWeaponTypeProps {
+    index: number;
     name: string;
-    subtypes: IWeaponSubtypeProps[];
+    selectPerk: (typeIndex: number, subtypeIndex: number, socketIndex: number, perkIndex: number) => void;
+    subtypes: IWeaponSubtype[];
 }
 
 export class WeaponType extends React.Component<IWeaponTypeProps, object> {
@@ -15,7 +18,13 @@ export class WeaponType extends React.Component<IWeaponTypeProps, object> {
 
     public render() {
         const subtypes = this.props.subtypes.map((st, i) => 
-            <WeaponSubtype key={i} name={st.name} sockets={st.sockets}/>
+            <WeaponSubtype key={i} 
+                           index={i} 
+                           name={st.name} 
+                           selectPerk={this.props.selectPerk} 
+                           sockets={st.sockets}
+                           typeIndex={this.props.index}
+                           />
         );
 
         return (
