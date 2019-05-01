@@ -1,0 +1,26 @@
+﻿
+
+nav {
+    background-color: rgba(100, 100, 100, 1);
+
+    > a.navbar-brand {
+        font-size: xx-large;
+        color: white;
+
+        &:hover, &:focus {
+            color: white;
+        }
+    }
+
+    .generate {
+
+        &:focus{
+            outline: none;
+            box-shadow: none;
+        }
+    }
+}
+
+.sidebar, .main {
+    padding-top: 56px;
+}

@@ -1,0 +1,44 @@
+﻿
+@inject WeaponTypeData  TypeData
+@inject WishlistGenerator  Generator
+
+<nav class="navbar fixed-top navbar-expandfloat-left">
+    <a class="navbar-brand" href="/">
+        <h4 class="m-0">Destiny Wishlister</h4>
+    </a>
+
+    <button class="btn btn-secondary generate" data-toggle="modal" data-target="#test-modal" onclick="@OnClick">Generate Wishlist</button>
+
+</nav>
+
+
+<div class="modal fade" id="test-modal" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-body">
+                <h1>Selected Perks</h1>
+                @if (string.IsNullOrWhiteSpace(strings))
+                {
+                    <p>Hey stupid, you didn't select anything</p>
+                }
+                else
+                {
+                    <div>
+                        <p>@strings</p>
+                    </div>
+                }
+
+            </div>
+        </div>
+    </div>
+</div>
+
+@functions {
+
+    private string strings { get; set; }
+
+    private void OnClick()
+    {
+        strings = Generator.Create(TypeData);
+    }
+}

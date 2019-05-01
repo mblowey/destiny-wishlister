@@ -1,0 +1,60 @@
+﻿@inject IJSRuntime JSRuntime
+
+<div class="subtype container card m-2 p-0">
+    <div class="card-header btn-group container p-0">
+        <button class="btn col-10 text-left collapsed" type="button" data-toggle="collapse" data-target="#@Id">
+            <span class="fas fa-angle-down"/> 
+            @WeaponSubtype.Name
+        </button>
+        <button class="btn col-2 ml-0 reset" type="button" onclick="@ResetPerks">Reset</button>
+    </div>
+
+    <ul class="row mx-0 list-unstyled collapse" id="@Id">
+        @foreach (var socket in WeaponSubtype.Sockets)
+        {
+            <li class="col">
+                <SocketView Socket="@socket" />
+            </li>
+        }
+    </ul>
+</div>
+
+@functions {
+
+    [Parameter]
+    private WeaponSubtype WeaponSubtype { get; set; }
+
+    // Kind of hacky, but an ID was needed for each subtype. Since some weapon types share subtype names,
+    // appending an incrementing value to the end of the subtype name should keep things properly unique.
+    // ToDo: Find a better way to hookup the Bootstrap collapse
+    private string Id => $"{WeaponSubtype.Name.Replace(" ", "-")}-{MyIdNumber}";
+
+    private static int NextIdNumber = 0;
+    private int? _myIdNumber = null;
+    private int MyIdNumber
+    {
+        get
+        {
+            if (!_myIdNumber.HasValue)
+            {
+                _myIdNumber = NextIdNumber++;
+            }
+
+            return _myIdNumber.Value;
+        }
+    }
+
+
+    public void ResetPerks()
+    {
+        foreach (var socket in WeaponSubtype.Sockets)
+        {
+            foreach (var perk in socket.Perks)
+            {
+                perk.IsSelected = false;
+            }
+        }
+    }
+
+}
+

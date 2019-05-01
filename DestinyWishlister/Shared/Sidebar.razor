@@ -1,0 +1,51 @@
+﻿
+@inject IJSRuntime JSRuntime
+
+@inject WeaponTypeData WeaponTypes
+
+
+<div class="sidebar">
+    @*<div class="top-row pl-4 navbar navbar-dark">
+        <a class="navbar-brand" href="">Destiny Wishlister</a>
+    </div>*@
+    
+
+    <div class="flex-column" role="tablist">
+
+        @foreach (var weaponType in WeaponTypes.Types)
+        {
+            <SidebarItem Id="@weaponType.Id" OnClick="@(() => Activate(weaponType))">
+                @weaponType.Name
+            </SidebarItem>
+        }
+
+    </div>
+</div>
+
+
+@functions {
+
+    protected override async Task OnInitAsync()
+    {
+        await WeaponTypes.Initialization.ContinueWith(_ => this.StateHasChanged());
+        await Activate(WeaponTypes.Types.First());
+    }
+
+    private WeaponType ActiveType { get; set; }
+
+    private async Task Activate(WeaponType selectedType)
+    {
+        if (ActiveType != null)
+        {
+            await ActiveType.Hide.InvokeAsync(ActiveType);
+            await JSRuntime.InvokeAsync<object>("Unselect", ActiveType.Id);
+        }
+
+        //Show the clicked typed
+        await selectedType.Show.InvokeAsync(selectedType);
+
+        ActiveType = selectedType;
+        await JSRuntime.InvokeAsync<object>("Select", ActiveType.Id);
+    }
+
+}

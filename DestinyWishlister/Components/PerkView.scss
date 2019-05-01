@@ -1,0 +1,21 @@
+﻿@import 'CssMixins/no-select';
+
+
+.perk {
+    @include no-select();
+
+    color: white;
+
+    &.checked {
+        background-color: #3a506b;
+    }
+
+    &:hover {
+        cursor: pointer;
+    }
+
+    > img {
+        width: 10%;
+        height: 10%;
+    }
+}

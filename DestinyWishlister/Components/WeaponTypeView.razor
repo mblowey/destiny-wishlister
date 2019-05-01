@@ -1,0 +1,35 @@
+﻿
+@inject EventCallbackFactory CallbackFactory
+
+
+<div class="weapon-type card @Display">
+    <div class="card-header">@WeaponType.Name</div>
+    <ul class="list-unstyled">
+        @foreach (var subtype in WeaponType.Subtypes)
+        {
+            <li class="p-0">
+                <WeaponSubtypeView WeaponSubtype="@subtype" />
+            </li>
+        }
+    </ul>
+</div>
+
+@functions {
+
+    [Parameter]
+    private WeaponType WeaponType { get; set; }
+
+    public bool IsVisible { get; set; }
+    private string Display => IsVisible ? "d-block" : "d-none";
+
+    public void Toggle()
+    {
+        IsVisible = !IsVisible;
+    }
+
+    protected override void OnParametersSet()
+    {
+        WeaponType.Show = CallbackFactory.Create(WeaponType, () => IsVisible = true);
+        WeaponType.Hide = CallbackFactory.Create(WeaponType, () => IsVisible = false);
+    }
+}

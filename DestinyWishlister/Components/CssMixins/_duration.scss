@@ -1,0 +1,7 @@
+﻿
+@mixin duration($time) {
+    //-webkit-transition-duration: $time;
+    //-moz-transition-duration: $time;
+    //-o-transition-duration: $time;
+    transition-duration: $time;
+}

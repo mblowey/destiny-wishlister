@@ -1,0 +1,19 @@
+﻿@import 'CssMixins/no-select';
+
+.weapon-type {
+    @include no-select();
+
+    background: none;
+    border: none;
+
+    > .card-header {
+        font-size: x-large;
+        color: white;
+        
+        background: none;
+
+        border-bottom-style: solid;
+        border-bottom-color: white;
+        border-bottom-width: .5px;
+    }
+}

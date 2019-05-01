@@ -1,0 +1,29 @@
+﻿@page "/"
+
+@inject HttpClient Http
+@inject IUriHelper Uri
+
+@inject WeaponTypeData WeaponTypes
+
+
+<div class="App">
+    <div class="App-body">
+
+        @foreach (var weaponType in WeaponTypes.Types)
+        {
+            <WeaponTypeView WeaponType="@weaponType" />
+        }
+
+    </div>
+</div>
+
+@functions {
+
+    protected override async Task OnInitAsync()
+    {
+        var a = this;
+        await WeaponTypes.Initialization.ContinueWith(_ => this.StateHasChanged());
+    }
+
+
+}

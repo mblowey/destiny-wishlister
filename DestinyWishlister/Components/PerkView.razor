@@ -1,0 +1,17 @@
+﻿
+<label class="perk p-2 m-0 media @SelectedClass">
+    <input type="checkbox" class="sr-only" bind="@Perk.IsSelected."/>
+    <img class="mr-2" src="@Perk.IconUrl" />
+    <span class="media-body align-self-center">@Perk.Name</span>
+</label>
+
+
+@functions {
+
+    [Parameter]
+    private Perk Perk { get; set; }
+
+
+    public string SelectedClass => Perk.IsSelected ? "checked" : "";
+
+}

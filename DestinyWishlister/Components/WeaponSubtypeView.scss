@@ -1,0 +1,44 @@
+﻿@import 'CssMixins/no-select';
+@import 'CssMixins/duration';
+@import 'CssMixins/rotate';
+
+.subtype {
+    @include no-select();
+    background-color: #0f1a3b;
+    border: 0 solid transparent;
+
+    > .card-header {
+        border: 0 solid transparent;
+
+        .btn {
+            font-size: larger;
+            color: white;
+            background-color: #0b132b;
+            border: 0 solid transparent;
+
+            &:focus, &:hover {
+                outline: none;
+                box-shadow: none;
+                z-index: 0;
+            }
+
+            > span {
+                @include duration(0.25s);
+                @include rotate(0deg);
+            }
+
+            &.collapsed > span.fas {
+                @include rotate(-90deg);
+                @include duration(0.4s);
+            }
+
+            &.reset {
+                border-left: 1px solid #808080;
+
+                &:hover {
+                    background-color: rgba(255, 255, 255, .2);
+                }
+            }
+        }
+    }
+}

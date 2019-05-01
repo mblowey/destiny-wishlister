@@ -1,0 +1,21 @@
+﻿
+<div class="socket card">
+    <div class="card-header">@Socket.Name</div>
+    <ul class="list-group">
+        @foreach (var perk in Socket.Perks)
+        {
+            <li class="list-group-item p-0 border-left-0 border-right-0">
+                <PerkView Perk="@perk" />
+            </li>
+        }
+    </ul>
+</div>
+
+@functions {
+
+    [Parameter]
+    private Socket Socket { get; set; }
+
+
+
+}

@@ -1,0 +1,20 @@
+﻿
+
+<div class="sidebar-item">
+    <a class="nav-link" id="@Id" href="javascript:" role="button" onclick="@OnClick">
+        @ChildContent
+    </a>
+</div>
+
+@functions {
+
+    [Parameter]
+    private string Id { get; set; }
+
+    [Parameter]
+    private RenderFragment ChildContent { get; set; }
+
+    [Parameter]
+    private EventCallback OnClick { get; set; }
+
+}

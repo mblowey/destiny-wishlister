@@ -1,0 +1,8 @@
+﻿
+@mixin rotate($degrees) {
+    -webkit-transform: rotate($degrees);
+    -moz-transform: rotate($degrees) translatez(0);
+
+    -webkit-transform-origin: 50% 51%;
+    -moz-transform-origin: 50% 51%;
+}
