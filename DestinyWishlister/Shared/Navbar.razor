@@ -12,20 +12,25 @@
 </nav>
 
 
-<div class="modal fade" id="test-modal" role="dialog">
+<div class="modal fade @DisplayClass" id="test-modal" role="dialog">
     <div class="modal-dialog" role="document">
         <div class="modal-content">
             <div class="modal-body">
-                <h1>Selected Perks</h1>
+                <h1>Wishlist Text</h1>
                 @if (string.IsNullOrWhiteSpace(strings))
                 {
                     <p>Hey stupid, you didn't select anything</p>
                 }
                 else
                 {
-                    <div>
-                        <p>@strings</p>
-                    </div>
+                    //var strs = strings.Split(';');
+
+                    @*foreach (var str in strs)
+                    {
+                        <span>@str</span>
+                    }*@
+
+                    <textarea>@strings</textarea>
                 }
 
             </div>
@@ -37,8 +42,16 @@
 
     private string strings { get; set; }
 
+    private string DisplayClass { get; set; }
+
     private async Task OnClick()
     {
+        DisplayClass = "d-none";
+
         strings = await Generator.Create(TypeData);
+
+        DisplayClass = "";
+        this.StateHasChanged();
+        Console.WriteLine(strings);
     }
 }
