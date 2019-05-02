@@ -13,7 +13,7 @@
 
 
 <div class="modal fade @DisplayClass" id="test-modal" role="dialog">
-    <div class="modal-dialog" role="document">
+    <div class="modal-dialog modal-lg" role="document">
         <div class="modal-content">
             <div class="modal-body">
                 <h1>Wishlist Text</h1>
@@ -30,7 +30,9 @@
                         <span>@str</span>
                     }*@
 
-                    <textarea>@strings</textarea>
+                    <div class="form-group">
+                        <textarea class="form-control" rows="10">@strings</textarea>
+                    </div>
                 }
 
             </div>
