@@ -5,7 +5,7 @@ using System.Net.Http;
 using System.Threading.Tasks;
 
 using Microsoft.AspNetCore.Components;
-using DestinyWishlister.Models;
+using DestinyWishlisterModels;
 
 namespace DestinyWishlister.Services
 {
@@ -13,21 +13,21 @@ namespace DestinyWishlister.Services
     {
         public static List<string> DataURIs = new List<string>
         {
-            "data/AutoRifle.json",
-            "data/CombatBow.json",
-            "data/FusionRifle.json",
-            "data/GrenadeLauncher.json",
-            "data/HandCannon.json",
-            "data/LinearFusionRifle.json",
-            "data/MachineGun.json",
-            "data/PulseRifle.json",
-            "data/RocketLauncher.json",
-            "data/ScoutRifle.json",
-            "data/Shotgun.json",
-            "data/Sidearm.json",
-            "data/SniperRifle.json",
-            "data/SubmachineGun.json",
-            "data/Sword.json",
+            "data/weapon-type.auto-rifle.json",
+            "data/weapon-type.combat-bow.json",
+            "data/weapon-type.fusion-rifle.json",
+            "data/weapon-type.grenade-launcher.json",
+            "data/weapon-type.hand-cannon.json",
+            "data/weapon-type.linear-fusion-rifle.json",
+            "data/weapon-type.machine-gun.json",
+            "data/weapon-type.pulse-rifle.json",
+            "data/weapon-type.rocket-launcher.json",
+            "data/weapon-type.scout-rifle.json",
+            "data/weapon-type.shotgun.json",
+            "data/weapon-type.sidearm.json",
+            "data/weapon-type.sniper-rifle.json",
+            "data/weapon-type.submachine-gun.json",
+            "data/weapon-type.sword.json",
         };
 
         public List<WeaponType> Types { get; set; }

@@ -1,19 +1,19 @@
 ﻿using Microsoft.AspNetCore.Components;
-using System;
+using Newtonsoft.Json;
 using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
-namespace DestinyWishlister.Models
+namespace DestinyWishlisterModels
 {
     public class WeaponType
     {
+        [JsonIgnore]
         public string Id => Name.ToLower().Replace(" ", "-");
         public string Name { get; set; }
-        public WeaponSubtype[] Subtypes { get; set; }
+        public List<WeaponSubtype> Subtypes { get; set; }
 
-
+        [JsonIgnore]
         public EventCallback Show { get; set; }
+        [JsonIgnore]
         public EventCallback Hide { get; set; }
     }
 }
