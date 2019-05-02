@@ -62,23 +62,30 @@ namespace JsonDataCreator
                 File.WriteAllText(filename, JsonConvert.SerializeObject(weaponType, Formatting.None));
 
                 Console.WriteLine($"\"{filename.Replace("\\", "/")}\",");
-
-                // This deletes the file that contains the actual weapons, NOT the weapon types. Done here so I can append to files when writing weapon data out.
-                File.Delete(Path.Combine("data", "weapon." + weaponType.Id + ".json"));
             }
 
 
             // Write out all Weapons to json files
             Console.WriteLine("Writing weapon json files");
+
+            var weaponJsonByType = new Dictionary<string, string>();
             foreach (var weapon in Weapons)
             {
                 var filename = Path.Combine("data", "weapons." + weapon.WeaponType.ToLower().Replace(" ", "-") + ".json");
 
-                File.AppendAllText(filename, JsonConvert.SerializeObject(weapon, Formatting.None));
+                if (!weaponJsonByType.ContainsKey(filename))
+                    weaponJsonByType[filename] = "[";
 
+                weaponJsonByType[filename] += JsonConvert.SerializeObject(weapon, Formatting.None) + ",";
+            }
+
+            foreach (var (filename, jsonText) in weaponJsonByType)
+            {
+                File.WriteAllText(filename, jsonText + "]");
 
                 Console.WriteLine($"\"{filename.Replace("\\", "/")}\",");
             }
+
         }
 
         public static Weapon CreateWeapon(InventoryItem item)

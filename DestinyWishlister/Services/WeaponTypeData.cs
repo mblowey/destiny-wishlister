@@ -11,7 +11,7 @@ namespace DestinyWishlister.Services
 {
     public class WeaponTypeData
     {
-        public static List<string> DataURIs = new List<string>
+        public static List<string> WeaponTypeDataURIs = new List<string>
         {
             "data/weapon-type.auto-rifle.json",
             "data/weapon-type.combat-bow.json",
@@ -44,7 +44,7 @@ namespace DestinyWishlister.Services
 
         private async Task InitializeAsync(HttpClient Http)
         {
-            foreach (var uri in DataURIs)
+            foreach (var uri in WeaponTypeDataURIs)
             {
                 Types.Add(await Http.GetJsonAsync<WeaponType>(uri));
                 Console.WriteLine($"Added {Types.Last().Name} to WeaponTypeData.Types");

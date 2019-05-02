@@ -7,26 +7,32 @@ namespace DestinyWishlister.Services
 {
     public class WishlistGenerator
     {
-        public string Create(WeaponTypeData data)
+        public WeaponData WeaponData { get; set; }
+
+        public bool IsInit => Initialization.IsCompleted;
+        public Task Initialization { get; set; }
+
+        public WishlistGenerator(WeaponData weaponData)
         {
-            var ret = "";
+            WeaponData = weaponData;
 
-            foreach (var type in data.Types)
-            {
-                foreach (var subtype in type.Subtypes)
-                {
-                    foreach (var socket in subtype.Sockets)
-                    {
-                        foreach (var perk in socket.Perks)
-                        {
-                            if (perk.IsSelected)
-                                ret += perk.Name + '\n';
-                        }
-                    }
-                }
-            }
+            Initialization = InitializeAsync();
+        }
 
-            return ret;
+        private async Task InitializeAsync()
+        {
+            Console.WriteLine("Starting WishlistGenerator.InitializeAsync");
+            await WeaponData.Initialization;
+            Console.WriteLine("Ending WishlistGenerator.InitializeAsync");
+        }
+
+
+        public async Task<string> Create(WeaponTypeData data)
+        {
+            await Initialization;
+
+            Console.WriteLine("Placeholder Wishlist Creation");
+            return "";
         }
     }
 }

@@ -37,8 +37,8 @@
 
     private string strings { get; set; }
 
-    private void OnClick()
+    private async Task OnClick()
     {
-        strings = Generator.Create(TypeData);
+        strings = await Generator.Create(TypeData);
     }
 }

@@ -12,6 +12,7 @@ namespace DestinyWishlister
             services.AddSingleton<EventCallbackFactory>();
 
             services.AddSingleton<WeaponTypeData>();
+            services.AddSingleton<WeaponData>();
             services.AddSingleton<WishlistGenerator>();
         }
 
